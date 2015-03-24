@@ -1,0 +1,30 @@
+@media print {
+    * {
+        box-shadow: none !important;
+    }
+    html {
+        -webkit-print-color-adjust: exact;
+    }
+    .sitename, .navigation, .separator, .subscribe, #disqus_thread, .dsq-brlink {
+        display: none;
+    }
+    .date:after {
+        content: ", blog.ionelmc.ro";
+    }
+    .entry-overview .date:after {
+        display: none;
+    }
+    table {
+        border-collapse: collapse !important;
+        border-radius: 0 !important;
+        border: 1px solid #ddd !important;
+    }
+    img {
+        page-break-before: auto; /* 'always,' 'avoid,' 'left,' 'inherit,' or 'right' */
+        page-break-after: auto; /* 'always,' 'avoid,' 'left,' 'inherit,' or 'right' */
+        page-break-inside: avoid; /* or 'auto' */
+    }
+    h2 {
+        page-break-before: always;
+    }
+}

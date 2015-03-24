@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{% block title %} {{SITENAME}} {% endblock %}</title>
+{% if FEED_ALL_ATOM %}
+  <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate"
+        title="{{ SITENAME }} Atom Feed" />
+{% endif %}
+{% if FEED_ALL_RSS %}
+  <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate"
+        title="{{ SITENAME }} RSS Feed" />
+{% endif %}
+
+{% block css %}
+  {% assets filters="rcssmin", output="all-min.css", "style.css", "pygments.css", "print.css", "fontello.css" %}
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}" type="text/css" />
+  {% endassets %}
+
+  {% assets filters="rcssmin", output="print-min.css", "print.css" %}
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}" type="text/css" media="print" />
+  {% endassets %}
+{% endblock %}
+
+{% block js %}
+  {% assets filters="rjsmin", output="min.js", "modernizr.js" %}
+    <script type="text/javascript" src="{{ SITEURL }}/{{ ASSET_URL }}"></script>
+  {% endassets %}
+{% endblock %}
+
+{% if article %}
+  <meta property="og:title" content="{{ article.title }}{% if article.excerpt %} - {{ article.excerpt }}{% endif %}"/>
+  <meta property="og:description" content="{% if article.excerpt %}{{ article.excerpt|e }} &mdash; {% endif %}{{ article.content|striptags|truncate(150)|e }}"/>
+{% endif %}
+
+  <link rel="apple-touch-icon" sizes="57x57" href="{{ SITEURL }}/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="{{ SITEURL }}/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="{{ SITEURL }}/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="{{ SITEURL }}/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="{{ SITEURL }}/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="{{ SITEURL }}/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="{{ SITEURL }}/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="{{ SITEURL }}/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ SITEURL }}/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="{{ SITEURL }}/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="{{ SITEURL }}/favicon-194x194.png" sizes="194x194">
+  <link rel="icon" type="image/png" href="{{ SITEURL }}/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="{{ SITEURL }}/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="{{ SITEURL }}/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="{{ SITEURL }}/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="{{ SITEURL }}/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  {% include 'googleanalytics.html' %}
+</head>
+<body>
+  <div class="container">
+    {% block header %}
+      {% include "header.html" %}
+    {% endblock %}
+
+    <div class="body">
+    {% block content %} {% endblock %}
+    </div>
+
+    {% block footer %}
+      {% include "footer.html" %}
+    {% endblock %}
+  </div>
+</body>
+</html>

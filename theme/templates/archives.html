@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %} Archive | {{ SITENAME }} {% endblock %}
+{% block content %}
+
+{% block heading %}
+<h1> Archive </h1>
+{% endblock %}
+<div class="archive">
+{% for year, by_year in dates|groupby('date.year')|sort(True, '0') %}
+  {% if loop.length > 1 %}
+  <h2>{{ year }}</h2>
+  {% endif %}
+
+  {% for month, by_month in by_year|groupby('date.month')|sort(True, '0') %}
+    {% if loop.length > 1 %}
+    <h3>{{ by_month[0].date.strftime('%B') }}</h3>
+    {% endif %}
+
+    {% for article in by_month %}
+    <div class="entry-overview">
+      <span class="date">{{ article.date.strftime('%b %d, %Y') }}</span>
+      <h4><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h4>
+      <p class="summary"> {{ article.excerpt }}</p>
+    </div>
+    {% endfor %}
+  {% endfor %}
+{% endfor %}
+</div>
+{% endblock %}

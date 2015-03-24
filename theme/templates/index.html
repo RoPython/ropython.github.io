@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{% if articles %}
+  {% for article in (articles_page.object_list if articles_page else articles) %}
+    <div class="entry-overview">
+      <span class="date">{{ article.date.strftime('%b %d, %Y') }}</span>
+      <h1><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
+      <p class="summary"> {{ article.excerpt }}</p>
+    </div>
+  {% endfor %}
+{%endif%}
+
+{% if articles_page and articles_paginator.num_pages > 1 %}
+<div class="pagination">
+<ul>
+  {% if articles_page.has_previous() %}
+    {% set num = articles_page.previous_page_number() %}
+    <a href="{{ SITEURL }}/{{ articles_previous_page.url }}">&larr; Previous</a>
+  {% else %}
+
+  {% endif %}
+
+  {% if articles_page.has_next() %}
+    <span class="next"><a href="{{ SITEURL }}/{{ articles_next_page.url }}">Next &rarr;</a>
+  {% else %}
+
+  {% endif %}
+</ul>
+</div>
+{% endif %}
+
+{% endblock %}

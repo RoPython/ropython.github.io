@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %} 404 NOT FOUND | {{ SITENAME }} {% endblock %}
+{% block content %}
+<div class='page'>
+    <h1>404 NOT FOUND</h1>
+    <script type="text/javascript">
+    document.write(
+        '<p>Broken link ! Perhaps <a href="https://www.google.com/search?q=' + encodeURIComponent(
+            'site:blog.ionelmc.ro '+
+            window.location.pathname.replace(/.html|[\W]+/g, ' ').trim()
+        ) + '">search it in the site</a> ?</p>'
+    )
+    </script>
+</div>
+{% endblock %}
