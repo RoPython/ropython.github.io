@@ -5,15 +5,6 @@
     html {
         -webkit-print-color-adjust: exact;
     }
-    .sitename, .navigation, .separator, .subscribe, #disqus_thread, .dsq-brlink {
-        display: none;
-    }
-    .date:after {
-        content: ", blog.ionelmc.ro";
-    }
-    .entry-overview .date:after {
-        display: none;
-    }
     table {
         border-collapse: collapse !important;
         border-radius: 0 !important;

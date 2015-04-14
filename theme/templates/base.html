@@ -15,7 +15,12 @@
 {% endif %}
 
 {% block css %}
-  {% assets filters="rcssmin", output="all-min.css", "style.css", "pygments.css", "print.css", "fontello.css" %}
+  {% assets filters="rcssmin", output="all-min.css",
+     "style.css", "pygments.css", "print.css",
+     "fonts/libertine/stylesheet.css",
+     "fonts/cousine/stylesheet.css",
+     "fonts/biolinum/stylesheet.css"
+  %}
     <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}" type="text/css" />
   {% endassets %}
 

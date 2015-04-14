@@ -4,87 +4,19 @@ body {
     margin: 0;
     padding: 0;
 }
-
 a {
     color: #15c;
-    outline-offset: 10px;
-    outline-color: #FFF;
-}
-.cssgradients a {
-    text-decoration: none;
-    text-shadow: 0.03em 0px #FFF,
-                -0.03em 0px #FFF,
-                 0px    0.02em #FFF,
-                 0px   -0.02em #FFF,
-                 0.06em 0px #FFF,
-                -0.06em 0px #FFF,
-                 0.09em 0px #FFF,
-                -0.09em 0px #FFF,
-                 0.12em 0px #FFF,
-                -0.12em 0px #FFF,
-                 0.15em 0px #FFF,
-                -0.15em 0px #FFF;
-    background-color: transparent;
-    background-image: linear-gradient(#FFF, #FFF), linear-gradient(#FFF, #FFF), linear-gradient(#15C, #15C);
-    background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-    background-repeat: no-repeat, no-repeat, repeat-x;
-    background-position: 0% 92.5%, 100% 92.5%, 0% 92.5%;
-}
-a.internal {
-    color: #334768;
 }
 a:hover {
     color: #a00;
 }
-.cssgradients a:hover {
-    text-shadow: 0.03em 0px #FFF,
-                -0.03em 0px #FFF,
-                 0em    0.02px #FFF,
-                 0em   -0.02px #FFF,
-                 0.06em 0px #FFF,
-                -0.06em 0px #FFF,
-                 0.09em 0px #FFF,
-                -0.09em 0px #FFF,
-                 0.12em 0px #FFF,
-                -0.12em 0px #FFF,
-                 0.15em 0px #FFF,
-                -0.15em 0px #FFF;
-    background-color: transparent;
-    background-image: linear-gradient(#FFF, #FFF), linear-gradient(#FFF, #FFF), linear-gradient(#a00, #a00);
-    background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-    background-repeat: no-repeat, no-repeat, repeat-x;
-    background-origin: content-box;
-    background-position: 0% 92.5%, 100% 92.5%, 0% 92.5%;
-}
-
-a:focus {
-    outline: 1px dotted #000;
-    outline: auto 5px -webkit-focus-ring-color;
-    outline-offset: 2px;
-    transition: all 0.25s ease 0s;
-}
-a.headerlink:hover,
-a.footnote-reference,
-.footnote td.label a,
-.footnote td.label {
-    text-decoration: none; text-shadow: none; background: transparent;
-}
-a.footnote-reference,
-.footnote td.label a,
-.footnote td.label {
-    font-size: 65%;
-}
-/* headlines */
-h1, h2, h3, h4, h5, h6, ul.tagcloud a {
+h1, h2, h3, h4, h5, h6 {
     font-family: 'Candara', 'Calibri', 'Segoe UI Semilight', 'Corbel', 'Trebuchet Ms', 'Segoe UI', sans-serif;
     text-shadow: 1px 1px 1px #ddd;
-}
-h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     line-height: 1;
     color: #333;
 }
-.cssgradients h1 a, .cssgradients h2 a, .cssgradients h3 a, .cssgradients h4 a, .cssgradients h5 a, .cssgradients h6 a,
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     text-decoration: none; text-shadow: none; background: transparent;
 }
@@ -100,100 +32,6 @@ h3 { font-size: 1.56em; }
 h4 { font-size: 1.30em; }
 h5 { font-size: 1.15em; }
 h6 { font-size: 0.95em; }
-
-/* layout elements */
-body > div.container {
-    max-width: 740px;
-    margin: 0 auto;
-    padding: 0;
-    position: relative;
-}
-div.navigation {
-    transition: height 0.5s;
-}
-div.navigation a {
-    text-decoration: none; text-shadow: none; background: transparent;
-    font-size: 22px;
-    display: inline-block;
-    padding: 10px;
-}
-
-div.separator {
-    padding-top: 5px;
-    margin-bottom: 42px;
-    clear: both;
-}
-
-div.navigation ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    float: right;
-    margin: 1.5ex 0 0 0;
-    display: inline-block;
-}
-
-div.navigation ul li {
-    display: inline;
-    margin: 0;
-    padding: 0;
-}
-
-div.navigation a.sitename {
-    color: #000;
-    font-style: italic;
-    text-shadow: 1px 1px 1px #ddd;
-    vertical-align: middle;
-    font-size: 24px;
-    padding: 1ex 1em 0 10px;
-}
-
-div.body {
-    clear: both;
-}
-
-div.footer {
-    padding-top: 9px;
-    margin-top: 42px;
-    font-size: 16px;
-    color: #888;
-    text-align: center;
-}
-
-div.footer a {
-    color: #888;
-}
-.cssgradients div.footer a {
-    background-image: linear-gradient(#FFF, #FFF), linear-gradient(#FFF, #FFF), linear-gradient(#888, #888);
-}
-div.footer a:hover {
-    color: #000;
-}
-.cssgradients div.footer a:hover {
-    background-image: linear-gradient(#FFF, #FFF), linear-gradient(#FFF, #FFF), linear-gradient(#000, #000);
-}
-div.footer p {
-    margin: 0;
-}
-
-.social a {
-    color: #888;
-}
-.navigation li a {
-    padding: 0;
-    margin: 0;
-    text-decoration: none; text-shadow: none; background: transparent;
-}
-a.sitename:hover,
-.navigation li a:hover {
-    color: #a00;
-    text-decoration: none; text-shadow: none; background: transparent;
-}
-.navigation li {
-    display: inline;
-    margin: 0;
-    padding: 0;
-}
 
 /* margins and stuff */
 p, div.line-block, ul, ol, pre, table {
@@ -218,12 +56,6 @@ ul ol, ol ul, ul ul, ol ol {
 
 li {
     padding: 0;
-}
-
-h1 + p.date {
-    margin-top: -20px;
-    color: #555;
-    font-style: italic;
 }
 
 a.footnote-reference,
@@ -321,52 +153,12 @@ pre.nowrap {
     width: 100%;
     box-sizing: border-box;
 }
-/* blog overview */
-div.entry-overview {
-    margin: 25px auto;
-    max-width: 545px;
-}
-
-div.entry-overview h1,
-div.entry-overview h4,
-div.entry-overview .date {
-    display: inline-block;
-    vertical-align: baseline;
-}
-
-div.entry-overview h1,
-div.entry-overview h4 {
-    margin: 0 0 0 15px;
-    max-width: 385px;
-    font-size: 26px;
-}
-
-div.entry-overview p.summary {
-    padding: 0;
-    margin: 0 0 0 140px;
-    max-width: 385px;
-    display: block;
-}
-
-div.entry-overview .date {
-    width: 120px;
-    color: #888;
-    text-align: right;
-    font-style: italic;
-}
-
-/* other alignment things */
-img.align-center {
-    margin: 15px auto;
-    display: block;
-}
 
 /* pagination */
 div.pagination {
     margin: 36px 0 0 0;
     text-align: center;
 }
-
 div.pagination strong {
     font-weight: normal;
     font-style: italic;
@@ -378,67 +170,9 @@ p.tags {
     font-style: italic;
 }
 
-ul.tagcloud {
-    font-size: 16px;
-    margin: 36px 0;
-    padding: 0;
-    list-style: none;
-}
-
-ul.tagcloud li {
-    margin: 0;
-    padding: 0 10px;
-    display: inline;
-}
-ul.tagcloud a {
-    text-decoration: none; text-shadow: none; background: transparent;
-}
-li.tag-1 {
-    font-size: 250.0%;
-}
-
-li.tag-2 {
-    font-size: 220.0%;
-}
-
-li.tag-3 {
-    font-size: 190.0%;
-}
-
-li.tag-4 {
-    font-size: 160.0%;
-}
-
-li.tag-5 {
-    font-size: 130.0%;
-}
-
-li.tag-6 {
-    font-size: 100.0%;
-}
-
-
 /* latex math */
 span.math img {
     margin-bottom: -7px;
-}
-
-div.blog-epilogue {
-    margin-top: 100px;
-    font-size: 19px;
-    text-align: center;
-}
-
-div.blog-epilogue a {
-    text-decoration: none; text-shadow: none; background: transparent;
-    padding-left: 30px;
-    padding-right: 30px;
-}
-
-/* about img */
-img.align-left {
-    float: left;
-    margin: 20px;
 }
 
 .switch {
@@ -455,6 +189,7 @@ img.align-left {
     display: inline-block;
     margin-left: 0.25em;
 }
+
 th.field-name {
     text-align: left;
 }
@@ -635,110 +370,8 @@ a.headerlink:hover {
 .footnote-reference:target {
     background: #F7E186;
 }
-.cssgradients .footnote:target a {
-    text-shadow: 0.03em 0px #F7E186,
-                -0.03em 0px #F7E186,
-                 0px    0.02em #F7E186,
-                 0px   -0.02em #F7E186,
-                 0.06em 0px #F7E186,
-                -0.06em 0px #F7E186,
-                 0.09em 0px #F7E186,
-                -0.09em 0px #F7E186,
-                 0.12em 0px #F7E186,
-                -0.12em 0px #F7E186,
-                 0.15em 0px #F7E186,
-                -0.15em 0px #F7E186;
-}
 html.touch a.headerlink {
     visibility: visible !important;
-}
-.gh-list, .presentations {
-    display: -webkit-flex;
-    display: flex;
-    -webkit-flex-wrap: nowrap;
-    flex-wrap: wrap;
-    -webkit-justify-content: space-between;
-    justify-content: space-between;
-}
-.gh-repo, .presentation {
-    border-top: 1px solid #ccc;
-    -webkit-flex: 0 0 47%;
-    flex: 0 0 47%;
-    padding: 10px;
-    box-sizing: border-box;
-    min-height: 20ex;
-    font-size: 85%;
-    margin: 15px 0;
-}
-.presentation {
-    background: #111;
-    box-shadow: 3px 3px 3px #ccc;
-    border-radius: 5px;
-
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: flex;
-
-    -webkit-box-pack: justify;
-    -webkit-justify-content: space-between;
-    justify-content: space-between;
-
-    -webkit-flex-direction: column;
-    flex-direction: column;
-
-    color: #FFF;
-
-    -webkit-box-direction: normal;
-    flex-direction: column;
-
-    -webkit-flex-wrap: nowrap;
-    flex-wrap: nowrap;
-
-    -webkit-align-content: stretch;
-    align-content: stretch;
-}
-.presentation a {
-    color: #7B8EB0;
-}
-.presentation a:hover, .presentation a {
-    text-decoration: none; text-shadow: none; background: transparent;
-}
-.presentation a:hover,
-.presentation a:hover h2 {
-    color: #a00;
-    text-shadow: 1px 1px 1px #333;
-}
-.presentation .date, .presentation .language {
-    color: #999;
-}
-.presentation h2 {
-    align-self: center;
-    color: #FFF;
-    text-align: center;
-    text-shadow: 1px 1px 1px #666;
-    font-size: 1.8em;
-}
-.presentation .language {
-    -webkit-align-self: flex-end;
-    align-self: flex-end;
-    -webkit-order: 1;
-    order: 1;
-
-    -webkit-box-ordinal-group: 2;
-    -moz-box-ordinal-group: 2;
-}
-.gh-title {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-.gh-repo p {
-    clear: both;
-    margin-top: 1ex;
-    vertical-align: middle;
-}
-.github-btn {
-
 }
 .archive h2 {
     border-bottom: 1px solid #000;
@@ -828,44 +461,6 @@ blockquote:after{
         max-width: 100%;
 
     }
-    body > div.container {
-        margin: 0 10px;
-    }
 }
 @media only screen and (min-width: 0px) and (max-width: 565px) {
-    body > div.container {
-        margin: 0 10px;
-    }
-    .gh-list, .presentations {
-        display: block;
-    }
-    div.entry-overview .summary,
-    div.entry-overview h1,
-    div.entry-overview h4 {
-        margin: 0 0 0 5px !important;
-    }
-
-    div.entry-overview .date {
-        font-size: 17px;
-        float: right;
-        width: auto;
-    }
-    body {
-        width: 100%;
-        box-sizing: border-box;
-    }
-    .note {
-        width: 140px;
-    }
-    div.navigation ul {
-        display: -webkit-flex;
-        display: flex;
-        float: none;
-        -webkit-justify-content: space-between;
-        justify-content: space-between;
-    }
-    div.navigation a.sitename {
-        display: block;
-        text-align: center;
-    }
 }
