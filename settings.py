@@ -16,14 +16,6 @@ DISQUS_SITENAME = '?'
 GOOGLE_ANALYTICS_ACCOUNT = '?'
 GOOGLE_ANALYTICS_DOMAIN = '?'
 
-####### DEBUG #######
-CACHE_CONTENT = False
-RELATIVE_URLS = True
-REAL_SITEURL = SITEURL = 'http://home.ionelmc.ro'
-ASSET_DEBUG = True
-GOOGLE_ANALYTICS_ACCOUNT = 'UA-822534-16'
-#####################
-
 TIMEZONE = 'Europe/Bucharest'
 
 LOCALE = 'rom', 'ro_RO',
@@ -115,9 +107,9 @@ CATEGORIES_SAVE_AS = 'locatii/index.html'
 USE_FOLDER_AS_CATEGORY = True
 
 DIRECT_TEMPLATES = (
-    'index', 
-    #'forme', 
-    #'arhiva', 
+    'index',
+    #'forme',
+    #'arhiva',
     '404'
 )
 

@@ -1,6 +1,6 @@
 /* general style */
 body {
-    font: 19px/26px 'Palatino', 'Palatino Linotype', 'URW Palladio L', 'Century Schoolbook L', 'Georgia', serif;
+    font: 19px/26px 'LinuxLibertine', 'Palatino', 'Palatino Linotype', 'URW Palladio L', 'Century Schoolbook L', 'Georgia', serif;
     margin: 0;
     padding: 0;
 }
@@ -11,7 +11,7 @@ a:hover {
     color: #a00;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Candara', 'Calibri', 'Segoe UI Semilight', 'Corbel', 'Trebuchet Ms', 'Segoe UI', sans-serif;
+    font-family: 'LinuxBiolinum', 'Candara', 'Calibri', 'Segoe UI Semilight', 'Corbel', 'Trebuchet Ms', 'Segoe UI', sans-serif;
     text-shadow: 1px 1px 1px #ddd;
     font-weight: bold;
     line-height: 1;
@@ -62,7 +62,7 @@ a.footnote-reference,
 .footnote td.label a,
 .footnote td.label,
 pre, code, tt {
-    font-family: 'Consolas', 'Deja Vu Sans Mono',
+    font-family: 'Cousine', 'Consolas', 'Deja Vu Sans Mono',
                  'Bitstream Vera Sans Mono', 'Monaco',
                  'Courier New', monospace;
     font-size: 14px;
