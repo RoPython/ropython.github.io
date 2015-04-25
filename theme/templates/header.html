@@ -1,23 +1,25 @@
-<div class="navigation">
+<div class="menu">
   <a class="sitename" href="{{ SITEURL }}/">{{ SITENAME }}</a>
   <ul>
-    <li><a title="Blog" href="{{ SITEURL }}/"><i class="icon-home icon-large"><span>Home</span></i></a></li>
-    <li><a title="Presentations" href="{{ SITEURL }}/presentations/"><i class="icon-play icon-large"><span>Presenations</span></i></a></li>
-    <li><a title="Archive" href="{{ SITEURL }}/archives/"><i class="icon-archive icon-large"><span>Archive</span></i></a></li>
-    <li><a title="Tags" href="{{ SITEURL }}/tags/"><i class="icon-tag icon-large"><span>Tags</span></i></a></li>
-    <li><a title="About" href="{{ SITEURL }}/about/"><i class="icon-user icon-large"><span>About</span></i></a></li>
-    <script type="text/javascript">
-      u = '{{ MAIL_USERNAME }}';
-      s = '{{ MAIL_HOST }}';
-      document.write('<li class="social"><a title="Email" href="mailto:' + u + '@' + s + '"><i class="icon-envelope icon-large"><span>Email</span></i></a></li>');
-    </script>
-    <li class="social"><a title="Linkedin" href="{{ LINKEDIN_URL }}"><i class="icon-linkedin icon-large"><span>Linkedin</span></i></a></li>
-    <li class="social"><a title="Twitter" href="{{ TWITTER_URL }}"><i class="icon-twitter icon-large"><span>Twitter</span></i></a></li>
-    <li class="social"><a title="Google+" href="{{ GOOGLEPLUS_URL }}?rel=author"><i class="icon-googleplus icon-large"><span>Google Plus</span></i></a></li>
-    <li class="social"><a title="Github" href="{{ GITHUB_URL }}"><i class="icon-git icon-large"><span>Github</span></i></a></li>
-    <li class="social"><a title="RSS" href="{{ SITEURL }}/feeds/all.rss.xml" rel="alternate"><i class="icon-rss icon-large"><span>RSS</span></i></a></li>
+    <li><a href="{{ SITEURL }}/resurse/">Resurse</a></li>
+    <li><a href="{{ SITEURL }}/despre/">Despre</a></li>
+    <li><a title="RSS" href="{{ SITEURL }}/feeds/all.rss.xml" rel="alternate">⌘</a></li>
   </ul>
 </div>
 <div class="separator">
     <hr>
+</div>
+<div class="location">
+  <ul>
+  {% for category, _ in categories %}
+    <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category_slugs.get(category.slug, category.slug.capitalize()) }}</a></li>
+  {% endfor %}
+  </ul>
+</div>
+<div class="tags">
+  <ul>
+  {% for tag, _ in tags %}
+    <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag.name.capitalize() }}</a></li>
+  {% endfor %}
+  </ul>
 </div>

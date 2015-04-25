@@ -5,10 +5,10 @@ body {
     padding: 0;
 }
 a {
-    color: #15c;
+    color: #002A7F;
 }
 a:hover {
-    color: #a00;
+    color: #CE0D27;
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: 'LinuxBiolinum', 'Candara', 'Calibri', 'Segoe UI Semilight', 'Corbel', 'Trebuchet Ms', 'Segoe UI', sans-serif;
@@ -29,9 +29,14 @@ h1 tt, h2 tt, h3 tt, h4 tt, h5 tt, h6 tt {
 h1 { font-size: 2.3em; }
 h2 { font-size: 2em; }
 h3 { font-size: 1.56em; }
-h4 { font-size: 1.30em; }
+.entry-overview h1, h4 { font-size: 1.30em; }
 h5 { font-size: 1.15em; }
 h6 { font-size: 0.95em; }
+.entry-overview h1 .date {
+    color: #aaa;
+    font-weight: normal;
+}
+
 
 /* margins and stuff */
 p, div.line-block, ul, ol, pre, table {
@@ -61,10 +66,16 @@ li {
 a.footnote-reference,
 .footnote td.label a,
 .footnote td.label,
+.entry-overview h1 .date,
 pre, code, tt {
     font-family: 'Cousine', 'Consolas', 'Deja Vu Sans Mono',
                  'Bitstream Vera Sans Mono', 'Monaco',
                  'Courier New', monospace;
+}
+a.footnote-reference,
+.footnote td.label a,
+.footnote td.label,
+pre, code, tt {
     font-size: 14px;
 }
 a.footnote-reference {
@@ -204,12 +215,12 @@ table {
 }
 
 hr {
+    background: #FCD216;
     border: 0;
     border-radius: 2px;
     padding: 0;
     margin: 0 1px;
     height: 6px;
-    background-color: #f6f6f6;
     box-shadow: inset 0px 0px 2px #ccc;
     clear: both;
 }
@@ -451,7 +462,6 @@ blockquote:after{
     float: none;
     display: inline-block;
 }
-
 @media only screen and (min-width: 0px) and (max-width: 775px) {
     .figure {
         min-width: 125px;
