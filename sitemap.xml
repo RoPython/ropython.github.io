@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ropython.github.io/</loc>
-<lastmod>2015-05-10T02:05:54-00:00</lastmod>
+<lastmod>2015-05-10T02:06:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -214,15 +214,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.github.io/forma/prezentari/</loc>
-<lastmod>2014-07-17T00:00:00+01:44</lastmod>
+<loc>http://ropython.github.io/forma/meetup/</loc>
+<lastmod>2013-08-01T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.github.io/forma/meetup/</loc>
-<lastmod>2013-08-01T00:00:00+01:44</lastmod>
+<loc>http://ropython.github.io/forma/prezentari/</loc>
+<lastmod>2014-07-17T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
