@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ropython.github.io/</loc>
-<lastmod>2015-05-10T01:17:37-00:00</lastmod>
+<lastmod>2015-05-10T02:05:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -200,15 +200,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.github.io/forma/sprint/</loc>
-<lastmod>2015-05-09T00:00:00+01:44</lastmod>
+<loc>http://ropython.github.io/forma/unknown/</loc>
+<lastmod>2015-05-05T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.github.io/forma/unknown/</loc>
-<lastmod>2015-05-05T00:00:00+01:44</lastmod>
+<loc>http://ropython.github.io/forma/sprint/</loc>
+<lastmod>2015-05-09T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
