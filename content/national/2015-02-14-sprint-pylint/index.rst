@@ -2,10 +2,8 @@ Sprint #1 (Pylint)
 ##################
 
 :tags: sprint
-
-.. note::
-
-    Inscrieri: `Cluj <http://www.meetup.com/Cluj-py/events/219736713/>`_.
+:registration:
+    meetup.com: http://www.meetup.com/Cluj-py/events/219736713/
 
 Pentru că e foarte frig la început de 2015 facem un Sprint de Pylint.
 Pylint este cel mai cuprinzător verificator de cod disponibil pentru

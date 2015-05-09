@@ -1,13 +1,13 @@
-Sprint #6
+﻿Sprint #6
 #########
 
 :tags: sprint
-
-.. note::
-
-    Vom folosi `Google Hangouts <https://plus.google.com/hangouts/_/event/c4pm6rvikk56qm0r246j2hdot14>`_ sau `IRC <ircs://irc.freenode.net:6697/#python-ro>`_.
-
-    Inscrieri: `Cluj <http://www.meetup.com/Cluj-py/events/221840035/>`_, `Timișoara <http://www.meetup.com/RoPython-Timisoara/events/221656751/>`_.
+:registration:
+    Cluj: http://www.meetup.com/Cluj-py/events/221840035/
+    Timișoara: http://www.meetup.com/RoPython-Timisoara/events/221656751/
+:location:
+    Google Hangouts: https://plus.google.com/hangouts/_/event/c4pm6rvikk56qm0r246j2hdot14
+    IRC: ircs://irc.freenode.net:6697/#python-ro
 
 Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)
 
