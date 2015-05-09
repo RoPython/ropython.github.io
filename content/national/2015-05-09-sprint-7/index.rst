@@ -1,5 +1,5 @@
-Sprint
-##################
+Sprint #7
+#########
 
 :tags: sprint
 
@@ -13,7 +13,6 @@ Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)
 
 Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:
 
-
 * Implementare de features sau bug fixing.
 * Îndrumare sau feedback. Exemple:
 
@@ -24,6 +23,6 @@ Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Sourc
   * Ai vrea să contribui dar nu știi exact cum să procedezi.
 * Incurajari în general :-)
 
-Notițe de la sprinturile anterioare: https://github.com/RoPython/sprints/
+Notițe de la sprinturile anterioare: https://github.com/RoPython/sprints
 
 
