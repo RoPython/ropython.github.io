@@ -9,7 +9,24 @@
 {% block content %}
 <div itemscope itemtype="http://schema.org/Article">
     <h1 class="title" itemprop="name">{{ article.title }}</h1>
-    <p class="date"> {{ article.locale_date }}</p>
+    <p class="date">
+      {% if article.date.isoweekday() == 1 %}
+        Luni,
+      {% elif article.date.isoweekday() == 2 %}
+        Marți,
+      {% elif article.date.isoweekday() == 3 %}
+        Miercuri,
+      {% elif article.date.isoweekday() == 4 %}
+        Joi,
+      {% elif article.date.isoweekday() == 5 %}
+        Vineri,
+      {% elif article.date.isoweekday() == 6 %}
+        Sâmbătă,
+      {% elif article.date.isoweekday() == 7 %}
+        Duminică,
+      {% endif %}
+      {{ article.locale_date }}
+    </p>
     <blockquote class="attributes">
       {% if article.category %}
         <p class="location">Locație:

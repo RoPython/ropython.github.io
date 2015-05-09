@@ -19,7 +19,7 @@ GOOGLE_ANALYTICS_DOMAIN = '?'
 TIMEZONE = 'Europe/Bucharest'
 
 LOCALE = 'rom', 'ro_RO',
-DEFAULT_DATE_FORMAT = '%A, %d %B %Y'
+DEFAULT_DATE_FORMAT = '%d %B %Y'
 DEFAULT_LANG = 'ro'
 
 FEED_ALL_RSS = 'feeds/all.rss.xml'
