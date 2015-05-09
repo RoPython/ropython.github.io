@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ropython.org</title><link href="http://ropython.org/" rel="alternate"></link><link href="http://ropython.org/feeds%5Ccluj.atom.xml" rel="self"></link><id>http://ropython.org/</id><updated>2015-04-23T00:00:00+03:00</updated><entry><title>Fireside chat with Michael Foord</title><link href="http://ropython.org/2015/04/23/fireside-chat-with-michael-foord/" rel="alternate"></link><updated>2015-04-23T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2015-04-23:2015/04/23/fireside-chat-with-michael-foord/</id><summary type="html">&lt;p&gt;Michael Foord is a Python and Go programmer. He is working for Canonical
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ropython.org</title><link href="http://ropython.github.io/" rel="alternate"></link><link href="http://ropython.github.io/feeds%5Ccluj.atom.xml" rel="self"></link><id>http://ropython.github.io/</id><updated>2015-04-23T00:00:00+03:00</updated><entry><title>Fireside chat with Michael Foord</title><link href="http://ropython.github.io/2015/04/23/fireside-chat-with-michael-foord/" rel="alternate"></link><updated>2015-04-23T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2015-04-23:2015/04/23/fireside-chat-with-michael-foord/</id><summary type="html">&lt;p&gt;Michael Foord is a Python and Go programmer. He is working for Canonical
 and he is visiting Cluj-Napoca from Northampton UK.&lt;/p&gt;
 &lt;p&gt;We invited Michael for a friendly chat.&amp;nbsp;Cluj Python community is invited
 to join and talk with Michael. If you have specific questions for
@@ -18,7 +18,7 @@ great open source contributor.&lt;/p&gt;
 &lt;p&gt;You can follow Michael on Twitter at
 &lt;a class="reference external" href="https://twitter.com/voidspace"&gt;https://twitter.com/voidspace&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-</summary><category term="unknown"></category></entry><entry><title>Extending Python in C</title><link href="http://ropython.org/2014/11/20/extending-python-in-c/" rel="alternate"></link><updated>2014-11-20T00:00:00+02:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2014-11-20:2014/11/20/extending-python-in-c/</id><summary type="html">&lt;p&gt;One reason for Python's popularity (and a reason for many of its quirks
+</summary><category term="unknown"></category></entry><entry><title>Extending Python in C</title><link href="http://ropython.github.io/2014/11/20/extending-python-in-c/" rel="alternate"></link><updated>2014-11-20T00:00:00+02:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-11-20:2014/11/20/extending-python-in-c/</id><summary type="html">&lt;p&gt;One reason for Python's popularity (and a reason for many of its quirks
 ...) is its strong ties to the C programming language. CPython, the
 reference Python interpreter, allows advanced users to interact with the
 interpreter's inner workings, and extend the Python language with code
@@ -40,25 +40,25 @@ Pyspark to bring Python to the big data era. Steffen has been with
 TrustYou since 2008. His master thesis laid the foundation for
 TrustYou's scalable semantic analysis, which today understands 20
 languages natively.&lt;/blockquote&gt;
-</summary><category term="unknown"></category></entry><entry><title>Decorators and Workflows</title><link href="http://ropython.org/2014/07/17/decorators-and-workflows/" rel="alternate"></link><updated>2014-07-17T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2014-07-17:2014/07/17/decorators-and-workflows/</id><summary type="html">&lt;p&gt;La a 2-a ediție de vară vor prezenta:&lt;/p&gt;
+</summary><category term="unknown"></category></entry><entry><title>Decorators and Workflows</title><link href="http://ropython.github.io/2014/07/17/decorators-and-workflows/" rel="alternate"></link><updated>2014-07-17T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-07-17:2014/07/17/decorators-and-workflows/</id><summary type="html">&lt;p&gt;La a 2-a ediție de vară vor prezenta:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Ionel Cristian Mărieș: Tot ce nu vroiai să știi despre decoratori&lt;/li&gt;
 &lt;li&gt;Sever Băneșiu: Flowy, easy SWF workflows (swf: &lt;a class="reference external" href="http://aws.amazon.com/swf/"&gt;http://aws.amazon.com/swf/&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Evenimentul este găzduit de Cluj Hub. Va fi o taxa de protocol de 20RON. 15RON pentru primii 5.&lt;/p&gt;
-</summary><category term="Prezentări"></category></entry><entry><title>Python and Ember.js</title><link href="http://ropython.org/2014/06/12/python-and-emberjs/" rel="alternate"></link><updated>2014-06-12T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2014-06-12:2014/06/12/python-and-emberjs/</id><summary type="html">&lt;p&gt;Python and Ember.js - Super Fast (and Testable!) Frontend&lt;/p&gt;
+</summary><category term="Prezentări"></category></entry><entry><title>Python and Ember.js</title><link href="http://ropython.github.io/2014/06/12/python-and-emberjs/" rel="alternate"></link><updated>2014-06-12T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-06-12:2014/06/12/python-and-emberjs/</id><summary type="html">&lt;p&gt;Python and Ember.js - Super Fast (and Testable!) Frontend&lt;/p&gt;
 &lt;p&gt;FREE BEER and PIZZA while showcasing the testable, Embjer.js on top of
 a Python backend.&lt;/p&gt;
 &lt;p&gt;Create super fast and testable front end on top of your Python.&lt;/p&gt;
 &lt;p&gt;by Stas Suscov and Flaviu Simihaian&lt;/p&gt;
 &lt;p&gt;&lt;img alt="image0" src="http://photos2.meetupstatic.com/photos/event/5/4/e/e/global_199941742.jpeg" /&gt;&lt;/p&gt;
-</summary><category term="Prezentări"></category></entry><entry><title>Machine Learning in Python</title><link href="http://ropython.org/2014/02/20/machine-learning-in-python/" rel="alternate"></link><updated>2014-02-20T00:00:00+02:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2014-02-20:2014/02/20/machine-learning-in-python/</id><summary type="html">&lt;p&gt;Hello Pythonistas!&lt;/p&gt;
+</summary><category term="Prezentări"></category></entry><entry><title>Machine Learning in Python</title><link href="http://ropython.github.io/2014/02/20/machine-learning-in-python/" rel="alternate"></link><updated>2014-02-20T00:00:00+02:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-02-20:2014/02/20/machine-learning-in-python/</id><summary type="html">&lt;p&gt;Hello Pythonistas!&lt;/p&gt;
 &lt;p&gt;After a long break we'll meet again! This time the topic is machine
 learning, one of Python's favorite use cases. Radu Marius Florin and
 Roland Szabo will tell us more about it. After the meetup we'll go for a
 drinkup to get to know each other better ...&lt;/p&gt;
 &lt;p&gt;The event will be hosted by Cluj Hub, where freelancers usually meet.&lt;/p&gt;
-</summary><category term="Prezentări"></category></entry><entry><title>Task queues and components architecture</title><link href="http://ropython.org/2013/10/03/task-queues-and-components-architecture/" rel="alternate"></link><updated>2013-10-03T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2013-10-03:2013/10/03/task-queues-and-components-architecture/</id><summary type="html">&lt;p&gt;I invite you to the 2nd Cluj Pythonistas meetup where two of the best
+</summary><category term="Prezentări"></category></entry><entry><title>Task queues and components architecture</title><link href="http://ropython.github.io/2013/10/03/task-queues-and-components-architecture/" rel="alternate"></link><updated>2013-10-03T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2013-10-03:2013/10/03/task-queues-and-components-architecture/</id><summary type="html">&lt;p&gt;I invite you to the 2nd Cluj Pythonistas meetup where two of the best
 Python developers I know will tell you about subjects that they love:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Celery introduction - Ionel Cristian Mărieș&lt;/li&gt;
@@ -67,6 +67,6 @@ Python developers I know will tell you about subjects that they love:&lt;/p&gt;
 &lt;p&gt;The event's host is Cluj Cowork and the recommended contribution for
 that is 10 lei. See you there ...&lt;/p&gt;
 &lt;p&gt;P.S. Ring at &amp;quot;Ruby tribe&amp;quot; when you arrive.&lt;/p&gt;
-</summary><category term="Prezentări"></category></entry><entry><title>Python Cluj first meetup</title><link href="http://ropython.org/2013/08/01/python-cluj-first-meetup/" rel="alternate"></link><updated>2013-08-01T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2013-08-01:2013/08/01/python-cluj-first-meetup/</id><summary type="html">&lt;p&gt;Just an informal meeting in a bar so we can get to know other Python
+</summary><category term="Prezentări"></category></entry><entry><title>Python Cluj first meetup</title><link href="http://ropython.github.io/2013/08/01/python-cluj-first-meetup/" rel="alternate"></link><updated>2013-08-01T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2013-08-01:2013/08/01/python-cluj-first-meetup/</id><summary type="html">&lt;p&gt;Just an informal meeting in a bar so we can get to know other Python
 fans in Cluj and what they have to share&lt;/p&gt;
 </summary><category term="Meetup"></category></entry></feed>
