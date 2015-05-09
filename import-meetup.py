@@ -2,6 +2,8 @@ from __future__ import unicode_literals
 
 import io
 import os
+import subprocess
+import tempfile
 from cStringIO import StringIO
 from glob import glob
 from datetime import datetime
@@ -28,7 +30,8 @@ from requests import Session
 @click.option('--event-status', '-s', default='past',
               type=click.Choice(['past', 'suggested', 'proposed', 'draft', 'cancelled', 'upcoming']),
               help='Event type to import. Default: past.')
-def main(group_id, location, time_boundary, event_status):
+@click.option('--pandoc', '-p', is_flag=True, help='Use `pandoc` to convert the event description.')
+def main(group_id, location, time_boundary, event_status, pandoc):
     key_path = os.path.normpath(os.path.expanduser('~/.meetup.com-key'))
     if os.path.exists(key_path):
         with open(key_path) as fh:
@@ -104,8 +107,16 @@ def main(group_id, location, time_boundary, event_status):
             if not os.path.exists(target_dir):
                 os.makedirs(target_dir)
 
-            stream = StringIO()
-            html2rest(event['description'].encode('utf-8'), writer=stream)
+            if pandoc:
+                with tempfile.NamedTemporaryFile(delete=False) as fh:
+                    fh.write(event['description'].encode('utf-8'))
+                rst = subprocess.check_output(['pandoc', '--from=html', '--to=rst', fh.name]).decode('utf-8')
+                print fh.name
+                #os.unlink(fh.name)
+            else:
+                stream = StringIO()
+                html2rest(event['description'].encode('utf-8'), writer=stream)
+                rst = stream.getvalue().decode('utf-8')
 
             with io.open(target_path, 'w', encoding='utf-8') as fh:
                 fh.write('''
@@ -114,7 +125,7 @@ def main(group_id, location, time_boundary, event_status):
 
 :tags: unknown
 
-{rst}'''.format(rst=stream.getvalue().decode('utf-8'), **event))
+{rst}'''.format(rst=rst, **event))
             click.secho('\tWrote `{}`.'.format(target_path), fg='green')
 
 
