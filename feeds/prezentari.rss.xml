@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ropython.org</title><link>http://ropython.github.io/</link><description></description><atom:link href="http://ropython.github.io/feeds/prezentari.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 17 Jul 2014 00:00:00 +0300</lastBuildDate><item><title>Decorators and Workflows</title><link>http://ropython.github.io/2014/07/17/decorators-and-workflows/</link><description>&lt;p&gt;La a 2-a ediție de vară vor prezenta:&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ropython.org</title><link>http://ropython.github.io/ropython-site/</link><description></description><atom:link href="http://ropython.github.io/ropython-site/feeds/prezentari.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 17 Jul 2014 00:00:00 +0300</lastBuildDate><item><title>Decorators and Workflows</title><link>http://ropython.github.io/ropython-site/2014/07/17/decorators-and-workflows/</link><description>&lt;p&gt;La a 2-a ediție de vară vor prezenta:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Ionel Cristian Mărieș: Tot ce nu vroiai să știi despre decoratori&lt;/li&gt;
 &lt;li&gt;Sever Băneșiu: Flowy, easy SWF workflows (swf: &lt;a class="reference external" href="http://aws.amazon.com/swf/"&gt;http://aws.amazon.com/swf/&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Evenimentul este găzduit de Cluj Hub. Va fi o taxa de protocol de 20RON. 15RON pentru primii 5.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 17 Jul 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-07-17:2014/07/17/decorators-and-workflows/</guid><category>Prezentări</category></item><item><title>Python and Ember.js</title><link>http://ropython.github.io/2014/06/12/python-and-emberjs/</link><description>&lt;p&gt;Python and Ember.js - Super Fast (and Testable!) Frontend&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 17 Jul 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-07-17:ropython-site/2014/07/17/decorators-and-workflows/</guid><category>Prezentări</category></item><item><title>Python and Ember.js</title><link>http://ropython.github.io/ropython-site/2014/06/12/python-and-emberjs/</link><description>&lt;p&gt;Python and Ember.js - Super Fast (and Testable!) Frontend&lt;/p&gt;
 &lt;p&gt;FREE BEER and PIZZA while showcasing the testable, Embjer.js on top of
 a Python backend.&lt;/p&gt;
 &lt;p&gt;Create super fast and testable front end on top of your Python.&lt;/p&gt;
 &lt;p&gt;by Stas Suscov and Flaviu Simihaian&lt;/p&gt;
 &lt;p&gt;&lt;img alt="image0" src="http://photos2.meetupstatic.com/photos/event/5/4/e/e/global_199941742.jpeg" /&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 12 Jun 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-06-12:2014/06/12/python-and-emberjs/</guid><category>Prezentări</category></item><item><title>Machine Learning in Python</title><link>http://ropython.github.io/2014/02/20/machine-learning-in-python/</link><description>&lt;p&gt;Hello Pythonistas!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 12 Jun 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-06-12:ropython-site/2014/06/12/python-and-emberjs/</guid><category>Prezentări</category></item><item><title>Machine Learning in Python</title><link>http://ropython.github.io/ropython-site/2014/02/20/machine-learning-in-python/</link><description>&lt;p&gt;Hello Pythonistas!&lt;/p&gt;
 &lt;p&gt;After a long break we'll meet again! This time the topic is machine
 learning, one of Python's favorite use cases. Radu Marius Florin and
 Roland Szabo will tell us more about it. After the meetup we'll go for a
 drinkup to get to know each other better ...&lt;/p&gt;
 &lt;p&gt;The event will be hosted by Cluj Hub, where freelancers usually meet.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 20 Feb 2014 00:00:00 +0200</pubDate><guid>tag:ropython.github.io,2014-02-20:2014/02/20/machine-learning-in-python/</guid><category>Prezentări</category></item><item><title>Task queues and components architecture</title><link>http://ropython.github.io/2013/10/03/task-queues-and-components-architecture/</link><description>&lt;p&gt;I invite you to the 2nd Cluj Pythonistas meetup where two of the best
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 20 Feb 2014 00:00:00 +0200</pubDate><guid>tag:ropython.github.io,2014-02-20:ropython-site/2014/02/20/machine-learning-in-python/</guid><category>Prezentări</category></item><item><title>Task queues and components architecture</title><link>http://ropython.github.io/ropython-site/2013/10/03/task-queues-and-components-architecture/</link><description>&lt;p&gt;I invite you to the 2nd Cluj Pythonistas meetup where two of the best
 Python developers I know will tell you about subjects that they love:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Celery introduction - Ionel Cristian Mărieș&lt;/li&gt;
@@ -26,7 +26,7 @@ Python developers I know will tell you about subjects that they love:&lt;/p&gt;
 &lt;p&gt;The event's host is Cluj Cowork and the recommended contribution for
 that is 10 lei. See you there ...&lt;/p&gt;
 &lt;p&gt;P.S. Ring at &amp;quot;Ruby tribe&amp;quot; when you arrive.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 03 Oct 2013 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2013-10-03:2013/10/03/task-queues-and-components-architecture/</guid><category>Prezentări</category></item><item><title>PyTim #1</title><link>http://ropython.github.io/2013/06/04/pytim-1/</link><description>&lt;p&gt;First PyTim meetup.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 03 Oct 2013 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2013-10-03:ropython-site/2013/10/03/task-queues-and-components-architecture/</guid><category>Prezentări</category></item><item><title>PyTim #1</title><link>http://ropython.github.io/ropython-site/2013/06/04/pytim-1/</link><description>&lt;p&gt;First PyTim meetup.&lt;/p&gt;
 &lt;p&gt;We will talk about local products developed in Python and why local
 developers / companies have chosen Python. Also, what is the most
 interesting facet of using Python on each of these products.&lt;/p&gt;
@@ -38,4 +38,4 @@ interesting facet of using Python on each of these products.&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://www.facebook.com/dandamian?directed_target_id=0"&gt;Dan Damian&lt;/a&gt; (MindQuilt)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;See you on June 4!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 04 Jun 2013 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2013-06-04:2013/06/04/pytim-1/</guid><category>Prezentări</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 04 Jun 2013 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2013-06-04:ropython-site/2013/06/04/pytim-1/</guid><category>Prezentări</category></item></channel></rss>
