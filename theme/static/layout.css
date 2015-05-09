@@ -39,7 +39,7 @@ body > .container {
     padding-right: 1em;
 }
 .location li {
-
+    border-bottom: 5px solid #fff;
 }
 .location .active {
     border-bottom: 5px solid #CE0D27;
