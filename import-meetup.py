@@ -119,11 +119,12 @@ def main(group_id, location, time_boundary, event_status, pandoc):
                 rst = stream.getvalue().decode('utf-8')
 
             with io.open(target_path, 'w', encoding='utf-8') as fh:
-                fh.write('''
-{name}
+                fh.write('''{name}
 ###############################################################
 
 :tags: unknown
+:registration:
+    meetup.com: {event_url}
 
 {rst}'''.format(rst=rst, **event))
             click.secho('\tWrote `{}`.'.format(target_path), fg='green')

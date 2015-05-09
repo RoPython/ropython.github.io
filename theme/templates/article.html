@@ -24,8 +24,33 @@
         {% endfor %}
         </p>
       {% endif %}
-    </blockquote>
 
+      {% if article.metadata.registration %}
+        <p class="registration">Înscrieri:
+        {% for line in article.metadata.registration.splitlines() %}
+          {% if ":" in line %}
+            {% for name, url in [line.split(':', 1)] %}
+            <a href="{{ url }}">{{ name }}</a>
+            {% endfor %}
+          {% else %}
+            {{ line }}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+
+      {% if article.metadata.location %}
+        <p class="venue">Locație:
+        {% for line in article.metadata.location.splitlines() %}
+          {% if ":" in line %}
+            {% for name, url in [line.split(':', 1)] %}
+            <a href="{{ url }}">{{ name }}</a>
+            {% endfor %}
+          {% else %}
+            {{ line }}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </blockquote>
     <div itemprop="articleBody">{{ article.content }}</div>
 </div>
 {% include "twitter.html" %}
