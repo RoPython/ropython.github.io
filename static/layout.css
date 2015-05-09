@@ -1,0 +1,60 @@
+/* layout elements */
+body > .container {
+    max-width: 740px;
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+}
+.body {
+    min-height: 5em;
+}
+.menu ul,
+.tags ul,
+.location ul {
+    list-style: none;
+    padding: 0;
+}
+.menu li,
+.location li {
+    display: inline-block;
+    padding: 5px;
+}
+.tags li {
+    padding: 5px 0;
+}
+.menu ul {
+    float: right;
+}
+.tags {
+    position: relative;
+}
+.tags ul {
+    position: absolute;
+    left: 0;
+    margin: 0 0 0 -11em;
+    width: 10em;
+    box-sizing: border-box;
+    text-align: right;
+    top: 0;
+}
+.tags li {
+    border-right: 5px solid #aaa;
+    padding-right: 1em;
+}
+.location li {
+    border-bottom: 5px solid #fff;
+}
+.location .active {
+    border-bottom: 5px solid #CE0D27;
+    background: #eee;
+}
+.tags .active {
+    border-right: 5px solid #CE0D27;
+    background: #eee;
+}
+.footer p {
+    text-align: center;
+    font-style: italic;
+    font-size: 80%;
+    margin: 0;
+}

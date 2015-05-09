@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ropython.org</title><link href="http://ropython.org/" rel="alternate"></link><link href="http://ropython.org/feeds/sprint.atom.xml" rel="self"></link><id>http://ropython.org/</id><updated>2015-05-09T00:00:00+03:00</updated><entry><title>Sprint #7</title><link href="http://ropython.org/2015/05/09/sprint-7/" rel="alternate"></link><updated>2015-05-09T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2015-05-09:2015/05/09/sprint-7/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+&lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
+&lt;li&gt;Îndrumare sau feedback. Exemple:&lt;ul&gt;
+&lt;li&gt;Ai nevoie de ajutor în găsirea unui proiect la care să contribui.&lt;/li&gt;
+&lt;li&gt;Ai nevoie de ajutor în găsirea unei idei pentru un project propriu.&lt;/li&gt;
+&lt;li&gt;Ai o idee pentru un proiect și vrei să o validezi.&lt;/li&gt;
+&lt;li&gt;Sfaturi pentru distribuția unui proiect.&lt;/li&gt;
+&lt;li&gt;Ai vrea să contribui dar nu știi exact cum să procedezi.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Incurajari în general :-)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
+</summary><category term="sprint"></category></entry><entry><title>Sprint #6</title><link href="http://ropython.org/2015/04/25/sprint-6/" rel="alternate"></link><updated>2015-04-25T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2015-04-25:2015/04/25/sprint-6/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+&lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
+&lt;li&gt;Îndrumare sau feedback. Exemple:&lt;ul&gt;
+&lt;li&gt;Ai nevoie de ajutor în găsirea unui proiect la care să contribui.&lt;/li&gt;
+&lt;li&gt;Ai nevoie de ajutor în găsirea unei idei pentru un project propriu.&lt;/li&gt;
+&lt;li&gt;Ai o idee pentru un proiect și vrei să o validezi.&lt;/li&gt;
+&lt;li&gt;Sfaturi pentru distribuția unui proiect.&lt;/li&gt;
+&lt;li&gt;Ai vrea să contribui dar nu știi exact cum să procedezi.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Incurajari în general :-)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
+</summary><category term="sprint"></category></entry><entry><title>Sprint #5</title><link href="http://ropython.org/2015/04/11/sprint-5/" rel="alternate"></link><updated>2015-04-11T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2015-04-11:2015/04/11/sprint-5/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+&lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
+&lt;li&gt;Îndrumare sau feedback. Exemple:&lt;ul&gt;
+&lt;li&gt;Ai nevoie de ajutor în găsirea unui proiect la care să contribui.&lt;/li&gt;
+&lt;li&gt;Ai nevoie de ajutor în găsirea unei idei pentru un project propriu.&lt;/li&gt;
+&lt;li&gt;Ai o idee pentru un proiect și vrei să o validezi.&lt;/li&gt;
+&lt;li&gt;Sfaturi pentru distribuția unui proiect.&lt;/li&gt;
+&lt;li&gt;Ai vrea să contribui dar nu știi exact cum să procedezi.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Incurajari în general :-)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
+</summary><category term="sprint"></category></entry><entry><title>Sprint #4</title><link href="http://ropython.org/2015/03/28/sprint-4/" rel="alternate"></link><updated>2015-03-28T00:00:00+02:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2015-03-28:2015/03/28/sprint-4/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
+</summary><category term="sprint"></category></entry><entry><title>Sprint #3</title><link href="http://ropython.org/2015/03/14/sprint-3/" rel="alternate"></link><updated>2015-03-14T00:00:00+02:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2015-03-14:2015/03/14/sprint-3/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
+</summary><category term="sprint"></category></entry><entry><title>Sprint #2</title><link href="http://ropython.org/2015/02/28/sprint-2/" rel="alternate"></link><updated>2015-02-28T00:00:00+02:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2015-02-28:2015/02/28/sprint-2/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
+&lt;p&gt;Cu scaun avem doar ~12 locuri asigurate :)&lt;/p&gt;
+&lt;p&gt;Pizza și băuturile sunt asigurate.&lt;/p&gt;
+</summary><category term="sprint"></category></entry><entry><title>Sprint #1 (Pylint)</title><link href="http://ropython.org/2015/02/14/sprint-pylint/" rel="alternate"></link><updated>2015-02-14T00:00:00+02:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2015-02-14:2015/02/14/sprint-pylint/</id><summary type="html">&lt;p&gt;Pentru că e foarte frig la început de 2015 facem un Sprint de Pylint.
+Pylint este cel mai cuprinzător verificator de cod disponibil pentru
+Python, este extensibil, configurabil și este folosit în foarte multe
+locuri. El ne ajută să scriem cod mai corect sau mai frumos.&lt;/p&gt;
+&lt;p&gt;Încălzirea se face pe 14 februarie la &lt;a class="reference external" href="http://clujhub.ro/"&gt;Cluj HUB&lt;/a&gt; începând cu ora
+12.00. Vom fi coordonați de Claudiu Popa, developer Pylint. Cerințe
+pentru participare:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Laptop propriu.&lt;/li&gt;
+&lt;li&gt;Cunoștințe Python și Mercurial (sau Git) &lt;a class="footnote-reference" href="#id2" id="id1"&gt;[1]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ce vom face:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Îmbunătățiri (bugfixes, features, documentație etc). Înainte de
+sprint Claudiu va pregăti câteva liste de issues cu dificultăți
+diferite încât să vă puteți găsi ușor ceva pe plac.&lt;/li&gt;
+&lt;li&gt;Plugin-uri Pylint pentru cei care au o idee și vor să o implementeze într-un
+plugin.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table class="docutils footnote" frame="void" id="id2" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id1"&gt;[1]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Să aveți experienta de lucru cu un proiect Python.&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary><category term="sprint"></category></entry></feed>
