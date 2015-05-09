@@ -9,10 +9,15 @@ body > .container {
 .tags ul,
 .location ul {
     list-style: none;
+    padding: 0;
 }
 .menu li,
 .location li {
     display: inline-block;
+    padding: 5px;
+}
+.tags li {
+    padding: 5px 0;
 }
 .menu ul {
     float: right;
@@ -27,8 +32,20 @@ body > .container {
     width: 10em;
     box-sizing: border-box;
     text-align: right;
-    padding: 0 1em 0 0;
     top: 0;
-    border-right: 5px solid #aaa;
 }
- {}
+.tags li {
+    border-right: 5px solid #aaa;
+    padding-right: 1em;
+}
+.location li {
+
+}
+.location .active {
+    border-bottom: 5px solid #CE0D27;
+    background: #eee;
+}
+.tags .active {
+    border-right: 5px solid #CE0D27;
+    background: #eee;
+}

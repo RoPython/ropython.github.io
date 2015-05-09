@@ -9,17 +9,3 @@
 <div class="separator">
     <hr>
 </div>
-<div class="location">
-  <ul>
-  {% for category, _ in categories %}
-    <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category_slugs.get(category.slug, category.slug.capitalize()) }}</a></li>
-  {% endfor %}
-  </ul>
-</div>
-<div class="tags">
-  <ul>
-  {% for tag, _ in tags %}
-    <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag.name.capitalize() }}</a></li>
-  {% endfor %}
-  </ul>
-</div>

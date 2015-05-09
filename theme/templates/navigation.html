@@ -1,0 +1,22 @@
+<div class="location">
+  <ul>
+  {% for c, _ in categories %}
+    {% if c == category %}
+      <li class="active"><span itemprop="location">{{ category_slugs.get(c.slug, c.slug.capitalize()) }}</span></li>
+    {% else %}
+      <li><a href="{{ SITEURL }}/{{ c.url }}">{{ category_slugs.get(c.slug, c.slug.capitalize()) }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</div>
+<div class="tags">
+  <ul>
+  {% for t, _ in tags %}
+    {% if t == tag %}
+      <li class="active"><span itemprop="keyword">{{ t.slug.capitalize() }}</span></li>
+    {% else %}
+      <li><a href="{{ SITEURL }}/{{ t.url }}">{{ t.name.capitalize() }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</div>
