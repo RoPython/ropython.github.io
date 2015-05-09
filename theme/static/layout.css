@@ -5,6 +5,9 @@ body > .container {
     padding: 0;
     position: relative;
 }
+.body {
+    min-height: 5em;
+}
 .menu ul,
 .tags ul,
 .location ul {
@@ -48,4 +51,10 @@ body > .container {
 .tags .active {
     border-right: 5px solid #CE0D27;
     background: #eee;
+}
+.footer p {
+    text-align: center;
+    font-style: italic;
+    font-size: 80%;
+    margin: 0;
 }
