@@ -17,6 +17,6 @@ cache:
   - .env
   - .tox
 script:
-- tox -e build-- ghp
+- tox -e build -- ghp
 - git fetch origin gh-pages
 - tox -e publish
