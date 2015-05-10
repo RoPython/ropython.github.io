@@ -1,4 +1,4 @@
-Workshop #1 - Python pentru dezvoltarea aplicațiilor web
+﻿Workshop #1 - Python pentru dezvoltarea aplicațiilor web
 ########################################################
 
 :tags: workshop-py
@@ -24,9 +24,9 @@ Pentru că vrem ca fiecare participant să câștige cât mai multă experienț�
 Elementele ce vor fi apreciate sunt:
 
     * contribuitori la proiecte open source, nu neapărat scrise în limbajul Python.
-    
+
     * proiecte pe github sau bitbucket peste care ne putem uita.
-    
+
     * un profil de LinkedIn plin cu lucruri care să ne impresioneze.
 
 Apreciem persoanele care vor să învețe, așa că și începătorii sunt bineveniți. Pentru asta, trebuia ca prezentarea voastră să fie cât mai savuroasă și sinceră.
@@ -37,10 +37,10 @@ Programul de vineri este:
 .. list-table::
    :widths: 15 30 15
    :header-rows: 1
-   
+
    * - Ora
      - Prezentare
-     - Speaker  
+     - Speaker
    * - 12:00 - 12:15
      - Prezentarea grupului RoPython
      - Alexandru Coman
@@ -56,19 +56,19 @@ Programul de vineri este:
    * - 13:45 - 14:00
      - Element surpriză
      - Claudiu Popa
-     
+
 Programul de sâmbătă este:
 
 .. list-table::
    :widths: 15 30 15
    :header-rows: 1
-   
+
    * - Ora
      - Activitate
      - Speaker
    * - 09:00 - 10:00
      - Primirea participanților
-     - 
+     -
    * - 10:00 - 10:45
      - Introducere în paradigma REST
      - Sabin Buraga
@@ -99,7 +99,7 @@ Programul de sâmbătă este:
    * - 20:00
      - Feedback în Oscar
      - Echipa RoPython
-	 
+
 Grupul RoPython vă așteaptă cu drag!
 
 Link-uri utile:
@@ -108,4 +108,3 @@ Link-uri utile:
     * `Eveniment Facebook <https://www.facebook.com/events/758089454222935/>`_
     * `Eveniment Google+ <https://plus.google.com/b/100310797620080278732/events/ctvf1v32ujggii0mi9iabo56im8>`_
 
-	 

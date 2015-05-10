@@ -1,7 +1,7 @@
-PyTim #1
+﻿PyTim #1
 ########
 
-:tags: Prezentări
+:tags: Meetup
 :registration:
         meetup.com: http://www.meetup.com/RoPython-Timisoara/events/120489362/
 
