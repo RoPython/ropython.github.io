@@ -101,4 +101,11 @@ Programul de sâmbătă este:
      - Echipa RoPython
 	 
 Grupul RoPython vă așteaptă cu drag!
+
+Link-uri utile:
+
+    * `Bilete Eventbrite <https://ropython-workshop-1.eventbrite.com/>`_
+    * `Eveniment Facebook <https://www.facebook.com/events/758089454222935/>`_
+    * `Eveniment Google+ <https://plus.google.com/b/100310797620080278732/events/ctvf1v32ujggii0mi9iabo56im8>`_
+
 	 
