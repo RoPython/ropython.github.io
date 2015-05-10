@@ -10,7 +10,7 @@ Ask.py #2 Elemente introductive
 :location:
     `Retro Cafe <https://www.facebook.com/cafenearetro>`_
 
-.. image:: ask-py-2-elemente-introductive.png
+.. image:: {attach}ask-py-2-elemente-introductive.png
    :alt: Ask.py #2 - Elemente introductive
    :align: center
 

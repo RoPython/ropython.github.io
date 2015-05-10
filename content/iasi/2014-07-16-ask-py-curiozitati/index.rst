@@ -5,7 +5,7 @@ Ask.py #1 Curiozități
 :location:
     `Retro Cafe <https://www.facebook.com/cafenearetro>`_
 
-.. image:: ask-py-1-curiozități.png
+.. image:: {attach}ask-py-1-curiozități.png
    :alt: Ask.py #1 - Curiozități
    :align: center
 
