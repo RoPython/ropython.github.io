@@ -1,7 +1,7 @@
 Python Cluj first meetup
 ########################
 
-:tags: Meetup
+:tags: Întâlniri
 :registration:
     meetup.com: http://www.meetup.com/Cluj-py/events/129478042/
 

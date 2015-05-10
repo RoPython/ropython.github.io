@@ -1,4 +1,4 @@
-﻿PyTim #6
+PyTim #6
 ########
 
 :tags: Meetup
@@ -13,7 +13,7 @@ projects developed using Python and Go.
 Here is the Agenda:
 
 * 18:30 - 19:10 *Gabriel Adrian Samfira* (Cloudbase Solutions﻿) - Automating Windows workloads with Juju and MAAS
-* 19:10 - 19:30 Coffee Break 
+* 19:10 - 19:30 Coffee Break
 * 19:30 - 20:10 *Bogdan Gaza* - Taming Cloud Infrastructures with Python and Docker
 
 

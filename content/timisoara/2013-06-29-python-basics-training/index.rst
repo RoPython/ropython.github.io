@@ -1,4 +1,4 @@
-﻿Python Basics Training
+Python Basics Training
 ######################
 
 :tags: Meetup
@@ -20,9 +20,8 @@ Speakers:
 * `Ioan Alexandru Cucu <https://www.facebook.com/ai.cucu?directed_target_id=0>`__ - 3Pillar Global
 * `Andrei Tomoroga <https://www.facebook.com/tomoroga?directed_target_id=0>`__ - MindQuilt
 
-You can find the Agenda here - http://bit.ly/122dDfJ
+You can find the Agenda here - http://bit.ly/122dDfJ
 
 Bring your laptops, you will need them. Please install Python 2.7 (http://www.python.org/download/) and an editor with Syntax Highlightling (eg: Notepad++, Vim, Sublime,
 etc).
 
- 
