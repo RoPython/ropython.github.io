@@ -6,7 +6,7 @@ body > .container {
     position: relative;
 }
 .body {
-    min-height: 5em;
+    min-height: 15em;
 }
 .menu ul,
 .tags ul,
