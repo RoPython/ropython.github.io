@@ -1,0 +1,12 @@
+language: python
+branches:
+  only:
+  - master
+before_install:
+- openssl aes-256-cbc -K $encrypted_eff88d0bace2_key -iv $encrypted_eff88d0bace2_iv -in ropython-site-publisher.enc -out ~/.ssh/ropython-site-publisher -d
+- echo "Host github.com" >> ~/.ssh/config
+- echo "  IdentityFile ~/.ssh/ropython-site-publisher" >> ~/.ssh/config
+install:
+- pip install tox
+script:
+- tox -e build,publish -- ghp
