@@ -152,7 +152,29 @@ Pyspark to bring Python to the big data era. Steffen has been with
 TrustYou since 2008. His master thesis laid the foundation for
 TrustYou's scalable semantic analysis, which today understands 20
 languages natively.&lt;/blockquote&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 20 Nov 2014 00:00:00 +0200</pubDate><guid>tag:ropython.github.io,2014-11-20:ropython-site/2014/11/20/extending-python-in-c/</guid><category>unknown</category></item><item><title>CloudTim Panel discussion: Dynamic Programming Languages in the Cloud</title><link>http://ropython.github.io/ropython-site/2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/</link><description>&lt;p&gt;&lt;a class="reference external" href="http://www.unifiedpost.ro"&gt;UnifiedPost&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a class="reference external" href="http://www.cloudbase.it"&gt;Cloudbase&amp;nbsp;Solutions&lt;/a&gt;&amp;nbsp;have
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 20 Nov 2014 00:00:00 +0200</pubDate><guid>tag:ropython.github.io,2014-11-20:ropython-site/2014/11/20/extending-python-in-c/</guid><category>unknown</category></item><item><title>Workshop #2 - Expediție în cloud computing, programare funcțională și altele</title><link>http://ropython.github.io/ropython-site/2014/10/19/workshop-py-2/</link><description>&lt;img alt="Workshop #2" class="align-center" src="{attach}workshop.png" /&gt;
+&lt;p&gt;Dacă sunteți începător în Python și zilele trecute ați avut “bucuria” primului vostru traceback
+sau aveți experiență în alte limbaje, trecând prin inevitabilul Javascript, îndreptându-vă apoi
+către limbajele funcționale și vreți acum să aflați ce este acel Python de care toată lumea
+vorbește sau dacă ești deja experimentat în acest limbaj și vrei să afli și să aprofundezi
+ceva nou și incitant, atunci ai ocazia perfectă pentru a face acest lucru, prin participarea
+ta la următoarea ediție Workshop.py. Dacă în prima ediție ne îndreptam atenția spre utilizarea
+limbajului Python pentru crearea de aplicații web, acum vom avea în paralel o serie de workshop-uri,
+cu subiecte ce variază de la cloud computing, programare funcțională, până la introducere în Python,
+gama largă de opțiuni mulându-se atât pe începători, cât și pe cei cu experiență.&lt;/p&gt;
+&lt;p&gt;Precedat de Conference.py, prima conferință de Python a toamnei, Workshop.py #2 se va desfășura
+pe data de 19 octombrie, fiind compus din mai multe workshop-uri în paralel, cu subiecte variate,
+unele dintre ele propunând aprofundarea conceptelor din prezentările din conferință. Pentru fiecare
+workshop susținut, vom avea un mentor ce își va purta elevii prin înțelegerea subiectului prezentat.&lt;/p&gt;
+&lt;p&gt;Unul din subiectele workshop-urilor va fi Introducere în Python, workshop susținut de membri ai
+grupului RoPython, acesta fiind destinat începătorilor, cât și celor care vor să învețe un nou limbaj.
+Participanții vor învăța de ce alegerea acestui limbaj de programare îți poate schimba viața și
+viziunea asupra ei, prin ușurința cu care îți permite să pui în practică idei și prin filosofiile
+ce stau la baza lui. Totodată, ei vor mai învăța să facă primii pași, ajungând de la primul traceback
+la primul algoritm funcțional în Python.&lt;/p&gt;
+&lt;p&gt;Programul complet al workshop-urilor, precum și locația lor vor fi anunțate în curând.&lt;/p&gt;
+&lt;p&gt;Vă așteptăm!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sun, 19 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-10-19:ropython-site/2014/10/19/workshop-py-2/</guid><category>workshop-py</category></item><item><title>CloudTim Panel discussion: Dynamic Programming Languages in the Cloud</title><link>http://ropython.github.io/ropython-site/2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/</link><description>&lt;p&gt;&lt;a class="reference external" href="http://www.unifiedpost.ro"&gt;UnifiedPost&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a class="reference external" href="http://www.cloudbase.it"&gt;Cloudbase&amp;nbsp;Solutions&lt;/a&gt;&amp;nbsp;have
 teamed up for a cross-community meetup that will take the form of a
 panel discussion on a very hot topic:&amp;nbsp;dynamic programming languages in
 the cloud.&lt;/p&gt;
@@ -178,10 +200,10 @@ well done.&lt;/li&gt;
 &lt;p&gt;More panelists are in the process of confirming their attendance to our
 event, so keep an eye on this space for regular updates on our speakers
 and the questions they will be debating.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 14 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-10-14:ropython-site/2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/</guid><category>unknown</category></item><item><title>Ask.py #3 - În expediție</title><link>http://ropython.github.io/ropython-site/2014/10/01/ask-py-in-expeditie/</link><description>&lt;img alt="Ask.py #3 - În expediție" class="align-center" src="ask-py-in-expediție.png" /&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 14 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-10-14:ropython-site/2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/</guid><category>unknown</category></item><item><title>Ask.py #3 - În expediție</title><link>http://ropython.github.io/ropython-site/2014/10/01/ask-py-in-expeditie/</link><description>&lt;img alt="Ask.py #3 - În expediție" class="align-center" src="{attach}ask-py-in-expediție.png" /&gt;
 &lt;p&gt;Cu ocazia dojo-ului CentOS, ce se va desfășura în Timișoara pe 27 septembrie, echipa RoPython va face o vizită în orașul de pe Bega. O călătorie într-un oraș nou reprezintă totodată și oportunitatea cunoașterii comunității Python din orașul respectiv, ocazie numai bună pentru o nouă întâlnire Ask.py, alături de oameni noi și entuziasmați. Echipa RoPython vă invită la primul Ask.py în partea vestică a țării pe data de 1 octombrie, în Timișoara.&lt;/p&gt;
 &lt;p&gt;Vă așteptăm!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-10-01:ropython-site/2014/10/01/ask-py-in-expeditie/</guid><category>ask-py</category></item><item><title>Ask.py #2 Elemente introductive</title><link>http://ropython.github.io/ropython-site/2014/07/23/ask-py-elemente-introductive/</link><description>&lt;img alt="Ask.py #2 - Elemente introductive" class="align-center" src="ask-py-2-elemente-introductive.png" /&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-10-01:ropython-site/2014/10/01/ask-py-in-expeditie/</guid><category>ask-py</category></item><item><title>Ask.py #2 Elemente introductive</title><link>http://ropython.github.io/ropython-site/2014/07/23/ask-py-elemente-introductive/</link><description>&lt;img alt="Ask.py #2 - Elemente introductive" class="align-center" src="{attach}ask-py-2-elemente-introductive.png" /&gt;
 &lt;p&gt;Săptămâna aceasta în cadrul evenimentului Ask.py vom face primii pași în dezvoltarea unei aplicații folosind limbajul Python.
 Dacă săptămâna trecută vorbeam despre lucrurile interesante ce pot fi realizate folosind Python, în cadrul acestei sesiuni vom implementa o parte dintre ele.&lt;/p&gt;
 &lt;p&gt;Vă așteptăm cu drag!&lt;/p&gt;
@@ -191,7 +213,7 @@ Dacă săptămâna trecută vorbeam despre lucrurile interesante ce pot fi reali
 &lt;li&gt;Sever Băneșiu: Flowy, easy SWF workflows (swf: &lt;a class="reference external" href="http://aws.amazon.com/swf/"&gt;http://aws.amazon.com/swf/&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Evenimentul este găzduit de Cluj Hub. Va fi o taxa de protocol de 20RON. 15RON pentru primii 5.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 17 Jul 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-07-17:ropython-site/2014/07/17/decorators-and-workflows/</guid><category>Prezentări</category></item><item><title>Ask.py #1 Curiozități</title><link>http://ropython.github.io/ropython-site/2014/07/16/ask-py-curiozitati/</link><description>&lt;img alt="Ask.py #1 - Curiozități" class="align-center" src="ask-py-1-curiozități.png" /&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 17 Jul 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-07-17:ropython-site/2014/07/17/decorators-and-workflows/</guid><category>Prezentări</category></item><item><title>Ask.py #1 Curiozități</title><link>http://ropython.github.io/ropython-site/2014/07/16/ask-py-curiozitati/</link><description>&lt;img alt="Ask.py #1 - Curiozități" class="align-center" src="{attach}ask-py-1-curiozități.png" /&gt;
 &lt;p&gt;ask.py este destinat interacțiunii prin viu grai cu echipa RoPython, scopul fiind nu doar dobândirea de noi cunoștințe prin intermediul întrebărilor, cât și o închegare cât mai bună e relației dintre membrii comunității Python din România, în fața unui pahar de vin, înconjurați de oameni cu aceeași pasiune extraordinară pentru acest limbaj.&lt;/p&gt;
 &lt;p&gt;Vom încerca în primul eveniment ask.py să prezentăm proiectul RoPython celor care vor să afle mai multe despre inițiativă, cât și să fim la dispoziția voastră pentru întrebări din universul Python.&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 16 Jul 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-07-16:ropython-site/2014/07/16/ask-py-curiozitati/</guid><category>ask-py</category></item><item><title>PyTim #6</title><link>http://ropython.github.io/ropython-site/2014/07/01/pytim-6/</link><description>&lt;p&gt;Welcome to the 6th edition of #PyTim, the Python meetup in Timisoara.&lt;/p&gt;
@@ -213,12 +235,14 @@ a Python backend.&lt;/p&gt;
 &lt;p&gt;Create super fast and testable front end on top of your Python.&lt;/p&gt;
 &lt;p&gt;by Stas Suscov and Flaviu Simihaian&lt;/p&gt;
 &lt;p&gt;&lt;img alt="image0" src="http://photos2.meetupstatic.com/photos/event/5/4/e/e/global_199941742.jpeg" /&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 12 Jun 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-06-12:ropython-site/2014/06/12/python-and-emberjs/</guid><category>Prezentări</category></item><item><title>Workshop #1 - Python pentru dezvoltarea aplicațiilor web</title><link>http://ropython.github.io/ropython-site/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</link><description>&lt;p&gt;HTTP/1.1 201 Workshop created
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 12 Jun 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-06-12:ropython-site/2014/06/12/python-and-emberjs/</guid><category>Prezentări</category></item><item><title>Workshop #1 - Python pentru dezvoltarea aplicațiilor web</title><link>http://ropython.github.io/ropython-site/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</link><description>&lt;pre class="literal-block"&gt;
+HTTP/1.1 201 Workshop created
 Date: SAT, 31 May 2014 10:00:00 GMT
 Location: Facultatea de informatică
 Content-Type: application/PythonWeb
 Content-Length: 12
-X-Description: “Python workshop! REST, url routing, Python, JSON, unit testing”&lt;/p&gt;
+X-Description: “Python workshop! REST, url routing, Python, JSON, unit testing”
+&lt;/pre&gt;
 &lt;p&gt;Dacă antetele de mai sus te duc cu gândul la proiectul pe care vrei să îl faci RESTful, dar nu ai avut niciodată timp să afli ce este și cum se face, atunci ești binevenit pe data de 31 mai la Facultatea de Informatică UAIC, Iași, pentru un atelier Python, de-a lungul unei zile intense în care cuvintele cheie vor fi web și Python. Nu e nici o problemă dacă nu ai auzit niciodată de acest limbaj, la finalul zilei fiecare participant va putea să își treacă în bucket list faptul că a aflat de REST APIs, JSON, Python, unit testing, url routing și permisiuni, generatori, WSGI și decoratori. Băuturile și snackurile vor fi din partea casei.&lt;/p&gt;
 &lt;p&gt;Grupul din spatele inițiativei e format din oameni entuziaști și pasionați de Python, fiecare dintre ei având experiență în domenii precum procesare distribuită, aplicații web, open source și securitate. O prefață a evenimentului de sâmbătă va fi pe data de 30 mai, în incinta facultății de informatică (ora exactă va fi anunțată în curând), ce se va desfășura pe parcursul a două ore, în care grupul RoPython se va prezenta și își va prezenta și obiectivele, urmând ca restul timpului să fie ocupat de o serie de prezentări scurte și la obiect despre subiecte diverse cu tangență în limbajul Python, aceste prezentări având scopul să incite cât mai multă lume pentru participarea de sâmbătă. Totodată, vineri va exista și o surpriză (cuvintele cheie fiind API și gaming).&lt;/p&gt;
 &lt;p&gt;Evenimentul de sâmbătă, 31 mai, va fi împărțit într-o parte teoretică, ce se va desfășura în prima parte a zilei, urmată de una practică, de-a lungul căreia participanții pot să își folosească cunoștințele acumulate în prima parte a zilei. Partea teoretică va consta în prezentări mai detaliate cu aplicare în dezvoltarea aplicațiilor web folosind Python, iar în cea practică participanții vor lucra la realizarea unor aplicații web într-un timp cât mai scurt.
@@ -235,9 +259,9 @@ Pentru că vrem ca fiecare participant să câștige cât mai multă experienț�
 &lt;p&gt;Programul de vineri este:&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
-&lt;col width="27%" /&gt;
-&lt;col width="18%" /&gt;
-&lt;col width="55%" /&gt;
+&lt;col width="25%" /&gt;
+&lt;col width="50%" /&gt;
+&lt;col width="25%" /&gt;
 &lt;/colgroup&gt;
 &lt;thead valign="bottom"&gt;
 &lt;tr&gt;&lt;th class="head"&gt;Ora&lt;/th&gt;
@@ -246,23 +270,23 @@ Pentru că vrem ca fiecare participant să câștige cât mai multă experienț�
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td&gt;12:00   12:15&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;12:00 - 12:15&lt;/td&gt;
 &lt;td&gt;Prezentarea grupului RoPython&lt;/td&gt;
 &lt;td&gt;Alexandru Coman&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;13:00   13:15&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;13:00 - 13:15&lt;/td&gt;
 &lt;td&gt;Noțiuni de conduită în dezvoltarea unui proiect&lt;/td&gt;
 &lt;td&gt;Cosmin Poieană&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;13:15   13:30&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;13:15 - 13:30&lt;/td&gt;
 &lt;td&gt;Decoratori (noțiuni introductive)&lt;/td&gt;
 &lt;td&gt;Claudiu Popa&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;13:30   13:45&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;13:30 - 13:45&lt;/td&gt;
 &lt;td&gt;Unit testing (noțiuni introductive)&lt;/td&gt;
 &lt;td&gt;Claudiu Popa&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;13:45 14:00&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;13:45 - 14:00&lt;/td&gt;
 &lt;td&gt;Element surpriză&lt;/td&gt;
 &lt;td&gt;Claudiu Popa&lt;/td&gt;
 &lt;/tr&gt;
@@ -271,9 +295,9 @@ Pentru că vrem ca fiecare participant să câștige cât mai multă experienț�
 &lt;p&gt;Programul de sâmbătă este:&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
-&lt;col width="27%" /&gt;
-&lt;col width="18%" /&gt;
-&lt;col width="55%" /&gt;
+&lt;col width="25%" /&gt;
+&lt;col width="50%" /&gt;
+&lt;col width="25%" /&gt;
 &lt;/colgroup&gt;
 &lt;thead valign="bottom"&gt;
 &lt;tr&gt;&lt;th class="head"&gt;Ora&lt;/th&gt;
@@ -282,43 +306,43 @@ Pentru că vrem ca fiecare participant să câștige cât mai multă experienț�
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td&gt;09:00    10:00&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;09:00 - 10:00&lt;/td&gt;
 &lt;td&gt;Primirea participanților&lt;/td&gt;
 &lt;td&gt;&amp;nbsp;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;10:00    10:45&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;10:00 - 10:45&lt;/td&gt;
 &lt;td&gt;Introducere în paradigma REST&lt;/td&gt;
 &lt;td&gt;Sabin Buraga&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;10:45    11:15&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;10:45 - 11:15&lt;/td&gt;
 &lt;td&gt;Framework-ul Cherrypy&lt;/td&gt;
 &lt;td&gt;Alexandru Coman&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;11:15    11:30&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;11:15 - 11:30&lt;/td&gt;
 &lt;td&gt;Pauză&lt;/td&gt;
 &lt;td&gt;&amp;nbsp;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;11:30    12:30&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;11:30 - 12:30&lt;/td&gt;
 &lt;td&gt;Django REST Framework&lt;/td&gt;
 &lt;td&gt;Claudiu Popa&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;12:30    13:00&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;12:30 - 13:00&lt;/td&gt;
 &lt;td&gt;ORM-uri&lt;/td&gt;
 &lt;td&gt;Cosmin Poieană&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;13:00    14:15&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;13:00 - 14:15&lt;/td&gt;
 &lt;td&gt;Pauză de masă&lt;/td&gt;
 &lt;td&gt;&amp;nbsp;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;14:15    14:30&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;14:15 - 14:30&lt;/td&gt;
 &lt;td&gt;Standarde de scriere&lt;/td&gt;
 &lt;td&gt;Alexandru Coman&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;14:30    14:45&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;14:30 - 14:45&lt;/td&gt;
 &lt;td&gt;Formarea echipelor&lt;/td&gt;
 &lt;td&gt;&amp;nbsp;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;15:00    19:00&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;15:00 - 19:00&lt;/td&gt;
 &lt;td&gt;Workshop&lt;/td&gt;
 &lt;td&gt;&amp;nbsp;&lt;/td&gt;
 &lt;/tr&gt;
@@ -329,6 +353,14 @@ Pentru că vrem ca fiecare participant să câștige cât mai multă experienț�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Grupul RoPython vă așteaptă cu drag!&lt;/p&gt;
+&lt;p&gt;Link-uri utile:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://ropython-workshop-1.eventbrite.com/"&gt;Bilete Eventbrite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.facebook.com/events/758089454222935/"&gt;Eveniment Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://plus.google.com/b/100310797620080278732/events/ctvf1v32ujggii0mi9iabo56im8"&gt;Eveniment Google+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 31 May 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-05-31:ropython-site/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</guid><category>workshop-py</category></item><item><title>Machine Learning in Python</title><link>http://ropython.github.io/ropython-site/2014/02/20/machine-learning-in-python/</link><description>&lt;p&gt;Hello Pythonistas!&lt;/p&gt;
 &lt;p&gt;After a long break we'll meet again! This time the topic is machine
 learning, one of Python's favorite use cases. Radu Marius Florin and
