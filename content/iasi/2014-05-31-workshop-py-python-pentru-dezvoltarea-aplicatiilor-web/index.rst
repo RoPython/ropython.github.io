@@ -5,12 +5,14 @@ Workshop #1 - Python pentru dezvoltarea aplicațiilor web
 :location:
     `Facultatea de informatică <http://www.infoiasi.ro/bin/Main/>`_
 
-HTTP/1.1 201 Workshop created
-Date: SAT, 31 May 2014 10:00:00 GMT
-Location: Facultatea de informatică
-Content-Type: application/PythonWeb
-Content-Length: 12
-X-Description: “Python workshop! REST, url routing, Python, JSON, unit testing”
+::
+
+   HTTP/1.1 201 Workshop created
+   Date: SAT, 31 May 2014 10:00:00 GMT
+   Location: Facultatea de informatică
+   Content-Type: application/PythonWeb
+   Content-Length: 12
+   X-Description: “Python workshop! REST, url routing, Python, JSON, unit testing”
 
 Dacă antetele de mai sus te duc cu gândul la proiectul pe care vrei să îl faci RESTful, dar nu ai avut niciodată timp să afli ce este și cum se face, atunci ești binevenit pe data de 31 mai la Facultatea de Informatică UAIC, Iași, pentru un atelier Python, de-a lungul unei zile intense în care cuvintele cheie vor fi web și Python. Nu e nici o problemă dacă nu ai auzit niciodată de acest limbaj, la finalul zilei fiecare participant va putea să își treacă în bucket list faptul că a aflat de REST APIs, JSON, Python, unit testing, url routing și permisiuni, generatori, WSGI și decoratori. Băuturile și snackurile vor fi din partea casei.
 
@@ -33,65 +35,65 @@ Programul de vineri este:
 
 
 .. list-table::
-   :widths: 15 10 30
+   :widths: 15 30 15
    :header-rows: 1
    
    * - Ora
      - Prezentare
      - Speaker  
-   * - 12:00   12:15
+   * - 12:00 - 12:15
      - Prezentarea grupului RoPython
      - Alexandru Coman
-   * - 13:00   13:15
+   * - 13:00 - 13:15
      - Noțiuni de conduită în dezvoltarea unui proiect
      - Cosmin Poieană
-   * - 13:15   13:30
+   * - 13:15 - 13:30
      - Decoratori (noțiuni introductive)
      - Claudiu Popa
-   * - 13:30   13:45
+   * - 13:30 - 13:45
      - Unit testing (noțiuni introductive)
      - Claudiu Popa
-   * - 13:45 14:00
+   * - 13:45 - 14:00
      - Element surpriză
      - Claudiu Popa
      
 Programul de sâmbătă este:
 
 .. list-table::
-   :widths: 15 10 30
+   :widths: 15 30 15
    :header-rows: 1
    
    * - Ora
      - Activitate
      - Speaker
-   * - 09:00    10:00
+   * - 09:00 - 10:00
      - Primirea participanților
      - 
-   * - 10:00    10:45
+   * - 10:00 - 10:45
      - Introducere în paradigma REST
      - Sabin Buraga
-   * - 10:45    11:15
+   * - 10:45 - 11:15
      - Framework-ul Cherrypy
      - Alexandru Coman
-   * - 11:15    11:30
+   * - 11:15 - 11:30
      - Pauză
      -
-   * - 11:30    12:30
+   * - 11:30 - 12:30
      - Django REST Framework
      - Claudiu Popa
-   * - 12:30    13:00
+   * - 12:30 - 13:00
      - ORM-uri
      - Cosmin Poieană
-   * - 13:00    14:15
+   * - 13:00 - 14:15
      - Pauză de masă
      -
-   * - 14:15    14:30
+   * - 14:15 - 14:30
      - Standarde de scriere
      - Alexandru Coman
-   * - 14:30    14:45
+   * - 14:30 - 14:45
      - Formarea echipelor
      -
-   * - 15:00    19:00
+   * - 15:00 - 19:00
      - Workshop
      -
    * - 20:00
