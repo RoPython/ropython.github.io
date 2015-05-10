@@ -58,3 +58,6 @@ body > .container {
     font-size: 80%;
     margin: 0;
 }
+.sitename {
+    margin: 15px;
+}

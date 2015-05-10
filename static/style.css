@@ -42,6 +42,14 @@ h1 + p.date {
     font-style: italic;
 }
 
+.sitename {
+    text-indent: -100em;
+    background: url(ropython-logo2.png);
+    width: 170px;
+    height: 66px;
+    display: inline-block;
+}
+
 
 /* margins and stuff */
 p, div.line-block, ul, ol, pre, table {
