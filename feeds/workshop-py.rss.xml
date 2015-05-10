@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ropython.org</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/workshop-py.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 31 May 2014 00:00:00 +0300</lastBuildDate><item><title>Workshop #1 - Python pentru dezvoltarea aplicațiilor web</title><link>http://ropython.org/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</link><description>&lt;p&gt;HTTP/1.1 201 Workshop created
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ropython.org</title><link>http://ropython.github.io/ropython-site/</link><description></description><atom:link href="http://ropython.github.io/ropython-site/feeds/workshop-py.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 31 May 2014 00:00:00 +0300</lastBuildDate><item><title>Workshop #1 - Python pentru dezvoltarea aplicațiilor web</title><link>http://ropython.github.io/ropython-site/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</link><description>&lt;p&gt;HTTP/1.1 201 Workshop created
 Date: SAT, 31 May 2014 10:00:00 GMT
 Location: Facultatea de informatică
 Content-Type: application/PythonWeb
@@ -115,4 +115,4 @@ Pentru că vrem ca fiecare participant să câștige cât mai multă experienț�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Grupul RoPython vă așteaptă cu drag!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 31 May 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-05-31:2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</guid><category>workshop-py</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 31 May 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-05-31:ropython-site/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</guid><category>workshop-py</category></item></channel></rss>

@@ -4,280 +4,280 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://ropython.org/</loc>
-<lastmod>2015-05-10T21:13:41-00:00</lastmod>
+<loc>http://ropython.github.io/ropython-site/</loc>
+<lastmod>2015-05-10T21:37:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/05/09/sprint-7/</loc>
+<loc>http://ropython.github.io/ropython-site/2015/05/09/sprint-7/</loc>
 <lastmod>2015-05-09T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/05/05/ropython-timisoara-1/</loc>
+<loc>http://ropython.github.io/ropython-site/2015/05/05/ropython-timisoara-1/</loc>
 <lastmod>2015-05-05T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/04/25/sprint-6/</loc>
+<loc>http://ropython.github.io/ropython-site/2015/04/25/sprint-6/</loc>
 <lastmod>2015-04-25T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/04/23/fireside-chat-with-michael-foord/</loc>
+<loc>http://ropython.github.io/ropython-site/2015/04/23/fireside-chat-with-michael-foord/</loc>
 <lastmod>2015-04-23T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/04/11/sprint-5/</loc>
+<loc>http://ropython.github.io/ropython-site/2015/04/11/sprint-5/</loc>
 <lastmod>2015-04-11T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/03/28/sprint-4/</loc>
+<loc>http://ropython.github.io/ropython-site/2015/03/28/sprint-4/</loc>
 <lastmod>2015-03-28T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/03/14/sprint-3/</loc>
+<loc>http://ropython.github.io/ropython-site/2015/03/14/sprint-3/</loc>
 <lastmod>2015-03-14T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/02/28/sprint-2/</loc>
+<loc>http://ropython.github.io/ropython-site/2015/02/28/sprint-2/</loc>
 <lastmod>2015-02-28T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/02/25/pytim-7/</loc>
+<loc>http://ropython.github.io/ropython-site/2015/02/25/pytim-7/</loc>
 <lastmod>2015-02-25T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/02/14/sprint-pylint/</loc>
+<loc>http://ropython.github.io/ropython-site/2015/02/14/sprint-pylint/</loc>
 <lastmod>2015-02-14T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/11/20/extending-python-in-c/</loc>
+<loc>http://ropython.github.io/ropython-site/2014/11/20/extending-python-in-c/</loc>
 <lastmod>2014-11-20T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/</loc>
+<loc>http://ropython.github.io/ropython-site/2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/</loc>
 <lastmod>2014-10-14T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/10/01/ask-py-in-expeditie/</loc>
+<loc>http://ropython.github.io/ropython-site/2014/10/01/ask-py-in-expeditie/</loc>
 <lastmod>2014-10-01T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/07/23/ask-py-elemente-introductive/</loc>
+<loc>http://ropython.github.io/ropython-site/2014/07/23/ask-py-elemente-introductive/</loc>
 <lastmod>2014-07-23T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/07/17/decorators-and-workflows/</loc>
+<loc>http://ropython.github.io/ropython-site/2014/07/17/decorators-and-workflows/</loc>
 <lastmod>2014-07-17T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/07/16/ask-py-curiozitati/</loc>
+<loc>http://ropython.github.io/ropython-site/2014/07/16/ask-py-curiozitati/</loc>
 <lastmod>2014-07-16T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/07/01/pytim-6/</loc>
+<loc>http://ropython.github.io/ropython-site/2014/07/01/pytim-6/</loc>
 <lastmod>2014-07-01T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/06/12/python-and-emberjs/</loc>
+<loc>http://ropython.github.io/ropython-site/2014/06/12/python-and-emberjs/</loc>
 <lastmod>2014-06-12T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</loc>
+<loc>http://ropython.github.io/ropython-site/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</loc>
 <lastmod>2014-05-31T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/02/20/machine-learning-in-python/</loc>
+<loc>http://ropython.github.io/ropython-site/2014/02/20/machine-learning-in-python/</loc>
 <lastmod>2014-02-20T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/02/11/pytim-5/</loc>
+<loc>http://ropython.github.io/ropython-site/2014/02/11/pytim-5/</loc>
 <lastmod>2014-02-11T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2013/11/12/pytim-4/</loc>
+<loc>http://ropython.github.io/ropython-site/2013/11/12/pytim-4/</loc>
 <lastmod>2013-11-12T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2013/10/09/pytim-3/</loc>
+<loc>http://ropython.github.io/ropython-site/2013/10/09/pytim-3/</loc>
 <lastmod>2013-10-09T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2013/10/03/task-queues-and-components-architecture/</loc>
+<loc>http://ropython.github.io/ropython-site/2013/10/03/task-queues-and-components-architecture/</loc>
 <lastmod>2013-10-03T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2013/08/01/python-cluj-first-meetup/</loc>
+<loc>http://ropython.github.io/ropython-site/2013/08/01/python-cluj-first-meetup/</loc>
 <lastmod>2013-08-01T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2013/07/09/pytim-2/</loc>
+<loc>http://ropython.github.io/ropython-site/2013/07/09/pytim-2/</loc>
 <lastmod>2013-07-09T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2013/06/29/python-basics-training/</loc>
+<loc>http://ropython.github.io/ropython-site/2013/06/29/python-basics-training/</loc>
 <lastmod>2013-06-29T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2013/06/04/pytim-1/</loc>
+<loc>http://ropython.github.io/ropython-site/2013/06/04/pytim-1/</loc>
 <lastmod>2013-06-04T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/cluj/</loc>
+<loc>http://ropython.github.io/ropython-site/cluj/</loc>
 <lastmod>2015-04-23T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/iasi/</loc>
+<loc>http://ropython.github.io/ropython-site/iasi/</loc>
 <lastmod>2014-07-23T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/national/</loc>
+<loc>http://ropython.github.io/ropython-site/national/</loc>
 <lastmod>2015-05-09T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/timisoara/</loc>
+<loc>http://ropython.github.io/ropython-site/timisoara/</loc>
 <lastmod>2015-05-05T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/forma/unknown/</loc>
-<lastmod>2015-05-05T00:00:00+01:44</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://ropython.org/forma/meetup/</loc>
-<lastmod>2013-08-01T00:00:00+01:44</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://ropython.org/forma/ask-py/</loc>
-<lastmod>2014-10-01T00:00:00+01:44</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://ropython.org/forma/prezentari/</loc>
+<loc>http://ropython.github.io/ropython-site/forma/prezentari/</loc>
 <lastmod>2014-07-17T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/forma/sprint/</loc>
+<loc>http://ropython.github.io/ropython-site/forma/sprint/</loc>
 <lastmod>2015-05-09T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/forma/workshop-py/</loc>
+<loc>http://ropython.github.io/ropython-site/forma/unknown/</loc>
+<lastmod>2015-05-05T00:00:00+01:44</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.github.io/ropython-site/forma/workshop-py/</loc>
 <lastmod>2014-05-31T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/organizator/echipa-ropython/</loc>
+<loc>http://ropython.github.io/ropython-site/forma/meetup/</loc>
+<lastmod>2013-08-01T00:00:00+01:44</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.github.io/ropython-site/forma/ask-py/</loc>
+<lastmod>2014-10-01T00:00:00+01:44</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.github.io/ropython-site/organizator/echipa-ropython/</loc>
 <lastmod>2015-05-09T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>

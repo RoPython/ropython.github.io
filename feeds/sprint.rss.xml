@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ropython.org</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/sprint.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 09 May 2015 00:00:00 +0300</lastBuildDate><item><title>Sprint #7</title><link>http://ropython.org/2015/05/09/sprint-7/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ropython.org</title><link>http://ropython.github.io/ropython-site/</link><description></description><atom:link href="http://ropython.github.io/ropython-site/feeds/sprint.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 09 May 2015 00:00:00 +0300</lastBuildDate><item><title>Sprint #7</title><link>http://ropython.github.io/ropython-site/2015/05/09/sprint-7/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -14,7 +14,7 @@
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 09 May 2015 00:00:00 +0300</pubDate><guid>tag:ropython.org,2015-05-09:2015/05/09/sprint-7/</guid><category>sprint</category></item><item><title>Sprint #6</title><link>http://ropython.org/2015/04/25/sprint-6/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 09 May 2015 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2015-05-09:ropython-site/2015/05/09/sprint-7/</guid><category>sprint</category></item><item><title>Sprint #6</title><link>http://ropython.github.io/ropython-site/2015/04/25/sprint-6/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -29,7 +29,7 @@
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 25 Apr 2015 00:00:00 +0300</pubDate><guid>tag:ropython.org,2015-04-25:2015/04/25/sprint-6/</guid><category>sprint</category></item><item><title>Sprint #5</title><link>http://ropython.org/2015/04/11/sprint-5/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 25 Apr 2015 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2015-04-25:ropython-site/2015/04/25/sprint-6/</guid><category>sprint</category></item><item><title>Sprint #5</title><link>http://ropython.github.io/ropython-site/2015/04/11/sprint-5/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -44,12 +44,12 @@
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 +0300</pubDate><guid>tag:ropython.org,2015-04-11:2015/04/11/sprint-5/</guid><category>sprint</category></item><item><title>Sprint #4</title><link>http://ropython.org/2015/03/28/sprint-4/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 28 Mar 2015 00:00:00 +0200</pubDate><guid>tag:ropython.org,2015-03-28:2015/03/28/sprint-4/</guid><category>sprint</category></item><item><title>Sprint #3</title><link>http://ropython.org/2015/03/14/sprint-3/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 14 Mar 2015 00:00:00 +0200</pubDate><guid>tag:ropython.org,2015-03-14:2015/03/14/sprint-3/</guid><category>sprint</category></item><item><title>Sprint #2</title><link>http://ropython.org/2015/02/28/sprint-2/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2015-04-11:ropython-site/2015/04/11/sprint-5/</guid><category>sprint</category></item><item><title>Sprint #4</title><link>http://ropython.github.io/ropython-site/2015/03/28/sprint-4/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 28 Mar 2015 00:00:00 +0200</pubDate><guid>tag:ropython.github.io,2015-03-28:ropython-site/2015/03/28/sprint-4/</guid><category>sprint</category></item><item><title>Sprint #3</title><link>http://ropython.github.io/ropython-site/2015/03/14/sprint-3/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 14 Mar 2015 00:00:00 +0200</pubDate><guid>tag:ropython.github.io,2015-03-14:ropython-site/2015/03/14/sprint-3/</guid><category>sprint</category></item><item><title>Sprint #2</title><link>http://ropython.github.io/ropython-site/2015/02/28/sprint-2/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
 &lt;p&gt;Cu scaun avem doar ~12 locuri asigurate :)&lt;/p&gt;
 &lt;p&gt;Pizza și băuturile sunt asigurate.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 28 Feb 2015 00:00:00 +0200</pubDate><guid>tag:ropython.org,2015-02-28:2015/02/28/sprint-2/</guid><category>sprint</category></item><item><title>Sprint #1 (Pylint)</title><link>http://ropython.org/2015/02/14/sprint-pylint/</link><description>&lt;p&gt;Pentru că e foarte frig la început de 2015 facem un Sprint de Pylint.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 28 Feb 2015 00:00:00 +0200</pubDate><guid>tag:ropython.github.io,2015-02-28:ropython-site/2015/02/28/sprint-2/</guid><category>sprint</category></item><item><title>Sprint #1 (Pylint)</title><link>http://ropython.github.io/ropython-site/2015/02/14/sprint-pylint/</link><description>&lt;p&gt;Pentru că e foarte frig la început de 2015 facem un Sprint de Pylint.
 Pylint este cel mai cuprinzător verificator de cod disponibil pentru
 Python, este extensibil, configurabil și este folosit în foarte multe
 locuri. El ne ajută să scriem cod mai corect sau mai frumos.&lt;/p&gt;
@@ -74,4 +74,4 @@ plugin.&lt;/li&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id1"&gt;[1]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Să aveți experienta de lucru cu un proiect Python.&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 14 Feb 2015 00:00:00 +0200</pubDate><guid>tag:ropython.org,2015-02-14:2015/02/14/sprint-pylint/</guid><category>sprint</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 14 Feb 2015 00:00:00 +0200</pubDate><guid>tag:ropython.github.io,2015-02-14:ropython-site/2015/02/14/sprint-pylint/</guid><category>sprint</category></item></channel></rss>
