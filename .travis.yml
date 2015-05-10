@@ -9,6 +9,7 @@ before_install:
 - chmod u=rw,og= ~/.ssh/ropython-site-publisher
 - echo "Host github.com" >> ~/.ssh/config
 - echo "  IdentityFile ~/.ssh/ropython-site-publisher" >> ~/.ssh/config
+- git --version
 - git remote set-url origin git@github.com:RoPython/ropython-site.git
 install:
 - pip install tox
