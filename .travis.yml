@@ -19,5 +19,5 @@ cache:
   - .tox
 script:
 - tox -e build -- ghp
-- git fetch origin gh-pages
+- git fetch origin -f gh-pages:gh-pages
 - tox -e publish
