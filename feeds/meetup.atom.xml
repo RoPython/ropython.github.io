@@ -1,4 +1,203 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ropython.org</title><link href="http://ropython.github.io/ropython-site/" rel="alternate"></link><link href="http://ropython.github.io/ropython-site/feeds/meetup.atom.xml" rel="self"></link><id>http://ropython.github.io/ropython-site/</id><updated>2013-08-01T00:00:00+03:00</updated><entry><title>Python Cluj first meetup</title><link href="http://ropython.github.io/ropython-site/2013/08/01/python-cluj-first-meetup/" rel="alternate"></link><updated>2013-08-01T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2013-08-01:ropython-site/2013/08/01/python-cluj-first-meetup/</id><summary type="html">&lt;p&gt;Just an informal meeting in a bar so we can get to know other Python
-fans in Cluj and what they have to share&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ropython.org</title><link href="http://ropython.github.io/ropython-site/" rel="alternate"></link><link href="http://ropython.github.io/ropython-site/feeds/meetup.atom.xml" rel="self"></link><id>http://ropython.github.io/ropython-site/</id><updated>2015-05-05T00:00:00+03:00</updated><entry><title>RoPython Timisoara #1</title><link href="http://ropython.github.io/ropython-site/2015/05/05/ropython-timisoara-1/" rel="alternate"></link><updated>2015-05-05T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2015-05-05:ropython-site/2015/05/05/ropython-timisoara-1/</id><summary type="html">&lt;p&gt;Vă invităm la prima ediție a RoPython Timișoara, întâlnirea pasionaților
+de Python din Timișoara. La această întâlnire, avem un invitat special -
+Claudiu Popa. El este core maintainer la Pylint, co-fondator RoPython și
+un membru foarte activ al comunității de Python.&lt;/p&gt;
+&lt;p&gt;Avem programate 3 prezentări legate de Celery, Ansible și RPython.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;18:30 - 19:00 &lt;em&gt;Andrei Coman - Intro în Celery&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;19:10 - 19:40 &lt;em&gt;Robert Tingirică - Ansible, introducere și studiu de caz&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;19:50 - 20:20 &lt;em&gt;Claudiu Popa - Cum să îți construiești un limbaj folosind RPython&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;După eveniment vă așteptăm să mai rămâneți prin preajmă, și să veniți cu
+noi la o bere / suc, să povestim mai multe despre experiențele noastre
+cu limbajul si despre proiectele în Python la care am lucrat.&lt;/p&gt;
+&lt;p&gt;Ne vedem marți la &lt;a class="reference external" href="https://www.facebook.com/uvtromania"&gt;Universitatea de Vest din Timisoara&lt;/a&gt;, Amfiteatrul A02!&lt;/p&gt;
+</summary><category term="Meetup"></category></entry><entry><title>PyTim #7</title><link href="http://ropython.github.io/ropython-site/2015/02/25/pytim-7/" rel="alternate"></link><updated>2015-02-25T00:00:00+02:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2015-02-25:ropython-site/2015/02/25/pytim-7/</id><summary type="html">&lt;p&gt;Welcome to PyTim #7. This meetup marks our affiliation to the
+&lt;a class="reference external" href="http://ropython.org"&gt;RoPython&lt;/a&gt; national initiative which has similar
+events in Cluj, Iasi and Bucharest (more on this and a potential
+RoPython national conference at the meetup).&lt;/p&gt;
+&lt;p&gt;We will have 3 talks covering Python, open source and cloud automation.&lt;/p&gt;
+&lt;p&gt;Here is the Agenda:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;18:30 - 19:10 Adelina Tuvenie (&lt;a class="reference external" href="http://www.cloudbase.it"&gt;Cloudbase Solutions&lt;/a&gt;) - Automation as a Service with StackStorm&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;19:00 - 19:10 Coffee Break&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;19:10 - 19:40 Radu Ciorba (&lt;a class="reference external" href="http://www.3pillarglobal.com"&gt;3Pillar Global&lt;/a&gt;) - TBA&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;19:40 - 19:50 Coffee Break&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;19:50 - 20:15 Vlad Temian (&lt;a class="reference external" href="http://www.presslabs.com"&gt;PressLabs&lt;/a&gt;) - GitFS&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Session descriptions coming soon.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The new venue is Timisoara Startup Hub and the date is February 25!&lt;/p&gt;
+&lt;p&gt;See you there.&lt;/p&gt;
+</summary><category term="Meetup"></category></entry><entry><title>Extending Python in C</title><link href="http://ropython.github.io/ropython-site/2014/11/20/extending-python-in-c/" rel="alternate"></link><updated>2014-11-20T00:00:00+02:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-11-20:ropython-site/2014/11/20/extending-python-in-c/</id><summary type="html">&lt;p&gt;One reason for Python's popularity (and a reason for many of its quirks
+...) is its strong ties to the C programming language. CPython, the
+reference Python interpreter, allows advanced users to interact with the
+interpreter's inner workings, and extend the Python language with code
+written in C.&lt;/p&gt;
+&lt;p&gt;This talk gives a very high-level overview of the CPython C API, and
+shows how to build a C extension in a few steps. It then discusses a
+popular use case for C extensions - optimizing performance of your
+Python programs! Finally we're gonna look at some modern alternatives to
+getting more performance out of your Python code, e.g. Cython.&lt;/p&gt;
+&lt;p&gt;About Steffen Wenz:&lt;/p&gt;
+&lt;blockquote&gt;
+Steffen is the CTO of TrustYou (with offices in Cluj and Munich).
+TrustYou crawls and semantically analyzes all hotel reviews, and then
+generates a human-readable summary for each hotel on the planet. Did
+guests like the service? Was the location OK? Chances are you've seen
+our data on one of the many websites we license it to - among them Kayak
+and Google :) TrustYou is a Python company. We use Hadoop streaming and
+Pyspark to bring Python to the big data era. Steffen has been with
+TrustYou since 2008. His master thesis laid the foundation for
+TrustYou's scalable semantic analysis, which today understands 20
+languages natively.&lt;/blockquote&gt;
+</summary><category term="Meetup"></category></entry><entry><title>CloudTim Panel discussion: Dynamic Programming Languages in the Cloud</title><link href="http://ropython.github.io/ropython-site/2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/" rel="alternate"></link><updated>2014-10-14T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-10-14:ropython-site/2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://www.unifiedpost.ro"&gt;UnifiedPost&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a class="reference external" href="http://www.cloudbase.it"&gt;Cloudbase&amp;nbsp;Solutions&lt;/a&gt;&amp;nbsp;have
+teamed up for a cross-community meetup that will take the form of a
+panel discussion on a very hot topic:&amp;nbsp;dynamic programming languages in
+the cloud.&lt;/p&gt;
+&lt;p&gt;Please vote for the most interesting questions you'd like to see
+addressed during the meetup. &lt;a class="reference external" href="http://www.meetup.com/CloudTim/polls/1170162/"&gt;Please vote HERE.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The discussion will take a closer look at the Key Performance Indicators
+and the key architectural principles for cloud application development.
+Based on audience voted questions, we will talk about the role of
+dynamic and static languages in cloud application development and best
+practices in cloud development.&lt;/p&gt;
+&lt;p&gt;We will have the following panellists:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Koen Handekyn&amp;nbsp;- CTO at&amp;nbsp;&lt;a class="reference external" href="http://www.unifiedpost.com/"&gt;UnifiedPost&lt;/a&gt;&amp;nbsp;and Head of UP-nxt,
+UnifiedPost's R&amp;amp;D branch in cooperation with the Belgian universities of
+Leuven and Gent.&lt;/li&gt;
+&lt;li&gt;Lucian Petrut&amp;nbsp;- Software Developer at&amp;nbsp;&lt;a class="reference external" href="http://www.cloudbase.it/"&gt;Cloudbase Solutions&lt;/a&gt;, committed to bringing
+interoperability in the Cloud Computing world, OpenStack and Python
+enthusiast.&lt;/li&gt;
+&lt;li&gt;Valentin Bud&amp;nbsp;– Systems Engineer at &lt;a class="reference external" href="http://www.databus.ro/"&gt;Databus&lt;/a&gt;, entrepreneur, Cloud Computing
+enthusiast. He enjoys smart people, interesting conversation and things
+well done.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More panelists are in the process of confirming their attendance to our
+event, so keep an eye on this space for regular updates on our speakers
+and the questions they will be debating.&lt;/p&gt;
+</summary><category term="Meetup"></category></entry><entry><title>Decorators and Workflows</title><link href="http://ropython.github.io/ropython-site/2014/07/17/decorators-and-workflows/" rel="alternate"></link><updated>2014-07-17T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-07-17:ropython-site/2014/07/17/decorators-and-workflows/</id><summary type="html">&lt;p&gt;La a 2-a ediție de vară vor prezenta:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Ionel Cristian Mărieș: Tot ce nu vroiai să știi despre decoratori&lt;/li&gt;
+&lt;li&gt;Sever Băneșiu: Flowy, easy SWF workflows (swf: &lt;a class="reference external" href="http://aws.amazon.com/swf/"&gt;http://aws.amazon.com/swf/&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Evenimentul este găzduit de Cluj Hub. Va fi o taxa de protocol de 20RON. 15RON pentru primii 5.&lt;/p&gt;
+</summary><category term="Meetup"></category></entry><entry><title>PyTim #6</title><link href="http://ropython.github.io/ropython-site/2014/07/01/pytim-6/" rel="alternate"></link><updated>2014-07-01T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-07-01:ropython-site/2014/07/01/pytim-6/</id><summary type="html">&lt;p&gt;Welcome to the 6th edition of #PyTim, the Python meetup in Timisoara.&lt;/p&gt;
+&lt;p&gt;In this edition we will have 2 sessions talking about open source
+projects developed using Python and Go.&lt;/p&gt;
+&lt;p&gt;Here is the Agenda:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;18:30 - 19:10 &lt;em&gt;Gabriel Adrian Samfira&lt;/em&gt; (Cloudbase Solutions) - Automating Windows workloads with Juju and MAAS&lt;/li&gt;
+&lt;li&gt;19:10 - 19:30 Coffee Break&lt;/li&gt;
+&lt;li&gt;19:30 - 20:10 &lt;em&gt;Bogdan Gaza&lt;/em&gt; - Taming Cloud Infrastructures with Python and Docker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The venue and format remain the same as in previous meetups. Please
+spread the word and let people know about #PyTim.&lt;/p&gt;
+&lt;p&gt;See you on July 1!&lt;/p&gt;
+&lt;p&gt;#Juju #Go #MAAS #Docker #HyperV #Python #opensource #meetup #Timisoara&lt;/p&gt;
+</summary><category term="Meetup"></category></entry><entry><title>Python and Ember.js</title><link href="http://ropython.github.io/ropython-site/2014/06/12/python-and-emberjs/" rel="alternate"></link><updated>2014-06-12T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-06-12:ropython-site/2014/06/12/python-and-emberjs/</id><summary type="html">&lt;p&gt;Python and Ember.js - Super Fast (and Testable!) Frontend&lt;/p&gt;
+&lt;p&gt;FREE BEER and PIZZA while showcasing the testable, Embjer.js on top of
+a Python backend.&lt;/p&gt;
+&lt;p&gt;Create super fast and testable front end on top of your Python.&lt;/p&gt;
+&lt;p&gt;by Stas Suscov and Flaviu Simihaian&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image0" src="http://photos2.meetupstatic.com/photos/event/5/4/e/e/global_199941742.jpeg" /&gt;&lt;/p&gt;
+</summary><category term="Meetup"></category></entry><entry><title>Machine Learning in Python</title><link href="http://ropython.github.io/ropython-site/2014/02/20/machine-learning-in-python/" rel="alternate"></link><updated>2014-02-20T00:00:00+02:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-02-20:ropython-site/2014/02/20/machine-learning-in-python/</id><summary type="html">&lt;p&gt;Hello Pythonistas!&lt;/p&gt;
+&lt;p&gt;After a long break we'll meet again! This time the topic is machine
+learning, one of Python's favorite use cases. Radu Marius Florin and
+Roland Szabo will tell us more about it. After the meetup we'll go for a
+drinkup to get to know each other better ...&lt;/p&gt;
+&lt;p&gt;The event will be hosted by Cluj Hub, where freelancers usually meet.&lt;/p&gt;
+</summary><category term="Meetup"></category></entry><entry><title>PyTim #5</title><link href="http://ropython.github.io/ropython-site/2014/02/11/pytim-5/" rel="alternate"></link><updated>2014-02-11T00:00:00+02:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-02-11:ropython-site/2014/02/11/pytim-5/</id><summary type="html">&lt;p&gt;Happy New Year from behalf of PyTim!&lt;/p&gt;
+&lt;p&gt;The first #Python meetup of 2014 will take place on February 11. The
+format is the same as in the previous meet ups.&lt;/p&gt;
+&lt;p&gt;Here is the Agenda:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Radu Ciorba (&lt;a class="reference external" href="https://www.facebook.com/ThreePillarGlobal"&gt;3Pillar Global Romania&lt;/a&gt;) - &amp;quot;Concurrency in Python Overview: Processes, Threads and Greenlets&amp;quot;&lt;/li&gt;
+&lt;li&gt;Adam Collard (&lt;a class="reference external" href="https://www.facebook.com/pages/Canonical-Ltd/112304012115618"&gt;Canonical Ltd&lt;/a&gt;) - &amp;quot;Python 3.4. What's coming?&amp;quot;&lt;/li&gt;
+&lt;li&gt;Alessandro Pilotti (&lt;a class="reference external" href="https://www.facebook.com/CloudbaseSolutions"&gt;Cloudbase Solutions&lt;/a&gt;) - &amp;quot;Interoperable OpenStack guest initialization with Python&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Each presentation will last around 30 minutes + Q/A. There will be
+short, 10 minute coffee breaks in between sessions.&lt;/p&gt;
+&lt;p&gt;Thanks,&lt;/p&gt;
+&lt;p&gt;See you on February 11!&lt;/p&gt;
+</summary><category term="Meetup"></category></entry><entry><title>PyTim #4</title><link href="http://ropython.github.io/ropython-site/2013/11/12/pytim-4/" rel="alternate"></link><updated>2013-11-12T00:00:00+02:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2013-11-12:ropython-site/2013/11/12/pytim-4/</id><summary type="html">&lt;p&gt;Welcome to the 4th #Python community #meetup in #Timisoara.&lt;/p&gt;
+&lt;p&gt;At PyTim #4 we will have 3 talks held by local developers, covering the
+following topics:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;18:30 - 19:10 Vlad Temian (&lt;a class="reference external" href="https://www.facebook.com/PressLabs?directed_target_id=0"&gt;PressLabs&lt;/a&gt;) - A Python Web Service&lt;/li&gt;
+&lt;li&gt;19:10 - 19:20 Dan Bugariu - OpenData &amp;amp; CityProjects communities / Python Hackaton opportunity&lt;/li&gt;
+&lt;li&gt;19:40 - 20:20 Dan Damian (&lt;a class="reference external" href="https://www.facebook.com/mindquilt?directed_target_id=0"&gt;MindQuilt&lt;/a&gt;) - Application Deployment using SaltStack &amp;amp; Fabric&lt;/li&gt;
+&lt;li&gt;20:20 - 21:00 Gabriel Adrian Samfira (&lt;a class="reference external" href="https://www.facebook.com/CloudbaseSolutions?ref=hl&amp;amp;directed_target_id=0"&gt;Cloudbase Solutions&lt;/a&gt;) - Distributed Tasks using Python and AMQP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See you on November 12!&lt;/p&gt;
+</summary><category term="Meetup"></category></entry><entry><title>PyTim #3</title><link href="http://ropython.github.io/ropython-site/2013/10/09/pytim-3/" rel="alternate"></link><updated>2013-10-09T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2013-10-09:ropython-site/2013/10/09/pytim-3/</id><summary type="html">&lt;p&gt;Now that developers have come back from holiday and the University has
+started we will continue our regular meetup schedule with PyTim #3.&lt;/p&gt;
+&lt;p&gt;We will have 3 technical talks held by local developers who will share
+from their experience working on large scale Python projects.&lt;/p&gt;
+&lt;div class="section" id="agenda-speakers"&gt;
+&lt;h2&gt;Agenda &amp;amp; Speakers&lt;a class="headerlink" href="#agenda-speakers" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;18:30 - 19:10 &lt;em&gt;Mihai Balint&lt;/em&gt; (Cmed Technology) / Test Fixture Deployment with Docker Containers&lt;/li&gt;
+&lt;li&gt;19:10 - 19:50 &lt;em&gt;Robert Tingirica&lt;/em&gt; (&lt;a class="reference external" href="https://www.facebook.com/CloudbaseSolutions/events?ref=hl&amp;amp;directed_target_id=0"&gt;Cloudbase Solutions&lt;/a&gt;) / Unit Testing in Python&lt;/li&gt;
+&lt;li&gt;20:10 - 21:00 &lt;em&gt;Sever Banesiu&lt;/em&gt; &amp;amp; &lt;em&gt;Peter Horvath&lt;/em&gt; (&lt;a class="reference external" href="https://www.facebook.com/ThreePillarGlobal?directed_target_id=0"&gt;3Pillar Global Romania&lt;/a&gt;) / Zope Component Architecture / Flowy Library for Amazon Simple Workflow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See you on October 9!&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="Meetup"></category></entry><entry><title>Task queues and components architecture</title><link href="http://ropython.github.io/ropython-site/2013/10/03/task-queues-and-components-architecture/" rel="alternate"></link><updated>2013-10-03T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2013-10-03:ropython-site/2013/10/03/task-queues-and-components-architecture/</id><summary type="html">&lt;p&gt;I invite you to the 2nd Cluj Pythonistas meetup where two of the best
+Python developers I know will tell you about subjects that they love:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Celery introduction - Ionel Cristian Mărieș&lt;/li&gt;
+&lt;li&gt;Zope Component Architecture - Sever Băneșiu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The event's host is Cluj Cowork and the recommended contribution for
+that is 10 lei. See you there ...&lt;/p&gt;
+&lt;p&gt;P.S. Ring at &amp;quot;Ruby tribe&amp;quot; when you arrive.&lt;/p&gt;
+</summary><category term="Meetup"></category></entry><entry><title>PyTim #2</title><link href="http://ropython.github.io/ropython-site/2013/07/09/pytim-2/" rel="alternate"></link><updated>2013-07-09T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2013-07-09:ropython-site/2013/07/09/pytim-2/</id><summary type="html">&lt;p&gt;After an extremely interesting first meetup we would like to continue in
+the same direction with PyTim #2.&lt;/p&gt;
+&lt;p&gt;We will have some technical talks and provide an insight to the
+Europython 2013 conference happening now in Florence - &lt;a class="reference external" href="https://ep2013.europython.eu/"&gt;https://ep2013.europython.eu/&lt;/a&gt; &lt;a class="reference external" href="https://ep2013.europython.eu/p3/live/"&gt;https://ep2013.europython.eu/p3/live/&lt;/a&gt;&lt;/p&gt;
+&lt;div class="section" id="agenda-speakers"&gt;
+&lt;h2&gt;Agenda &amp;amp; Speakers&lt;a class="headerlink" href="#agenda-speakers" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;18:30 - 19:00 Laura Feier &amp;amp; Andrei Coman - &amp;quot;Python at 3Pillar Global&amp;quot;&lt;/li&gt;
+&lt;li&gt;19:00 - 20:00 Bogdan Gaza - &amp;quot;Realtime Webapps in Python&amp;quot;&lt;/li&gt;
+&lt;li&gt;20:00 - 21:00 Bogdan Hodorog, Radu Ciorba, Adam Collard, Slavita Baciuna - &amp;quot;Bringing Europython in Timisoara&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See you at the event!&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="Meetup"></category></entry><entry><title>Python Basics Training</title><link href="http://ropython.github.io/ropython-site/2013/06/29/python-basics-training/" rel="alternate"></link><updated>2013-06-29T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2013-06-29:ropython-site/2013/06/29/python-basics-training/</id><summary type="html">&lt;p&gt;PyTim is organizing a Python training for beginners.&lt;/p&gt;
+&lt;p&gt;We invite you to learn the basics of Python from some of the most
+experienced developers in Timisoara.&lt;/p&gt;
+&lt;p&gt;The event will take place on June 29, at the Startup Hub, starting from
+14:00.&lt;/p&gt;
+&lt;p&gt;Speakers:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.facebook.com/vladtemian?directed_target_id=0"&gt;Vlad Temian&lt;/a&gt; - SimplySocial&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.facebook.com/adrian.vladu.3?directed_target_id=0"&gt;Adrian Vladu&lt;/a&gt; - Cloudbase Solutions&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.facebook.com/ai.cucu?directed_target_id=0"&gt;Ioan Alexandru Cucu&lt;/a&gt; - 3Pillar Global&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.facebook.com/tomoroga?directed_target_id=0"&gt;Andrei Tomoroga&lt;/a&gt; - MindQuilt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can find the Agenda here - &lt;a class="reference external" href="http://bit.ly/122dDfJ"&gt;http://bit.ly/122dDfJ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bring your laptops, you will need them. Please install Python 2.7 (&lt;a class="reference external" href="http://www.python.org/download/"&gt;http://www.python.org/download/&lt;/a&gt;) and an editor with Syntax Highlightling (eg: Notepad++, Vim, Sublime,
+etc).&lt;/p&gt;
+</summary><category term="Meetup"></category></entry><entry><title>PyTim #1</title><link href="http://ropython.github.io/ropython-site/2013/06/04/pytim-1/" rel="alternate"></link><updated>2013-06-04T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2013-06-04:ropython-site/2013/06/04/pytim-1/</id><summary type="html">&lt;p&gt;First PyTim meetup.&lt;/p&gt;
+&lt;p&gt;We will talk about local products developed in Python and why local
+developers / companies have chosen Python. Also, what is the most
+interesting facet of using Python on each of these products.&lt;/p&gt;
+&lt;p&gt;There will be 4 presentations / tech talks held by:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Adam Collard (Cmed Technology) - &amp;quot;Coding to cure cancer, Python in pharma&amp;quot;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.facebook.com/alessandro.pilotti?directedarget_id=0"&gt;Alessandro Pilotti&lt;/a&gt; (Cloudbase Solutions) - &amp;quot;Python and OpenStack&amp;quot;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.facebook.com/hurrycane?directed_target_id=0"&gt;Bogdan Gaza&lt;/a&gt; (SimplySocial) - &amp;quot;Weightlifting at SimplySocial&amp;quot;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.facebook.com/dandamian?directed_target_id=0"&gt;Dan Damian&lt;/a&gt; (MindQuilt)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See you on June 4!&lt;/p&gt;
 </summary><category term="Meetup"></category></entry></feed>

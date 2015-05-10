@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ropython.github.io/ropython-site/</loc>
-<lastmod>2015-05-10T20:51:41-00:00</lastmod>
+<lastmod>2015-05-10T22:57:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -186,13 +186,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.github.io/ropython-site/2013/08/01/python-cluj-first-meetup/</loc>
-<lastmod>2013-08-01T00:00:00+03:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://ropython.github.io/ropython-site/2013/07/09/pytim-2/</loc>
 <lastmod>2013-07-09T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -228,7 +221,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.github.io/ropython-site/national/</loc>
+<loc>http://ropython.github.io/ropython-site/online/</loc>
 <lastmod>2015-05-09T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -242,29 +235,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.github.io/ropython-site/forma/unknown/</loc>
-<lastmod>2015-05-05T00:00:00+01:44</lastmod>
+<loc>http://ropython.github.io/ropython-site/forma/intalniri/</loc>
+<lastmod>2015-04-23T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.github.io/ropython-site/forma/ask-py/</loc>
-<lastmod>2014-10-01T00:00:00+01:44</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://ropython.github.io/ropython-site/forma/prezentari/</loc>
-<lastmod>2014-07-17T00:00:00+01:44</lastmod>
+<loc>http://ropython.github.io/ropython-site/forma/workshop-py/</loc>
+<lastmod>2014-10-19T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ropython.github.io/ropython-site/forma/meetup/</loc>
-<lastmod>2013-08-01T00:00:00+01:44</lastmod>
+<lastmod>2015-05-05T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -277,8 +263,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.github.io/ropython-site/forma/workshop-py/</loc>
-<lastmod>2014-10-19T00:00:00+01:44</lastmod>
+<loc>http://ropython.github.io/ropython-site/forma/ask-py/</loc>
+<lastmod>2014-10-01T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
