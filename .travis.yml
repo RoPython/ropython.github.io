@@ -9,5 +9,9 @@ before_install:
 - echo "  IdentityFile ~/.ssh/ropython-site-publisher" >> ~/.ssh/config
 install:
 - pip install tox
+cache:
+  directories:
+  - .env
+  - .tox
 script:
 - tox -e build,publish -- ghp
