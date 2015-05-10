@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ropython.org</title><link>http://ropython.github.io/ropython-site/</link><description></description><atom:link href="http://ropython.github.io/ropython-site/feeds%5Cechipa-ropython.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 09 May 2015 00:00:00 +0300</lastBuildDate><item><title>Sprint #7</title><link>http://ropython.github.io/ropython-site/2015/05/09/sprint-7/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ropython.org</title><link>http://ropython.github.io/ropython-site/</link><description></description><atom:link href="http://ropython.github.io/ropython-site/feeds/echipa-ropython.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 09 May 2015 00:00:00 +0300</lastBuildDate><item><title>Sprint #7</title><link>http://ropython.github.io/ropython-site/2015/05/09/sprint-7/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
