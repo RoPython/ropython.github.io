@@ -6,7 +6,7 @@
     Facebook: https://www.facebook.com/events/626009850849115/
     Google+: https://plus.google.com/events/cdsp5q5fsbkkalpa30u56an19o0
 
-.. image:: {attach}ask-py-in-expediție.png
+.. image:: {attach}ask-py-in-expeditie.png
    :alt: Ask.py #3 - În expediție
    :align: center
 
