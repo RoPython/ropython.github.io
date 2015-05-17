@@ -21,3 +21,10 @@ script:
 - tox -e build -- ghp
 - git fetch origin -f gh-pages:gh-pages
 - tox -e publish
+notifications:
+  irc:
+    channels:
+      - "chat.freenode.net#python-ro"
+    on_success: always
+    on_failure: always
+    use_notice: true
