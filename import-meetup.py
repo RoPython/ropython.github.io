@@ -9,7 +9,6 @@ from glob import glob
 from datetime import datetime
 from pprint import pformat
 
-
 import click
 from cachecontrol import CacheControl
 from cachecontrol.caches import FileCache
@@ -112,7 +111,7 @@ def main(group_id, location, time_boundary, event_status, pandoc):
                     fh.write(event['description'].encode('utf-8'))
                 rst = subprocess.check_output(['pandoc', '--from=html', '--to=rst', fh.name]).decode('utf-8')
                 print fh.name
-                #os.unlink(fh.name)
+                os.unlink(fh.name)
             else:
                 stream = StringIO()
                 html2rest(event['description'].encode('utf-8'), writer=stream)
@@ -128,12 +127,6 @@ def main(group_id, location, time_boundary, event_status, pandoc):
 
 {rst}'''.format(rst=rst, **event))
             click.secho('\tWrote `{}`.'.format(target_path), fg='green')
-
-
-
-
-
-
 
 if __name__ == "__main__":
     import logging
