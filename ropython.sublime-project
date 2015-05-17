@@ -1,13 +1,10 @@
 {
-	"folders":
-	[
-		{
-			"follow_symlinks": true,
-			"path": ".",
-			"file_exclude_patterns": ["*.pyc"],
-			"folder_exclude_patterns": ["output", ".ve", ".tox", ".env", ".gists", ".junk", ".cache", "cache"]
-		}
-	],
+    "folders": [{
+        "follow_symlinks": true,
+        "path": ".",
+        "file_exclude_patterns": ["*.pyc"],
+        "folder_exclude_patterns": ["output", ".ve", ".tox", ".env", ".gists", ".junk", ".cache", "cache"]
+    }],
     "SublimeLinter": {
         "@python": 2.7,
         "linters": {
