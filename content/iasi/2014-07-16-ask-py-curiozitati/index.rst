@@ -1,11 +1,10 @@
-Ask.py #1 Curiozități
+﻿Ask.py #1 Curiozități
 #####################
 
 :tags: ask-py
 :location:
     `Retro Cafe <https://www.facebook.com/cafenearetro>`_
-
-.. image:: {attach}ask-py-1-curiozități.png
+.. image:: {attach}ask-py-1-curiozitati.png
    :alt: Ask.py #1 - Curiozități
    :align: center
 
