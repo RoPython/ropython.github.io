@@ -13,7 +13,7 @@
   <ul>
   {% for t, _ in tags %}
     {% if t == tag %}
-      <li class="active"><span itemprop="keyword">{{ t.slug.capitalize() }}</span></li>
+      <li class="active"><span itemprop="keyword">{{ t.name.capitalize() }}</span></li>
     {% else %}
       <li><a href="{{ SITEURL }}/{{ t.url }}">{{ t.name.capitalize() }}</a></li>
     {% endif %}
