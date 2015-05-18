@@ -1,6 +1,6 @@
 <div class="location">
   <ul>
-  {% for c, _ in categories %}
+  {% for c, _ in categories|sort(attribute='0.slug') %}
     {% if c == category %}
       <li class="active"><span itemprop="location">{{ category_slugs.get(c.slug, c.slug.capitalize()) }}</span></li>
     {% else %}
@@ -11,7 +11,7 @@
 </div>
 <div class="tags">
   <ul>
-  {% for t, _ in tags %}
+  {% for t, _ in tags|sort(attribute='0.slug') %}
     {% if t == tag %}
       <li class="active"><span itemprop="keyword">{{ t.name.capitalize() }}</span></li>
     {% else %}
