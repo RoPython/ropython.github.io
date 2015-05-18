@@ -21,7 +21,90 @@ ce stau la baza lui. Totodată, ei vor mai învăța să facă primii pași, aju
 la primul algoritm funcțional în Python.&lt;/p&gt;
 &lt;p&gt;Programul complet al workshop-urilor, precum și locația lor vor fi anunțate în curând.&lt;/p&gt;
 &lt;p&gt;Vă așteptăm!&lt;/p&gt;
-</summary><category term="workshop-py"></category></entry><entry><title>Ask.py #2 - Elemente introductive</title><link href="http://ropython.github.io/ropython-site/2014/07/23/ask-py-elemente-introductive/" rel="alternate"></link><updated>2014-07-23T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-07-23:ropython-site/2014/07/23/ask-py-elemente-introductive/</id><summary type="html">&lt;img alt="Ask.py #2 - Elemente introductive" class="align-center" src="http://ropython.github.io/ropython-site/2014/07/23/ask-py-elemente-introductive/ask-py-2-elemente-introductive.png" /&gt;
+</summary><category term="workshop-py"></category></entry><entry><title>Conference.py #1 @Iași</title><link href="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/" rel="alternate"></link><updated>2014-10-01T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-10-01:ropython-site/2014/10/01/conference-py-1/</id><summary type="html">&lt;p&gt;Toamna este un anotimp al începutului, fiind vremea unui nou an școlar, unui
+nou început de an universitar, precum și sezonul în care vacanțele lungi sau
+scurte, plănuite sau inopinate, lasă locul altor activități.
+Este anotimpul în care începe stagiunea la operă și în care studenții revin
+timizi în orașul studenției lor, tânjind după aventurile verii proaspăt trecute.
+Toamna este și anotimpul în care poți participa la conferințe consacrate.
+Dacă pe harta evenimentelor IT din această toamnă ai trecut Design Jam,
+CodeCamp sau DefCamp, atunci este timpul să adaugi și prima conferință
+dedicată limbajului Python din România, Conference.py, ce se va desfășura în Iași,
+pe data de 18 octombrie.&lt;/p&gt;
+&lt;p&gt;Conference.py propune o zi întreagă de prezentări tehnice, venite din
+partea unor speakeri implicați în proiecte open source de anvergură,
+cu subiecte ce vor purta participanții prin cloud computing folosind Python,
+in(tro)ducere în metaclase și sisteme de fișiere bazate pe Git, cuvintele cheie
+ale evenimentului fiind open-source și bineînțeles, Python.&lt;/p&gt;
+&lt;p&gt;Vrem ca această conferință să rezoneze cu publicul pasionat de IT din Iași și nu
+numai, astfel încât prin ea să reușim să formăm un mediu propice dezvoltării
+comunității iubitorilor de Python și pasionaților de tehnologie din România.
+Prin subiecte interesate, ancorate în lumea open source, vrem să deschidem
+totodată și apetitul persoanelor tinere, dornice de învățarea unor lucruri noi,
+cât și a celor cu experiență în dezvoltarea de software, ce vor să afle ultimele
+noutăți din lumea Python.&lt;/p&gt;
+&lt;p&gt;Pentru această primă ediție, ne așteptăm la cel puțin un număr de o sută de participanți
+și sperăm că această conferință să crească și să aducem an de an un număr tot mai mare de
+participanți și prezentări tot mai diverse și incitante. Pentru acest eveniment,
+intrarea va fi liberă.&lt;/p&gt;
+&lt;p&gt;Următorii speakeri ne onorează cu participarea lor:&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="Vlad Temian" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/vlad_temian.png" /&gt;
+&lt;p class="caption"&gt;Vlad Temian&lt;/p&gt;
+&lt;div class="legend"&gt;
+Vlad este backend developer la PressLabs, fiind un tânăr energic și entuziast,
+pasionat de orice presupune cod sau problemă tehnică. Folosește Python ori de
+câte ori are ocazia și este totodată și mentor pentru Coder Dojo în Timișoara,
+unde pregătește copii pentru primii lor pași în lumea Python.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="Ionel Cristian Mărieș" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/ionel_cristian.jpg" /&gt;
+&lt;p class="caption"&gt;Ionel Cristian Mărieș&lt;/p&gt;
+&lt;div class="legend"&gt;
+Ionel este un dezvoltator software din Cluj-Napoca. După mai multe aventuri cu
+alte limbaje a rămas la Python și inevitabilul JavaScript. Îi place să facă
+contribuții la proiecte open-source și în timpul liber mai scrie și pe blog.
+El este și autorul mai multor proiecte Python open source, printre care enumerăm
+aspectlib, cogen, python-manhole. Totodată, este și contribuitor al proiectului Celery.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="Alessandro Pilotti" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/alessandro_pilotti.jpeg" /&gt;
+&lt;p class="caption"&gt;Alessandro Pilotti&lt;/p&gt;
+&lt;div class="legend"&gt;
+Alessandro este CEO-ul și fondatorul Cloudbase Solutions, o companie ce
+formează puntea de legătură dintre open-source și Microsoft. El este
+Microsoft MVP pe ASP.NET / IIS și Windows Azure Insider, fiind totodată și
+Microsoft Certified Trainer. Îi place să dezvolte proiecte open source
+și să participe în comunitatea IT.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="Gabriel Samfira" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/gabriel_samfira.jpg" /&gt;
+&lt;p class="caption"&gt;Gabriel Samfira&lt;/p&gt;
+&lt;div class="legend"&gt;
+Gabriel este Senior Cloud Engineer în cadrul Cloudbase Solutions.
+Este pasionat de proiecte open source și experimentat în diverse
+limbaje de programare, precum Python, Go, Ruby, Perl, Powershell.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="Alex Morega" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/alex_morega.jpeg" /&gt;
+&lt;p class="caption"&gt;Alex Morega&lt;/p&gt;
+&lt;div class="legend"&gt;
+Alex este un dezvoltator web, care iubește limbajul Python și nu se poate
+abține din a descoperi biblioteci noi. Printre altele, este și voluntar pentru
+organizația ROSEdu, ce promovează cultura open-source în educație.&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Dacă vrei să ne ajuți, dacă ai un sfat sau o critică sau doar ești curios
+de inițiativa grupului RoPython, nu ezita să ne contactezi pe &lt;a class="reference external" href="mailto:contact&amp;#64;ropython.org"&gt;contact&amp;#64;ropython.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Mulțumim sponsorilor și partenerilor noștri!&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="PSF" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/python-software-foundation.png" /&gt;
+&lt;p class="caption"&gt;Python Software Foundation&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="Cloudbase Solutions" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/cloudbase.png" /&gt;
+&lt;p class="caption"&gt;Cloudbase Solutions&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="Conferință"></category></entry><entry><title>Ask.py #2 - Elemente introductive</title><link href="http://ropython.github.io/ropython-site/2014/07/23/ask-py-elemente-introductive/" rel="alternate"></link><updated>2014-07-23T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-07-23:ropython-site/2014/07/23/ask-py-elemente-introductive/</id><summary type="html">&lt;img alt="Ask.py #2 - Elemente introductive" class="align-center" src="http://ropython.github.io/ropython-site/2014/07/23/ask-py-elemente-introductive/ask-py-2-elemente-introductive.png" /&gt;
 &lt;p&gt;Săptămâna aceasta în cadrul evenimentului Ask.py vom face primii pași în dezvoltarea unei aplicații folosind limbajul Python.
 Dacă săptămâna trecută vorbeam despre lucrurile interesante ce pot fi realizate folosind Python, în cadrul acestei sesiuni vom implementa o parte dintre ele.&lt;/p&gt;
 &lt;p&gt;Vă așteptăm cu drag!&lt;/p&gt;
