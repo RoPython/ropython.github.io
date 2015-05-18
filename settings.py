@@ -47,7 +47,7 @@ THEME_STATIC_DIR = 'static'
 THEME_STATIC_PATHS = ['static']
 ASSET_SOURCE_PATHS = ['static']
 TAG_CLOUD_STEPS = 6
-#TYPOGRIFY = True
+# TYPOGRIFY = True
 
 PLUGIN_PATHS = ['plugins']
 PLUGINS = (
@@ -75,7 +75,7 @@ SITEMAP = {
 TEMPLATE_PAGES = {
     'drafts.html': 'drafts/index.html'
 }
-#~ READERS = {'html': None}
+# READERS = {'html': None}
 
 FILENAME_METADATA = r'(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)'
 PATH_METADATA = r'(?P<category>[^/\\]+)[/\\](?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)[/\\]'
@@ -118,12 +118,10 @@ CATEGORY_SLUGS = {  # this is custom setting, not a Pelican setting
     'national': 'Național',
 }
 
-
-
 DIRECT_TEMPLATES = (
     'index',
-    #'forme',
-    #'arhiva',
+    # 'forme',
+    # 'arhiva',
     '404'
 )
 
