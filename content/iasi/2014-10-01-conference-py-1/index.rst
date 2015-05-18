@@ -99,24 +99,19 @@ Următorii speakeri ne onorează cu participarea lor:
    organizația ROSEdu, ce promovează cultura open-source în educație.
    
    
-
-
 Dacă vrei să ne ajuți, dacă ai un sfat sau o critică sau doar ești curios
 de inițiativa grupului RoPython, nu ezita să ne contactezi pe contact@ropython.org.
 
 Mulțumim sponsorilor și partenerilor noștri!
    
 
-.. figure:: {attach}python-software-foundation.png
+.. image:: {attach}python-software-foundation.png
    :scale: 50 %
+   :width: 70 %
    :alt: PSF
+
    
-   Python Software Foundation
-   
-.. figure:: {attach}cloudbase.png
-   :scale: 30 %
+.. image:: {attach}cloudbase.png
+   :scale: 50 %
+   :width: 70 %
    :alt: Cloudbase Solutions
-   
-   Cloudbase Solutions
-   
-   
