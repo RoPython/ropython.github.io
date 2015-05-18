@@ -278,14 +278,8 @@ organizația ROSEdu, ce promovează cultura open-source în educație.&lt;/div&g
 &lt;p&gt;Dacă vrei să ne ajuți, dacă ai un sfat sau o critică sau doar ești curios
 de inițiativa grupului RoPython, nu ezita să ne contactezi pe &lt;a class="reference external" href="mailto:contact&amp;#64;ropython.org"&gt;contact&amp;#64;ropython.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Mulțumim sponsorilor și partenerilor noștri!&lt;/p&gt;
-&lt;div class="figure"&gt;
-&lt;img alt="PSF" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/python-software-foundation.png" /&gt;
-&lt;p class="caption"&gt;Python Software Foundation&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="figure"&gt;
-&lt;img alt="Cloudbase Solutions" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/cloudbase.png" /&gt;
-&lt;p class="caption"&gt;Cloudbase Solutions&lt;/p&gt;
-&lt;/div&gt;
+&lt;img alt="PSF" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/python-software-foundation.png" style="width: 35.0%;" /&gt;
+&lt;img alt="Cloudbase Solutions" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/cloudbase.png" style="width: 35.0%;" /&gt;
 </summary><category term="Conferință"></category></entry><entry><title>Ask.py #2 - Elemente introductive</title><link href="http://ropython.github.io/ropython-site/2014/07/23/ask-py-elemente-introductive/" rel="alternate"></link><updated>2014-07-23T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-07-23:ropython-site/2014/07/23/ask-py-elemente-introductive/</id><summary type="html">&lt;img alt="Ask.py #2 - Elemente introductive" class="align-center" src="http://ropython.github.io/ropython-site/2014/07/23/ask-py-elemente-introductive/ask-py-2-elemente-introductive.png" /&gt;
 &lt;p&gt;Săptămâna aceasta în cadrul evenimentului Ask.py vom face primii pași în dezvoltarea unei aplicații folosind limbajul Python.
 Dacă săptămâna trecută vorbeam despre lucrurile interesante ce pot fi realizate folosind Python, în cadrul acestei sesiuni vom implementa o parte dintre ele.&lt;/p&gt;
