@@ -33,6 +33,8 @@ DELETE_OUTPUT_DIRECTORY = True
 DEFAULT_PAGINATION = 20
 
 PATH = 'content'
+STATIC_PATHS = ['']
+
 THEME = 'theme'
 
 SECTIONS = [
