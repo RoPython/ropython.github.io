@@ -112,7 +112,7 @@ DEFAULT_CATEGORY = 'national'
 CATEGORY_SLUGS = {  # this is custom setting, not a Pelican setting
     'cluj': 'Cluj-Napoca',
     'timisoara': 'Timișoara',
-    'iasi': 'Iasi',
+    'iasi': 'Iași',
     'baia-mare': 'Baia Mare',
     'bucuresti': 'București',
     'national': 'Național',
