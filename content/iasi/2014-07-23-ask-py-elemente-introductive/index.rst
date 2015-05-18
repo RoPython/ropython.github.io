@@ -1,4 +1,4 @@
-Ask.py #2 Elemente introductive
+Ask.py #2 - Elemente introductive
 ###############################
 
 :tags: ask-py
