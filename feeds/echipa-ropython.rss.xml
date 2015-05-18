@@ -200,7 +200,63 @@ well done.&lt;/li&gt;
 &lt;p&gt;More panelists are in the process of confirming their attendance to our
 event, so keep an eye on this space for regular updates on our speakers
 and the questions they will be debating.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 14 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-10-14:ropython-site/2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/</guid><category>Meetup</category></item><item><title>Ask.py #3 - În expediție</title><link>http://ropython.github.io/ropython-site/2014/10/01/ask-py-in-expeditie/</link><description>&lt;img alt="Ask.py #3 - În expediție" class="align-center" src="http://ropython.github.io/ropython-site/2014/10/01/ask-py-in-expeditie/ask-py-in-expeditie.png" /&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 14 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-10-14:ropython-site/2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/</guid><category>Meetup</category></item><item><title>Training.py - La tine în liceu</title><link>http://ropython.github.io/ropython-site/2014/10/07/training-py-la-tine-in-liceu/</link><description>&lt;img alt="Training.py #1 - La tine în liceu" class="align-center" src="http://ropython.github.io/ropython-site/2014/10/07/training-py-la-tine-in-liceu/training-py-1-in-liceu.png" /&gt;
+&lt;p&gt;Deoarece conferințele și workshop-urile pot avea un caracter tehnic ceva mai avansat,
+ne-am propus să creăm un eveniment destinat pasionaților de Python, destinat începătorilor
+și nu numai. Acest training are ca public țintă elevii de liceu și ca scop
+introducerea acestora în limbajul de scripting de nivel înalt, Python.&lt;/p&gt;
+&lt;p&gt;Evenimentul va face parte din programul european CodeWeek și se va desfășura cu
+sprijinul inspectoratului în mai multe licee de profil din țară, de data aceasta
+pornind cu nume ca “Colegiul Național”, “Costache Negruzzi”, “Grigore Moisil” și
+“Emil Racoviță” din Iași. Acesta va veni în continuarea workshop-ului de duminică
+și se va întinde pe patru zile de marți până vineri, câte un laborator de trei ore
+în fiecare liceu. Elevii vor desluși din mers, intr-o atmosferă cât mai distractivă,
+tainele acestui limbaj, fără a se lovi de aceleași clișee și obstacole veșnice.&lt;/p&gt;
+&lt;p&gt;Această sesiune de training va fi prima din categoria ei și va întări
+cunoștințele dobândite în cadrul conferinței și a workshop-ului. Experiența ne-a
+arătat că de multe ori nu toți participanții de la aceste evenimente se descurcă
+la fel de bine ca restul și din acest motiv, vrem să anticipăm și să depășim împreună
+eventualele dificultăți și totodată, să învățăm lucruri noi sau lucruri vechi dar
+facute într-o altă manieră, mult mai simplu și mult mai rapid. Ideea acestui training
+este de a expune în fața micilor viitori programatori și dezvoltatori, un limbaj de
+programare ușor de înțeles, rapid, robust și stabil, un limbaj cu un impact enorm asupra
+tehnologiei și cu o varietate nemaiîntâlnită în domeniu și toate acestea datorită
+simplității sintaxei, dar mai ales comunității din spate și multitudinii de biblioteci.&lt;/p&gt;
+&lt;p&gt;RoPython dorește să introducă încetul cu încetul, dar într-un mod sigur prin
+cantitatea imensă de beneficii imediate și viitoare, acest limbaj de scripting în
+programa studiilor (pre)universitare. Indiferent dacă intenția noastră de viitor
+va avea succes sau nu, suntem siguri că elevii ce vor lua parte la evenimentele de
+acest gen vor avea multe de învățat, lucruri ce vor fi de folos pe mai multe planuri,
+ce vor contribui la îmbunătățirea “gimnasticii minții” și care îi vor ajuta pe participanți
+să-și materializeze ideile într-un timp record, să vadă imediat în practică utilitatea unui
+algoritm și poate chiar să realizeze aplicația mult visată. În prezent, scopul nostru
+principal este să educăm potențialul nostru public din cadrul conferințelor, workshop-urilor
+și chiar adunărilor ce poartă denumirea de Ask.py, învățându-i de la zero și dirijându-i
+pas cu pas prin misteriosul drum către dezvoltarea de software. Ne dorim să-i facem
+să-și răspundă singuri la întrebări ca “La ce mă ajută programarea în viața reală?”,
+iar acest lucru va avea un mare beneficiu pentru ambele părți: noi ca organizatori vom
+putea crește rapid o comunitate în adevăratul sens al cuvântului ce se va remarca prin
+calitatea membrilor și nu prin cantitate, iar cei ce vor învața de la noi și de la colegii
+lor vor avea parte de niște cunoștințe, idei și indicații de care puțin probabil
+se vor lovi de unii singuri.&lt;/p&gt;
+&lt;p&gt;Liceele înscrise în acest proiect sunt:&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="50%" /&gt;
+&lt;col width="50%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td rowspan="2"&gt;&lt;img alt="Colegiul Național" src="http://ropython.github.io/ropython-site/2014/10/07/training-py-la-tine-in-liceu/colegiu-national.png" /&gt;&lt;/td&gt;
+&lt;td rowspan="2"&gt;&lt;img alt="Liceul Teoretic &amp;quot;Grigore Moisil&amp;quot;" src="http://ropython.github.io/ropython-site/2014/10/07/training-py-la-tine-in-liceu/grigore-moisil.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="2"&gt;&lt;img alt="Colegiul &amp;quot;Costache Negruzzi&amp;quot;" src="http://ropython.github.io/ropython-site/2014/10/07/training-py-la-tine-in-liceu/costache-negruzzi.png" /&gt;&lt;/td&gt;
+&lt;td rowspan="2"&gt;&lt;img alt="Colegiul Național &amp;quot;Emil Racoviță&amp;quot;" src="http://ropython.github.io/ropython-site/2014/10/07/training-py-la-tine-in-liceu/emil-racovita.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 07 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-10-07:ropython-site/2014/10/07/training-py-la-tine-in-liceu/</guid><category>Training</category></item><item><title>Ask.py #3 - În expediție</title><link>http://ropython.github.io/ropython-site/2014/10/01/ask-py-in-expeditie/</link><description>&lt;img alt="Ask.py #3 - În expediție" class="align-center" src="http://ropython.github.io/ropython-site/2014/10/01/ask-py-in-expeditie/ask-py-in-expeditie.png" /&gt;
 &lt;p&gt;Cu ocazia dojo-ului CentOS, ce se va desfășura în Timișoara pe 27 septembrie, echipa RoPython va face o vizită în orașul de pe Bega. O călătorie într-un oraș nou reprezintă totodată și oportunitatea cunoașterii comunității Python din orașul respectiv, ocazie numai bună pentru o nouă întâlnire Ask.py, alături de oameni noi și entuziasmați. Echipa RoPython vă invită la primul Ask.py în partea vestică a țării pe data de 1 octombrie, în Timișoara.&lt;/p&gt;
 &lt;p&gt;Vă așteptăm!&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-10-01:ropython-site/2014/10/01/ask-py-in-expeditie/</guid><category>ask-py</category></item><item><title>Conference.py #1 @Iași</title><link>http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/</link><description>&lt;p&gt;Toamna este un anotimp al începutului, fiind vremea unui nou an școlar, unui
