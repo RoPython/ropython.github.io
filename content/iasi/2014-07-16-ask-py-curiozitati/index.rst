@@ -1,7 +1,7 @@
 ﻿Ask.py #1 Curiozități
 #####################
 
-:tags: ask-py
+:tags: Întâlniri
 :location:
     Retro Cafe: https://www.facebook.com/cafenearetro
 
