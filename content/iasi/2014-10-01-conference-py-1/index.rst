@@ -38,66 +38,52 @@ intrarea va fi liberă.
 Următorii speakeri ne onorează cu participarea lor:
 
 
-.. figure:: {attach}vlad_temian.png
-   :scale: 50 %
-   :alt: Vlad Temian
-   
-   Vlad Temian
-   
-   
-   Vlad este backend developer la PressLabs, fiind un tânăr energic și entuziast,
-   pasionat de orice presupune cod sau problemă tehnică. Folosește Python ori de
-   câte ori are ocazia și este totodată și mentor pentru Coder Dojo în Timișoara,
-   unde pregătește copii pentru primii lor pași în lumea Python.
+
 
    
-.. figure:: {attach}ionel_cristian.jpg
-   :scale: 50 %
-   :alt: Ionel Cristian Mărieș
-   
-   Ionel Cristian Mărieș
-   
-   
-   Ionel este un dezvoltator software din Cluj-Napoca. După mai multe aventuri cu
-   alte limbaje a rămas la Python și inevitabilul JavaScript. Îi place să facă
-   contribuții la proiecte open-source și în timpul liber mai scrie și pe blog.
-   El este și autorul mai multor proiecte Python open source, printre care enumerăm
-   aspectlib, cogen, python-manhole. Totodată, este și contribuitor al proiectului Celery.
-   
-.. figure:: {attach}alessandro_pilotti.jpeg
-   :scale: 50 %
-   :alt: Alessandro Pilotti
-   
-   Alessandro Pilotti
 
-   Alessandro este CEO-ul și fondatorul Cloudbase Solutions, o companie ce
-   formează puntea de legătură dintre open-source și Microsoft. El este
-   Microsoft MVP pe ASP.NET / IIS și Windows Azure Insider, fiind totodată și
-   Microsoft Certified Trainer. Îi place să dezvolte proiecte open source
-   și să participe în comunitatea IT.   
-
-   
-.. figure:: {attach}gabriel_samfira.jpg
-   :scale: 50 %
-   :alt: Gabriel Samfira
-   
-   Gabriel Samfira
-
-   Gabriel este Senior Cloud Engineer în cadrul Cloudbase Solutions.
-   Este pasionat de proiecte open source și experimentat în diverse
-   limbaje de programare, precum Python, Go, Ruby, Perl, Powershell.
-   
-   
-.. figure:: {attach}alex_morega.jpeg
-   :scale: 50 %
-   :alt: Alex Morega
-   
-   Alex Morega
-
-   Alex este un dezvoltator web, care iubește limbajul Python și nu se poate
-   abține din a descoperi biblioteci noi. Printre altele, este și voluntar pentru
-   organizația ROSEdu, ce promovează cultura open-source în educație.
-   
+      
++------------------------------------------------------------+------------------------------------------------------------+
+|.. figure:: {attach}alex_morega.jpeg                        |.. figure:: {attach}gabriel_samfira.jpg                     |
+|   :scale: 50 %                                             |   :scale: 50 %                                             |
+|   :alt: Alex Morega                                        |   :alt: Gabriel Samfira                                    |
+|                                                            |                                                            |
+|   Alex Morega                                              |   Gabriel Samfira                                          |
+|                                                            |                                                            |
+|   Alex este un dezvoltator web, care iubește limbajul      |   Gabriel este Senior Cloud Engineer în cadrul             |
+|   Python și nu se poate abține din a descoperi             |   Cloudbase Solutions. Este pasionat de proiecte open      |
+|   biblioteci noi. Printre altele, este și voluntar pentru  |   source și experimentat în diverse limbaje de programare, |
+|   organizația ROSEdu, ce promovează cultura open-source    |   precum Python, Go, Ruby, Perl și Powershell.             |
+|   în educație.                                             |                                                            |
++------------------------------------------------------------+------------------------------------------------------------+
+|.. figure:: {attach}alessandro_pilotti.jpeg                 |.. figure:: {attach}ionel_cristian.jpg                      |
+|   :scale: 50 %                                             |   :scale: 50 %                                             |
+|   :alt: Alessandro Pilotti                                 |   :alt: Ionel Cristian Mărieș                              |
+|                                                            |                                                            |
+|   Alessandro Pilotti                                       |   Ionel Cristian Mărieș                                    |
+|                                                            |                                                            |
+|   Alessandro este CEO-ul și fondatorul Cloudbase Solutions,|   Ionel este un dezvoltator software din Cluj-Napoca.      |
+|   o companie ce formează puntea de legătură dintre open    |   După mai multe aventuri cu alte limbaje, a rămas la      |
+|   source și Microsoft. El este Microsoft MVP pe ASP.NET    |   Python și inevitabilul JavaScript. Îi place să facă      |
+|   și pe Windows Azure Insider, fiind totodată și Microsoft |   contribuții la proiecte open-source și în timpul liber   |
+|   Certified Trainer. Îi place să dezvolte proiecte open    |   mai scrie și pe blog. El este și autorul mai multor      |
+|   source și să participe în comunitatea IT.                |   proiecte open source, printre care enumerăm aspectlib    |
+|                                                            |   cogen, python-manhole, fiind și contribuitor Celery.     |
++------------------------------------------------------------+------------------------------------------------------------+
+|.. figure:: {attach}vlad_temian.png                         |                                                            |
+|   :scale: 50 %                                             |                                                            |
+|   :alt: Vlad Temian                                        |                                                            |
+|                                                            |                                                            |
+|   Vlad Temian                                              |                                                            |
+|                                                            |                                                            |
+|   Vlad este backend developer la Presslabs, fiind un       |                                                            |
+|   tânăr energic și entuziast, pasionat de orice presupune  |                                                            |
+|   cod sau problemă tehnică. Folosește Python ori de câte   |                                                            |
+|   ori are ocazia și este totodată și mentor pentru Coder   |                                                            |
+|   Dojo în Timișoara, unde pregătește copiii pentru primii  |                                                            |
+|   lor pași în lumea Python.                                |                                                            |
+|                                                            |                                                            |
++------------------------------------------------------------+------------------------------------------------------------+ 
    
 Dacă vrei să ne ajuți, dacă ai un sfat sau o critică sau doar ești curios
 de inițiativa grupului RoPython, nu ezita să ne contactezi pe contact@ropython.org.
