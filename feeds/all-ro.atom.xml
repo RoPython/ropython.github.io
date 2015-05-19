@@ -333,51 +333,76 @@ noutăți din lumea Python.&lt;/p&gt;
 participanți și prezentări tot mai diverse și incitante. Pentru acest eveniment,
 intrarea va fi liberă.&lt;/p&gt;
 &lt;p&gt;Următorii speakeri ne onorează cu participarea lor:&lt;/p&gt;
-&lt;div class="figure"&gt;
-&lt;img alt="Vlad Temian" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/vlad_temian.png" /&gt;
-&lt;p class="caption"&gt;Vlad Temian&lt;/p&gt;
-&lt;div class="legend"&gt;
-Vlad este backend developer la PressLabs, fiind un tânăr energic și entuziast,
-pasionat de orice presupune cod sau problemă tehnică. Folosește Python ori de
-câte ori are ocazia și este totodată și mentor pentru Coder Dojo în Timișoara,
-unde pregătește copii pentru primii lor pași în lumea Python.&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="figure"&gt;
-&lt;img alt="Ionel Cristian Mărieș" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/ionel_cristian.jpg" /&gt;
-&lt;p class="caption"&gt;Ionel Cristian Mărieș&lt;/p&gt;
-&lt;div class="legend"&gt;
-Ionel este un dezvoltator software din Cluj-Napoca. După mai multe aventuri cu
-alte limbaje a rămas la Python și inevitabilul JavaScript. Îi place să facă
-contribuții la proiecte open-source și în timpul liber mai scrie și pe blog.
-El este și autorul mai multor proiecte Python open source, printre care enumerăm
-aspectlib, cogen, python-manhole. Totodată, este și contribuitor al proiectului Celery.&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="figure"&gt;
-&lt;img alt="Alessandro Pilotti" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/alessandro_pilotti.jpeg" /&gt;
-&lt;p class="caption"&gt;Alessandro Pilotti&lt;/p&gt;
-&lt;div class="legend"&gt;
-Alessandro este CEO-ul și fondatorul Cloudbase Solutions, o companie ce
-formează puntea de legătură dintre open-source și Microsoft. El este
-Microsoft MVP pe ASP.NET / IIS și Windows Azure Insider, fiind totodată și
-Microsoft Certified Trainer. Îi place să dezvolte proiecte open source
-și să participe în comunitatea IT.&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="figure"&gt;
-&lt;img alt="Gabriel Samfira" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/gabriel_samfira.jpg" /&gt;
-&lt;p class="caption"&gt;Gabriel Samfira&lt;/p&gt;
-&lt;div class="legend"&gt;
-Gabriel este Senior Cloud Engineer în cadrul Cloudbase Solutions.
-Este pasionat de proiecte open source și experimentat în diverse
-limbaje de programare, precum Python, Go, Ruby, Perl, Powershell.&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="figure"&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="50%" /&gt;
+&lt;col width="50%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
 &lt;img alt="Alex Morega" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/alex_morega.jpeg" /&gt;
 &lt;p class="caption"&gt;Alex Morega&lt;/p&gt;
 &lt;div class="legend"&gt;
-Alex este un dezvoltator web, care iubește limbajul Python și nu se poate
-abține din a descoperi biblioteci noi. Printre altele, este și voluntar pentru
-organizația ROSEdu, ce promovează cultura open-source în educație.&lt;/div&gt;
+Alex este un dezvoltator web, care iubește limbajul
+Python și nu se poate abține din a descoperi
+biblioteci noi. Printre altele, este și voluntar pentru
+organizația ROSEdu, ce promovează cultura open-source
+în educație.&lt;/div&gt;
 &lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;div class="first last figure"&gt;
+&lt;img alt="Gabriel Samfira" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/gabriel_samfira.jpg" /&gt;
+&lt;p class="caption"&gt;Gabriel Samfira&lt;/p&gt;
+&lt;div class="legend"&gt;
+Gabriel este Senior Cloud Engineer în cadrul
+Cloudbase Solutions. Este pasionat de proiecte open
+source și experimentat în diverse limbaje de programare,
+precum Python, Go, Ruby, Perl și Powershell.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
+&lt;img alt="Alessandro Pilotti" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/alessandro_pilotti.jpeg" /&gt;
+&lt;p class="caption"&gt;Alessandro Pilotti&lt;/p&gt;
+&lt;div class="legend"&gt;
+Alessandro este CEO-ul și fondatorul Cloudbase Solutions,
+o companie ce formează puntea de legătură dintre open
+source și Microsoft. El este Microsoft MVP pe ASP.NET
+și pe Windows Azure Insider, fiind totodată și Microsoft
+Certified Trainer. Îi place să dezvolte proiecte open
+source și să participe în comunitatea IT.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;div class="first last figure"&gt;
+&lt;img alt="Ionel Cristian Mărieș" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/ionel_cristian.jpg" /&gt;
+&lt;p class="caption"&gt;Ionel Cristian Mărieș&lt;/p&gt;
+&lt;div class="legend"&gt;
+Ionel este un dezvoltator software din Cluj-Napoca.
+După mai multe aventuri cu alte limbaje, a rămas la
+Python și inevitabilul JavaScript. Îi place să facă
+contribuții la proiecte open-source și în timpul liber
+mai scrie și pe blog. El este și autorul mai multor
+proiecte open source, printre care enumerăm aspectlib
+cogen, python-manhole, fiind și contribuitor Celery.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
+&lt;img alt="Vlad Temian" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/vlad_temian.png" /&gt;
+&lt;p class="caption"&gt;Vlad Temian&lt;/p&gt;
+&lt;div class="legend"&gt;
+Vlad este backend developer la Presslabs, fiind un
+tânăr energic și entuziast, pasionat de orice presupune
+cod sau problemă tehnică. Folosește Python ori de câte
+ori are ocazia și este totodată și mentor pentru Coder
+Dojo în Timișoara, unde pregătește copiii pentru primii
+lor pași în lumea Python.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;Dacă vrei să ne ajuți, dacă ai un sfat sau o critică sau doar ești curios
 de inițiativa grupului RoPython, nu ezita să ne contactezi pe &lt;a class="reference external" href="mailto:contact&amp;#64;ropython.org"&gt;contact&amp;#64;ropython.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Mulțumim sponsorilor și partenerilor noștri!&lt;/p&gt;
@@ -387,7 +412,7 @@ de inițiativa grupului RoPython, nu ezita să ne contactezi pe &lt;a class="ref
 &lt;p&gt;Săptămâna aceasta în cadrul evenimentului Ask.py vom face primii pași în dezvoltarea unei aplicații folosind limbajul Python.
 Dacă săptămâna trecută vorbeam despre lucrurile interesante ce pot fi realizate folosind Python, în cadrul acestei sesiuni vom implementa o parte dintre ele.&lt;/p&gt;
 &lt;p&gt;Vă așteptăm cu drag!&lt;/p&gt;
-</summary><category term="ask-py"></category></entry><entry><title>Decorators and Workflows</title><link href="http://ropython.github.io/ropython-site/2014/07/17/decorators-and-workflows/" rel="alternate"></link><updated>2014-07-17T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-07-17:ropython-site/2014/07/17/decorators-and-workflows/</id><summary type="html">&lt;p&gt;La a 2-a ediție de vară vor prezenta:&lt;/p&gt;
+</summary><category term="Întâlniri"></category></entry><entry><title>Decorators and Workflows</title><link href="http://ropython.github.io/ropython-site/2014/07/17/decorators-and-workflows/" rel="alternate"></link><updated>2014-07-17T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-07-17:ropython-site/2014/07/17/decorators-and-workflows/</id><summary type="html">&lt;p&gt;La a 2-a ediție de vară vor prezenta:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Ionel Cristian Mărieș: Tot ce nu vroiai să știi despre decoratori&lt;/li&gt;
 &lt;li&gt;Sever Băneșiu: Flowy, easy SWF workflows (swf: &lt;a class="reference external" href="http://aws.amazon.com/swf/"&gt;http://aws.amazon.com/swf/&lt;/a&gt;)&lt;/li&gt;
@@ -399,7 +424,7 @@ prin intermediul întrebărilor, cât și o închegare cât mai bună e relație
 în fața unui pahar de vin, înconjurați de oameni cu aceeași pasiune extraordinară pentru acest limbaj.&lt;/p&gt;
 &lt;p&gt;Vom încerca în primul eveniment ask.py să prezentăm proiectul RoPython celor care vor să afle mai multe despre
 inițiativă, cât și să fim la dispoziția voastră pentru întrebări din universul Python.&lt;/p&gt;
-</summary><category term="ask-py"></category></entry><entry><title>PyTim #6</title><link href="http://ropython.github.io/ropython-site/2014/07/01/pytim-6/" rel="alternate"></link><updated>2014-07-01T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-07-01:ropython-site/2014/07/01/pytim-6/</id><summary type="html">&lt;p&gt;Welcome to the 6th edition of #PyTim, the Python meetup in Timisoara.&lt;/p&gt;
+</summary><category term="Întâlniri"></category></entry><entry><title>PyTim #6</title><link href="http://ropython.github.io/ropython-site/2014/07/01/pytim-6/" rel="alternate"></link><updated>2014-07-01T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-07-01:ropython-site/2014/07/01/pytim-6/</id><summary type="html">&lt;p&gt;Welcome to the 6th edition of #PyTim, the Python meetup in Timisoara.&lt;/p&gt;
 &lt;p&gt;In this edition we will have 2 sessions talking about open source
 projects developed using Python and Go.&lt;/p&gt;
 &lt;p&gt;Here is the Agenda:&lt;/p&gt;
