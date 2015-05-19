@@ -1,5 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ropython.org</title><link href="http://ropython.github.io/ropython-site/" rel="alternate"></link><link href="http://ropython.github.io/ropython-site/feeds/echipa-ropython.atom.xml" rel="self"></link><id>http://ropython.github.io/ropython-site/</id><updated>2015-05-09T00:00:00+03:00</updated><entry><title>Sprint #7</title><link href="http://ropython.github.io/ropython-site/2015/05/09/sprint-7/" rel="alternate"></link><updated>2015-05-09T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2015-05-09:ropython-site/2015/05/09/sprint-7/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ropython.org</title><link href="http://ropython.github.io/ropython-site/" rel="alternate"></link><link href="http://ropython.github.io/ropython-site/feeds/echipa-ropython.atom.xml" rel="self"></link><id>http://ropython.github.io/ropython-site/</id><updated>2015-05-23T00:00:00+03:00</updated><entry><title>Sprint #8</title><link href="http://ropython.github.io/ropython-site/2015/05/23/sprint-8/" rel="alternate"></link><updated>2015-05-23T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2015-05-23:ropython-site/2015/05/23/sprint-8/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+&lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
+&lt;li&gt;Îndrumare sau feedback. Exemple:&lt;ul&gt;
+&lt;li&gt;Ai nevoie de ajutor în găsirea unui proiect la care să contribui.&lt;/li&gt;
+&lt;li&gt;Ai nevoie de ajutor în găsirea unei idei pentru un project propriu.&lt;/li&gt;
+&lt;li&gt;Ai o idee pentru un proiect și vrei să o validezi.&lt;/li&gt;
+&lt;li&gt;Sfaturi pentru distribuția unui proiect.&lt;/li&gt;
+&lt;li&gt;Ai vrea să contribui dar nu știi exact cum să procedezi.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Incurajari în general :-)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
+</summary><category term="sprint"></category></entry><entry><title>Interpretoare în RPython și testare cu pytest</title><link href="http://ropython.github.io/ropython-site/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/" rel="alternate"></link><updated>2015-05-21T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2015-05-21:ropython-site/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/</id><summary type="html">&lt;p&gt;La această ediție vom avea două prezentări și un anunț surpriză ;-)&lt;/p&gt;
+&lt;p&gt;Agendă:&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="50%" /&gt;
+&lt;col width="50%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
+&lt;td&gt;Intrarea&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:00&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Ionel Cristian Mărieș - &amp;quot;Testare cu pytest&amp;quot;&lt;/p&gt;
+&lt;p class="last"&gt;Ionel va face o introducere în pytest și va explica de ce este mai bun
+decât nose sau unittest.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
+&lt;td&gt;Pauză&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:45&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Claudiu Popa - &amp;quot;Cum să îți faci propriul interpretor folosind RPython&amp;quot;&lt;/p&gt;
+&lt;p class="last"&gt;Claudiu este unul dintre organizatorii comunității RoPython si
+maintainer Pylint. Ne va vorbi despre PyPy, RPython și cum se e să iți
+implementezi un interpretor în RPython.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;8:15&lt;/th&gt;
+&lt;td&gt;Anunțul surpriză&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary><category term="meetup"></category></entry><entry><title>Sprint #7</title><link href="http://ropython.github.io/ropython-site/2015/05/09/sprint-7/" rel="alternate"></link><updated>2015-05-09T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2015-05-09:ropython-site/2015/05/09/sprint-7/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;

@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ropython.org</title><link>http://ropython.github.io/ropython-site/</link><description></description><atom:link href="http://ropython.github.io/ropython-site/feeds/meetup.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 05 May 2015 00:00:00 +0300</lastBuildDate><item><title>RoPython Timisoara #1</title><link>http://ropython.github.io/ropython-site/2015/05/05/ropython-timisoara-1/</link><description>&lt;p&gt;Vă invităm la prima ediție a RoPython Timișoara, întâlnirea pasionaților
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ropython.org</title><link>http://ropython.github.io/ropython-site/</link><description></description><atom:link href="http://ropython.github.io/ropython-site/feeds/meetup.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 21 May 2015 00:00:00 +0300</lastBuildDate><item><title>Interpretoare în RPython și testare cu pytest</title><link>http://ropython.github.io/ropython-site/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/</link><description>&lt;p&gt;La această ediție vom avea două prezentări și un anunț surpriză ;-)&lt;/p&gt;
+&lt;p&gt;Agendă:&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="50%" /&gt;
+&lt;col width="50%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
+&lt;td&gt;Intrarea&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:00&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Ionel Cristian Mărieș - &amp;quot;Testare cu pytest&amp;quot;&lt;/p&gt;
+&lt;p class="last"&gt;Ionel va face o introducere în pytest și va explica de ce este mai bun
+decât nose sau unittest.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
+&lt;td&gt;Pauză&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:45&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Claudiu Popa - &amp;quot;Cum să îți faci propriul interpretor folosind RPython&amp;quot;&lt;/p&gt;
+&lt;p class="last"&gt;Claudiu este unul dintre organizatorii comunității RoPython si
+maintainer Pylint. Ne va vorbi despre PyPy, RPython și cum se e să iți
+implementezi un interpretor în RPython.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;8:15&lt;/th&gt;
+&lt;td&gt;Anunțul surpriză&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 21 May 2015 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2015-05-21:ropython-site/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/</guid><category>meetup</category></item><item><title>RoPython Timisoara #1</title><link>http://ropython.github.io/ropython-site/2015/05/05/ropython-timisoara-1/</link><description>&lt;p&gt;Vă invităm la prima ediție a RoPython Timișoara, întâlnirea pasionaților
 de Python din Timișoara. La această întâlnire, avem un invitat special -
 Claudiu Popa. El este core maintainer la Pylint, co-fondator RoPython și
 un membru foarte activ al comunității de Python.&lt;/p&gt;
