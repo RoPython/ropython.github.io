@@ -1,7 +1,7 @@
 ﻿Ask.py #3 - În expediție
 ########################
 
-:tags: Întâlnire
+:tags: Întâlniri
 :registration:
     Facebook: https://www.facebook.com/events/626009850849115/
     Google+: https://plus.google.com/events/cdsp5q5fsbkkalpa30u56an19o0
