@@ -1,7 +1,7 @@
 ﻿Workshop #1 - Python pentru dezvoltarea aplicațiilor web
 ########################################################
 
-:tags: workshop-py
+:tags: Workshop
 :location:
     `Facultatea de informatică <http://www.infoiasi.ro/bin/Main/>`_
 

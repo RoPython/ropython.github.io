@@ -1,7 +1,7 @@
 ﻿Workshop #2 - Expediție în cloud computing, programare funcțională și altele
 ############################################################################
 
-:tags: workshop-py
+:tags: Workshop
 :location:
     `Facultatea de informatică <http://www.infoiasi.ro/bin/Main/>`_
 	
