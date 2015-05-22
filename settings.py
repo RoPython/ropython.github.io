@@ -131,3 +131,5 @@ PAGINATION_PATTERNS = (
 )
 
 CACHE_PATH = '.cache'
+
+READERS = {'html': None}  # Nu procesa fisierele .html ca si articole
