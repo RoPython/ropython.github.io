@@ -3,8 +3,8 @@
 &lt;p&gt;Agendă:&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
-&lt;col width="50%" /&gt;
-&lt;col width="50%" /&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="90%" /&gt;
 &lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
@@ -12,8 +12,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:00&lt;/th&gt;
 &lt;td&gt;&lt;p class="first"&gt;Ionel Cristian Mărieș - &amp;quot;Testare cu pytest&amp;quot;&lt;/p&gt;
-&lt;p class="last"&gt;Ionel va face o introducere în pytest și va explica de ce este mai bun
+&lt;p&gt;Ionel va face o introducere în pytest și va explica de ce este mai bun
 decât nose sau unittest.&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="http://ropython.github.io/ropython-site/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/Testare-cu-pytest.html"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
@@ -21,9 +22,10 @@ decât nose sau unittest.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:45&lt;/th&gt;
 &lt;td&gt;&lt;p class="first"&gt;Claudiu Popa - &amp;quot;Cum să îți faci propriul interpretor folosind RPython&amp;quot;&lt;/p&gt;
-&lt;p class="last"&gt;Claudiu este unul dintre organizatorii comunității RoPython si
+&lt;p&gt;Claudiu este unul dintre organizatorii comunității RoPython si
 maintainer Pylint. Ne va vorbi despre PyPy, RPython și cum se e să iți
 implementezi un interpretor în RPython.&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="http://ropython.github.io/ropython-site/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/PyPy-si-RPython.html"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;8:15&lt;/th&gt;
