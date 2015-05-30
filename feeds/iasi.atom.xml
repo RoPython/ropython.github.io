@@ -21,7 +21,82 @@ ce stau la baza lui. Totodată, ei vor mai învăța să facă primii pași, aju
 la primul algoritm funcțional în Python.&lt;/p&gt;
 &lt;p&gt;Programul complet al workshop-urilor, precum și locația lor vor fi anunțate în curând.&lt;/p&gt;
 &lt;p&gt;Vă așteptăm!&lt;/p&gt;
-</summary><category term="Workshop"></category></entry><entry><title>Training.py - La tine în liceu</title><link href="http://ropython.github.io/ropython-site/2014/10/07/training-py-la-tine-in-liceu/" rel="alternate"></link><updated>2014-10-07T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-10-07:ropython-site/2014/10/07/training-py-la-tine-in-liceu/</id><summary type="html">&lt;img alt="Training.py #1 - La tine în liceu" class="align-center" src="http://ropython.github.io/ropython-site/2014/10/07/training-py-la-tine-in-liceu/training-py-1-in-liceu.png" /&gt;
+</summary><category term="Workshop"></category></entry><entry><title>Python Week</title><link href="http://ropython.github.io/ropython-site/2014/10/18/Python-Week/" rel="alternate"></link><updated>2014-10-18T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-10-18:ropython-site/2014/10/18/Python-Week/</id><summary type="html">&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;em&gt;And on the pedestal these words appear:&lt;/em&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;em&gt;&amp;quot;My name is Python, king of languages:&lt;/em&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;em&gt;Look on my works, ye Mighty, and rejoice!”&lt;/em&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Dacă poetul romantic Percy Bysshe Shelley ar fi trăit în zilele noastre,
+atunci cu siguranță poemele lui ar fi fost scrise în Python, limbajul ce are
+propriile lui înțelepciuni, scrise în slove de biți de către Tim Peters, în al său
+Zen of Python, setul de îndrumări ce cuprinde frumusețea limbajului în toată deplinătatea lui.&lt;/p&gt;
+&lt;p&gt;Python Week este un eveniment dedicat acestui frumos limbaj ce își propune, ca
+pentru o săptămână, să adune toți pasionații de tehnologie într-un mediu propice creației.&lt;/p&gt;
+&lt;p&gt;Următoarele evenimente vor avea loc în cadrul săptămânii Python:&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="53%" /&gt;
+&lt;col width="47%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
+&lt;img alt="Conference.py" src="http://ropython.github.io/ropython-site/2014/10/18/Python-Week/conference.png" /&gt;
+&lt;div class="legend"&gt;
+Conference.py propune o zi întreagă de prezentări tehnice,
+venite din partea unor speakeri implicați în proiecte open source de anvergură,
+cu subiecte ce vor purta participanții prin cloud computing folosind Python,
+in(tro)ducere în metaclase și sisteme de fișiere bazate pe Git, cuvintele cheie
+ale evenimentului fiind open-source și bineînțeles, Python. Vrem ca această
+conferință să rezoneze cu publicul pasionat de IT din Iași și nu numai,
+astfel încât prin ea să reușim să formăm un mediu propice dezvoltării comunității
+iubitorilor de Python și pasionaților de tehnologie din România. Prin subiecte interesate,
+ancorate în lumea open source, vrem să deschidem totodată și apetitul persoanelor
+tinere, dornice de învățarea unor lucruri noi, cât și a celor cu experiență în
+dezvoltarea de software, ce vor să afle ultimele noutăți din lumea Python.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;div class="first last figure"&gt;
+&lt;img alt="Workshop.py" src="http://ropython.github.io/ropython-site/2014/10/18/Python-Week/workshop.png" /&gt;
+&lt;div class="legend"&gt;
+Precedat de Conference.py, prima conferință de Python a toamnei,
+Workshop.py #2 se va desfășura pe data de 19 octombrie, fiind compus
+din mai multe workshop-uri în paralel, cu subiecte variate, unele dintre
+ele propunând aprofundarea conceptelor din prezentările din conferință.
+Pentru fiecare workshop susținut, vom avea un mentor ce își va purta
+elevii prin înțelegerea subiectului prezentat.
+Unul din subiectele workshop-urilor va fi Introducere în Python, workshop
+susținut de membri ai grupului RoPython, acesta fiind destinat începătorilor,
+cât și celor care vor să învețe un nou limbaj. Participanții vor învăța de
+ce alegerea acestui limbaj de programare îți poate schimba viața și viziunea
+asupra ei, prin ușurința cu care îți permite să pui în practică idei și prin
+filosofiile ce stau la baza lui.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
+&lt;img alt="Training.py" src="http://ropython.github.io/ropython-site/2014/10/18/Python-Week/training.png" /&gt;
+&lt;div class="legend"&gt;
+Ideea acestui training este de a expune în fața micilor viitori
+programatori și dezvoltatori, un limbaj de programare ușor de înțeles, rapid, robust
+și stabil, un limbaj cu un impact enorm asupra tehnologiei și cu o varietate
+nemaiîntâlnită în domeniu și toate acestea datorită simplității sintaxei, dar
+mai ales comunității din spate și multitudinii de biblioteci. Echipa noastră
+dorește să introducă încetul cu încetul, dar într-un mod sigur prin cantitatea imensă
+de beneficii imediate și viitoare, acest limbaj de scripting în programa studiilor
+(pre)universitare. Indiferent dacă intenția noastră de viitor va avea succes sau nu,
+suntem siguri că elevii ce vor lua parte la evenimentele de acest gen vor avea multe
+de învățat, lucruri ce vor fi de folos pe mai multe planuri, ce vor contribui la
+îmbunătățirea “gimnasticii minții” și care îi vor ajuta pe participanți să-și materializeze
+ideile într-un timp record, să vadă imediat în practică utilitatea unui algoritm și poate
+chiar să realizeze aplicația mult visată.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;!--  --&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary><category term="Diverse"></category></entry><entry><title>Training.py - La tine în liceu</title><link href="http://ropython.github.io/ropython-site/2014/10/07/training-py-la-tine-in-liceu/" rel="alternate"></link><updated>2014-10-07T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-10-07:ropython-site/2014/10/07/training-py-la-tine-in-liceu/</id><summary type="html">&lt;img alt="Training.py #1 - La tine în liceu" class="align-center" src="http://ropython.github.io/ropython-site/2014/10/07/training-py-la-tine-in-liceu/training-py-1-in-liceu.png" /&gt;
 &lt;p&gt;Deoarece conferințele și workshop-urile pot avea un caracter tehnic ceva mai avansat,
 ne-am propus să creăm un eveniment destinat pasionaților de Python, destinat începătorilor
 și nu numai. Acest training are ca public țintă elevii de liceu și ca scop
