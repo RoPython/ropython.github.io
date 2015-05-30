@@ -34,20 +34,18 @@ X-Description: “Python workshop! REST, url routing, Python, JSON, unit testing
 &lt;p&gt;Evenimentul de sâmbătă, 31 mai, va fi împărțit într-o parte teoretică, ce se va desfășura în prima parte a zilei, urmată de una practică, de-a lungul căreia participanții pot să își folosească cunoștințele acumulate în prima parte a zilei. Partea teoretică va consta în prezentări mai detaliate cu aplicare în dezvoltarea aplicațiilor web folosind Python, iar în cea practică participanții vor lucra la realizarea unor aplicații web într-un timp cât mai scurt.
 Pentru că vrem ca fiecare participant să câștige cât mai multă experiență din urma acestui atelier și să oferim un eveniment de calitate, numărul de locuri pentru evenimentul de sâmbătă va fi limitat.  Înscrierea fiecărui participant va fi evaluată conform anumitor criterii de către membrii grupului,  urmând ca primele 45 de persoane să fie acceptate.&lt;/p&gt;
 &lt;p&gt;Elementele ce vor fi apreciate sunt:&lt;/p&gt;
-&lt;blockquote&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;contribuitori la proiecte open source, nu neapărat scrise în limbajul Python.&lt;/li&gt;
 &lt;li&gt;proiecte pe github sau bitbucket peste care ne putem uita.&lt;/li&gt;
 &lt;li&gt;un profil de LinkedIn plin cu lucruri care să ne impresioneze.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
 &lt;p&gt;Apreciem persoanele care vor să învețe, așa că și începătorii sunt bineveniți. Pentru asta, trebuia ca prezentarea voastră să fie cât mai savuroasă și sinceră.&lt;/p&gt;
 &lt;p&gt;Programul de vineri este:&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
-&lt;col width="25%" /&gt;
-&lt;col width="50%" /&gt;
-&lt;col width="25%" /&gt;
+&lt;col width="16%" /&gt;
+&lt;col width="58%" /&gt;
+&lt;col width="26%" /&gt;
 &lt;/colgroup&gt;
 &lt;thead valign="bottom"&gt;
 &lt;tr&gt;&lt;th class="head"&gt;Ora&lt;/th&gt;
@@ -81,9 +79,9 @@ Pentru că vrem ca fiecare participant să câștige cât mai multă experienț�
 &lt;p&gt;Programul de sâmbătă este:&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
-&lt;col width="25%" /&gt;
-&lt;col width="50%" /&gt;
-&lt;col width="25%" /&gt;
+&lt;col width="16%" /&gt;
+&lt;col width="58%" /&gt;
+&lt;col width="26%" /&gt;
 &lt;/colgroup&gt;
 &lt;thead valign="bottom"&gt;
 &lt;tr&gt;&lt;th class="head"&gt;Ora&lt;/th&gt;
@@ -139,12 +137,4 @@ Pentru că vrem ca fiecare participant să câștige cât mai multă experienț�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Grupul RoPython vă așteaptă cu drag!&lt;/p&gt;
-&lt;p&gt;Link-uri utile:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://ropython-workshop-1.eventbrite.com/"&gt;Bilete Eventbrite&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://www.facebook.com/events/758089454222935/"&gt;Eveniment Facebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://plus.google.com/b/100310797620080278732/events/ctvf1v32ujggii0mi9iabo56im8"&gt;Eveniment Google+&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 31 May 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-05-31:ropython-site/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</guid><category>Workshop</category></item></channel></rss>

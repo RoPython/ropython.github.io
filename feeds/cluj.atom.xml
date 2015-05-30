@@ -131,10 +131,20 @@ TrustYou since 2008. His master thesis laid the foundation for
 TrustYou's scalable semantic analysis, which today understands 20
 languages natively.&lt;/blockquote&gt;
 </summary><category term="Meetup"></category></entry><entry><title>Decorators and Workflows</title><link href="http://ropython.github.io/ropython-site/2014/07/17/decorators-and-workflows/" rel="alternate"></link><updated>2014-07-17T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-07-17:ropython-site/2014/07/17/decorators-and-workflows/</id><summary type="html">&lt;p&gt;La a 2-a ediție de vară vor prezenta:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Ionel Cristian Mărieș: Tot ce nu vroiai să știi despre decoratori&lt;/li&gt;
-&lt;li&gt;Sever Băneșiu: Flowy, easy SWF workflows (swf: &lt;a class="reference external" href="http://aws.amazon.com/swf/"&gt;http://aws.amazon.com/swf/&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="30%" /&gt;
+&lt;col width="70%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;&lt;a class="reference external" href="http://blog.ionelmc.ro/"&gt;Ionel Cristian Mărieș&lt;/a&gt;&lt;/th&gt;
+&lt;td&gt;Tot ce nu vroiai să știi despre decoratori&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;&lt;a class="reference external" href="https://github.com/severb"&gt;Sever Băneșiu&lt;/a&gt;&lt;/th&gt;
+&lt;td&gt;Flowy, easy SWF workflows (swf: &lt;a class="reference external" href="http://aws.amazon.com/swf/"&gt;http://aws.amazon.com/swf/&lt;/a&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;Evenimentul este găzduit de Cluj Hub. Va fi o taxa de protocol de 20RON. 15RON pentru primii 5.&lt;/p&gt;
 </summary><category term="Meetup"></category></entry><entry><title>Python and Ember.js</title><link href="http://ropython.github.io/ropython-site/2014/06/12/python-and-emberjs/" rel="alternate"></link><updated>2014-06-12T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2014-06-12:ropython-site/2014/06/12/python-and-emberjs/</id><summary type="html">&lt;p&gt;Python and Ember.js - Super Fast (and Testable!) Frontend&lt;/p&gt;
 &lt;p&gt;FREE BEER and PIZZA while showcasing the testable, Embjer.js on top of
@@ -150,10 +160,20 @@ drinkup to get to know each other better ...&lt;/p&gt;
 &lt;p&gt;The event will be hosted by Cluj Hub, where freelancers usually meet.&lt;/p&gt;
 </summary><category term="Meetup"></category></entry><entry><title>Task queues and components architecture</title><link href="http://ropython.github.io/ropython-site/2013/10/03/task-queues-and-components-architecture/" rel="alternate"></link><updated>2013-10-03T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2013-10-03:ropython-site/2013/10/03/task-queues-and-components-architecture/</id><summary type="html">&lt;p&gt;I invite you to the 2nd Cluj Pythonistas meetup where two of the best
 Python developers I know will tell you about subjects that they love:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Celery introduction - Ionel Cristian Mărieș&lt;/li&gt;
-&lt;li&gt;Zope Component Architecture - Sever Băneșiu&lt;/li&gt;
-&lt;/ul&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="30%" /&gt;
+&lt;col width="70%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;&lt;a class="reference external" href="http://blog.ionelmc.ro/"&gt;Ionel Cristian Mărieș&lt;/a&gt;&lt;/th&gt;
+&lt;td&gt;Celery introduction&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;&lt;a class="reference external" href="https://github.com/severb"&gt;Sever Băneșiu&lt;/a&gt;&lt;/th&gt;
+&lt;td&gt;Zope Component Architecture&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;The event's host is Cluj Cowork and the recommended contribution for
 that is 10 lei. See you there ...&lt;/p&gt;
 &lt;p&gt;P.S. Ring at &amp;quot;Ruby tribe&amp;quot; when you arrive.&lt;/p&gt;

@@ -110,11 +110,10 @@ pre {
     word-wrap: break-word;
     /* Internet Explorer 5.5+ */;
 }
-pre, table, img {
+pre, table {
     box-shadow: 1px 1px 3px #efefef;
 }
 img {
-    box-shadow: 1px 1px 6px #ccc;
     margin: 0 auto;
     display: block;
     max-width: 700px;
@@ -259,6 +258,7 @@ table tr td {
     border: 0;
     border-right: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
+    vertical-align: middle;
     padding: 5px;
 }
 table tr th:first-child,
@@ -269,11 +269,22 @@ table tr th {
     background: #f9f9f0;
     border-top: 1px solid #ddd;
 }
+table tr th.stub {
+    border-top: 0;
+}
+table div.line-block {
+    margin: 0;
+}
 
-table tr:first-child > th:first-child { border-top-left-radius: 5px; }
-table tr:first-child > th:last-child  { border-top-right-radius: 5px; }
-table tr:last-child  > td:first-child { border-bottom-left-radius: 5px; }
+table tr:first-child > :first-child { border-top-left-radius: 5px; }
+table tr:first-child > :last-child { border-top-right-radius: 5px; }
+table tr:last-child  > td:first-child,
+table tr:last-child  > th.stub:first-child { border-bottom-left-radius: 5px; }
 table tr:last-child  > td:last-child  { border-bottom-right-radius: 5px; }
+table tr:first-child > th.stub,
+table tr:first-child > td { border-top: 1px solid #ddd; }
+table thead + tbody tr:first-child > :first-child { border-top-left-radius: 0; border-top: 0; }
+table thead + tbody tr:first-child > :last-child { border-top-right-radius: 0; border-top: 0; }
 
 table.field-list tr th,
 table.field-list tr td {
@@ -422,9 +433,7 @@ div.footer .subscribe input[type=submit] {
 }
 .figure {
     float: right;
-    padding: 5px;
     margin: 0 1em;
-    box-shadow: 1px 1px 5px #ccc;
 }
 img.chromeless,
 .figure img {
@@ -445,6 +454,7 @@ blockquote {
     border-left: 1em solid #eee;
     padding: 1ex 0 1ex 1em;
     margin-left: 0;
+    margin-right: 0;
 }
 blockquote p:first-child,
 blockquote ul:first-child {
