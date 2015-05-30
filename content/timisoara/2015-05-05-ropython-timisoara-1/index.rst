@@ -12,9 +12,23 @@ un membru foarte activ al comunității de Python.
 
 Avem programate 3 prezentări legate de Celery, Ansible și RPython.
 
-* 18:30 - 19:00 *Andrei Coman - Intro în Celery*
-* 19:10 - 19:40 *Robert Tingirică - Ansible, introducere și studiu de caz*
-* 19:50 - 20:20 *Claudiu Popa - Cum să îți construiești un limbaj folosind RPython*
+.. list-table::
+    :header-rows: 1
+    :widths: 15 20 60
+
+    - - Durată
+      - Presentator
+      - Descriere
+
+    - - 18:30 - 19:00
+      - Andrei Coman
+      - Intro în Celery
+    - - 19:10 - 19:40
+      - Robert Tingirică
+      - Ansible, introducere și studiu de caz
+    - - 19:50 - 20:20
+      - Claudiu Popa
+      - Cum să îți construiești un limbaj folosind RPython
 
 După eveniment vă așteptăm să mai rămâneți prin preajmă, și să veniți cu
 noi la o bere / suc, să povestim mai multe despre experiențele noastre

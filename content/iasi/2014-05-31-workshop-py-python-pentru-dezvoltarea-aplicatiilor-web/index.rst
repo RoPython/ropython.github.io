@@ -35,7 +35,7 @@ Programul de vineri este:
 
 
 .. list-table::
-   :widths: 15 30 15
+   :widths: 15 55 25
    :header-rows: 1
 
    * - Ora
@@ -60,7 +60,7 @@ Programul de vineri este:
 Programul de sâmbătă este:
 
 .. list-table::
-   :widths: 15 30 15
+   :widths: 15 55 25
    :header-rows: 1
 
    * - Ora

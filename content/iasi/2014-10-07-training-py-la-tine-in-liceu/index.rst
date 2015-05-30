@@ -54,24 +54,21 @@ se vor lovi de unii singuri.
 
 Liceele înscrise în acest proiect sunt:
 
-
-.. |national| image:: {attach}colegiu-national.png   
+.. |national| image:: {attach}colegiu-national.png
    :alt: Colegiul Național
 
-   
 .. |negruzzi| image:: {attach}costache-negruzzi.png
    :alt: Colegiul "Costache Negruzzi"
 
-   
-.. |racovita| image:: {attach}emil-racovita.png   
+.. |racovita| image:: {attach}emil-racovita.png
    :alt: Colegiul Național "Emil Racoviță"
-   
-   
+
 .. |moisil| image:: {attach}grigore-moisil.png
    :alt: Liceul Teoretic "Grigore Moisil"
-   
-+--------------+--------------+
-| |national|   +  |moisil|    +
-+--------------+--------------+   
-| |negruzzi|   +  |racovita|  +
-+--------------+--------------+   
+
+.. list-table::
+
+    - - |national|
+      - |moisil|
+    - - |negruzzi|
+      - |racovita|
