@@ -3,7 +3,11 @@
 
 :tags: Workshop
 :location:
-    `Facultatea de informatică <http://www.infoiasi.ro/bin/Main/>`_
+    Facultatea de informatică: http://www.infoiasi.ro/bin/Main/
+:registration:
+    Eventbrite: https://ropython-workshop-1.eventbrite.com/
+    Facebook: https://www.facebook.com/events/758089454222935/
+    Google+: https://plus.google.com/b/100310797620080278732/events/ctvf1v32ujggii0mi9iabo56im8
 
 ::
 
@@ -23,11 +27,11 @@ Pentru că vrem ca fiecare participant să câștige cât mai multă experienț�
 
 Elementele ce vor fi apreciate sunt:
 
-    * contribuitori la proiecte open source, nu neapărat scrise în limbajul Python.
+* contribuitori la proiecte open source, nu neapărat scrise în limbajul Python.
 
-    * proiecte pe github sau bitbucket peste care ne putem uita.
+* proiecte pe github sau bitbucket peste care ne putem uita.
 
-    * un profil de LinkedIn plin cu lucruri care să ne impresioneze.
+* un profil de LinkedIn plin cu lucruri care să ne impresioneze.
 
 Apreciem persoanele care vor să învețe, așa că și începătorii sunt bineveniți. Pentru asta, trebuia ca prezentarea voastră să fie cât mai savuroasă și sinceră.
 
@@ -102,9 +106,5 @@ Programul de sâmbătă este:
 
 Grupul RoPython vă așteaptă cu drag!
 
-Link-uri utile:
 
-    * `Bilete Eventbrite <https://ropython-workshop-1.eventbrite.com/>`_
-    * `Eveniment Facebook <https://www.facebook.com/events/758089454222935/>`_
-    * `Eveniment Google+ <https://plus.google.com/b/100310797620080278732/events/ctvf1v32ujggii0mi9iabo56im8>`_
 

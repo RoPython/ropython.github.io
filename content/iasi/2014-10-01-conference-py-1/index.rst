@@ -3,7 +3,7 @@
 
 :tags: Conferință
 :location:
-    `Liceul Costache Negruzzi <http://colegiulnegruzzi.ro/>`_
+    Liceul Costache Negruzzi: http://colegiulnegruzzi.ro/
 
 Toamna este un anotimp al începutului, fiind vremea unui nou an școlar, unui
 nou început de an universitar, precum și sezonul în care vacanțele lungi sau
@@ -37,12 +37,6 @@ intrarea va fi liberă.
 
 Următorii speakeri ne onorează cu participarea lor:
 
-
-
-
-   
-
-      
 +------------------------------------------------------------+------------------------------------------------------------+
 |.. figure:: {attach}alex_morega.jpeg                        |.. figure:: {attach}gabriel_samfira.jpg                     |
 |   :scale: 50 %                                             |   :scale: 50 %                                             |
@@ -83,20 +77,20 @@ Următorii speakeri ne onorează cu participarea lor:
 |   Dojo în Timișoara, unde pregătește copiii pentru primii  |                                                            |
 |   lor pași în lumea Python.                                |                                                            |
 |                                                            |                                                            |
-+------------------------------------------------------------+------------------------------------------------------------+ 
-   
++------------------------------------------------------------+------------------------------------------------------------+
+
 Dacă vrei să ne ajuți, dacă ai un sfat sau o critică sau doar ești curios
 de inițiativa grupului RoPython, nu ezita să ne contactezi pe contact@ropython.org.
 
 Mulțumim sponsorilor și partenerilor noștri!
-   
+
 
 .. image:: {attach}python-software-foundation.png
    :scale: 50 %
    :width: 70 %
    :alt: PSF
 
-   
+
 .. image:: {attach}cloudbase.png
    :scale: 50 %
    :width: 70 %
