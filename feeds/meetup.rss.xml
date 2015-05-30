@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ropython.org</title><link>http://ropython.github.io/ropython-site/</link><description></description><atom:link href="http://ropython.github.io/ropython-site/feeds/meetup.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 21 May 2015 00:00:00 +0300</lastBuildDate><item><title>Interpretoare în RPython și testare cu pytest</title><link>http://ropython.github.io/ropython-site/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/</link><description>&lt;p&gt;La această ediție vom avea două prezentări și un anunț surpriză ;-)&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ropython.org</title><link>http://ropython.github.io/ropython-site/</link><description></description><atom:link href="http://ropython.github.io/ropython-site/feeds/meetup.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 11 Jun 2015 00:00:00 +0300</lastBuildDate><item><title>Graphs using Networkx and Semantic web using RDFlib</title><link>http://ropython.github.io/ropython-site/2015/06/11/graphs-using-networkx-and-semantic-web-using-rdflib/</link><description>&lt;p&gt;La această ediție vom avea două prezentări.&lt;/p&gt;
+&lt;p&gt;Agendă:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;6:00 - Intrarea&lt;/li&gt;
+&lt;li&gt;6:15 - Ana Maria Ghiran - &amp;quot;Semantic Web with Python - RDFlib&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ana Maria va face o introducere în Semantic Web si cum poate Python
+contribui la realizarea viziunii Web-ului semantic.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;7:00 - Pauză&lt;/li&gt;
+&lt;li&gt;7:15 - Mihai Gociu - &amp;quot;Graphs in Python using Networkx&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mihai va face o demonstrație cu libraria &lt;a class="reference external" href="https://networkx.github.io/"&gt;NetworkX&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 11 Jun 2015 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2015-06-11:ropython-site/2015/06/11/graphs-using-networkx-and-semantic-web-using-rdflib/</guid><category>meetup</category></item><item><title>Interpretoare în RPython și testare cu pytest</title><link>http://ropython.github.io/ropython-site/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/</link><description>&lt;p&gt;La această ediție vom avea două prezentări și un anunț surpriză ;-)&lt;/p&gt;
 &lt;p&gt;Agendă:&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
