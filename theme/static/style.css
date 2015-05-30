@@ -457,6 +457,7 @@ blockquote {
     border-left: 1em solid #eee;
     padding: 1ex 0 1ex 1em;
     margin-left: 0;
+    margin-right: 0;
 }
 blockquote p:first-child,
 blockquote ul:first-child {
