@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>ropython.org</title><link href="http://ropython.github.io/ropython-site/" rel="alternate"></link><link href="http://ropython.github.io/ropython-site/feeds/cluj.atom.xml" rel="self"></link><id>http://ropython.github.io/ropython-site/</id><updated>2015-06-11T00:00:00+03:00</updated><entry><title>Graphs using Networkx and Semantic web using RDFlib</title><link href="http://ropython.github.io/ropython-site/2015/06/11/graphs-using-networkx-and-semantic-web-using-rdflib/" rel="alternate"></link><updated>2015-06-11T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2015-06-11:ropython-site/2015/06/11/graphs-using-networkx-and-semantic-web-using-rdflib/</id><summary type="html">&lt;p&gt;La această ediție vom avea două prezentări.&lt;/p&gt;
 &lt;p&gt;Agendă:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;6:00 - Intrarea&lt;/li&gt;
-&lt;li&gt;6:15 - Ana Maria Ghiran - &amp;quot;Semantic Web with Python - RDFlib&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Ana Maria va face o introducere în Semantic Web si cum poate Python
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="90%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6:00&lt;/th&gt;
+&lt;td&gt;Intrarea&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6:15&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Ana Maria Ghiran - &amp;quot;Semantic Web with Python - RDFlib&amp;quot;&lt;/p&gt;
+&lt;p class="last"&gt;Ana Maria va face o introducere în Semantic Web si cum poate Python
 contribui la realizarea viziunii Web-ului semantic.&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;7:00 - Pauză&lt;/li&gt;
-&lt;li&gt;7:15 - Mihai Gociu - &amp;quot;Graphs in Python using Networkx&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Mihai va face o demonstrație cu libraria &lt;a class="reference external" href="https://networkx.github.io/"&gt;NetworkX&lt;/a&gt;.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:00&lt;/th&gt;
+&lt;td&gt;Pauză&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Mihai Gociu - &amp;quot;Graphs in Python using Networkx&amp;quot;&lt;/p&gt;
+&lt;p class="last"&gt;Mihai va face o demonstrație cu libraria &lt;a class="reference external" href="https://networkx.github.io/"&gt;NetworkX&lt;/a&gt;.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 </summary><category term="meetup"></category></entry><entry><title>Interpretoare în RPython și testare cu pytest</title><link href="http://ropython.github.io/ropython-site/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/" rel="alternate"></link><updated>2015-05-21T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2015-05-21:ropython-site/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/</id><summary type="html">&lt;p&gt;La această ediție vom avea două prezentări și un anunț surpriză ;-)&lt;/p&gt;
 &lt;p&gt;Agendă:&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
