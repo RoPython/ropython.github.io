@@ -35,7 +35,8 @@ def main(group_id, location, time_boundary, event_status, pandoc):
     if os.path.exists(key_path):
         with open(key_path) as fh:
             key = fh.read().strip()
-
+    else:
+        key = None
     cache = FileCache('.web_cache', forever=True)
     requests = CacheControl(
         Session(), cache,
