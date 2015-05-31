@@ -15,7 +15,7 @@
 {% endif %}
 
 {% block css %}
-  {% assets filters="rcssmin", output="all-min.css", "style.css", "layout.css", "pygments.css", "print.css", "fonts.css" %}
+  {% assets filters="rcssmin", output="all-min.css", "style.css", "layout.css", "pygments.css", "print.css", "fonts.css", "fontello.css" %}
     <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL|replace('\\', '/') }}" type="text/css" />
   {% endassets %}
 

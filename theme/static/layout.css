@@ -25,6 +25,12 @@ body > .container {
 .menu ul {
     float: right;
 }
+.menu i span {
+    display: none;
+}
+.menu a {
+    vertical-align: middle;
+}
 .tags {
     position: relative;
 }

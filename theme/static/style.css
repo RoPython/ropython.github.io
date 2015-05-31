@@ -475,7 +475,6 @@ blockquote:before {
 blockquote:after{
     content: close-quote;
 }*/
-
 *::-moz-selection,
 *::selection {
     text-shadow: none !important;
