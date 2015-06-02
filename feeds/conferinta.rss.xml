@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ropython.org</title><link>http://ropython.github.io/ropython-site/</link><description></description><atom:link href="http://ropython.github.io/ropython-site/feeds/conferinta.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0300</lastBuildDate><item><title>Conference.py #1 @Iași</title><link>http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/</link><description>&lt;p&gt;Toamna este un anotimp al începutului, fiind vremea unui nou an școlar, unui
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ropython.org</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/conferinta.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0300</lastBuildDate><item><title>Conference.py #1 @Iași</title><link>http://ropython.org/2014/10/01/conference-py-1/</link><description>&lt;p&gt;Toamna este un anotimp al începutului, fiind vremea unui nou an școlar, unui
 nou început de an universitar, precum și sezonul în care vacanțele lungi sau
 scurte, plănuite sau inopinate, lasă locul altor activități.
 Este anotimpul în care începe stagiunea la operă și în care studenții revin
@@ -33,7 +33,7 @@ intrarea va fi liberă.&lt;/p&gt;
 &lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Alex Morega" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/alex_morega.jpeg" /&gt;
+&lt;img alt="Alex Morega" src="http://ropython.org/2014/10/01/conference-py-1/alex_morega.jpeg" /&gt;
 &lt;p class="caption"&gt;Alex Morega&lt;/p&gt;
 &lt;div class="legend"&gt;
 Alex este un dezvoltator web, care iubește limbajul
@@ -44,7 +44,7 @@ organizația ROSEdu, ce promovează cultura open-source
 &lt;/div&gt;
 &lt;/td&gt;
 &lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Gabriel Samfira" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/gabriel_samfira.jpg" /&gt;
+&lt;img alt="Gabriel Samfira" src="http://ropython.org/2014/10/01/conference-py-1/gabriel_samfira.jpg" /&gt;
 &lt;p class="caption"&gt;Gabriel Samfira&lt;/p&gt;
 &lt;div class="legend"&gt;
 Gabriel este Senior Cloud Engineer în cadrul
@@ -55,7 +55,7 @@ precum Python, Go, Ruby, Perl și Powershell.&lt;/div&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Alessandro Pilotti" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/alessandro_pilotti.jpeg" /&gt;
+&lt;img alt="Alessandro Pilotti" src="http://ropython.org/2014/10/01/conference-py-1/alessandro_pilotti.jpeg" /&gt;
 &lt;p class="caption"&gt;Alessandro Pilotti&lt;/p&gt;
 &lt;div class="legend"&gt;
 Alessandro este CEO-ul și fondatorul Cloudbase Solutions,
@@ -67,7 +67,7 @@ source și să participe în comunitatea IT.&lt;/div&gt;
 &lt;/div&gt;
 &lt;/td&gt;
 &lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Ionel Cristian Mărieș" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/ionel_cristian.jpg" /&gt;
+&lt;img alt="Ionel Cristian Mărieș" src="http://ropython.org/2014/10/01/conference-py-1/ionel_cristian.jpg" /&gt;
 &lt;p class="caption"&gt;Ionel Cristian Mărieș&lt;/p&gt;
 &lt;div class="legend"&gt;
 Ionel este un dezvoltator software din Cluj-Napoca.
@@ -81,7 +81,7 @@ cogen, python-manhole, fiind și contribuitor Celery.&lt;/div&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Vlad Temian" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/vlad_temian.png" /&gt;
+&lt;img alt="Vlad Temian" src="http://ropython.org/2014/10/01/conference-py-1/vlad_temian.png" /&gt;
 &lt;p class="caption"&gt;Vlad Temian&lt;/p&gt;
 &lt;div class="legend"&gt;
 Vlad este backend developer la Presslabs, fiind un
@@ -99,6 +99,6 @@ lor pași în lumea Python.&lt;/div&gt;
 &lt;p&gt;Dacă vrei să ne ajuți, dacă ai un sfat sau o critică sau doar ești curios
 de inițiativa grupului RoPython, nu ezita să ne contactezi pe &lt;a class="reference external" href="mailto:contact&amp;#64;ropython.org"&gt;contact&amp;#64;ropython.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Mulțumim sponsorilor și partenerilor noștri!&lt;/p&gt;
-&lt;img alt="PSF" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/python-software-foundation.png" style="width: 35.0%;" /&gt;
-&lt;img alt="Cloudbase Solutions" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/cloudbase.png" style="width: 35.0%;" /&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-10-01:ropython-site/2014/10/01/conference-py-1/</guid><category>Conferință</category></item></channel></rss>
+&lt;img alt="PSF" src="http://ropython.org/2014/10/01/conference-py-1/python-software-foundation.png" style="width: 35.0%;" /&gt;
+&lt;img alt="Cloudbase Solutions" src="http://ropython.org/2014/10/01/conference-py-1/cloudbase.png" style="width: 35.0%;" /&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-10-01:2014/10/01/conference-py-1/</guid><category>Conferință</category></item></channel></rss>

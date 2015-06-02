@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ropython.org</title><link href="http://ropython.github.io/ropython-site/" rel="alternate"></link><link href="http://ropython.github.io/ropython-site/feeds/online.atom.xml" rel="self"></link><id>http://ropython.github.io/ropython-site/</id><updated>2015-06-20T00:00:00+03:00</updated><entry><title>Sprint #10</title><link href="http://ropython.github.io/ropython-site/2015/06/20/sprint-10/" rel="alternate"></link><updated>2015-06-20T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2015-06-20:ropython-site/2015/06/20/sprint-10/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ropython.org</title><link href="http://ropython.org/" rel="alternate"></link><link href="http://ropython.org/feeds/online.atom.xml" rel="self"></link><id>http://ropython.org/</id><updated>2015-06-20T00:00:00+03:00</updated><entry><title>Sprint #10</title><link href="http://ropython.org/2015/06/20/sprint-10/" rel="alternate"></link><updated>2015-06-20T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2015-06-20:2015/06/20/sprint-10/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -14,7 +14,7 @@
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</summary><category term="sprint"></category></entry><entry><title>Sprint #9</title><link href="http://ropython.github.io/ropython-site/2015/06/06/sprint-9/" rel="alternate"></link><updated>2015-06-06T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2015-06-06:ropython-site/2015/06/06/sprint-9/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</summary><category term="sprint"></category></entry><entry><title>Sprint #9</title><link href="http://ropython.org/2015/06/06/sprint-9/" rel="alternate"></link><updated>2015-06-06T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2015-06-06:2015/06/06/sprint-9/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -29,7 +29,7 @@
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</summary><category term="sprint"></category></entry><entry><title>Sprint #8</title><link href="http://ropython.github.io/ropython-site/2015/05/23/sprint-8/" rel="alternate"></link><updated>2015-05-23T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2015-05-23:ropython-site/2015/05/23/sprint-8/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</summary><category term="sprint"></category></entry><entry><title>Sprint #8</title><link href="http://ropython.org/2015/05/23/sprint-8/" rel="alternate"></link><updated>2015-05-23T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2015-05-23:2015/05/23/sprint-8/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -44,7 +44,7 @@
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</summary><category term="sprint"></category></entry><entry><title>Sprint #7</title><link href="http://ropython.github.io/ropython-site/2015/05/09/sprint-7/" rel="alternate"></link><updated>2015-05-09T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2015-05-09:ropython-site/2015/05/09/sprint-7/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</summary><category term="sprint"></category></entry><entry><title>Sprint #7</title><link href="http://ropython.org/2015/05/09/sprint-7/" rel="alternate"></link><updated>2015-05-09T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2015-05-09:2015/05/09/sprint-7/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -59,7 +59,7 @@
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</summary><category term="sprint"></category></entry><entry><title>Sprint #6</title><link href="http://ropython.github.io/ropython-site/2015/04/25/sprint-6/" rel="alternate"></link><updated>2015-04-25T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2015-04-25:ropython-site/2015/04/25/sprint-6/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</summary><category term="sprint"></category></entry><entry><title>Sprint #6</title><link href="http://ropython.org/2015/04/25/sprint-6/" rel="alternate"></link><updated>2015-04-25T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2015-04-25:2015/04/25/sprint-6/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -74,7 +74,7 @@
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</summary><category term="sprint"></category></entry><entry><title>Sprint #5</title><link href="http://ropython.github.io/ropython-site/2015/04/11/sprint-5/" rel="alternate"></link><updated>2015-04-11T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2015-04-11:ropython-site/2015/04/11/sprint-5/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</summary><category term="sprint"></category></entry><entry><title>Sprint #5</title><link href="http://ropython.org/2015/04/11/sprint-5/" rel="alternate"></link><updated>2015-04-11T00:00:00+03:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2015-04-11:2015/04/11/sprint-5/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -89,5 +89,5 @@
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</summary><category term="sprint"></category></entry><entry><title>Sprint #4</title><link href="http://ropython.github.io/ropython-site/2015/03/28/sprint-4/" rel="alternate"></link><updated>2015-03-28T00:00:00+02:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.github.io,2015-03-28:ropython-site/2015/03/28/sprint-4/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
+</summary><category term="sprint"></category></entry><entry><title>Sprint #4</title><link href="http://ropython.org/2015/03/28/sprint-4/" rel="alternate"></link><updated>2015-03-28T00:00:00+02:00</updated><author><name>Echipa ROPYTHON</name></author><id>tag:ropython.org,2015-03-28:2015/03/28/sprint-4/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
 </summary><category term="sprint"></category></entry></feed>

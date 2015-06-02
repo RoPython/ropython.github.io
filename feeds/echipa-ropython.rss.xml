@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ropython.org</title><link>http://ropython.github.io/ropython-site/</link><description></description><atom:link href="http://ropython.github.io/ropython-site/feeds/echipa-ropython.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 20 Jun 2015 00:00:00 +0300</lastBuildDate><item><title>Sprint #10</title><link>http://ropython.github.io/ropython-site/2015/06/20/sprint-10/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ropython.org</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/echipa-ropython.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 20 Jun 2015 00:00:00 +0300</lastBuildDate><item><title>Sprint #10</title><link>http://ropython.org/2015/06/20/sprint-10/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -14,7 +14,7 @@
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 20 Jun 2015 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2015-06-20:ropython-site/2015/06/20/sprint-10/</guid><category>sprint</category></item><item><title>Graphs using Networkx and Semantic web using RDFlib</title><link>http://ropython.github.io/ropython-site/2015/06/11/graphs-using-networkx-and-semantic-web-using-rdflib/</link><description>&lt;p&gt;La această ediție vom avea două prezentări.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 20 Jun 2015 00:00:00 +0300</pubDate><guid>tag:ropython.org,2015-06-20:2015/06/20/sprint-10/</guid><category>sprint</category></item><item><title>Graphs using Networkx and Semantic web using RDFlib</title><link>http://ropython.org/2015/06/11/graphs-using-networkx-and-semantic-web-using-rdflib/</link><description>&lt;p&gt;La această ediție vom avea două prezentări.&lt;/p&gt;
 &lt;p&gt;Agendă:&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
@@ -41,7 +41,7 @@ contribui la realizarea viziunii Web-ului semantic.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 11 Jun 2015 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2015-06-11:ropython-site/2015/06/11/graphs-using-networkx-and-semantic-web-using-rdflib/</guid><category>meetup</category></item><item><title>Sprint #9</title><link>http://ropython.github.io/ropython-site/2015/06/06/sprint-9/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 11 Jun 2015 00:00:00 +0300</pubDate><guid>tag:ropython.org,2015-06-11:2015/06/11/graphs-using-networkx-and-semantic-web-using-rdflib/</guid><category>meetup</category></item><item><title>Sprint #9</title><link>http://ropython.org/2015/06/06/sprint-9/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -56,7 +56,7 @@ contribui la realizarea viziunii Web-ului semantic.&lt;/p&gt;
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 06 Jun 2015 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2015-06-06:ropython-site/2015/06/06/sprint-9/</guid><category>sprint</category></item><item><title>Sprint #8</title><link>http://ropython.github.io/ropython-site/2015/05/23/sprint-8/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 06 Jun 2015 00:00:00 +0300</pubDate><guid>tag:ropython.org,2015-06-06:2015/06/06/sprint-9/</guid><category>sprint</category></item><item><title>Sprint #8</title><link>http://ropython.org/2015/05/23/sprint-8/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -71,7 +71,7 @@ contribui la realizarea viziunii Web-ului semantic.&lt;/p&gt;
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 23 May 2015 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2015-05-23:ropython-site/2015/05/23/sprint-8/</guid><category>sprint</category></item><item><title>Interpretoare în RPython și testare cu pytest</title><link>http://ropython.github.io/ropython-site/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/</link><description>&lt;p&gt;La această ediție vom avea două prezentări și un anunț surpriză ;-)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 23 May 2015 00:00:00 +0300</pubDate><guid>tag:ropython.org,2015-05-23:2015/05/23/sprint-8/</guid><category>sprint</category></item><item><title>Interpretoare în RPython și testare cu pytest</title><link>http://ropython.org/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/</link><description>&lt;p&gt;La această ediție vom avea două prezentări și un anunț surpriză ;-)&lt;/p&gt;
 &lt;p&gt;Agendă:&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
@@ -86,7 +86,7 @@ contribui la realizarea viziunii Web-ului semantic.&lt;/p&gt;
 &lt;td&gt;&lt;p class="first"&gt;Ionel Cristian Mărieș - &amp;quot;Testare cu pytest&amp;quot;&lt;/p&gt;
 &lt;p&gt;Ionel va face o introducere în pytest și va explica de ce este mai bun
 decât nose sau unittest.&lt;/p&gt;
-&lt;p class="last"&gt;&lt;a class="reference external" href="http://ropython.github.io/ropython-site/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/Testare-cu-pytest.html"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="http://ropython.org/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/Testare-cu-pytest.html"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
@@ -97,7 +97,7 @@ decât nose sau unittest.&lt;/p&gt;
 &lt;p&gt;Claudiu este unul dintre organizatorii comunității RoPython si
 maintainer Pylint. Ne va vorbi despre PyPy, RPython și cum se e să iți
 implementezi un interpretor în RPython.&lt;/p&gt;
-&lt;p class="last"&gt;&lt;a class="reference external" href="http://ropython.github.io/ropython-site/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/PyPy-si-RPython.html"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="http://ropython.org/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/PyPy-si-RPython.html"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;8:15&lt;/th&gt;
@@ -105,7 +105,7 @@ implementezi un interpretor în RPython.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 21 May 2015 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2015-05-21:ropython-site/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/</guid><category>meetup</category></item><item><title>Sprint #7</title><link>http://ropython.github.io/ropython-site/2015/05/09/sprint-7/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 21 May 2015 00:00:00 +0300</pubDate><guid>tag:ropython.org,2015-05-21:2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/</guid><category>meetup</category></item><item><title>Sprint #7</title><link>http://ropython.org/2015/05/09/sprint-7/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -120,7 +120,7 @@ implementezi un interpretor în RPython.&lt;/p&gt;
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 09 May 2015 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2015-05-09:ropython-site/2015/05/09/sprint-7/</guid><category>sprint</category></item><item><title>RoPython Timisoara #1</title><link>http://ropython.github.io/ropython-site/2015/05/05/ropython-timisoara-1/</link><description>&lt;p&gt;Vă invităm la prima ediție a RoPython Timișoara, întâlnirea pasionaților
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 09 May 2015 00:00:00 +0300</pubDate><guid>tag:ropython.org,2015-05-09:2015/05/09/sprint-7/</guid><category>sprint</category></item><item><title>RoPython Timisoara #1</title><link>http://ropython.org/2015/05/05/ropython-timisoara-1/</link><description>&lt;p&gt;Vă invităm la prima ediție a RoPython Timișoara, întâlnirea pasionaților
 de Python din Timișoara. La această întâlnire, avem un invitat special -
 Claudiu Popa. El este core maintainer la Pylint, co-fondator RoPython și
 un membru foarte activ al comunității de Python.&lt;/p&gt;
@@ -156,7 +156,7 @@ un membru foarte activ al comunității de Python.&lt;/p&gt;
 noi la o bere / suc, să povestim mai multe despre experiențele noastre
 cu limbajul si despre proiectele în Python la care am lucrat.&lt;/p&gt;
 &lt;p&gt;Ne vedem marți la &lt;a class="reference external" href="https://www.facebook.com/uvtromania"&gt;Universitatea de Vest din Timisoara&lt;/a&gt;, Amfiteatrul A02!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 05 May 2015 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2015-05-05:ropython-site/2015/05/05/ropython-timisoara-1/</guid><category>Meetup</category></item><item><title>Sprint #6</title><link>http://ropython.github.io/ropython-site/2015/04/25/sprint-6/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 05 May 2015 00:00:00 +0300</pubDate><guid>tag:ropython.org,2015-05-05:2015/05/05/ropython-timisoara-1/</guid><category>Meetup</category></item><item><title>Sprint #6</title><link>http://ropython.org/2015/04/25/sprint-6/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -171,7 +171,7 @@ cu limbajul si despre proiectele în Python la care am lucrat.&lt;/p&gt;
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 25 Apr 2015 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2015-04-25:ropython-site/2015/04/25/sprint-6/</guid><category>sprint</category></item><item><title>Fireside chat with Michael Foord</title><link>http://ropython.github.io/ropython-site/2015/04/23/fireside-chat-with-michael-foord/</link><description>&lt;p&gt;Michael Foord is a Python and Go programmer. He is working for Canonical
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 25 Apr 2015 00:00:00 +0300</pubDate><guid>tag:ropython.org,2015-04-25:2015/04/25/sprint-6/</guid><category>sprint</category></item><item><title>Fireside chat with Michael Foord</title><link>http://ropython.org/2015/04/23/fireside-chat-with-michael-foord/</link><description>&lt;p&gt;Michael Foord is a Python and Go programmer. He is working for Canonical
 and he is visiting Cluj-Napoca from Northampton UK.&lt;/p&gt;
 &lt;p&gt;We invited Michael for a friendly chat. Cluj Python community is invited
 to join and talk with Michael. If you have specific questions for
@@ -190,7 +190,7 @@ great open source contributor.&lt;/p&gt;
 &lt;p&gt;You can follow Michael on Twitter at
 &lt;a class="reference external" href="https://twitter.com/voidspace"&gt;https://twitter.com/voidspace&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 23 Apr 2015 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2015-04-23:ropython-site/2015/04/23/fireside-chat-with-michael-foord/</guid><category>Întâlniri</category></item><item><title>Sprint #5</title><link>http://ropython.github.io/ropython-site/2015/04/11/sprint-5/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 23 Apr 2015 00:00:00 +0300</pubDate><guid>tag:ropython.org,2015-04-23:2015/04/23/fireside-chat-with-michael-foord/</guid><category>Întâlniri</category></item><item><title>Sprint #5</title><link>http://ropython.org/2015/04/11/sprint-5/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -205,12 +205,12 @@ great open source contributor.&lt;/p&gt;
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2015-04-11:ropython-site/2015/04/11/sprint-5/</guid><category>sprint</category></item><item><title>Sprint #4</title><link>http://ropython.github.io/ropython-site/2015/03/28/sprint-4/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 28 Mar 2015 00:00:00 +0200</pubDate><guid>tag:ropython.github.io,2015-03-28:ropython-site/2015/03/28/sprint-4/</guid><category>sprint</category></item><item><title>Sprint #3</title><link>http://ropython.github.io/ropython-site/2015/03/14/sprint-3/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 14 Mar 2015 00:00:00 +0200</pubDate><guid>tag:ropython.github.io,2015-03-14:ropython-site/2015/03/14/sprint-3/</guid><category>sprint</category></item><item><title>Sprint #2</title><link>http://ropython.github.io/ropython-site/2015/02/28/sprint-2/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 +0300</pubDate><guid>tag:ropython.org,2015-04-11:2015/04/11/sprint-5/</guid><category>sprint</category></item><item><title>Sprint #4</title><link>http://ropython.org/2015/03/28/sprint-4/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 28 Mar 2015 00:00:00 +0200</pubDate><guid>tag:ropython.org,2015-03-28:2015/03/28/sprint-4/</guid><category>sprint</category></item><item><title>Sprint #3</title><link>http://ropython.org/2015/03/14/sprint-3/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 14 Mar 2015 00:00:00 +0200</pubDate><guid>tag:ropython.org,2015-03-14:2015/03/14/sprint-3/</guid><category>sprint</category></item><item><title>Sprint #2</title><link>http://ropython.org/2015/02/28/sprint-2/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
 &lt;p&gt;Cu scaun avem doar ~12 locuri asigurate :)&lt;/p&gt;
 &lt;p&gt;Pizza și băuturile sunt asigurate.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 28 Feb 2015 00:00:00 +0200</pubDate><guid>tag:ropython.github.io,2015-02-28:ropython-site/2015/02/28/sprint-2/</guid><category>sprint</category></item><item><title>PyTim #7</title><link>http://ropython.github.io/ropython-site/2015/02/25/pytim-7/</link><description>&lt;p&gt;Welcome to PyTim #7. This meetup marks our affiliation to the
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 28 Feb 2015 00:00:00 +0200</pubDate><guid>tag:ropython.org,2015-02-28:2015/02/28/sprint-2/</guid><category>sprint</category></item><item><title>PyTim #7</title><link>http://ropython.org/2015/02/25/pytim-7/</link><description>&lt;p&gt;Welcome to PyTim #7. This meetup marks our affiliation to the
 &lt;a class="reference external" href="http://ropython.org"&gt;RoPython&lt;/a&gt; national initiative which has similar
 events in Cluj, Iasi and Bucharest (more on this and a potential
 RoPython national conference at the meetup).&lt;/p&gt;
@@ -256,7 +256,7 @@ RoPython national conference at the meetup).&lt;/p&gt;
 Session descriptions coming soon.&lt;/blockquote&gt;
 &lt;p&gt;The new venue is Timisoara Startup Hub and the date is February 25!&lt;/p&gt;
 &lt;p&gt;See you there.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 25 Feb 2015 00:00:00 +0200</pubDate><guid>tag:ropython.github.io,2015-02-25:ropython-site/2015/02/25/pytim-7/</guid><category>Meetup</category></item><item><title>Sprint #1 (Pylint)</title><link>http://ropython.github.io/ropython-site/2015/02/14/sprint-pylint/</link><description>&lt;p&gt;Pentru că e foarte frig la început de 2015 facem un Sprint de Pylint.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 25 Feb 2015 00:00:00 +0200</pubDate><guid>tag:ropython.org,2015-02-25:2015/02/25/pytim-7/</guid><category>Meetup</category></item><item><title>Sprint #1 (Pylint)</title><link>http://ropython.org/2015/02/14/sprint-pylint/</link><description>&lt;p&gt;Pentru că e foarte frig la început de 2015 facem un Sprint de Pylint.
 Pylint este cel mai cuprinzător verificator de cod disponibil pentru
 Python, este extensibil, configurabil și este folosit în foarte multe
 locuri. El ne ajută să scriem cod mai corect sau mai frumos.&lt;/p&gt;
@@ -281,7 +281,7 @@ plugin.&lt;/li&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id1"&gt;[1]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Să aveți experienta de lucru cu un proiect Python.&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 14 Feb 2015 00:00:00 +0200</pubDate><guid>tag:ropython.github.io,2015-02-14:ropython-site/2015/02/14/sprint-pylint/</guid><category>sprint</category></item><item><title>Extending Python in C</title><link>http://ropython.github.io/ropython-site/2014/11/20/extending-python-in-c/</link><description>&lt;p&gt;One reason for Python's popularity (and a reason for many of its quirks
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 14 Feb 2015 00:00:00 +0200</pubDate><guid>tag:ropython.org,2015-02-14:2015/02/14/sprint-pylint/</guid><category>sprint</category></item><item><title>Extending Python in C</title><link>http://ropython.org/2014/11/20/extending-python-in-c/</link><description>&lt;p&gt;One reason for Python's popularity (and a reason for many of its quirks
 ...) is its strong ties to the C programming language. CPython, the
 reference Python interpreter, allows advanced users to interact with the
 interpreter's inner workings, and extend the Python language with code
@@ -303,7 +303,7 @@ Pyspark to bring Python to the big data era. Steffen has been with
 TrustYou since 2008. His master thesis laid the foundation for
 TrustYou's scalable semantic analysis, which today understands 20
 languages natively.&lt;/blockquote&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 20 Nov 2014 00:00:00 +0200</pubDate><guid>tag:ropython.github.io,2014-11-20:ropython-site/2014/11/20/extending-python-in-c/</guid><category>Meetup</category></item><item><title>Workshop #2 - Expediție în cloud computing, programare funcțională și altele</title><link>http://ropython.github.io/ropython-site/2014/10/19/workshop-py-2/</link><description>&lt;img alt="Workshop #2" class="align-center" src="http://ropython.github.io/ropython-site/2014/10/19/workshop-py-2/workshop.png" /&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 20 Nov 2014 00:00:00 +0200</pubDate><guid>tag:ropython.org,2014-11-20:2014/11/20/extending-python-in-c/</guid><category>Meetup</category></item><item><title>Workshop #2 - Expediție în cloud computing, programare funcțională și altele</title><link>http://ropython.org/2014/10/19/workshop-py-2/</link><description>&lt;img alt="Workshop #2" class="align-center" src="http://ropython.org/2014/10/19/workshop-py-2/workshop.png" /&gt;
 &lt;p&gt;Dacă sunteți începător în Python și zilele trecute ați avut “bucuria” primului vostru traceback
 sau aveți experiență în alte limbaje, trecând prin inevitabilul Javascript, îndreptându-vă apoi
 către limbajele funcționale și vreți acum să aflați ce este acel Python de care toată lumea
@@ -325,7 +325,7 @@ ce stau la baza lui. Totodată, ei vor mai învăța să facă primii pași, aju
 la primul algoritm funcțional în Python.&lt;/p&gt;
 &lt;p&gt;Programul complet al workshop-urilor, precum și locația lor vor fi anunțate în curând.&lt;/p&gt;
 &lt;p&gt;Vă așteptăm!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sun, 19 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-10-19:ropython-site/2014/10/19/workshop-py-2/</guid><category>Workshop</category></item><item><title>Python Week</title><link>http://ropython.github.io/ropython-site/2014/10/18/Python-Week/</link><description>&lt;div class="line-block"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sun, 19 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-10-19:2014/10/19/workshop-py-2/</guid><category>Workshop</category></item><item><title>Python Week</title><link>http://ropython.org/2014/10/18/Python-Week/</link><description>&lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;em&gt;And on the pedestal these words appear:&lt;/em&gt;&lt;/div&gt;
 &lt;div class="line"&gt;&lt;em&gt;&amp;quot;My name is Python, king of languages:&lt;/em&gt;&lt;/div&gt;
 &lt;div class="line"&gt;&lt;em&gt;Look on my works, ye Mighty, and rejoice!”&lt;/em&gt;&lt;/div&gt;
@@ -344,7 +344,7 @@ pentru o săptămână, să adune toți pasionații de tehnologie într-un mediu
 &lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Conference.py" src="http://ropython.github.io/ropython-site/2014/10/18/Python-Week/conference.png" /&gt;
+&lt;img alt="Conference.py" src="http://ropython.org/2014/10/18/Python-Week/conference.png" /&gt;
 &lt;div class="legend"&gt;
 Conference.py propune o zi întreagă de prezentări tehnice,
 venite din partea unor speakeri implicați în proiecte open source de anvergură,
@@ -360,7 +360,7 @@ dezvoltarea de software, ce vor să afle ultimele noutăți din lumea Python.&lt
 &lt;/div&gt;
 &lt;/td&gt;
 &lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Workshop.py" src="http://ropython.github.io/ropython-site/2014/10/18/Python-Week/workshop.png" /&gt;
+&lt;img alt="Workshop.py" src="http://ropython.org/2014/10/18/Python-Week/workshop.png" /&gt;
 &lt;div class="legend"&gt;
 Precedat de Conference.py, prima conferință de Python a toamnei,
 Workshop.py #2 se va desfășura pe data de 19 octombrie, fiind compus
@@ -378,7 +378,7 @@ filosofiile ce stau la baza lui.&lt;/div&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Training.py" src="http://ropython.github.io/ropython-site/2014/10/18/Python-Week/training.png" /&gt;
+&lt;img alt="Training.py" src="http://ropython.org/2014/10/18/Python-Week/training.png" /&gt;
 &lt;div class="legend"&gt;
 Ideea acestui training este de a expune în fața micilor viitori
 programatori și dezvoltatori, un limbaj de programare ușor de înțeles, rapid, robust
@@ -400,7 +400,7 @@ chiar să realizeze aplicația mult visată.&lt;/div&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 18 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-10-18:ropython-site/2014/10/18/Python-Week/</guid><category>Diverse</category></item><item><title>CloudTim Panel discussion: Dynamic Programming Languages in the Cloud</title><link>http://ropython.github.io/ropython-site/2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/</link><description>&lt;p&gt;&lt;a class="reference external" href="http://www.unifiedpost.ro"&gt;UnifiedPost&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a class="reference external" href="http://www.cloudbase.it"&gt;Cloudbase&amp;nbsp;Solutions&lt;/a&gt;&amp;nbsp;have
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 18 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-10-18:2014/10/18/Python-Week/</guid><category>Diverse</category></item><item><title>CloudTim Panel discussion: Dynamic Programming Languages in the Cloud</title><link>http://ropython.org/2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/</link><description>&lt;p&gt;&lt;a class="reference external" href="http://www.unifiedpost.ro"&gt;UnifiedPost&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a class="reference external" href="http://www.cloudbase.it"&gt;Cloudbase&amp;nbsp;Solutions&lt;/a&gt;&amp;nbsp;have
 teamed up for a cross-community meetup that will take the form of a
 panel discussion on a very hot topic:&amp;nbsp;dynamic programming languages in
 the cloud.&lt;/p&gt;
@@ -426,7 +426,7 @@ well done.&lt;/li&gt;
 &lt;p&gt;More panelists are in the process of confirming their attendance to our
 event, so keep an eye on this space for regular updates on our speakers
 and the questions they will be debating.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 14 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-10-14:ropython-site/2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/</guid><category>Meetup</category></item><item><title>Training.py - La tine în liceu</title><link>http://ropython.github.io/ropython-site/2014/10/07/training-py-la-tine-in-liceu/</link><description>&lt;img alt="Training.py #1 - La tine în liceu" class="align-center" src="http://ropython.github.io/ropython-site/2014/10/07/training-py-la-tine-in-liceu/training-py-1-in-liceu.png" /&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 14 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-10-14:2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/</guid><category>Meetup</category></item><item><title>Training.py - La tine în liceu</title><link>http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/</link><description>&lt;img alt="Training.py #1 - La tine în liceu" class="align-center" src="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/training-py-1-in-liceu.png" /&gt;
 &lt;p&gt;Deoarece conferințele și workshop-urile pot avea un caracter tehnic ceva mai avansat,
 ne-am propus să creăm un eveniment destinat pasionaților de Python, destinat începătorilor
 și nu numai. Acest training are ca public țintă elevii de liceu și ca scop
@@ -472,18 +472,18 @@ se vor lovi de unii singuri.&lt;/p&gt;
 &lt;col width="50%" /&gt;
 &lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img alt="Colegiul Național" src="http://ropython.github.io/ropython-site/2014/10/07/training-py-la-tine-in-liceu/colegiu-national.png" /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img alt="Liceul Teoretic &amp;quot;Grigore Moisil&amp;quot;" src="http://ropython.github.io/ropython-site/2014/10/07/training-py-la-tine-in-liceu/grigore-moisil.png" /&gt;&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img alt="Colegiul Național" src="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/colegiu-national.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt="Liceul Teoretic &amp;quot;Grigore Moisil&amp;quot;" src="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/grigore-moisil.png" /&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img alt="Colegiul &amp;quot;Costache Negruzzi&amp;quot;" src="http://ropython.github.io/ropython-site/2014/10/07/training-py-la-tine-in-liceu/costache-negruzzi.png" /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img alt="Colegiul Național &amp;quot;Emil Racoviță&amp;quot;" src="http://ropython.github.io/ropython-site/2014/10/07/training-py-la-tine-in-liceu/emil-racovita.png" /&gt;&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img alt="Colegiul &amp;quot;Costache Negruzzi&amp;quot;" src="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/costache-negruzzi.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt="Colegiul Național &amp;quot;Emil Racoviță&amp;quot;" src="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/emil-racovita.png" /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 07 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-10-07:ropython-site/2014/10/07/training-py-la-tine-in-liceu/</guid><category>Training</category></item><item><title>Ask.py #3 - În expediție</title><link>http://ropython.github.io/ropython-site/2014/10/01/ask-py-in-expeditie/</link><description>&lt;img alt="Ask.py #3 - În expediție" class="align-center" src="http://ropython.github.io/ropython-site/2014/10/01/ask-py-in-expeditie/ask-py-in-expeditie.png" /&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 07 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-10-07:2014/10/07/training-py-la-tine-in-liceu/</guid><category>Training</category></item><item><title>Ask.py #3 - În expediție</title><link>http://ropython.org/2014/10/01/ask-py-in-expeditie/</link><description>&lt;img alt="Ask.py #3 - În expediție" class="align-center" src="http://ropython.org/2014/10/01/ask-py-in-expeditie/ask-py-in-expeditie.png" /&gt;
 &lt;p&gt;Cu ocazia dojo-ului CentOS, ce se va desfășura în Timișoara pe 27 septembrie, echipa RoPython va face o vizită în orașul de pe Bega. O călătorie într-un oraș nou reprezintă totodată și oportunitatea cunoașterii comunității Python din orașul respectiv, ocazie numai bună pentru o nouă întâlnire Ask.py, alături de oameni noi și entuziasmați. Echipa RoPython vă invită la primul Ask.py în partea vestică a țării pe data de 1 octombrie, în Timișoara.&lt;/p&gt;
 &lt;p&gt;Vă așteptăm!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-10-01:ropython-site/2014/10/01/ask-py-in-expeditie/</guid><category>Întâlniri</category></item><item><title>Conference.py #1 @Iași</title><link>http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/</link><description>&lt;p&gt;Toamna este un anotimp al începutului, fiind vremea unui nou an școlar, unui
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-10-01:2014/10/01/ask-py-in-expeditie/</guid><category>Întâlniri</category></item><item><title>Conference.py #1 @Iași</title><link>http://ropython.org/2014/10/01/conference-py-1/</link><description>&lt;p&gt;Toamna este un anotimp al începutului, fiind vremea unui nou an școlar, unui
 nou început de an universitar, precum și sezonul în care vacanțele lungi sau
 scurte, plănuite sau inopinate, lasă locul altor activități.
 Este anotimpul în care începe stagiunea la operă și în care studenții revin
@@ -517,7 +517,7 @@ intrarea va fi liberă.&lt;/p&gt;
 &lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Alex Morega" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/alex_morega.jpeg" /&gt;
+&lt;img alt="Alex Morega" src="http://ropython.org/2014/10/01/conference-py-1/alex_morega.jpeg" /&gt;
 &lt;p class="caption"&gt;Alex Morega&lt;/p&gt;
 &lt;div class="legend"&gt;
 Alex este un dezvoltator web, care iubește limbajul
@@ -528,7 +528,7 @@ organizația ROSEdu, ce promovează cultura open-source
 &lt;/div&gt;
 &lt;/td&gt;
 &lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Gabriel Samfira" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/gabriel_samfira.jpg" /&gt;
+&lt;img alt="Gabriel Samfira" src="http://ropython.org/2014/10/01/conference-py-1/gabriel_samfira.jpg" /&gt;
 &lt;p class="caption"&gt;Gabriel Samfira&lt;/p&gt;
 &lt;div class="legend"&gt;
 Gabriel este Senior Cloud Engineer în cadrul
@@ -539,7 +539,7 @@ precum Python, Go, Ruby, Perl și Powershell.&lt;/div&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Alessandro Pilotti" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/alessandro_pilotti.jpeg" /&gt;
+&lt;img alt="Alessandro Pilotti" src="http://ropython.org/2014/10/01/conference-py-1/alessandro_pilotti.jpeg" /&gt;
 &lt;p class="caption"&gt;Alessandro Pilotti&lt;/p&gt;
 &lt;div class="legend"&gt;
 Alessandro este CEO-ul și fondatorul Cloudbase Solutions,
@@ -551,7 +551,7 @@ source și să participe în comunitatea IT.&lt;/div&gt;
 &lt;/div&gt;
 &lt;/td&gt;
 &lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Ionel Cristian Mărieș" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/ionel_cristian.jpg" /&gt;
+&lt;img alt="Ionel Cristian Mărieș" src="http://ropython.org/2014/10/01/conference-py-1/ionel_cristian.jpg" /&gt;
 &lt;p class="caption"&gt;Ionel Cristian Mărieș&lt;/p&gt;
 &lt;div class="legend"&gt;
 Ionel este un dezvoltator software din Cluj-Napoca.
@@ -565,7 +565,7 @@ cogen, python-manhole, fiind și contribuitor Celery.&lt;/div&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Vlad Temian" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/vlad_temian.png" /&gt;
+&lt;img alt="Vlad Temian" src="http://ropython.org/2014/10/01/conference-py-1/vlad_temian.png" /&gt;
 &lt;p class="caption"&gt;Vlad Temian&lt;/p&gt;
 &lt;div class="legend"&gt;
 Vlad este backend developer la Presslabs, fiind un
@@ -583,13 +583,13 @@ lor pași în lumea Python.&lt;/div&gt;
 &lt;p&gt;Dacă vrei să ne ajuți, dacă ai un sfat sau o critică sau doar ești curios
 de inițiativa grupului RoPython, nu ezita să ne contactezi pe &lt;a class="reference external" href="mailto:contact&amp;#64;ropython.org"&gt;contact&amp;#64;ropython.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Mulțumim sponsorilor și partenerilor noștri!&lt;/p&gt;
-&lt;img alt="PSF" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/python-software-foundation.png" style="width: 35.0%;" /&gt;
-&lt;img alt="Cloudbase Solutions" src="http://ropython.github.io/ropython-site/2014/10/01/conference-py-1/cloudbase.png" style="width: 35.0%;" /&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-10-01:ropython-site/2014/10/01/conference-py-1/</guid><category>Conferință</category></item><item><title>Ask.py #2 - Elemente introductive</title><link>http://ropython.github.io/ropython-site/2014/07/23/ask-py-elemente-introductive/</link><description>&lt;img alt="Ask.py #2 - Elemente introductive" class="align-center" src="http://ropython.github.io/ropython-site/2014/07/23/ask-py-elemente-introductive/ask-py-2-elemente-introductive.png" /&gt;
+&lt;img alt="PSF" src="http://ropython.org/2014/10/01/conference-py-1/python-software-foundation.png" style="width: 35.0%;" /&gt;
+&lt;img alt="Cloudbase Solutions" src="http://ropython.org/2014/10/01/conference-py-1/cloudbase.png" style="width: 35.0%;" /&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-10-01:2014/10/01/conference-py-1/</guid><category>Conferință</category></item><item><title>Ask.py #2 - Elemente introductive</title><link>http://ropython.org/2014/07/23/ask-py-elemente-introductive/</link><description>&lt;img alt="Ask.py #2 - Elemente introductive" class="align-center" src="http://ropython.org/2014/07/23/ask-py-elemente-introductive/ask-py-2-elemente-introductive.png" /&gt;
 &lt;p&gt;Săptămâna aceasta în cadrul evenimentului Ask.py vom face primii pași în dezvoltarea unei aplicații folosind limbajul Python.
 Dacă săptămâna trecută vorbeam despre lucrurile interesante ce pot fi realizate folosind Python, în cadrul acestei sesiuni vom implementa o parte dintre ele.&lt;/p&gt;
 &lt;p&gt;Vă așteptăm cu drag!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 23 Jul 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-07-23:ropython-site/2014/07/23/ask-py-elemente-introductive/</guid><category>Întâlniri</category></item><item><title>Decorators and Workflows</title><link>http://ropython.github.io/ropython-site/2014/07/17/decorators-and-workflows/</link><description>&lt;p&gt;La a 2-a ediție de vară vor prezenta:&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 23 Jul 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-07-23:2014/07/23/ask-py-elemente-introductive/</guid><category>Întâlniri</category></item><item><title>Decorators and Workflows</title><link>http://ropython.org/2014/07/17/decorators-and-workflows/</link><description>&lt;p&gt;La a 2-a ediție de vară vor prezenta:&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="30%" /&gt;
@@ -605,13 +605,13 @@ Dacă săptămâna trecută vorbeam despre lucrurile interesante ce pot fi reali
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Evenimentul este găzduit de Cluj Hub. Va fi o taxa de protocol de 20RON. 15RON pentru primii 5.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 17 Jul 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-07-17:ropython-site/2014/07/17/decorators-and-workflows/</guid><category>Meetup</category></item><item><title>Ask.py #1 Curiozități</title><link>http://ropython.github.io/ropython-site/2014/07/16/ask-py-curiozitati/</link><description>&lt;img alt="Ask.py #1 - Curiozități" class="align-center" src="http://ropython.github.io/ropython-site/2014/07/16/ask-py-curiozitati/ask-py-1-curiozitati.png" /&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 17 Jul 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-07-17:2014/07/17/decorators-and-workflows/</guid><category>Meetup</category></item><item><title>Ask.py #1 Curiozități</title><link>http://ropython.org/2014/07/16/ask-py-curiozitati/</link><description>&lt;img alt="Ask.py #1 - Curiozități" class="align-center" src="http://ropython.org/2014/07/16/ask-py-curiozitati/ask-py-1-curiozitati.png" /&gt;
 &lt;p&gt;ask.py este destinat interacțiunii prin viu grai cu echipa RoPython, scopul fiind nu doar dobândirea de noi cunoștințe
 prin intermediul întrebărilor, cât și o închegare cât mai bună e relației dintre membrii comunității Python din România,
 în fața unui pahar de vin, înconjurați de oameni cu aceeași pasiune extraordinară pentru acest limbaj.&lt;/p&gt;
 &lt;p&gt;Vom încerca în primul eveniment ask.py să prezentăm proiectul RoPython celor care vor să afle mai multe despre
 inițiativă, cât și să fim la dispoziția voastră pentru întrebări din universul Python.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 16 Jul 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-07-16:ropython-site/2014/07/16/ask-py-curiozitati/</guid><category>Întâlniri</category></item><item><title>PyTim #6</title><link>http://ropython.github.io/ropython-site/2014/07/01/pytim-6/</link><description>&lt;p&gt;Welcome to the 6th edition of #PyTim, the Python meetup in Timisoara.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 16 Jul 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-07-16:2014/07/16/ask-py-curiozitati/</guid><category>Întâlniri</category></item><item><title>PyTim #6</title><link>http://ropython.org/2014/07/01/pytim-6/</link><description>&lt;p&gt;Welcome to the 6th edition of #PyTim, the Python meetup in Timisoara.&lt;/p&gt;
 &lt;p&gt;In this edition we will have 2 sessions talking about open source
 projects developed using Python and Go.&lt;/p&gt;
 &lt;p&gt;Here is the Agenda:&lt;/p&gt;
@@ -646,13 +646,13 @@ projects developed using Python and Go.&lt;/p&gt;
 spread the word and let people know about #PyTim.&lt;/p&gt;
 &lt;p&gt;See you on July 1!&lt;/p&gt;
 &lt;p&gt;#Juju #Go #MAAS #Docker #HyperV #Python #opensource #meetup #Timisoara&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 01 Jul 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-07-01:ropython-site/2014/07/01/pytim-6/</guid><category>Meetup</category></item><item><title>Python and Ember.js</title><link>http://ropython.github.io/ropython-site/2014/06/12/python-and-emberjs/</link><description>&lt;p&gt;Python and Ember.js - Super Fast (and Testable!) Frontend&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 01 Jul 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-07-01:2014/07/01/pytim-6/</guid><category>Meetup</category></item><item><title>Python and Ember.js</title><link>http://ropython.org/2014/06/12/python-and-emberjs/</link><description>&lt;p&gt;Python and Ember.js - Super Fast (and Testable!) Frontend&lt;/p&gt;
 &lt;p&gt;FREE BEER and PIZZA while showcasing the testable, Embjer.js on top of
 a Python backend.&lt;/p&gt;
 &lt;p&gt;Create super fast and testable front end on top of your Python.&lt;/p&gt;
 &lt;p&gt;by Stas Suscov and Flaviu Simihaian&lt;/p&gt;
 &lt;p&gt;&lt;img alt="image0" src="http://photos2.meetupstatic.com/photos/event/5/4/e/e/global_199941742.jpeg" /&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 12 Jun 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-06-12:ropython-site/2014/06/12/python-and-emberjs/</guid><category>Meetup</category></item><item><title>Workshop #1 - Python pentru dezvoltarea aplicațiilor web</title><link>http://ropython.github.io/ropython-site/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</link><description>&lt;pre class="literal-block"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 12 Jun 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-06-12:2014/06/12/python-and-emberjs/</guid><category>Meetup</category></item><item><title>Workshop #1 - Python pentru dezvoltarea aplicațiilor web</title><link>http://ropython.org/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</link><description>&lt;pre class="literal-block"&gt;
 HTTP/1.1 201 Workshop created
 Date: SAT, 31 May 2014 10:00:00 GMT
 Location: Facultatea de informatică
@@ -768,13 +768,13 @@ Pentru că vrem ca fiecare participant să câștige cât mai multă experienț�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Grupul RoPython vă așteaptă cu drag!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 31 May 2014 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2014-05-31:ropython-site/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</guid><category>Workshop</category></item><item><title>Machine Learning in Python</title><link>http://ropython.github.io/ropython-site/2014/02/20/machine-learning-in-python/</link><description>&lt;p&gt;Hello Pythonistas!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 31 May 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-05-31:2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</guid><category>Workshop</category></item><item><title>Machine Learning in Python</title><link>http://ropython.org/2014/02/20/machine-learning-in-python/</link><description>&lt;p&gt;Hello Pythonistas!&lt;/p&gt;
 &lt;p&gt;After a long break we'll meet again! This time the topic is machine
 learning, one of Python's favorite use cases. Radu Marius Florin and
 Roland Szabo will tell us more about it. After the meetup we'll go for a
 drinkup to get to know each other better ...&lt;/p&gt;
 &lt;p&gt;The event will be hosted by Cluj Hub, where freelancers usually meet.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 20 Feb 2014 00:00:00 +0200</pubDate><guid>tag:ropython.github.io,2014-02-20:ropython-site/2014/02/20/machine-learning-in-python/</guid><category>Meetup</category></item><item><title>PyTim #5</title><link>http://ropython.github.io/ropython-site/2014/02/11/pytim-5/</link><description>&lt;p&gt;Happy New Year from behalf of PyTim!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 20 Feb 2014 00:00:00 +0200</pubDate><guid>tag:ropython.org,2014-02-20:2014/02/20/machine-learning-in-python/</guid><category>Meetup</category></item><item><title>PyTim #5</title><link>http://ropython.org/2014/02/11/pytim-5/</link><description>&lt;p&gt;Happy New Year from behalf of PyTim!&lt;/p&gt;
 &lt;p&gt;The first #Python meetup of 2014 will take place on February 11. The
 format is the same as in the previous meet ups.&lt;/p&gt;
 &lt;p&gt;Here is the Agenda:&lt;/p&gt;
@@ -803,7 +803,7 @@ format is the same as in the previous meet ups.&lt;/p&gt;
 short, 10 minute coffee breaks in between sessions.&lt;/p&gt;
 &lt;p&gt;Thanks,&lt;/p&gt;
 &lt;p&gt;See you on February 11!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 11 Feb 2014 00:00:00 +0200</pubDate><guid>tag:ropython.github.io,2014-02-11:ropython-site/2014/02/11/pytim-5/</guid><category>Meetup</category></item><item><title>PyTim #4</title><link>http://ropython.github.io/ropython-site/2013/11/12/pytim-4/</link><description>&lt;p&gt;Welcome to the 4th #Python community #meetup in #Timisoara.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 11 Feb 2014 00:00:00 +0200</pubDate><guid>tag:ropython.org,2014-02-11:2014/02/11/pytim-5/</guid><category>Meetup</category></item><item><title>PyTim #4</title><link>http://ropython.org/2013/11/12/pytim-4/</link><description>&lt;p&gt;Welcome to the 4th #Python community #meetup in #Timisoara.&lt;/p&gt;
 &lt;p&gt;At PyTim #4 we will have 3 talks held by local developers, covering the
 following topics:&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
@@ -838,7 +838,7 @@ following topics:&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;See you on November 12!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 12 Nov 2013 00:00:00 +0200</pubDate><guid>tag:ropython.github.io,2013-11-12:ropython-site/2013/11/12/pytim-4/</guid><category>Meetup</category></item><item><title>PyTim #3</title><link>http://ropython.github.io/ropython-site/2013/10/09/pytim-3/</link><description>&lt;p&gt;Now that developers have come back from holiday and the University has
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 12 Nov 2013 00:00:00 +0200</pubDate><guid>tag:ropython.org,2013-11-12:2013/11/12/pytim-4/</guid><category>Meetup</category></item><item><title>PyTim #3</title><link>http://ropython.org/2013/10/09/pytim-3/</link><description>&lt;p&gt;Now that developers have come back from holiday and the University has
 started we will continue our regular meetup schedule with PyTim #3.&lt;/p&gt;
 &lt;p&gt;We will have 3 technical talks held by local developers who will share
 from their experience working on large scale Python projects.&lt;/p&gt;
@@ -873,7 +873,7 @@ from their experience working on large scale Python projects.&lt;/p&gt;
 &lt;/table&gt;
 &lt;p&gt;See you on October 9!&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 09 Oct 2013 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2013-10-09:ropython-site/2013/10/09/pytim-3/</guid><category>Meetup</category></item><item><title>Task queues and components architecture</title><link>http://ropython.github.io/ropython-site/2013/10/03/task-queues-and-components-architecture/</link><description>&lt;p&gt;I invite you to the 2nd Cluj Pythonistas meetup where two of the best
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Wed, 09 Oct 2013 00:00:00 +0300</pubDate><guid>tag:ropython.org,2013-10-09:2013/10/09/pytim-3/</guid><category>Meetup</category></item><item><title>Task queues and components architecture</title><link>http://ropython.org/2013/10/03/task-queues-and-components-architecture/</link><description>&lt;p&gt;I invite you to the 2nd Cluj Pythonistas meetup where two of the best
 Python developers I know will tell you about subjects that they love:&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
@@ -892,9 +892,9 @@ Python developers I know will tell you about subjects that they love:&lt;/p&gt;
 &lt;p&gt;The event's host is Cluj Cowork and the recommended contribution for
 that is 10 lei. See you there ...&lt;/p&gt;
 &lt;p&gt;P.S. Ring at &amp;quot;Ruby tribe&amp;quot; when you arrive.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 03 Oct 2013 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2013-10-03:ropython-site/2013/10/03/task-queues-and-components-architecture/</guid><category>Meetup</category></item><item><title>Python Cluj first meetup</title><link>http://ropython.github.io/ropython-site/2013/08/01/python-cluj-first-meetup/</link><description>&lt;p&gt;Just an informal meeting in a bar so we can get to know other Python
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 03 Oct 2013 00:00:00 +0300</pubDate><guid>tag:ropython.org,2013-10-03:2013/10/03/task-queues-and-components-architecture/</guid><category>Meetup</category></item><item><title>Python Cluj first meetup</title><link>http://ropython.org/2013/08/01/python-cluj-first-meetup/</link><description>&lt;p&gt;Just an informal meeting in a bar so we can get to know other Python
 fans in Cluj and what they have to share&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2013-08-01:ropython-site/2013/08/01/python-cluj-first-meetup/</guid><category>Întâlniri</category></item><item><title>PyTim #2</title><link>http://ropython.github.io/ropython-site/2013/07/09/pytim-2/</link><description>&lt;p&gt;After an extremely interesting first meetup we would like to continue in
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate><guid>tag:ropython.org,2013-08-01:2013/08/01/python-cluj-first-meetup/</guid><category>Întâlniri</category></item><item><title>PyTim #2</title><link>http://ropython.org/2013/07/09/pytim-2/</link><description>&lt;p&gt;After an extremely interesting first meetup we would like to continue in
 the same direction with PyTim #2.&lt;/p&gt;
 &lt;p&gt;We will have some technical talks and provide an insight to the
 Europython 2013 conference happening now in Florence - &lt;a class="reference external" href="https://ep2013.europython.eu/"&gt;https://ep2013.europython.eu/&lt;/a&gt; &lt;a class="reference external" href="https://ep2013.europython.eu/p3/live/"&gt;https://ep2013.europython.eu/p3/live/&lt;/a&gt;&lt;/p&gt;
@@ -929,7 +929,7 @@ Europython 2013 conference happening now in Florence - &lt;a class="reference ex
 &lt;/table&gt;
 &lt;p&gt;See you at the event!&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 09 Jul 2013 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2013-07-09:ropython-site/2013/07/09/pytim-2/</guid><category>Meetup</category></item><item><title>Python Basics Training</title><link>http://ropython.github.io/ropython-site/2013/06/29/python-basics-training/</link><description>&lt;p&gt;PyTim is organizing a Python training for beginners.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 09 Jul 2013 00:00:00 +0300</pubDate><guid>tag:ropython.org,2013-07-09:2013/07/09/pytim-2/</guid><category>Meetup</category></item><item><title>Python Basics Training</title><link>http://ropython.org/2013/06/29/python-basics-training/</link><description>&lt;p&gt;PyTim is organizing a Python training for beginners.&lt;/p&gt;
 &lt;p&gt;We invite you to learn the basics of Python from some of the most
 experienced developers in Timisoara.&lt;/p&gt;
 &lt;p&gt;The event will take place on June 29, at the Startup Hub, starting from
@@ -944,7 +944,7 @@ experienced developers in Timisoara.&lt;/p&gt;
 &lt;p&gt;You can find the Agenda here - &lt;a class="reference external" href="http://bit.ly/122dDfJ"&gt;http://bit.ly/122dDfJ&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Bring your laptops, you will need them. Please install Python 2.7 (&lt;a class="reference external" href="http://www.python.org/download/"&gt;http://www.python.org/download/&lt;/a&gt;) and an editor with Syntax Highlightling (eg: Notepad++, Vim, Sublime,
 etc).&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 29 Jun 2013 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2013-06-29:ropython-site/2013/06/29/python-basics-training/</guid><category>Meetup</category></item><item><title>PyTim #1</title><link>http://ropython.github.io/ropython-site/2013/06/04/pytim-1/</link><description>&lt;p&gt;First PyTim meetup.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Sat, 29 Jun 2013 00:00:00 +0300</pubDate><guid>tag:ropython.org,2013-06-29:2013/06/29/python-basics-training/</guid><category>Meetup</category></item><item><title>PyTim #1</title><link>http://ropython.org/2013/06/04/pytim-1/</link><description>&lt;p&gt;First PyTim meetup.&lt;/p&gt;
 &lt;p&gt;We will talk about local products developed in Python and why local
 developers / companies have chosen Python. Also, what is the most
 interesting facet of using Python on each of these products.&lt;/p&gt;
@@ -970,4 +970,4 @@ interesting facet of using Python on each of these products.&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;See you on June 4!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 04 Jun 2013 00:00:00 +0300</pubDate><guid>tag:ropython.github.io,2013-06-04:ropython-site/2013/06/04/pytim-1/</guid><category>Meetup</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 04 Jun 2013 00:00:00 +0300</pubDate><guid>tag:ropython.org,2013-06-04:2013/06/04/pytim-1/</guid><category>Meetup</category></item></channel></rss>
