@@ -5,8 +5,8 @@ from settings import *
 
 ####### DEBUG #######
 CACHE_CONTENT = False
-RELATIVE_URLS = True
-REAL_SITEURL = SITEURL = 'http://ropython.github.io/ropython-site'
+RELATIVE_URLS = False
+REAL_SITEURL = SITEURL = 'http://ropython.org'
 ASSET_DEBUG = False
-GOOGLE_ANALYTICS_ACCOUNT = '???'
+GOOGLE_ANALYTICS_ACCOUNT = 'UA-63604601-1'
 #####################
