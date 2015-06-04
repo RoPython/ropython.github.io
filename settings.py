@@ -6,8 +6,8 @@ from os.path import basename
 from os.path import dirname
 from os.path import join
 
-AUTHOR = 'Echipa ROPYTHON'
-SITENAME = 'ropython.org'
+AUTHOR = 'Echipa RoPython'
+SITENAME = 'RoPython'
 
 REAL_SITEURL = SITEURL = 'http://ropython.org'
 RELATIVE_URLS = False
