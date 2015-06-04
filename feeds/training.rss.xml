@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ropython.org</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/training.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 07 Oct 2014 00:00:00 +0300</lastBuildDate><item><title>Training.py - La tine în liceu</title><link>http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/</link><description>&lt;img alt="Training.py #1 - La tine în liceu" class="align-center" src="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/training-py-1-in-liceu.png" /&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/training.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 07 Oct 2014 00:00:00 +0300</lastBuildDate><item><title>Training.py - La tine în liceu</title><link>http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/</link><description>&lt;img alt="Training.py #1 - La tine în liceu" class="align-center" src="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/training-py-1-in-liceu.png" /&gt;
 &lt;p&gt;Deoarece conferințele și workshop-urile pot avea un caracter tehnic ceva mai avansat,
 ne-am propus să creăm un eveniment destinat pasionaților de Python, destinat începătorilor
 și nu numai. Acest training are ca public țintă elevii de liceu și ca scop
@@ -53,4 +53,4 @@ se vor lovi de unii singuri.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa ROPYTHON</dc:creator><pubDate>Tue, 07 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-10-07:2014/10/07/training-py-la-tine-in-liceu/</guid><category>Training</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Tue, 07 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-10-07:2014/10/07/training-py-la-tine-in-liceu/</guid><category>Training</category></item></channel></rss>
