@@ -34,5 +34,5 @@ Agendă:
 
         Mihai va face o demonstrație cu libraria `NetworkX <https://networkx.github.io/>`_.
 
-        `Materialul prezentării <https://github.com/mihaigociu/myrepo/blob/master/networkx_presentation.py>`.
+        `Materialul prezentării <https://github.com/mihaigociu/myrepo/blob/master/networkx_presentation.py>`_.
 
