@@ -24,6 +24,8 @@ Agendă:
         Ana Maria va face o introducere în Semantic Web si cum poate Python
         contribui la realizarea viziunii Web-ului semantic.
 
+        `Slides <{attach}Semantic-Web-with-Python-RDFLib.pdf>`__.
+
     * - 7:00
       - Pauză
 
@@ -31,4 +33,6 @@ Agendă:
       - Mihai Gociu - "Graphs in Python using Networkx"
 
         Mihai va face o demonstrație cu libraria `NetworkX <https://networkx.github.io/>`_.
+
+        `Materialul prezentării <https://github.com/mihaigociu/myrepo/blob/master/networkx_presentation.py>`.
 
