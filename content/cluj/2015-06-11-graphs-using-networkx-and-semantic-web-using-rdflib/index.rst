@@ -24,7 +24,7 @@ Agendă:
         Ana Maria va face o introducere în Semantic Web si cum poate Python
         contribui la realizarea viziunii Web-ului semantic.
 
-        `Slides <mailto:anamaria.ghiran@econ.ubbcluj.ro?subject=Semantic Web with Python>`_.
+        `Slides <mailto:anamaria.ghiran@econ.ubbcluj.ro?subject=Semantic+Web+with+Python>`_.
 
     * - 7:00
       - Pauză
