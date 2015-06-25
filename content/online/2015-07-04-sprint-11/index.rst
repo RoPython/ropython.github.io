@@ -1,7 +1,7 @@
 ﻿Sprint #11
 ##########
 
-:tags: unknown
+:tags: sprint
 :registration:
     Cluj: http://www.meetup.com/RoPython-Cluj/events/pvdwflytkbgb/
     Timișoara: http://www.meetup.com/RoPython-Timisoara/events/btdhglytkbgb/

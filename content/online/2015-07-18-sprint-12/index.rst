@@ -1,7 +1,7 @@
-﻿Sprint RoPython
-###############################################################
+﻿Sprint #12
+##########
 
-:tags: unknown
+:tags: sprint
 :registration:
     Cluj: http://www.meetup.com/RoPython-Cluj/events/pvdwflytkbxb/
     Timișoara: http://www.meetup.com/RoPython-Timisoara/events/btdhglytkbxb/
