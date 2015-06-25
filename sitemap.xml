@@ -5,21 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ropython.org/</loc>
-<lastmod>2015-06-15T09:19:50-00:00</lastmod>
+<lastmod>2015-06-25T10:13:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ropython.org/despre/</loc>
-<lastmod>2015-06-15T09:19:50-00:00</lastmod>
+<lastmod>2015-06-25T10:13:40-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ropython.org/resurse/</loc>
-<lastmod>2015-06-15T09:19:50-00:00</lastmod>
+<lastmod>2015-06-25T10:13:40-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.org/2015/07/18/sprint-12/</loc>
+<lastmod>2015-07-18T00:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.org/2015/07/04/sprint-11/</loc>
+<lastmod>2015-07-04T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -299,7 +313,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ropython.org/online/</loc>
-<lastmod>2015-06-20T00:00:00+01:44</lastmod>
+<lastmod>2015-07-18T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -307,20 +321,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://ropython.org/timisoara/</loc>
 <lastmod>2015-05-05T00:00:00+01:44</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://ropython.org/forma/conferinta/</loc>
-<lastmod>2014-10-01T00:00:00+01:44</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://ropython.org/forma/sprint/</loc>
-<lastmod>2015-06-20T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -347,8 +347,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.org/forma/training/</loc>
-<lastmod>2014-10-07T00:00:00+01:44</lastmod>
+<loc>http://ropython.org/forma/conferinta/</loc>
+<lastmod>2014-10-01T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -361,8 +361,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.org/organizator/echipa-ropython/</loc>
+<loc>http://ropython.org/forma/unknown/</loc>
+<lastmod>2015-07-18T00:00:00+01:44</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.org/forma/training/</loc>
+<lastmod>2014-10-07T00:00:00+01:44</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.org/forma/sprint/</loc>
 <lastmod>2015-06-20T00:00:00+01:44</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.org/organizator/echipa-ropython/</loc>
+<lastmod>2015-07-18T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
