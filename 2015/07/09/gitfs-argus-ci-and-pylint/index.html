@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title> Gitfs, Argus CI and Pylint | RoPython </title>
+  <link href="http://ropython.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+        title="RoPython Atom Feed" />
+  <link href="http://ropython.org/feeds/all.rss.xml" type="application/rss+xml" rel="alternate"
+        title="RoPython RSS Feed" />
+
+    <link rel="stylesheet" href="http://ropython.org/static/all-min.css?7086d994" type="text/css" />
+
+    <link rel="stylesheet" href="http://ropython.org/static/print-min.css?23ff3ea6" type="text/css" media="print" />
+
+    <script type="text/javascript" src="http://ropython.org/static/min.js?51c056de"></script>
+
+  <meta property="og:title" content="Gitfs, Argus CI and Pylint"/>
+  <meta property="og:description" content="For the next meetup we&#39;re going to do something different - an all-English show. Hint: these presentations will be shown at EuroPython 2015 (don&#39;t ..."/>
+  
+  <meta name="description" content="For the next meetup we&#39;re going to do something different - an all-English show. Hint: these presentations will be shown at EuroPython 2015 (don&#39;t ..."/>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-63604601-1', 'ropython.org');
+      ga('send', 'pageview');
+    </script>
+    <noscript>
+        <img src="http://ropython.org/:/2015/07/09/gitfs-argus-ci-and-pylint/"
+             width="1" height="1">
+    </noscript>
+</head>
+<body>
+  <div class="container">
+<div class="menu">
+  <a class="sitename" href="http://ropython.org/">RoPython</a>
+  <ul>
+    <li><a href="http://ropython.org/resurse/">Resurse</a></li>
+    <li><a href="http://ropython.org/despre/">Despre</a></li>
+    <li><a title="RSS" href="http://ropython.org/feeds/all.rss.xml" rel="alternate"><i class="icon-rss-squared icon-large"><span>RSS Feed</span></i></a></li>
+  </ul>
+</div>
+<div class="separator">
+    <hr>
+</div>
+    <div class="body">
+<div itemscope itemtype="http://schema.org/Article">
+    <h1 class="title" itemprop="name">Gitfs, Argus CI and Pylint</h1>
+    <p class="date">
+        Joi,
+      09 July 2015
+    </p>
+    <blockquote class="attributes">
+        <p class="location">Locație:
+          <a href="http://ropython.org/cluj/"><span itemprop="location">
+            Cluj-Napoca</span></a>
+        </p>
+        <p class="tags">Tip:
+          <a href="http://ropython.org/forma/meetup/"><span itemprop="keywords">Meetup</span></a>
+        </p>
+
+        <p class="registration">Înscrieri:
+            <a href=" http://www.meetup.com/RoPython-Cluj/events/223470515/">meetup.com</a>
+
+    </blockquote>
+    <div itemprop="articleBody"><p>For the next meetup we're going to do something different - an all-English show.</p>
+<p>Hint: these presentations will be shown at EuroPython 2015 (don't tell anyone, it's a secret!)</p>
+<p>Agenda:</p>
+<table border="1" class="docutils">
+<colgroup>
+<col width="10%" />
+<col width="90%" />
+</colgroup>
+<tbody valign="top">
+<tr><th class="stub">6:00</th>
+<td>Entrance</td>
+</tr>
+<tr><th class="stub">6:15</th>
+<td><p class="first">Vlad Temian - gitfs: building a filesystem in Python</p>
+<p>gitfs is an open-source[1] filesystem which was designed
+to bring the full powers of Git to everyone, no matter how
+little they know about versioning. A user can mount any
+repository and all the his changes will be automatically
+converted into commits. gitfs will also expose the history
+of the branch you're currently working on by simulating
+snapshots of every commit.</p>
+<p class="last"><a class="reference external" href="https://ep2015.europython.eu/conference/talks/gitfs-building-a-filesystem-in-python">Full abstract</a>.</p>
+</td>
+</tr>
+<tr><th class="stub">7:00</th>
+<td>Break</td>
+</tr>
+<tr><th class="stub">7:15</th>
+<td><p class="first">Claudiu Popa - 12 years of Pylint (or How I learned to stop worrying about bugs)</p>
+<p>Given the dynamic nature of Python, some bugs tend
+to creep in our codebases. Innocents NameErrors or
+hard-to-find bugs with variables used in a closure,
+but defined in a loop, they all stand no chance in
+front of Pylint.</p>
+<p class="last"><a class="reference external" href="https://ep2015.europython.eu/conference/talks/12-years-of-pylint-or-how-i-stopped-worrying-and-love-the-bugs">Full abstract</a>.</p>
+</td>
+</tr>
+<tr><th class="stub">8:00</th>
+<td>Break</td>
+</tr>
+<tr><th class="stub">8:15</th>
+<td><p class="first">Cosmin Poieana - Argus: the omniscient CI</p>
+<p>Bring the continuous integration to a new level,
+through a platform/project independent framework
+able to give you unittest-like reports. Argus is a
+scenario-based application written in Python, driven
+by custom recipes under configurable environments,
+that can be used for testing a wide variety of small
+and big projects, with the ability of querying live
+data from the in-test application.</p>
+<p class="last"><a class="reference external" href="https://ep2015.europython.eu/conference/talks/argus-the-omniscient-ci">Full abstract</a>.</p>
+</td>
+</tr>
+<tr><th class="stub">8:45</th>
+<td>Ending</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = '?'; // required: replace example with your forum shortname
+    var disqus_identifier = 'http://ropython.org/2015/07/09/gitfs-argus-ci-and-pylint/';
+    var disqus_url = 'http://ropython.org/2015/07/09/gitfs-argus-ci-and-pylint/';
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://go.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>    </div>
+
+<div class="footer">
+  <hr>
+  <p>
+  Copyright &copy; <script type="text/javascript">var date = new Date(); document.write(date.getFullYear());</script> by Echipa RoPython.
+  Powered by <a href="http://pypi.python.org/pypi/pelican/" target="_blank">Pelican</a>.
+  </p>
+</div>  </div>
+</body>
+</html>
