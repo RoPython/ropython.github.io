@@ -1,4 +1,4 @@
-Gitfs, Argus CI and Pylint
+ï»¿Gitfs, Argus CI and Pylint
 ##########################
 
 :tags: meetup
@@ -25,7 +25,7 @@ Agenda:
         little they know about versioning. A user can mount any
         repository and all the his changes will be automatically
         converted into commits. gitfs will also expose the history
-        of the branch you’re currently working on by simulating
+        of the branch you're currently working on by simulating
         snapshots of every commit.
 
         `Full abstract <https://ep2015.europython.eu/conference/talks/gitfs-building-a-filesystem-in-python>`__.
