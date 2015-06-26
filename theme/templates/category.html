@@ -1,0 +1,7 @@
+{% extends "index.html" %}
+{% block title %}{{ SITENAME }}: {{ category_slugs.get(category.slug, category.slug.capitalize()) }}{% endblock %}
+
+{% block content %}
+{% include "categories/" + category.slug + ".html" %}
+{{ super() }}
+{% endblock %}
