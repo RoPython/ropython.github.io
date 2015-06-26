@@ -1,5 +1,8 @@
 {% extends "base.html" %}
 {% block title %} 404 NOT FOUND | {{ SITENAME }} {% endblock %}
+{% block header %}
+    {% include "header.html" %}
+{% endblock %}
 {% block content %}
 <div class='page'>
     <h1>404 NOT FOUND</h1>
@@ -11,5 +14,8 @@
         ) + '">search it in the site</a> ?</p>'
     )
     </script>
+    <h5>Please let us know at <a href="https://github.com/RoPython/ropython-site/issues/new">
+        github.com/RoPython/ropython-site/issues/new</a>!</h5>
+
 </div>
 {% endblock %}
