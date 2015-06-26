@@ -238,6 +238,13 @@ hr {
     box-shadow: inset 0px 0px 2px #ccc;
     clear: both;
 }
+mark {
+    background: #FCD216;
+    box-shadow: 0px 0px 2px #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-block;
+}
 div[itemprop=articleBody] hr, hr.short {
     width: 6em;
     margin: 0 auto;
