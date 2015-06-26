@@ -493,15 +493,4 @@ blockquote:after{
     float: none;
     display: inline-block;
 }
-@media only screen and (min-width: 0px) and (max-width: 775px) {
-    .figure {
-        min-width: 125px;
-        max-width: calc(100% - 200px);
-    }
-    .figure img {
-        max-width: 100%;
 
-    }
-}
-@media only screen and (min-width: 0px) and (max-width: 565px) {
-}
