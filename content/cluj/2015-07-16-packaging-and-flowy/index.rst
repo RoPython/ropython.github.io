@@ -29,6 +29,8 @@ Agenda:
         * Obscure pip/setuptools/virtualenv/python features you can use to improve your packaging experience (be it as a user of packages or a package author).
         * Fledgeling alternative tools.
 
+        `Details <https://ep2015.europython.eu/conference/talks/less-known-packaging-features-and-tricks>`__
+
     - - 7:00
       - Break
 
@@ -38,3 +40,5 @@ Agenda:
         This presentation introduces Flowy, a library for building and running distributed, asynchronous workflows built on top of different backends (such as Amazon’s SWF). Flowy deals away with the spaghetti code that often crops up from orchestrating complex workflows. It is ideal for applications that do multi-phased batch processing, media encoding, long-running tasks, and/or background processing.
 
         We’ll start by discussing Flowy’s unique execution model and see how different execution topologies can be implemented on top of it. During the talk we’ll run and visualize workflows using a local backend. We’ll then take a look at what it takes to scale beyond a single machine by using an external service like SWF.
+
+        `Details <https://ep2015.europython.eu/conference/talks/distributed-workflows-with-flowy>`__
