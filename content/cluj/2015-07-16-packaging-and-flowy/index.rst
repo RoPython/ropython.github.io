@@ -6,7 +6,7 @@
     meetup.com: http://www.meetup.com/RoPython-Cluj/events/223878919/
 :location:
     Cluj Hub: https://www.google.com/maps/place/Cluj+Hub/@46.7732751,23.5998229,17.06z/data=!4m2!3m1!1s0x0000000000000000:0x877151207ad02321
-    Google Hangouts: https://plus.google.com/hangouts/_/event/c4pm6rvikk56qm0r246j2hdot14
+    Google Hangouts: https://plus.google.com/events/csng4e66ka0eua9sumhjtrcsmek
 
 Last minute meetup ...
 
