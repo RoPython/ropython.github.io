@@ -3,7 +3,7 @@
 
 :tags: sprint
 :registration:
-    meetup.com: http://www.meetup.com/RoPython-Cluj/events/dzqbjlytlbtb/
+    Cluj: http://www.meetup.com/RoPython-Cluj/events/dzqbjlytlbtb/
     Timișoara: http://www.meetup.com/RoPython-Timisoara/events/xxqbjlytlbtb/
     Iași: http://www.meetup.com/ropython-iasi/events/wwqbjlytlbtb/
 

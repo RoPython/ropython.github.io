@@ -3,9 +3,9 @@
 
 :tags: sprint
 :registration:
-    Cluj: http://www.meetup.com/RoPython-Cluj/events/pvdwflytkbxb/
-    Timișoara: http://www.meetup.com/RoPython-Timisoara/events/btdhglytkbxb/
-    Iași: http://www.meetup.com/ropython-iasi/events/kqlghlytkbxb/
+    Cluj: http://www.meetup.com/RoPython-Cluj/events/223867566/
+    Timișoara: http://www.meetup.com/RoPython-Timisoara/events/223693499/
+    Iași: http://www.meetup.com/ropython-iasi/events/223693285/
 
 :location:
     Google Hangouts: https://plus.google.com/hangouts/_/event/c4pm6rvikk56qm0r246j2hdot14
