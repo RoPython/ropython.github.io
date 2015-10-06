@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/intalniri.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 23 Apr 2015 00:00:00 +0300</lastBuildDate><item><title>Fireside chat with Michael Foord</title><link>http://ropython.org/2015/04/23/fireside-chat-with-michael-foord/</link><description>&lt;p&gt;Michael Foord is a Python and Go programmer. He is working for Canonical
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/intalniri.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 15 Oct 2015 00:00:00 +0300</lastBuildDate><item><title>Beer and chat</title><link>http://ropython.org/2015/10/15/beer-and-chat/</link><description>&lt;p&gt;Just drinking beer in a bar, talking about the summer and other
+Python things.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 15 Oct 2015 00:00:00 +0300</pubDate><guid>tag:ropython.org,2015-10-15:2015/10/15/beer-and-chat/</guid><category>intalniri</category></item><item><title>Fireside chat with Michael Foord</title><link>http://ropython.org/2015/04/23/fireside-chat-with-michael-foord/</link><description>&lt;p&gt;Michael Foord is a Python and Go programmer. He is working for Canonical
 and he is visiting Cluj-Napoca from Northampton UK.&lt;/p&gt;
 &lt;p&gt;We invited Michael for a friendly chat. Cluj Python community is invited
 to join and talk with Michael. If you have specific questions for

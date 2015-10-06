@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/echipa-ropython.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 10 Oct 2015 00:00:00 +0300</lastBuildDate><item><title>Sprint #15</title><link>http://ropython.org/2015/10/10/sprint-15/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/echipa-ropython.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 15 Oct 2015 00:00:00 +0300</lastBuildDate><item><title>Beer and chat</title><link>http://ropython.org/2015/10/15/beer-and-chat/</link><description>&lt;p&gt;Just drinking beer in a bar, talking about the summer and other
+Python things.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 15 Oct 2015 00:00:00 +0300</pubDate><guid>tag:ropython.org,2015-10-15:2015/10/15/beer-and-chat/</guid><category>intalniri</category></item><item><title>Sprint #15</title><link>http://ropython.org/2015/10/10/sprint-15/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
