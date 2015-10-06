@@ -3,7 +3,7 @@ Agregator de evenimente - ropython.org
 
 Demo: http://ropython.github.io/ropython-site/ (|travis|)
 
-.. |travis| image:: http://img.shields.io/travis/RoPython/ropython-site/master.png?style=flat
+.. |travis| image:: https://travis-ci.org/RoPython/ropython-site.svg?branch=master
     :alt: Travis-CI Build Status
     :target: https://travis-ci.org/RoPython/ropython-site
 
