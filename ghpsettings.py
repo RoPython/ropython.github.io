@@ -8,6 +8,7 @@ CACHE_CONTENT = False
 RELATIVE_URLS = False
 REAL_SITEURL = SITEURL = 'http://ropython.org'
 ASSET_DEBUG = False
+DISQUS_SITENAME = ''
 GOOGLE_ANALYTICS_ACCOUNT = 'UA-63604601-1'
 GOOGLE_ANALYTICS_DOMAIN = 'ropython.org'
 #####################
