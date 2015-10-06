@@ -1,7 +1,15 @@
 Agregator de evenimente - ropython.org
 ###############################################
 
-Demo: http://ropython.github.io/ropython-site/ (|travis|)
+.. list-table::
+    :stub-columns: 1
+
+    * - Build
+      - |travis|
+    * - GiHub Pages
+      - http://ropython.github.io/ropython-site/
+    * - Web
+      - http://ropython.org/
 
 .. |travis| image:: https://travis-ci.org/RoPython/ropython-site.svg?branch=master
     :alt: Travis-CI Build Status
