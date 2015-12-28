@@ -5,21 +5,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ropython.org/</loc>
-<lastmod>2015-12-28T10:32:11-00:00</lastmod>
+<lastmod>2015-12-28T11:14:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ropython.org/despre/</loc>
-<lastmod>2015-12-28T10:32:11-00:00</lastmod>
+<lastmod>2015-12-28T11:14:01-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ropython.org/resurse/</loc>
-<lastmod>2015-12-28T10:32:11-00:00</lastmod>
+<lastmod>2015-12-28T11:14:01-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -389,15 +389,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.org/forma/conferinta/</loc>
-<lastmod>2014-10-01T00:00:00+01:44</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://ropython.org/forma/training/</loc>
-<lastmod>2014-10-07T00:00:00+01:44</lastmod>
+<loc>http://ropython.org/forma/diverse/</loc>
+<lastmod>2014-10-18T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -410,15 +403,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.org/forma/sprint/</loc>
-<lastmod>2016-01-02T00:00:00+01:44</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://ropython.org/forma/meetup/</loc>
-<lastmod>2015-07-16T00:00:00+01:44</lastmod>
+<loc>http://ropython.org/forma/conferinta/</loc>
+<lastmod>2014-10-01T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -431,8 +417,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.org/forma/diverse/</loc>
-<lastmod>2014-10-18T00:00:00+01:44</lastmod>
+<loc>http://ropython.org/forma/meetup/</loc>
+<lastmod>2015-07-16T00:00:00+01:44</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.org/forma/training/</loc>
+<lastmod>2014-10-07T00:00:00+01:44</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.org/forma/sprint/</loc>
+<lastmod>2016-01-02T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
