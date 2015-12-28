@@ -4,3 +4,4 @@ cache/
 output/
 *.py[co]
 *.sublime-workspace
+.web_cache
