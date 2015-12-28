@@ -33,7 +33,7 @@ from requests import Session
 def main(group_id, location, time_boundary, event_status, pandoc):
     key_path = os.path.normpath(os.path.expanduser('~/.meetup.com-key'))
     if os.path.exists(key_path):
-        with open(key_path) as fh:
+        with io.open(key_path, encoding='utf8') as fh:
             key = fh.read().strip()
     else:
         key = None
