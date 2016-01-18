@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/meetup.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 16 Jul 2015 00:00:00 +0300</lastBuildDate><item><title>Packaging and Flowy</title><link>http://ropython.org/2015/07/16/packaging-and-flowy/</link><description>&lt;p&gt;Last minute meetup ...&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/meetup.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 28 Jan 2016 00:00:00 +0200</lastBuildDate><item><title>Learn and Share Interesting Projects</title><link>http://ropython.org/2016/01/28/learn-and-share-interesting-projects/</link><description>&lt;p&gt;Whether it's a cool new hack you learned in Vim, or a startup idea
+you've been working on the side, come share and learn from other devs,
+engineers, and startup people.&lt;/p&gt;
+&lt;p&gt;Nothing to share? Come for the FREE PIZZA AND BEER!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 28 Jan 2016 00:00:00 +0200</pubDate><guid>tag:ropython.org,2016-01-28:2016/01/28/learn-and-share-interesting-projects/</guid><category>meetup</category></item><item><title>Packaging and Flowy</title><link>http://ropython.org/2015/07/16/packaging-and-flowy/</link><description>&lt;p&gt;Last minute meetup ...&lt;/p&gt;
 &lt;p&gt;Agenda:&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;

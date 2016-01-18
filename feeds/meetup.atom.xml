@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.org/" rel="alternate"></link><link href="http://ropython.org/feeds/meetup.atom.xml" rel="self"></link><id>http://ropython.org/</id><updated>2015-07-16T00:00:00+03:00</updated><entry><title>Packaging and Flowy</title><link href="http://ropython.org/2015/07/16/packaging-and-flowy/" rel="alternate"></link><updated>2015-07-16T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2015-07-16:2015/07/16/packaging-and-flowy/</id><summary type="html">&lt;p&gt;Last minute meetup ...&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.org/" rel="alternate"></link><link href="http://ropython.org/feeds/meetup.atom.xml" rel="self"></link><id>http://ropython.org/</id><updated>2016-01-28T00:00:00+02:00</updated><entry><title>Learn and Share Interesting Projects</title><link href="http://ropython.org/2016/01/28/learn-and-share-interesting-projects/" rel="alternate"></link><updated>2016-01-28T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2016-01-28:2016/01/28/learn-and-share-interesting-projects/</id><summary type="html">&lt;p&gt;Whether it's a cool new hack you learned in Vim, or a startup idea
+you've been working on the side, come share and learn from other devs,
+engineers, and startup people.&lt;/p&gt;
+&lt;p&gt;Nothing to share? Come for the FREE PIZZA AND BEER!&lt;/p&gt;
+</summary><category term="meetup"></category></entry><entry><title>Packaging and Flowy</title><link href="http://ropython.org/2015/07/16/packaging-and-flowy/" rel="alternate"></link><updated>2015-07-16T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2015-07-16:2015/07/16/packaging-and-flowy/</id><summary type="html">&lt;p&gt;Last minute meetup ...&lt;/p&gt;
 &lt;p&gt;Agenda:&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;

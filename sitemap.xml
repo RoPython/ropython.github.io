@@ -5,21 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ropython.org/</loc>
-<lastmod>2015-12-28T11:14:01-00:00</lastmod>
+<lastmod>2016-01-18T09:58:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ropython.org/despre/</loc>
-<lastmod>2015-12-28T11:14:01-00:00</lastmod>
+<lastmod>2016-01-18T09:58:16-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ropython.org/resurse/</loc>
-<lastmod>2015-12-28T11:14:01-00:00</lastmod>
+<lastmod>2016-01-18T09:58:16-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.org/2016/01/30/sprint-18/</loc>
+<lastmod>2016-01-30T00:00:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.org/2016/01/28/learn-and-share-interesting-projects/</loc>
+<lastmod>2016-01-28T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -362,7 +376,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ropython.org/cluj/</loc>
-<lastmod>2015-10-15T00:00:00+01:44</lastmod>
+<lastmod>2016-01-28T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -376,7 +390,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ropython.org/online/</loc>
-<lastmod>2016-01-02T00:00:00+01:44</lastmod>
+<lastmod>2016-01-30T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -389,6 +403,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://ropython.org/forma/meetup/</loc>
+<lastmod>2016-01-28T00:00:00+01:44</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://ropython.org/forma/diverse/</loc>
 <lastmod>2014-10-18T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
@@ -396,8 +417,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.org/forma/intalniri/</loc>
-<lastmod>2015-10-15T00:00:00+01:44</lastmod>
+<loc>http://ropython.org/forma/sprint/</loc>
+<lastmod>2016-01-30T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -410,20 +431,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.org/forma/workshop/</loc>
-<lastmod>2014-10-19T00:00:00+01:44</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://ropython.org/forma/meetup/</loc>
-<lastmod>2015-07-16T00:00:00+01:44</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://ropython.org/forma/training/</loc>
 <lastmod>2014-10-07T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
@@ -431,15 +438,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.org/forma/sprint/</loc>
-<lastmod>2016-01-02T00:00:00+01:44</lastmod>
+<loc>http://ropython.org/forma/workshop/</loc>
+<lastmod>2014-10-19T00:00:00+01:44</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.org/forma/intalniri/</loc>
+<lastmod>2015-10-15T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ropython.org/organizator/echipa-ropython/</loc>
-<lastmod>2016-01-02T00:00:00+01:44</lastmod>
+<lastmod>2016-01-30T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
