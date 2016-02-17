@@ -1,11 +1,11 @@
-﻿Sprint #15
+﻿Sprint #19
 ##########
 
 :tags: sprint
 :registration:
-    Cluj: http://www.meetup.com/RoPython-Cluj/events/226456959/
-    Timișoara: http://www.meetup.com/RoPython-Timisoara/events/226456960/
-    Iași: http://www.meetup.com/ropython-iasi/events/226157326/
+    Cluj: http://www.meetup.com/RoPython-Cluj/events/227651295/
+    Timișoara: http://www.meetup.com/RoPython-Timisoara/events/xxqbjlyvcbnc/
+    Iași: http://www.meetup.com/ropython-iasi/events/wwqbjlyvcbnc/
 
 :location:
     Google Hangouts: https://plus.google.com/hangouts/_/event/c4pm6rvikk56qm0r246j2hdot14
@@ -26,4 +26,3 @@ Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Sourc
 * Incurajari în general :-)
 
 Notițe de la sprinturile anterioare: https://github.com/RoPython/sprints
-

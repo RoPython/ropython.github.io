@@ -3,9 +3,9 @@
 
 :tags: sprint
 :registration:
-    Cluj: http://www.meetup.com/RoPython-Cluj/events/227650607/
-    Timișoara: http://www.meetup.com/RoPython-Timisoara/events/227650608/
-    Iași: http://www.meetup.com/ropython-iasi/events/227410675/
+    Cluj: http://www.meetup.com/RoPython-Cluj/events/dzqbjlytqbhb/
+    Timișoara: http://www.meetup.com/RoPython-Timisoara/events/xxqbjlytqbhb/
+    Iași: http://www.meetup.com/ropython-iasi/events/wwqbjlytqbhb/
 
 :location:
     Google Hangouts: https://plus.google.com/hangouts/_/event/c4pm6rvikk56qm0r246j2hdot14
@@ -26,5 +26,4 @@ Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Sourc
 * Incurajari în general :-)
 
 Notițe de la sprinturile anterioare: https://github.com/RoPython/sprints
-
 
