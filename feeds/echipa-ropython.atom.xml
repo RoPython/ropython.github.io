@@ -1,5 +1,158 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.org/" rel="alternate"></link><link href="http://ropython.org/feeds/echipa-ropython.atom.xml" rel="self"></link><id>http://ropython.org/</id><updated>2016-01-30T00:00:00+02:00</updated><entry><title>Sprint #18</title><link href="http://ropython.org/2016/01/30/sprint-18/" rel="alternate"></link><updated>2016-01-30T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2016-01-30:2016/01/30/sprint-18/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.org/" rel="alternate"></link><link href="http://ropython.org/feeds/echipa-ropython.atom.xml" rel="self"></link><id>http://ropython.org/</id><updated>2016-02-27T00:00:00+02:00</updated><entry><title>Sprint #20</title><link href="http://ropython.org/2016/02/27/sprint-20/" rel="alternate"></link><updated>2016-02-27T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2016-02-27:2016/02/27/sprint-20/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+&lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
+&lt;li&gt;Îndrumare sau feedback. Exemple:&lt;ul&gt;
+&lt;li&gt;Ai nevoie de ajutor în găsirea unui proiect la care să contribui.&lt;/li&gt;
+&lt;li&gt;Ai nevoie de ajutor în găsirea unei idei pentru un project propriu.&lt;/li&gt;
+&lt;li&gt;Ai o idee pentru un proiect și vrei să o validezi.&lt;/li&gt;
+&lt;li&gt;Sfaturi pentru distribuția unui proiect.&lt;/li&gt;
+&lt;li&gt;Ai vrea să contribui dar nu știi exact cum să procedezi.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Incurajari în general :-)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
+</summary><category term="sprint"></category></entry><entry><title>Fighting Terrorism with Django, Big Data and NLP</title><link href="http://ropython.org/2016/02/24/fighting-terrorism-with-django-big-data-and-nlp/" rel="alternate"></link><updated>2016-02-24T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2016-02-24:2016/02/24/fighting-terrorism-with-django-big-data-and-nlp/</id><summary type="html">&lt;p&gt;For this meet-up, the first one this year, we bring you special guests
+from ComplyAdvantage (London, UK)&lt;/p&gt;
+&lt;p&gt;ComplyAdvantage provides anti-money laundering exposure data and
+compliance technology solutions to help companies control risk and
+prevent their products being used by criminals, terrorists and money
+launderers.&lt;/p&gt;
+&lt;p&gt;Talks:&lt;/p&gt;
+&lt;ol class="arabic"&gt;
+&lt;li&gt;&lt;p class="first"&gt;&amp;quot;Fighting terrorism with Django&amp;quot;&lt;/p&gt;
+&lt;p&gt;Fighting terrorism in the modern world is not only about hearts and
+minds, guns and violence, but also about cutting off the source of
+funding that enables such criminals to conduct their activities. This
+is no mean feat - the amount of money involved is significant, and
+hence there is a significant incentive for those involved to find ways
+and means around any systems that are designed to block them.
+ComplyAdvantage is one of the few companies to offers its customers a
+real-time transaction monitoring platform. We’ve built the product an
+existing product on Laravel which provides the powerful, modern
+framework necessary to build rules and risk based transaction
+monitoring, and to proactively respond as the terrorists change their
+strategy. But fighting money laundering means we need to constantly
+evolve, and we will soon be starting a rewrite, based in Django
+supported by the powerful mathematical and scientific libraries
+offered by Python. Luke and Oliver have worked extensively with
+financial firms from remittance agencies to banks and insurance
+companies. They have an expert understanding of the challenges
+involved, and what is necessary to develop a product that can outwit
+the best minds in corruption.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;&amp;quot;Python, Big Data and Natural Language Processing: The tools James Bond ought to be using&amp;quot;&lt;/p&gt;
+&lt;p&gt;ComplyAdvantage is building the best database in the world for
+politically exposed people and adverse media. To do this we need to
+gather huge amounts of data and use modern technologies to solve some
+difficult problems so we can detect all the criminals and terrorists
+trying to do business across the world. In this talk we will discuss
+the tools we use to build profiles of criminals and terrorists from
+news sources. We will explore the power of ElasticSearch as an
+alternative to graph databases and other useful features for text-
+based systems. Finally, we'll talk about how we put everything
+together, how we can merge data from different sources and what
+remains to be done. This talk will give you an overview of the
+cutting-edge building blocks we need to build the most exciting
+product in its space today. Q eat your heart out, we make the tools
+which let James Bond get out of the office at 5 o'clock sharp and
+drink more martinis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Speakers:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Luke Mawbey&lt;/strong&gt; studied computational mathematics and electrical
+engineering at the University of Melbourne before working on 4G/LTE
+research and development for Analog Devices and NEC, both in Australia
+and Japan. After a 4-year stint working for the United Nations in
+Bangladesh, Senegal, Malawi, Kenya, and Lesotho on data and
+information management, he managed his own start-up to provide
+quantitative based news analysis which allowed humanitarian
+organisations to make real-time evidence-based decisions. Luke joined
+ComplyAdvantage in 2015 primarily on the basis that Romania was one of
+the few countries he'd neither worked in nor visited, and fighting
+financial crime with big data sounded like a superhero job and a fun
+thing to do. Luke manages end-to-end tech projects for ComplyAdvantage
+and is also the local Hadoop specialist in his spare time.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oliver Butterfield&lt;/strong&gt; graduated from Durham University in 2004 and
+joined fledgling server hosting company Gyron Internet where he was
+instrumental in establishing their first self-managed datacentre in
+2009. Following time spent travelling in Africa, he made the move into
+consultancy. Oliver met Charlie Delingpole (founder of
+ComplyAdvantage) in early 2014, and Charlie's plans for the as-yet-
+unnamed anti-money laundering platform coupled with his successful
+track record in start-ups made the opportunity too hard to refuse.
+Soon after Oliver became Employee Number 1. Today Oliver lives with
+his wife and two daughters, and heads up ComplyAdvantage's platform
+team. He coordinates delivery of the transaction monitoring and
+screening platforms built on Laravel via a restful API as well as web
+applications that utilise VueJS and AngularJS.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chris Leow&lt;/strong&gt; graduated from Cambridge with a Mathematics degree, and
+cut his teeth as a software developer architecting robust and scalable
+solutions to business problems for media companies in London. Inspired
+to take on new challenges and expand his horizons, he co-founded a
+start-up in mobile geo-located media and social media. Chris joined
+ComplyAdvantage in 2014 and heads the data team, responsible for
+building the best database of sanctions, politically exposed people
+and adverse media mentions in the world.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dr. Thiago Galery&lt;/strong&gt; has a PhD in linguistics at University College
+London on the relationships between linguistic structure and
+contextual information. During that time, he worked with sentiment
+analysis for IBM. After graduating, Thiago worked at a number of
+start-ups in the UK, on topics including semantic recommendation, text
+classification, news tracking, and unsupervised semantic modelling. He
+was a tutor for Google Summer of Code in 2015 and currently works on
+the multi lingual NLP pipeline at Comply Advantage and is enthusiastic
+about using NLP to thwart the financing of criminal activity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kensuke Muraki&lt;/strong&gt; is a Natural Language Processing (NLP) and Machine
+Learning (ML) expert at ComplyAdvantage. He started his career in
+Japan as a software engineer, working for developing a job
+recommendation system. He came to London to pursue his master's degree
+in Machine Learning at University College London, focusing on
+Statistical Natural Language Processing in his dissertation. After
+working in several start-ups as a machine learning engineer, he joined
+ComplyAdvantage in April 2015. He currently focuses on automated data
+extraction from unstructured natural language texts using NLP and ML.
+He is interested in technologies such as named entity recognition,
+text classification, and deep neural networks as well as applying NLP
+technologies into non-English languages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Schedule:&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="90%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;18:45&lt;/th&gt;
+&lt;td&gt;Arrival time. Come in, get a ticket and your name tag. Have
+some snacks, pour yourself a cup of coffee/tea and meet us!&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;19:00&lt;/th&gt;
+&lt;td&gt;Introductions&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;19:05&lt;/th&gt;
+&lt;td&gt;Django/Platform talk&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;19:35&lt;/th&gt;
+&lt;td&gt;Let's take a break and network next to some pizza
+and refreshments!&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;19:50&lt;/th&gt;
+&lt;td&gt;Python/Data talk&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;20:20&lt;/th&gt;
+&lt;td&gt;Closing remarks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;This event is organized with: &lt;a class="reference external" href="http://www.meetup.com/Front-WEB-Cluj/"&gt;http://www.meetup.com/Front-WEB-Cluj/&lt;/a&gt;&lt;/p&gt;
+</summary><category term="meetup"></category></entry><entry><title>Sprint #19</title><link href="http://ropython.org/2016/01/30/sprint-19/" rel="alternate"></link><updated>2016-01-30T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2016-01-30:2016/01/30/sprint-19/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -18,7 +171,7 @@
 you've been working on the side, come share and learn from other devs,
 engineers, and startup people.&lt;/p&gt;
 &lt;p&gt;Nothing to share? Come for the FREE PIZZA AND BEER!&lt;/p&gt;
-</summary><category term="meetup"></category></entry><entry><title>Sprint #17</title><link href="http://ropython.org/2016/01/02/sprint-17/" rel="alternate"></link><updated>2016-01-02T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2016-01-02:2016/01/02/sprint-17/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</summary><category term="meetup"></category></entry><entry><title>Sprint #18</title><link href="http://ropython.org/2016/01/02/sprint-18/" rel="alternate"></link><updated>2016-01-02T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2016-01-02:2016/01/02/sprint-18/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -33,7 +186,7 @@ engineers, and startup people.&lt;/p&gt;
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</summary><category term="sprint"></category></entry><entry><title>Sprint #16</title><link href="http://ropython.org/2015/12/05/sprint-16/" rel="alternate"></link><updated>2015-12-05T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2015-12-05:2015/12/05/sprint-16/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</summary><category term="sprint"></category></entry><entry><title>Sprint #17</title><link href="http://ropython.org/2015/12/05/sprint-17/" rel="alternate"></link><updated>2015-12-05T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2015-12-05:2015/12/05/sprint-17/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -48,7 +201,7 @@ engineers, and startup people.&lt;/p&gt;
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</summary><category term="sprint"></category></entry><entry><title>Sprint #15</title><link href="http://ropython.org/2015/11/07/sprint-15/" rel="alternate"></link><updated>2015-11-07T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2015-11-07:2015/11/07/sprint-15/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</summary><category term="sprint"></category></entry><entry><title>Sprint #16</title><link href="http://ropython.org/2015/11/07/sprint-16/" rel="alternate"></link><updated>2015-11-07T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2015-11-07:2015/11/07/sprint-16/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
