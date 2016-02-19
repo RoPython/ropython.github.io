@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.org/" rel="alternate"></link><link href="http://ropython.org/feeds/online.atom.xml" rel="self"></link><id>http://ropython.org/</id><updated>2016-02-27T00:00:00+02:00</updated><entry><title>Sprint #20</title><link href="http://ropython.org/2016/02/27/sprint-20/" rel="alternate"></link><updated>2016-02-27T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2016-02-27:2016/02/27/sprint-20/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
-&lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
-&lt;li&gt;Îndrumare sau feedback. Exemple:&lt;ul&gt;
-&lt;li&gt;Ai nevoie de ajutor în găsirea unui proiect la care să contribui.&lt;/li&gt;
-&lt;li&gt;Ai nevoie de ajutor în găsirea unei idei pentru un project propriu.&lt;/li&gt;
-&lt;li&gt;Ai o idee pentru un proiect și vrei să o validezi.&lt;/li&gt;
-&lt;li&gt;Sfaturi pentru distribuția unui proiect.&lt;/li&gt;
-&lt;li&gt;Ai vrea să contribui dar nu știi exact cum să procedezi.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Incurajari în general :-)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</summary><category term="sprint"></category></entry><entry><title>Sprint #19</title><link href="http://ropython.org/2016/01/30/sprint-19/" rel="alternate"></link><updated>2016-01-30T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2016-01-30:2016/01/30/sprint-19/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.org/" rel="alternate"></link><link href="http://ropython.org/feeds/online.atom.xml" rel="self"></link><id>http://ropython.org/</id><updated>2016-01-30T00:00:00+02:00</updated><entry><title>Sprint #19</title><link href="http://ropython.org/2016/01/30/sprint-19/" rel="alternate"></link><updated>2016-01-30T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2016-01-30:2016/01/30/sprint-19/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
