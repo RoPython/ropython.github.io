@@ -1,5 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/echipa-ropython.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 24 Feb 2016 00:00:00 +0200</lastBuildDate><item><title>Fighting Terrorism with Django, Big Data and NLP</title><link>http://ropython.org/2016/02/24/fighting-terrorism-with-django-big-data-and-nlp/</link><description>&lt;p&gt;For this meet-up, the first one this year, we bring you special guests
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/echipa-ropython.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 16 May 2016 00:00:00 +0300</lastBuildDate><item><title>Moderate TDD and Docker</title><link>http://ropython.org/2016/05/16/moderate-tdd-and-docker/</link><description>&lt;div class="section" id="schedule"&gt;
+&lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="90%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6 PM&lt;/th&gt;
+&lt;td&gt;Entry&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6:15&lt;/th&gt;
+&lt;td&gt;Moderate TDD (&lt;a class="reference external" href="https://github.com/adiroiban"&gt;Adi Roiban&lt;/a&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:00&lt;/th&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
+&lt;td&gt;Docker for Python app (&lt;a class="reference external" href="https://github.com/ionelmc"&gt;Ionel Cristian Mărieș&lt;/a&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:45&lt;/th&gt;
+&lt;td&gt;Closing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class="section" id="talks"&gt;
+&lt;h2&gt;Talks&lt;a class="headerlink" href="#talks" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
+&lt;div class="section" id="moderate-tdd"&gt;
+&lt;h3&gt;Moderate TDD&lt;a class="headerlink" href="#moderate-tdd" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This talk is aimed at programmers who already have experience with
+unit testing and they either did not try Extreme Programming/TDD or
+they simply consider those too extreme :-) The content is about Python
+but the techniques could be used in any other language, even touching
+HTML/CSS/JS.&lt;/p&gt;
+&lt;p&gt;There is going to be a discussion about line vs feature coverage,
+continuous and pre-merge testing, debugging based on tests and
+practices for maintaining test code.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="docker-for-python-apps"&gt;
+&lt;h3&gt;Docker for Python apps&lt;a class="headerlink" href="#docker-for-python-apps" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This talk is going to give an intro to Docker, how can you build
+images quickly, few recommendations about moving Python apps in
+containers and many complaints about Docker :-)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Mon, 16 May 2016 00:00:00 +0300</pubDate><guid>tag:ropython.org,2016-05-16:2016/05/16/moderate-tdd-and-docker/</guid><category>unknown</category></item><item><title>Fighting Terrorism with Django, Big Data and NLP</title><link>http://ropython.org/2016/02/24/fighting-terrorism-with-django-big-data-and-nlp/</link><description>&lt;p&gt;For this meet-up, the first one this year, we bring you special guests
 from ComplyAdvantage (London, UK)&lt;/p&gt;
 &lt;p&gt;ComplyAdvantage provides anti-money laundering exposure data and
 compliance technology solutions to help companies control risk and
