@@ -9,7 +9,7 @@ from os.path import join
 AUTHOR = 'Echipa RoPython'
 SITENAME = 'RoPython'
 
-REAL_SITEURL = SITEURL = 'http://ropython.org'
+REAL_SITEURL = SITEURL = 'http://ropython.ro'
 RELATIVE_URLS = False
 
 DISQUS_SITENAME = '?'

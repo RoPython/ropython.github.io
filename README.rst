@@ -1,4 +1,4 @@
-Agregator de evenimente - ropython.org
+Agregator de evenimente - ropython.ro
 ###############################################
 
 .. list-table::
@@ -9,7 +9,7 @@ Agregator de evenimente - ropython.org
     * - GiHub Pages
       - http://ropython.github.io/ropython-site/
     * - Web
-      - http://ropython.org/
+      - http://ropython.ro/
 
 .. |travis| image:: https://travis-ci.org/RoPython/ropython-site.svg?branch=master
     :alt: Travis-CI Build Status
