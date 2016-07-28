@@ -1,5 +1,137 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/meetup.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 24 Feb 2016 00:00:00 +0200</lastBuildDate><item><title>Fighting Terrorism with Django, Big Data and NLP</title><link>http://ropython.org/2016/02/24/fighting-terrorism-with-django-big-data-and-nlp/</link><description>&lt;p&gt;For this meet-up, the first one this year, we bring you special guests
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/meetup.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 14 Jul 2016 00:00:00 +0300</lastBuildDate><item><title>Managing technical debt</title><link>http://ropython.org/2016/07/14/managing-technical-debt/</link><description>&lt;div class="section" id="schedule"&gt;
+&lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="90%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;18:00&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Entry&lt;/p&gt;
+&lt;p class="last"&gt;There will be pizza and drinks (sponsored by Sphyce).&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;18:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Managing technical debt (&lt;a class="reference external" href="https://ep2016.europython.eu/conference/p/mircea-zetea"&gt;Mircea Zetea&lt;/a&gt;)&lt;/p&gt;
+&lt;p class="last"&gt;Technical debt lives among us regardless if we are in the services
+business or building products. We discuss about it, we try to fix it
+or live with it, but can we actually prevent it? My reason for
+discussing this openly is because once it is there you do not only
+deal with the technical debt itself but also with the interest you
+must pay. My reason for discussing this openly is because once it is
+there you do not only deal with the technical debt itself but also
+with the interest you must pay. Comparing the two, probably the
+highest cost that we see is with the interest. As our code base grows
+and our deadlines get tougher we tend to forget about the cost our
+project will have to pay for every functionality that we implement in
+a hurry, for which we “forget” about tests or for which we write in a
+comment “this needs to be refactored” or “this is a temporary
+solution. refactor later”. What qualifies as debt? What qualifies as
+interest? How do we manage it? At what levels in our projects can we
+see the debt and the interest? Is it really unavoidable?&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;19:30&lt;/th&gt;
+&lt;td&gt;Closing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 14 Jul 2016 00:00:00 +0300</pubDate><guid>tag:ropython.org,2016-07-14:2016/07/14/managing-technical-debt/</guid><category>meetup</category></item><item><title>AWS love-hate relationship and Integration testing with Docker</title><link>http://ropython.org/2016/06/30/aws-love-hate-relationship-and-integration-testing-with-docker/</link><description>&lt;div class="section" id="schedule"&gt;
+&lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="90%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6 PM&lt;/th&gt;
+&lt;td&gt;Entry&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;AWS: love-hate relationship (&lt;a class="reference external" href="https://github.com/alexanderad"&gt;Alexander Shchapov&lt;/a&gt;)&lt;/p&gt;
+&lt;p class="last"&gt;Amazon Web Services is a great infrastructure platform one can chose.
+From startup to enterprise. From one instance to tens of thousands.
+Dozens of services, computing instances, automation, queues,
+databases, storage of literally endless size. But with great tools
+comes a necessity to manage the infrastructure, orchestrate park of
+services and instances, ensure secure and reliable deployments. At
+iMedicare we use AWS for the complete product life-cycle of a
+sophisticated web-application which comes along with data processing
+pipelines. While using this platform we learned many things, some of
+which in a hard way. I'm going to share our experiences, dark and
+bright side of EC2 computing nodes, managed Postgres in RDS and huge
+scale column oriented storage Redshift.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:00&lt;/th&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Docker powered pytest fixtures for integration tests. (&lt;a class="reference external" href="https://github.com/rciorba/"&gt;Radu Ciorba&lt;/a&gt;)&lt;/p&gt;
+&lt;p class="last"&gt;We'll be looking at how pytest fixtures and the docker python api can
+make our lives easier when writing integration tests.
+AKA stories from that time I wrote an ansible plugin to manage etcd
+cluster membership.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:45&lt;/th&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;8:00&lt;/th&gt;
+&lt;td&gt;Closing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 30 Jun 2016 00:00:00 +0300</pubDate><guid>tag:ropython.org,2016-06-30:2016/06/30/aws-love-hate-relationship-and-integration-testing-with-docker/</guid><category>meetup</category></item><item><title>Moderate TDD and Docker</title><link>http://ropython.org/2016/05/16/moderate-tdd-and-docker/</link><description>&lt;div class="section" id="schedule"&gt;
+&lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="90%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6 PM&lt;/th&gt;
+&lt;td&gt;Entry&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6:15&lt;/th&gt;
+&lt;td&gt;Moderate TDD (&lt;a class="reference external" href="https://github.com/adiroiban"&gt;Adi Roiban&lt;/a&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:00&lt;/th&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
+&lt;td&gt;Docker for Python app (&lt;a class="reference external" href="https://github.com/ionelmc"&gt;Ionel Cristian Mărieș&lt;/a&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:45&lt;/th&gt;
+&lt;td&gt;Closing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class="section" id="talks"&gt;
+&lt;h2&gt;Talks&lt;a class="headerlink" href="#talks" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
+&lt;div class="section" id="moderate-tdd"&gt;
+&lt;h3&gt;Moderate TDD&lt;a class="headerlink" href="#moderate-tdd" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This talk is aimed at programmers who already have experience with
+unit testing and they either did not try Extreme Programming/TDD or
+they simply consider those too extreme :-) The content is about Python
+but the techniques could be used in any other language, even touching
+HTML/CSS/JS.&lt;/p&gt;
+&lt;p&gt;There is going to be a discussion about line vs feature coverage,
+continuous and pre-merge testing, debugging based on tests and
+practices for maintaining test code.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="docker-for-python-apps"&gt;
+&lt;h3&gt;Docker for Python apps&lt;a class="headerlink" href="#docker-for-python-apps" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This talk is going to give an intro to Docker, how can you build
+images quickly, few recommendations about moving Python apps in
+containers and many complaints about Docker :-)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Mon, 16 May 2016 00:00:00 +0300</pubDate><guid>tag:ropython.org,2016-05-16:2016/05/16/moderate-tdd-and-docker/</guid><category>meetup</category></item><item><title>Fighting Terrorism with Django, Big Data and NLP</title><link>http://ropython.org/2016/02/24/fighting-terrorism-with-django-big-data-and-nlp/</link><description>&lt;p&gt;For this meet-up, the first one this year, we bring you special guests
 from ComplyAdvantage (London, UK)&lt;/p&gt;
 &lt;p&gt;ComplyAdvantage provides anti-money laundering exposure data and
 compliance technology solutions to help companies control risk and
