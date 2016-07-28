@@ -1,7 +1,7 @@
 Moderate TDD and Docker
 ###############################################################
 
-:tags: unknown
+:tags: meetup
 :registration:
     meetup.com: http://www.meetup.com/RoPython-Cluj/events/230879963/
 
