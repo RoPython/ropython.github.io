@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.org/" rel="alternate"></link><link href="http://ropython.org/feeds/training.atom.xml" rel="self"></link><id>http://ropython.org/</id><updated>2014-10-07T00:00:00+03:00</updated><entry><title>Training.py - La tine în liceu</title><link href="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/" rel="alternate"></link><updated>2014-10-07T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2014-10-07:2014/10/07/training-py-la-tine-in-liceu/</id><summary type="html">&lt;img alt="Training.py #1 - La tine în liceu" class="align-center" src="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/training-py-1-in-liceu.png" /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/training.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2014-10-07T00:00:00+03:00</updated><entry><title>Training.py - La tine în liceu</title><link href="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/" rel="alternate"></link><updated>2014-10-07T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-07:2014/10/07/training-py-la-tine-in-liceu/</id><summary type="html">&lt;img alt="Training.py #1 - La tine în liceu" class="align-center" src="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/training-py-1-in-liceu.png" /&gt;
 &lt;p&gt;Deoarece conferințele și workshop-urile pot avea un caracter tehnic ceva mai avansat,
 ne-am propus să creăm un eveniment destinat pasionaților de Python, destinat începătorilor
 și nu numai. Acest training are ca public țintă elevii de liceu și ca scop
@@ -45,11 +45,11 @@ se vor lovi de unii singuri.&lt;/p&gt;
 &lt;col width="50%" /&gt;
 &lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img alt="Colegiul Național" src="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/colegiu-national.png" /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img alt="Liceul Teoretic &amp;quot;Grigore Moisil&amp;quot;" src="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/grigore-moisil.png" /&gt;&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img alt="Colegiul Național" src="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/colegiu-national.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt="Liceul Teoretic &amp;quot;Grigore Moisil&amp;quot;" src="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/grigore-moisil.png" /&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img alt="Colegiul &amp;quot;Costache Negruzzi&amp;quot;" src="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/costache-negruzzi.png" /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img alt="Colegiul Național &amp;quot;Emil Racoviță&amp;quot;" src="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/emil-racovita.png" /&gt;&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img alt="Colegiul &amp;quot;Costache Negruzzi&amp;quot;" src="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/costache-negruzzi.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt="Colegiul Național &amp;quot;Emil Racoviță&amp;quot;" src="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/emil-racovita.png" /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

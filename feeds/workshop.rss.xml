@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/workshop.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 19 Oct 2014 00:00:00 +0300</lastBuildDate><item><title>Workshop #2 - Expediție în cloud computing, programare funcțională și altele</title><link>http://ropython.org/2014/10/19/workshop-py-2/</link><description>&lt;img alt="Workshop #2" class="align-center" src="http://ropython.org/2014/10/19/workshop-py-2/workshop.png" /&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/workshop.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 19 Oct 2014 00:00:00 +0300</lastBuildDate><item><title>Workshop #2 - Expediție în cloud computing, programare funcțională și altele</title><link>http://ropython.ro/2014/10/19/workshop-py-2/</link><description>&lt;img alt="Workshop #2" class="align-center" src="http://ropython.ro/2014/10/19/workshop-py-2/workshop.png" /&gt;
 &lt;p&gt;Dacă sunteți începător în Python și zilele trecute ați avut “bucuria” primului vostru traceback
 sau aveți experiență în alte limbaje, trecând prin inevitabilul Javascript, îndreptându-vă apoi
 către limbajele funcționale și vreți acum să aflați ce este acel Python de care toată lumea
@@ -21,7 +21,7 @@ ce stau la baza lui. Totodată, ei vor mai învăța să facă primii pași, aju
 la primul algoritm funcțional în Python.&lt;/p&gt;
 &lt;p&gt;Programul complet al workshop-urilor, precum și locația lor vor fi anunțate în curând.&lt;/p&gt;
 &lt;p&gt;Vă așteptăm!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sun, 19 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-10-19:2014/10/19/workshop-py-2/</guid><category>Workshop</category></item><item><title>Workshop #1 - Python pentru dezvoltarea aplicațiilor web</title><link>http://ropython.org/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</link><description>&lt;pre class="literal-block"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sun, 19 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2014-10-19:2014/10/19/workshop-py-2/</guid><category>Workshop</category></item><item><title>Workshop #1 - Python pentru dezvoltarea aplicațiilor web</title><link>http://ropython.ro/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</link><description>&lt;pre class="literal-block"&gt;
 HTTP/1.1 201 Workshop created
 Date: SAT, 31 May 2014 10:00:00 GMT
 Location: Facultatea de informatică
@@ -137,4 +137,4 @@ Pentru că vrem ca fiecare participant să câștige cât mai multă experienț�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Grupul RoPython vă așteaptă cu drag!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sat, 31 May 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-05-31:2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</guid><category>Workshop</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sat, 31 May 2014 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2014-05-31:2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</guid><category>Workshop</category></item></channel></rss>

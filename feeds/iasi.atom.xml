@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.org/" rel="alternate"></link><link href="http://ropython.org/feeds/iasi.atom.xml" rel="self"></link><id>http://ropython.org/</id><updated>2014-10-19T00:00:00+03:00</updated><entry><title>Workshop #2 - Expediție în cloud computing, programare funcțională și altele</title><link href="http://ropython.org/2014/10/19/workshop-py-2/" rel="alternate"></link><updated>2014-10-19T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2014-10-19:2014/10/19/workshop-py-2/</id><summary type="html">&lt;img alt="Workshop #2" class="align-center" src="http://ropython.org/2014/10/19/workshop-py-2/workshop.png" /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/iasi.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2014-10-19T00:00:00+03:00</updated><entry><title>Workshop #2 - Expediție în cloud computing, programare funcțională și altele</title><link href="http://ropython.ro/2014/10/19/workshop-py-2/" rel="alternate"></link><updated>2014-10-19T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-19:2014/10/19/workshop-py-2/</id><summary type="html">&lt;img alt="Workshop #2" class="align-center" src="http://ropython.ro/2014/10/19/workshop-py-2/workshop.png" /&gt;
 &lt;p&gt;Dacă sunteți începător în Python și zilele trecute ați avut “bucuria” primului vostru traceback
 sau aveți experiență în alte limbaje, trecând prin inevitabilul Javascript, îndreptându-vă apoi
 către limbajele funcționale și vreți acum să aflați ce este acel Python de care toată lumea
@@ -21,7 +21,7 @@ ce stau la baza lui. Totodată, ei vor mai învăța să facă primii pași, aju
 la primul algoritm funcțional în Python.&lt;/p&gt;
 &lt;p&gt;Programul complet al workshop-urilor, precum și locația lor vor fi anunțate în curând.&lt;/p&gt;
 &lt;p&gt;Vă așteptăm!&lt;/p&gt;
-</summary><category term="Workshop"></category></entry><entry><title>Python Week</title><link href="http://ropython.org/2014/10/18/Python-Week/" rel="alternate"></link><updated>2014-10-18T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2014-10-18:2014/10/18/Python-Week/</id><summary type="html">&lt;div class="line-block"&gt;
+</summary><category term="Workshop"></category></entry><entry><title>Python Week</title><link href="http://ropython.ro/2014/10/18/Python-Week/" rel="alternate"></link><updated>2014-10-18T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-18:2014/10/18/Python-Week/</id><summary type="html">&lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;em&gt;And on the pedestal these words appear:&lt;/em&gt;&lt;/div&gt;
 &lt;div class="line"&gt;&lt;em&gt;&amp;quot;My name is Python, king of languages:&lt;/em&gt;&lt;/div&gt;
 &lt;div class="line"&gt;&lt;em&gt;Look on my works, ye Mighty, and rejoice!”&lt;/em&gt;&lt;/div&gt;
@@ -40,7 +40,7 @@ pentru o săptămână, să adune toți pasionații de tehnologie într-un mediu
 &lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Conference.py" src="http://ropython.org/2014/10/18/Python-Week/conference.png" /&gt;
+&lt;img alt="Conference.py" src="http://ropython.ro/2014/10/18/Python-Week/conference.png" /&gt;
 &lt;div class="legend"&gt;
 Conference.py propune o zi întreagă de prezentări tehnice,
 venite din partea unor speakeri implicați în proiecte open source de anvergură,
@@ -56,7 +56,7 @@ dezvoltarea de software, ce vor să afle ultimele noutăți din lumea Python.&lt
 &lt;/div&gt;
 &lt;/td&gt;
 &lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Workshop.py" src="http://ropython.org/2014/10/18/Python-Week/workshop.png" /&gt;
+&lt;img alt="Workshop.py" src="http://ropython.ro/2014/10/18/Python-Week/workshop.png" /&gt;
 &lt;div class="legend"&gt;
 Precedat de Conference.py, prima conferință de Python a toamnei,
 Workshop.py #2 se va desfășura pe data de 19 octombrie, fiind compus
@@ -74,7 +74,7 @@ filosofiile ce stau la baza lui.&lt;/div&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Training.py" src="http://ropython.org/2014/10/18/Python-Week/training.png" /&gt;
+&lt;img alt="Training.py" src="http://ropython.ro/2014/10/18/Python-Week/training.png" /&gt;
 &lt;div class="legend"&gt;
 Ideea acestui training este de a expune în fața micilor viitori
 programatori și dezvoltatori, un limbaj de programare ușor de înțeles, rapid, robust
@@ -96,7 +96,7 @@ chiar să realizeze aplicația mult visată.&lt;/div&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</summary><category term="Diverse"></category></entry><entry><title>Training.py - La tine în liceu</title><link href="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/" rel="alternate"></link><updated>2014-10-07T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2014-10-07:2014/10/07/training-py-la-tine-in-liceu/</id><summary type="html">&lt;img alt="Training.py #1 - La tine în liceu" class="align-center" src="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/training-py-1-in-liceu.png" /&gt;
+</summary><category term="Diverse"></category></entry><entry><title>Training.py - La tine în liceu</title><link href="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/" rel="alternate"></link><updated>2014-10-07T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-07:2014/10/07/training-py-la-tine-in-liceu/</id><summary type="html">&lt;img alt="Training.py #1 - La tine în liceu" class="align-center" src="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/training-py-1-in-liceu.png" /&gt;
 &lt;p&gt;Deoarece conferințele și workshop-urile pot avea un caracter tehnic ceva mai avansat,
 ne-am propus să creăm un eveniment destinat pasionaților de Python, destinat începătorilor
 și nu numai. Acest training are ca public țintă elevii de liceu și ca scop
@@ -142,15 +142,15 @@ se vor lovi de unii singuri.&lt;/p&gt;
 &lt;col width="50%" /&gt;
 &lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img alt="Colegiul Național" src="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/colegiu-national.png" /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img alt="Liceul Teoretic &amp;quot;Grigore Moisil&amp;quot;" src="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/grigore-moisil.png" /&gt;&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img alt="Colegiul Național" src="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/colegiu-national.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt="Liceul Teoretic &amp;quot;Grigore Moisil&amp;quot;" src="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/grigore-moisil.png" /&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img alt="Colegiul &amp;quot;Costache Negruzzi&amp;quot;" src="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/costache-negruzzi.png" /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img alt="Colegiul Național &amp;quot;Emil Racoviță&amp;quot;" src="http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/emil-racovita.png" /&gt;&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img alt="Colegiul &amp;quot;Costache Negruzzi&amp;quot;" src="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/costache-negruzzi.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt="Colegiul Național &amp;quot;Emil Racoviță&amp;quot;" src="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/emil-racovita.png" /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</summary><category term="Training"></category></entry><entry><title>Conference.py #1 @Iași</title><link href="http://ropython.org/2014/10/01/conference-py-1/" rel="alternate"></link><updated>2014-10-01T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2014-10-01:2014/10/01/conference-py-1/</id><summary type="html">&lt;p&gt;Toamna este un anotimp al începutului, fiind vremea unui nou an școlar, unui
+</summary><category term="Training"></category></entry><entry><title>Conference.py #1 @Iași</title><link href="http://ropython.ro/2014/10/01/conference-py-1/" rel="alternate"></link><updated>2014-10-01T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-01:2014/10/01/conference-py-1/</id><summary type="html">&lt;p&gt;Toamna este un anotimp al începutului, fiind vremea unui nou an școlar, unui
 nou început de an universitar, precum și sezonul în care vacanțele lungi sau
 scurte, plănuite sau inopinate, lasă locul altor activități.
 Este anotimpul în care începe stagiunea la operă și în care studenții revin
@@ -184,7 +184,7 @@ intrarea va fi liberă.&lt;/p&gt;
 &lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Alex Morega" src="http://ropython.org/2014/10/01/conference-py-1/alex_morega.jpeg" /&gt;
+&lt;img alt="Alex Morega" src="http://ropython.ro/2014/10/01/conference-py-1/alex_morega.jpeg" /&gt;
 &lt;p class="caption"&gt;Alex Morega&lt;/p&gt;
 &lt;div class="legend"&gt;
 Alex este un dezvoltator web, care iubește limbajul
@@ -195,7 +195,7 @@ organizația ROSEdu, ce promovează cultura open-source
 &lt;/div&gt;
 &lt;/td&gt;
 &lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Gabriel Samfira" src="http://ropython.org/2014/10/01/conference-py-1/gabriel_samfira.jpg" /&gt;
+&lt;img alt="Gabriel Samfira" src="http://ropython.ro/2014/10/01/conference-py-1/gabriel_samfira.jpg" /&gt;
 &lt;p class="caption"&gt;Gabriel Samfira&lt;/p&gt;
 &lt;div class="legend"&gt;
 Gabriel este Senior Cloud Engineer în cadrul
@@ -206,7 +206,7 @@ precum Python, Go, Ruby, Perl și Powershell.&lt;/div&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Alessandro Pilotti" src="http://ropython.org/2014/10/01/conference-py-1/alessandro_pilotti.jpeg" /&gt;
+&lt;img alt="Alessandro Pilotti" src="http://ropython.ro/2014/10/01/conference-py-1/alessandro_pilotti.jpeg" /&gt;
 &lt;p class="caption"&gt;Alessandro Pilotti&lt;/p&gt;
 &lt;div class="legend"&gt;
 Alessandro este CEO-ul și fondatorul Cloudbase Solutions,
@@ -218,7 +218,7 @@ source și să participe în comunitatea IT.&lt;/div&gt;
 &lt;/div&gt;
 &lt;/td&gt;
 &lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Ionel Cristian Mărieș" src="http://ropython.org/2014/10/01/conference-py-1/ionel_cristian.jpg" /&gt;
+&lt;img alt="Ionel Cristian Mărieș" src="http://ropython.ro/2014/10/01/conference-py-1/ionel_cristian.jpg" /&gt;
 &lt;p class="caption"&gt;Ionel Cristian Mărieș&lt;/p&gt;
 &lt;div class="legend"&gt;
 Ionel este un dezvoltator software din Cluj-Napoca.
@@ -232,7 +232,7 @@ cogen, python-manhole, fiind și contribuitor Celery.&lt;/div&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Vlad Temian" src="http://ropython.org/2014/10/01/conference-py-1/vlad_temian.png" /&gt;
+&lt;img alt="Vlad Temian" src="http://ropython.ro/2014/10/01/conference-py-1/vlad_temian.png" /&gt;
 &lt;p class="caption"&gt;Vlad Temian&lt;/p&gt;
 &lt;div class="legend"&gt;
 Vlad este backend developer la Presslabs, fiind un
@@ -250,19 +250,19 @@ lor pași în lumea Python.&lt;/div&gt;
 &lt;p&gt;Dacă vrei să ne ajuți, dacă ai un sfat sau o critică sau doar ești curios
 de inițiativa grupului RoPython, nu ezita să ne contactezi pe &lt;a class="reference external" href="mailto:contact&amp;#64;ropython.org"&gt;contact&amp;#64;ropython.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Mulțumim sponsorilor și partenerilor noștri!&lt;/p&gt;
-&lt;img alt="PSF" src="http://ropython.org/2014/10/01/conference-py-1/python-software-foundation.png" style="width: 35.0%;" /&gt;
-&lt;img alt="Cloudbase Solutions" src="http://ropython.org/2014/10/01/conference-py-1/cloudbase.png" style="width: 35.0%;" /&gt;
-</summary><category term="Conferință"></category></entry><entry><title>Ask.py #2 - Elemente introductive</title><link href="http://ropython.org/2014/07/23/ask-py-elemente-introductive/" rel="alternate"></link><updated>2014-07-23T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2014-07-23:2014/07/23/ask-py-elemente-introductive/</id><summary type="html">&lt;img alt="Ask.py #2 - Elemente introductive" class="align-center" src="http://ropython.org/2014/07/23/ask-py-elemente-introductive/ask-py-2-elemente-introductive.png" /&gt;
+&lt;img alt="PSF" src="http://ropython.ro/2014/10/01/conference-py-1/python-software-foundation.png" style="width: 35.0%;" /&gt;
+&lt;img alt="Cloudbase Solutions" src="http://ropython.ro/2014/10/01/conference-py-1/cloudbase.png" style="width: 35.0%;" /&gt;
+</summary><category term="Conferință"></category></entry><entry><title>Ask.py #2 - Elemente introductive</title><link href="http://ropython.ro/2014/07/23/ask-py-elemente-introductive/" rel="alternate"></link><updated>2014-07-23T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-07-23:2014/07/23/ask-py-elemente-introductive/</id><summary type="html">&lt;img alt="Ask.py #2 - Elemente introductive" class="align-center" src="http://ropython.ro/2014/07/23/ask-py-elemente-introductive/ask-py-2-elemente-introductive.png" /&gt;
 &lt;p&gt;Săptămâna aceasta în cadrul evenimentului Ask.py vom face primii pași în dezvoltarea unei aplicații folosind limbajul Python.
 Dacă săptămâna trecută vorbeam despre lucrurile interesante ce pot fi realizate folosind Python, în cadrul acestei sesiuni vom implementa o parte dintre ele.&lt;/p&gt;
 &lt;p&gt;Vă așteptăm cu drag!&lt;/p&gt;
-</summary><category term="Întâlniri"></category></entry><entry><title>Ask.py #1 Curiozități</title><link href="http://ropython.org/2014/07/16/ask-py-curiozitati/" rel="alternate"></link><updated>2014-07-16T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2014-07-16:2014/07/16/ask-py-curiozitati/</id><summary type="html">&lt;img alt="Ask.py #1 - Curiozități" class="align-center" src="http://ropython.org/2014/07/16/ask-py-curiozitati/ask-py-1-curiozitati.png" /&gt;
+</summary><category term="Întâlniri"></category></entry><entry><title>Ask.py #1 Curiozități</title><link href="http://ropython.ro/2014/07/16/ask-py-curiozitati/" rel="alternate"></link><updated>2014-07-16T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-07-16:2014/07/16/ask-py-curiozitati/</id><summary type="html">&lt;img alt="Ask.py #1 - Curiozități" class="align-center" src="http://ropython.ro/2014/07/16/ask-py-curiozitati/ask-py-1-curiozitati.png" /&gt;
 &lt;p&gt;ask.py este destinat interacțiunii prin viu grai cu echipa RoPython, scopul fiind nu doar dobândirea de noi cunoștințe
 prin intermediul întrebărilor, cât și o închegare cât mai bună e relației dintre membrii comunității Python din România,
 în fața unui pahar de vin, înconjurați de oameni cu aceeași pasiune extraordinară pentru acest limbaj.&lt;/p&gt;
 &lt;p&gt;Vom încerca în primul eveniment ask.py să prezentăm proiectul RoPython celor care vor să afle mai multe despre
 inițiativă, cât și să fim la dispoziția voastră pentru întrebări din universul Python.&lt;/p&gt;
-</summary><category term="Întâlniri"></category></entry><entry><title>Workshop #1 - Python pentru dezvoltarea aplicațiilor web</title><link href="http://ropython.org/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/" rel="alternate"></link><updated>2014-05-31T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.org,2014-05-31:2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</id><summary type="html">&lt;pre class="literal-block"&gt;
+</summary><category term="Întâlniri"></category></entry><entry><title>Workshop #1 - Python pentru dezvoltarea aplicațiilor web</title><link href="http://ropython.ro/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/" rel="alternate"></link><updated>2014-05-31T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-05-31:2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</id><summary type="html">&lt;pre class="literal-block"&gt;
 HTTP/1.1 201 Workshop created
 Date: SAT, 31 May 2014 10:00:00 GMT
 Location: Facultatea de informatică

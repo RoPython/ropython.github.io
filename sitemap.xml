@@ -4,490 +4,490 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://ropython.org/</loc>
-<lastmod>2016-07-28T11:57:57-00:00</lastmod>
+<loc>http://ropython.ro/</loc>
+<lastmod>2016-07-28T12:26:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/despre/</loc>
-<lastmod>2016-07-28T11:57:57-00:00</lastmod>
+<loc>http://ropython.ro/despre/</loc>
+<lastmod>2016-07-28T12:26:55-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/resurse/</loc>
-<lastmod>2016-07-28T11:57:57-00:00</lastmod>
+<loc>http://ropython.ro/resurse/</loc>
+<lastmod>2016-07-28T12:26:55-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2016/08/09/mid-summer-retrospective/</loc>
+<loc>http://ropython.ro/2016/08/09/mid-summer-retrospective/</loc>
 <lastmod>2016-08-09T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2016/07/14/managing-technical-debt/</loc>
+<loc>http://ropython.ro/2016/07/14/managing-technical-debt/</loc>
 <lastmod>2016-07-14T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2016/06/30/aws-love-hate-relationship-and-integration-testing-with-docker/</loc>
+<loc>http://ropython.ro/2016/06/30/aws-love-hate-relationship-and-integration-testing-with-docker/</loc>
 <lastmod>2016-06-30T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2016/05/16/moderate-tdd-and-docker/</loc>
+<loc>http://ropython.ro/2016/05/16/moderate-tdd-and-docker/</loc>
 <lastmod>2016-05-16T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2016/02/24/fighting-terrorism-with-django-big-data-and-nlp/</loc>
+<loc>http://ropython.ro/2016/02/24/fighting-terrorism-with-django-big-data-and-nlp/</loc>
 <lastmod>2016-02-24T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2016/01/30/sprint-19/</loc>
+<loc>http://ropython.ro/2016/01/30/sprint-19/</loc>
 <lastmod>2016-01-30T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2016/01/28/learn-and-share-interesting-projects/</loc>
+<loc>http://ropython.ro/2016/01/28/learn-and-share-interesting-projects/</loc>
 <lastmod>2016-01-28T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2016/01/02/sprint-18/</loc>
+<loc>http://ropython.ro/2016/01/02/sprint-18/</loc>
 <lastmod>2016-01-02T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/12/05/sprint-17/</loc>
+<loc>http://ropython.ro/2015/12/05/sprint-17/</loc>
 <lastmod>2015-12-05T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/11/07/sprint-16/</loc>
+<loc>http://ropython.ro/2015/11/07/sprint-16/</loc>
 <lastmod>2015-11-07T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/10/15/beer-and-chat/</loc>
+<loc>http://ropython.ro/2015/10/15/beer-and-chat/</loc>
 <lastmod>2015-10-15T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/10/10/sprint-15/</loc>
+<loc>http://ropython.ro/2015/10/10/sprint-15/</loc>
 <lastmod>2015-10-10T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/09/12/sprint-14/</loc>
+<loc>http://ropython.ro/2015/09/12/sprint-14/</loc>
 <lastmod>2015-09-12T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/08/15/sprint-13/</loc>
+<loc>http://ropython.ro/2015/08/15/sprint-13/</loc>
 <lastmod>2015-08-15T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/07/18/sprint-12/</loc>
+<loc>http://ropython.ro/2015/07/18/sprint-12/</loc>
 <lastmod>2015-07-18T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/07/16/packaging-and-flowy/</loc>
+<loc>http://ropython.ro/2015/07/16/packaging-and-flowy/</loc>
 <lastmod>2015-07-16T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/07/09/gitfs-argus-ci-and-pylint/</loc>
+<loc>http://ropython.ro/2015/07/09/gitfs-argus-ci-and-pylint/</loc>
 <lastmod>2015-07-09T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/07/04/sprint-11/</loc>
+<loc>http://ropython.ro/2015/07/04/sprint-11/</loc>
 <lastmod>2015-07-04T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/06/20/sprint-10/</loc>
+<loc>http://ropython.ro/2015/06/20/sprint-10/</loc>
 <lastmod>2015-06-20T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/06/11/graphs-using-networkx-and-semantic-web-using-rdflib/</loc>
+<loc>http://ropython.ro/2015/06/11/graphs-using-networkx-and-semantic-web-using-rdflib/</loc>
 <lastmod>2015-06-11T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/06/06/sprint-9/</loc>
+<loc>http://ropython.ro/2015/06/06/sprint-9/</loc>
 <lastmod>2015-06-06T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/05/23/sprint-8/</loc>
+<loc>http://ropython.ro/2015/05/23/sprint-8/</loc>
 <lastmod>2015-05-23T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/</loc>
+<loc>http://ropython.ro/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/</loc>
 <lastmod>2015-05-21T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/05/09/sprint-7/</loc>
+<loc>http://ropython.ro/2015/05/09/sprint-7/</loc>
 <lastmod>2015-05-09T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/05/05/ropython-timisoara-1/</loc>
+<loc>http://ropython.ro/2015/05/05/ropython-timisoara-1/</loc>
 <lastmod>2015-05-05T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/04/25/sprint-6/</loc>
+<loc>http://ropython.ro/2015/04/25/sprint-6/</loc>
 <lastmod>2015-04-25T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/04/23/fireside-chat-with-michael-foord/</loc>
+<loc>http://ropython.ro/2015/04/23/fireside-chat-with-michael-foord/</loc>
 <lastmod>2015-04-23T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/04/11/sprint-5/</loc>
+<loc>http://ropython.ro/2015/04/11/sprint-5/</loc>
 <lastmod>2015-04-11T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/03/28/sprint-4/</loc>
+<loc>http://ropython.ro/2015/03/28/sprint-4/</loc>
 <lastmod>2015-03-28T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/03/14/sprint-3/</loc>
+<loc>http://ropython.ro/2015/03/14/sprint-3/</loc>
 <lastmod>2015-03-14T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/02/28/sprint-2/</loc>
+<loc>http://ropython.ro/2015/02/28/sprint-2/</loc>
 <lastmod>2015-02-28T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/02/25/pytim-7/</loc>
+<loc>http://ropython.ro/2015/02/25/pytim-7/</loc>
 <lastmod>2015-02-25T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2015/02/14/sprint-pylint/</loc>
+<loc>http://ropython.ro/2015/02/14/sprint-pylint/</loc>
 <lastmod>2015-02-14T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/11/20/extending-python-in-c/</loc>
+<loc>http://ropython.ro/2014/11/20/extending-python-in-c/</loc>
 <lastmod>2014-11-20T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/10/19/workshop-py-2/</loc>
+<loc>http://ropython.ro/2014/10/19/workshop-py-2/</loc>
 <lastmod>2014-10-19T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/10/18/Python-Week/</loc>
+<loc>http://ropython.ro/2014/10/18/Python-Week/</loc>
 <lastmod>2014-10-18T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/</loc>
+<loc>http://ropython.ro/2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/</loc>
 <lastmod>2014-10-14T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/10/07/training-py-la-tine-in-liceu/</loc>
+<loc>http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/</loc>
 <lastmod>2014-10-07T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/10/01/ask-py-in-expeditie/</loc>
+<loc>http://ropython.ro/2014/10/01/ask-py-in-expeditie/</loc>
 <lastmod>2014-10-01T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/10/01/conference-py-1/</loc>
+<loc>http://ropython.ro/2014/10/01/conference-py-1/</loc>
 <lastmod>2014-10-01T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/07/23/ask-py-elemente-introductive/</loc>
+<loc>http://ropython.ro/2014/07/23/ask-py-elemente-introductive/</loc>
 <lastmod>2014-07-23T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/07/17/decorators-and-workflows/</loc>
+<loc>http://ropython.ro/2014/07/17/decorators-and-workflows/</loc>
 <lastmod>2014-07-17T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/07/16/ask-py-curiozitati/</loc>
+<loc>http://ropython.ro/2014/07/16/ask-py-curiozitati/</loc>
 <lastmod>2014-07-16T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/07/01/pytim-6/</loc>
+<loc>http://ropython.ro/2014/07/01/pytim-6/</loc>
 <lastmod>2014-07-01T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/06/12/python-and-emberjs/</loc>
+<loc>http://ropython.ro/2014/06/12/python-and-emberjs/</loc>
 <lastmod>2014-06-12T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</loc>
+<loc>http://ropython.ro/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</loc>
 <lastmod>2014-05-31T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/02/20/machine-learning-in-python/</loc>
+<loc>http://ropython.ro/2014/02/20/machine-learning-in-python/</loc>
 <lastmod>2014-02-20T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2014/02/11/pytim-5/</loc>
+<loc>http://ropython.ro/2014/02/11/pytim-5/</loc>
 <lastmod>2014-02-11T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2013/11/12/pytim-4/</loc>
+<loc>http://ropython.ro/2013/11/12/pytim-4/</loc>
 <lastmod>2013-11-12T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2013/10/09/pytim-3/</loc>
+<loc>http://ropython.ro/2013/10/09/pytim-3/</loc>
 <lastmod>2013-10-09T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2013/10/03/task-queues-and-components-architecture/</loc>
+<loc>http://ropython.ro/2013/10/03/task-queues-and-components-architecture/</loc>
 <lastmod>2013-10-03T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2013/08/01/python-cluj-first-meetup/</loc>
+<loc>http://ropython.ro/2013/08/01/python-cluj-first-meetup/</loc>
 <lastmod>2013-08-01T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2013/07/09/pytim-2/</loc>
+<loc>http://ropython.ro/2013/07/09/pytim-2/</loc>
 <lastmod>2013-07-09T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2013/06/29/python-basics-training/</loc>
+<loc>http://ropython.ro/2013/06/29/python-basics-training/</loc>
 <lastmod>2013-06-29T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/2013/06/04/pytim-1/</loc>
+<loc>http://ropython.ro/2013/06/04/pytim-1/</loc>
 <lastmod>2013-06-04T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/cluj/</loc>
+<loc>http://ropython.ro/cluj/</loc>
 <lastmod>2016-08-09T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/iasi/</loc>
+<loc>http://ropython.ro/iasi/</loc>
 <lastmod>2014-10-19T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/online/</loc>
+<loc>http://ropython.ro/online/</loc>
 <lastmod>2016-01-30T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/timisoara/</loc>
+<loc>http://ropython.ro/timisoara/</loc>
 <lastmod>2015-05-05T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/forma/sprint/</loc>
+<loc>http://ropython.ro/forma/sprint/</loc>
 <lastmod>2016-01-30T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/forma/intalniri/</loc>
-<lastmod>2016-08-09T00:00:00+01:44</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://ropython.org/forma/conferinta/</loc>
-<lastmod>2014-10-01T00:00:00+01:44</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://ropython.org/forma/workshop/</loc>
-<lastmod>2014-10-19T00:00:00+01:44</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://ropython.org/forma/meetup/</loc>
+<loc>http://ropython.ro/forma/meetup/</loc>
 <lastmod>2016-07-14T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/forma/training/</loc>
-<lastmod>2014-10-07T00:00:00+01:44</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://ropython.org/forma/diverse/</loc>
+<loc>http://ropython.ro/forma/diverse/</loc>
 <lastmod>2014-10-18T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ropython.org/organizator/echipa-ropython/</loc>
+<loc>http://ropython.ro/forma/conferinta/</loc>
+<lastmod>2014-10-01T00:00:00+01:44</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.ro/forma/workshop/</loc>
+<lastmod>2014-10-19T00:00:00+01:44</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.ro/forma/intalniri/</loc>
+<lastmod>2016-08-09T00:00:00+01:44</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.ro/forma/training/</loc>
+<lastmod>2014-10-07T00:00:00+01:44</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.ro/organizator/echipa-ropython/</loc>
 <lastmod>2016-08-09T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>

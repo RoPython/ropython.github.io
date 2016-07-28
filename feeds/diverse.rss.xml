@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/diverse.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 18 Oct 2014 00:00:00 +0300</lastBuildDate><item><title>Python Week</title><link>http://ropython.org/2014/10/18/Python-Week/</link><description>&lt;div class="line-block"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/diverse.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 18 Oct 2014 00:00:00 +0300</lastBuildDate><item><title>Python Week</title><link>http://ropython.ro/2014/10/18/Python-Week/</link><description>&lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;em&gt;And on the pedestal these words appear:&lt;/em&gt;&lt;/div&gt;
 &lt;div class="line"&gt;&lt;em&gt;&amp;quot;My name is Python, king of languages:&lt;/em&gt;&lt;/div&gt;
 &lt;div class="line"&gt;&lt;em&gt;Look on my works, ye Mighty, and rejoice!”&lt;/em&gt;&lt;/div&gt;
@@ -18,7 +18,7 @@ pentru o săptămână, să adune toți pasionații de tehnologie într-un mediu
 &lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Conference.py" src="http://ropython.org/2014/10/18/Python-Week/conference.png" /&gt;
+&lt;img alt="Conference.py" src="http://ropython.ro/2014/10/18/Python-Week/conference.png" /&gt;
 &lt;div class="legend"&gt;
 Conference.py propune o zi întreagă de prezentări tehnice,
 venite din partea unor speakeri implicați în proiecte open source de anvergură,
@@ -34,7 +34,7 @@ dezvoltarea de software, ce vor să afle ultimele noutăți din lumea Python.&lt
 &lt;/div&gt;
 &lt;/td&gt;
 &lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Workshop.py" src="http://ropython.org/2014/10/18/Python-Week/workshop.png" /&gt;
+&lt;img alt="Workshop.py" src="http://ropython.ro/2014/10/18/Python-Week/workshop.png" /&gt;
 &lt;div class="legend"&gt;
 Precedat de Conference.py, prima conferință de Python a toamnei,
 Workshop.py #2 se va desfășura pe data de 19 octombrie, fiind compus
@@ -52,7 +52,7 @@ filosofiile ce stau la baza lui.&lt;/div&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;div class="first last figure"&gt;
-&lt;img alt="Training.py" src="http://ropython.org/2014/10/18/Python-Week/training.png" /&gt;
+&lt;img alt="Training.py" src="http://ropython.ro/2014/10/18/Python-Week/training.png" /&gt;
 &lt;div class="legend"&gt;
 Ideea acestui training este de a expune în fața micilor viitori
 programatori și dezvoltatori, un limbaj de programare ușor de înțeles, rapid, robust
@@ -74,4 +74,4 @@ chiar să realizeze aplicația mult visată.&lt;/div&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sat, 18 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.org,2014-10-18:2014/10/18/Python-Week/</guid><category>Diverse</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sat, 18 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2014-10-18:2014/10/18/Python-Week/</guid><category>Diverse</category></item></channel></rss>
