@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/intalniri.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 15 Oct 2015 00:00:00 +0300</lastBuildDate><item><title>Beer and chat</title><link>http://ropython.org/2015/10/15/beer-and-chat/</link><description>&lt;p&gt;Just drinking beer in a bar, talking about the summer and other
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.org/</link><description></description><atom:link href="http://ropython.org/feeds/intalniri.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 09 Aug 2016 00:00:00 +0300</lastBuildDate><item><title>Mid-summer retrospective</title><link>http://ropython.org/2016/08/09/mid-summer-retrospective/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+Python and anything interesting, like the just finished EuroPython2016
+conference!&lt;/p&gt;
+&lt;p&gt;We'll also have two guests from Iași: Claudiu Popa and Cosmin Poieană.&lt;/p&gt;
+&lt;p&gt;Feel free to suggest location, if you have preferences.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Tue, 09 Aug 2016 00:00:00 +0300</pubDate><guid>tag:ropython.org,2016-08-09:2016/08/09/mid-summer-retrospective/</guid><category>intalniri</category></item><item><title>Beer and chat</title><link>http://ropython.org/2015/10/15/beer-and-chat/</link><description>&lt;p&gt;Just drinking beer in a bar, talking about the summer and other
 Python things.&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 15 Oct 2015 00:00:00 +0300</pubDate><guid>tag:ropython.org,2015-10-15:2015/10/15/beer-and-chat/</guid><category>intalniri</category></item><item><title>Fireside chat with Michael Foord</title><link>http://ropython.org/2015/04/23/fireside-chat-with-michael-foord/</link><description>&lt;p&gt;Michael Foord is a Python and Go programmer. He is working for Canonical
 and he is visiting Cluj-Napoca from Northampton UK.&lt;/p&gt;
