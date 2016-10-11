@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/meetup.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 14 Jul 2016 00:00:00 +0300</lastBuildDate><item><title>Managing technical debt</title><link>http://ropython.ro/2016/07/14/managing-technical-debt/</link><description>&lt;div class="section" id="schedule"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/meetup.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 13 Oct 2016 00:00:00 +0300</lastBuildDate><item><title>Chat about organizing business logic</title><link>http://ropython.ro/2016/10/13/chat-about-organizing-business-logic/</link><description>&lt;p&gt;Fat models? Service module? Clean architecture?&lt;/p&gt;
+&lt;p&gt;Let's get together and talk about strategies for organizing business
+logic in Django applications. What have we each used, what we liked
+about the chosen strategies, what were the downsides, what we'd like
+to try next.&lt;/p&gt;
+&lt;p&gt;I would like this to be a discussion and not a presentation, so please
+don't be shy :)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 13 Oct 2016 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2016-10-13:2016/10/13/chat-about-organizing-business-logic/</guid><category>meetup</category></item><item><title>Managing technical debt</title><link>http://ropython.ro/2016/07/14/managing-technical-debt/</link><description>&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
