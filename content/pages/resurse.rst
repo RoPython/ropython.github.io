@@ -7,7 +7,6 @@ Avem mai multe canale prin care puteți comunica cu noi:
   diverse oportunități de voluntariat: https://mail.python.org/pipermail/python-ro/
 * Avem un canal de IRC, unde ne puteți găsi în majoritatea timpului:
   `irc://irc.freenode.net/#python-ro <http://webchat.freenode.net/?randomnick=1&channels=%23python-ro>`_.
-* Mai putem fi găsiți și la contact@ropython.org.
 * Alte rețele sociale:
 
   - `Facebook <https://facebook.com/ropython>`_
