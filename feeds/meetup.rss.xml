@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/meetup.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 13 Oct 2016 00:00:00 +0300</lastBuildDate><item><title>Chat about organizing business logic</title><link>http://ropython.ro/2016/10/13/chat-about-organizing-business-logic/</link><description>&lt;p&gt;Fat models? Service module? Clean architecture?&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/meetup.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 19 Oct 2016 00:00:00 +0300</lastBuildDate><item><title>OCR in Python and Running Django apps on Docker</title><link>http://ropython.ro/2016/10/19/ocr-in-python-and-running-django-apps-on-docker/</link><description>&lt;div class="section" id="schedule"&gt;
+&lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="90%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6PM&lt;/th&gt;
+&lt;td&gt;Entry&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Introduction in optical character recognition with python (Toni Simu)&lt;/p&gt;
+&lt;p class="last"&gt;Many of you probably felt the need for OCR back in college trying to
+turn photos of course pages into editable text, later to become: smart
+cheatsheets. Now you have the chance to see how you can use it in your
+life and understand how it works. I’ll be walking you through the
+technology used behind it (tesseract and opencv) and point out a few
+buttons you can tweak to improve text recognition accuracy. You should
+also expect multiple demos on the subject followed by a short Q&amp;amp;A
+session.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:45&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Running Python (Django) production apps on Docker (Felix Kerekes)&lt;/p&gt;
+&lt;p class="last"&gt;The talk will walk you through our journey as an early stage start-up
+managing our own SaaS infrastructure. It begins with why we ditched
+Fabric and SaltStack for a fully Docker-powered infrastructure. It
+will cover running basic Docker containers to managing and deploying
+multiple full-stack environments using Docker Cloud. We will also
+explore Docker's future, based around the new Docker Swarm, introduced
+in v1.12.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;8:30&lt;/th&gt;
+&lt;td&gt;Closing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Wed, 19 Oct 2016 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2016-10-19:2016/10/19/ocr-in-python-and-running-django-apps-on-docker/</guid><category>meetup</category></item><item><title>Chat about organizing business logic</title><link>http://ropython.ro/2016/10/13/chat-about-organizing-business-logic/</link><description>&lt;p&gt;Fat models? Service module? Clean architecture?&lt;/p&gt;
 &lt;p&gt;Let's get together and talk about strategies for organizing business
 logic in Django applications. What have we each used, what we liked
 about the chosen strategies, what were the downsides, what we'd like
