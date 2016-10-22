@@ -28,6 +28,9 @@ Schedule
         also expect multiple demos on the subject followed by a short Q&A
         session.
 
+        `Video <https://www.youtube.com/watch?v=kE_bhePO10c&list=PL2Arun8D--P9OxkgpG5GDof-bd4ZOuXoM&index=2>`_ and
+        `Slides <https://docs.google.com/presentation/d/1CXoknmaEgwHbrec-iC1LxhkSFMLCRRi7bvlP4rTGP7U/present>`_.
+
     * - 7:30
       - Break
 
@@ -41,6 +44,10 @@ Schedule
         multiple full-stack environments using Docker Cloud. We will also
         explore Docker's future, based around the new Docker Swarm, introduced
         in v1.12.
+
+        `Video <https://www.youtube.com/watch?v=b3RaZJserO0&list=PL2Arun8D--P9OxkgpG5GDof-bd4ZOuXoM&index=1>`_ and
+        `Slides <https://docs.google.com/presentation/d/1ngcMKbeI2wlmTwI8QJOrBjb75HxCgyNSDfMKMm9x-4M/present>`_.
+
     * - 8:30
       - Closing
 
