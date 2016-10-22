@@ -12,7 +12,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
 &lt;td&gt;&lt;p class="first"&gt;Introduction in optical character recognition with python (Toni Simu)&lt;/p&gt;
-&lt;p class="last"&gt;Many of you probably felt the need for OCR back in college trying to
+&lt;p&gt;Many of you probably felt the need for OCR back in college trying to
 turn photos of course pages into editable text, later to become: smart
 cheatsheets. Now you have the chance to see how you can use it in your
 life and understand how it works. I’ll be walking you through the
@@ -20,6 +20,8 @@ technology used behind it (tesseract and opencv) and point out a few
 buttons you can tweak to improve text recognition accuracy. You should
 also expect multiple demos on the subject followed by a short Q&amp;amp;A
 session.&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=kE_bhePO10c&amp;amp;list=PL2Arun8D--P9OxkgpG5GDof-bd4ZOuXoM&amp;amp;index=2"&gt;Video&lt;/a&gt; and
+&lt;a class="reference external" href="https://docs.google.com/presentation/d/1CXoknmaEgwHbrec-iC1LxhkSFMLCRRi7bvlP4rTGP7U/present"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
@@ -27,13 +29,15 @@ session.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:45&lt;/th&gt;
 &lt;td&gt;&lt;p class="first"&gt;Running Python (Django) production apps on Docker (Felix Kerekes)&lt;/p&gt;
-&lt;p class="last"&gt;The talk will walk you through our journey as an early stage start-up
+&lt;p&gt;The talk will walk you through our journey as an early stage start-up
 managing our own SaaS infrastructure. It begins with why we ditched
 Fabric and SaltStack for a fully Docker-powered infrastructure. It
 will cover running basic Docker containers to managing and deploying
 multiple full-stack environments using Docker Cloud. We will also
 explore Docker's future, based around the new Docker Swarm, introduced
 in v1.12.&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=b3RaZJserO0&amp;amp;list=PL2Arun8D--P9OxkgpG5GDof-bd4ZOuXoM&amp;amp;index=1"&gt;Video&lt;/a&gt; and
+&lt;a class="reference external" href="https://docs.google.com/presentation/d/1ngcMKbeI2wlmTwI8QJOrBjb75HxCgyNSDfMKMm9x-4M/present"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;8:30&lt;/th&gt;
