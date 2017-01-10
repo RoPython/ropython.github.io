@@ -41,7 +41,7 @@ Pentru că vrem ca fiecare participant să câștige cât mai multă experienț�
 &lt;/ul&gt;
 &lt;p&gt;Apreciem persoanele care vor să învețe, așa că și începătorii sunt bineveniți. Pentru asta, trebuia ca prezentarea voastră să fie cât mai savuroasă și sinceră.&lt;/p&gt;
 &lt;p&gt;Programul de vineri este:&lt;/p&gt;
-&lt;table border="1" class="docutils"&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="16%" /&gt;
 &lt;col width="58%" /&gt;
@@ -77,7 +77,7 @@ Pentru că vrem ca fiecare participant să câștige cât mai multă experienț�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Programul de sâmbătă este:&lt;/p&gt;
-&lt;table border="1" class="docutils"&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="16%" /&gt;
 &lt;col width="58%" /&gt;

@@ -11,7 +11,7 @@ de Python din Timișoara. La această întâlnire, avem un invitat special -
 Claudiu Popa. El este core maintainer la Pylint, co-fondator RoPython și
 un membru foarte activ al comunității de Python.&lt;/p&gt;
 &lt;p&gt;Avem programate 3 prezentări legate de Celery, Ansible și RPython.&lt;/p&gt;
-&lt;table border="1" class="docutils"&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="16%" /&gt;
 &lt;col width="21%" /&gt;
@@ -48,7 +48,7 @@ events in Cluj, Iasi and Bucharest (more on this and a potential
 RoPython national conference at the meetup).&lt;/p&gt;
 &lt;p&gt;We will have 3 talks covering Python, open source and cloud automation.&lt;/p&gt;
 &lt;p&gt;Here is the Agenda:&lt;/p&gt;
-&lt;table border="1" class="docutils"&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="16%" /&gt;
 &lt;col width="42%" /&gt;
@@ -121,7 +121,7 @@ and the questions they will be debating.&lt;/p&gt;
 &lt;p&gt;In this edition we will have 2 sessions talking about open source
 projects developed using Python and Go.&lt;/p&gt;
 &lt;p&gt;Here is the Agenda:&lt;/p&gt;
-&lt;table border="1" class="docutils"&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="16%" /&gt;
 &lt;col width="42%" /&gt;
@@ -156,7 +156,7 @@ spread the word and let people know about #PyTim.&lt;/p&gt;
 &lt;p&gt;The first #Python meetup of 2014 will take place on February 11. The
 format is the same as in the previous meet ups.&lt;/p&gt;
 &lt;p&gt;Here is the Agenda:&lt;/p&gt;
-&lt;table border="1" class="docutils"&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="30%" /&gt;
 &lt;col width="70%" /&gt;
@@ -184,7 +184,7 @@ short, 10 minute coffee breaks in between sessions.&lt;/p&gt;
 </summary><category term="Meetup"></category></entry><entry><title>PyTim #4</title><link href="http://ropython.ro/2013/11/12/pytim-4/" rel="alternate"></link><updated>2013-11-12T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2013-11-12:2013/11/12/pytim-4/</id><summary type="html">&lt;p&gt;Welcome to the 4th #Python community #meetup in #Timisoara.&lt;/p&gt;
 &lt;p&gt;At PyTim #4 we will have 3 talks held by local developers, covering the
 following topics:&lt;/p&gt;
-&lt;table border="1" class="docutils"&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="16%" /&gt;
 &lt;col width="42%" /&gt;
@@ -222,7 +222,7 @@ started we will continue our regular meetup schedule with PyTim #3.&lt;/p&gt;
 from their experience working on large scale Python projects.&lt;/p&gt;
 &lt;div class="section" id="agenda-speakers"&gt;
 &lt;h2&gt;Agenda &amp;amp; Speakers&lt;a class="headerlink" href="#agenda-speakers" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
-&lt;table border="1" class="docutils"&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="16%" /&gt;
 &lt;col width="42%" /&gt;
@@ -257,7 +257,7 @@ the same direction with PyTim #2.&lt;/p&gt;
 Europython 2013 conference happening now in Florence - &lt;a class="reference external" href="https://ep2013.europython.eu/"&gt;https://ep2013.europython.eu/&lt;/a&gt; &lt;a class="reference external" href="https://ep2013.europython.eu/p3/live/"&gt;https://ep2013.europython.eu/p3/live/&lt;/a&gt;&lt;/p&gt;
 &lt;div class="section" id="agenda-speakers"&gt;
 &lt;h2&gt;Agenda &amp;amp; Speakers&lt;a class="headerlink" href="#agenda-speakers" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
-&lt;table border="1" class="docutils"&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="16%" /&gt;
 &lt;col width="42%" /&gt;
@@ -306,7 +306,7 @@ etc).&lt;/p&gt;
 developers / companies have chosen Python. Also, what is the most
 interesting facet of using Python on each of these products.&lt;/p&gt;
 &lt;p&gt;There will be 4 presentations / tech talks held by:&lt;/p&gt;
-&lt;table border="1" class="docutils"&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="30%" /&gt;
 &lt;col width="70%" /&gt;
