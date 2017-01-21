@@ -26,6 +26,8 @@ Schedule
         how everything is connected and why Python was the main programming
         language chosen.
 
+        `Video <https://www.youtube.com/watch?v=aRhfuapPO6E&index=1&list=PL2Arun8D--P_5LB_S08og6aqgM8KZO1Wn>`__ and
+        `Slides <https://docs.google.com/presentation/d/1eUtcQR3x1jjDBbJM9nVa7UJH2rEo-JqMDG03YLkiwEk/present>`__.
     * - 7:00
       - Break
 
@@ -35,6 +37,9 @@ Schedule
         Python is slow, we all know it! Let's talk about some quick
         workarounds and how can a cool thing as `Nim <http://nim-lang.org/>`_ help us speed things out.
 
+        `Video <https://www.youtube.com/watch?v=EYy8ECaA9gU&index=2&list=PL2Arun8D--P_5LB_S08og6aqgM8KZO1Wn>`__,
+        `Code <https://github.com/BontaVlad/nimtga>`__ and
+        `Slides <https://cdn.rawgit.com/BontaVlad/nimtga/efce7393/presentation/to_c_or_not_to_c_presentation.html>`__.
     * - 8:00
       - Closing
 
