@@ -5,21 +5,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ropython.ro/</loc>
-<lastmod>2017-01-10T16:20:13-00:00</lastmod>
+<lastmod>2017-01-22T10:00:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ropython.ro/despre/</loc>
-<lastmod>2017-01-10T16:20:13-00:00</lastmod>
+<lastmod>2017-01-22T10:00:10-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ropython.ro/resurse/</loc>
-<lastmod>2017-01-10T16:20:13-00:00</lastmod>
+<lastmod>2017-01-22T10:00:10-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -459,6 +459,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://ropython.ro/forma/meetup/</loc>
+<lastmod>2017-01-18T00:00:00+01:44</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://ropython.ro/forma/sprint/</loc>
 <lastmod>2016-01-30T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
@@ -473,8 +480,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.ro/forma/conferinta/</loc>
-<lastmod>2014-10-01T00:00:00+01:44</lastmod>
+<loc>http://ropython.ro/forma/intalniri/</loc>
+<lastmod>2016-08-09T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -487,8 +494,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.ro/forma/intalniri/</loc>
-<lastmod>2016-08-09T00:00:00+01:44</lastmod>
+<loc>http://ropython.ro/forma/conferinta/</loc>
+<lastmod>2014-10-01T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -496,13 +503,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://ropython.ro/forma/diverse/</loc>
 <lastmod>2014-10-18T00:00:00+01:44</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://ropython.ro/forma/meetup/</loc>
-<lastmod>2017-01-18T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

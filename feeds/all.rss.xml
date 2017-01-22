@@ -14,11 +14,13 @@
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
 &lt;td&gt;&lt;p class="first"&gt;What is OpenStack (&lt;a class="reference external" href="https://github.com/ctomoiaga"&gt;Cristian Tomoiaga&lt;/a&gt;)&lt;/p&gt;
-&lt;p class="last"&gt;Ever wonder what &lt;a class="reference external" href="http://www.openstack.org/"&gt;OpenStack&lt;/a&gt; is and how Python is used to build the
+&lt;p&gt;Ever wonder what &lt;a class="reference external" href="http://www.openstack.org/"&gt;OpenStack&lt;/a&gt; is and how Python is used to build the
 largest open source cloud operating system ? Well, this presentation
 is for you! We will focus on the main building blocks of OpenStack,
 how everything is connected and why Python was the main programming
 language chosen.&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=aRhfuapPO6E&amp;amp;index=1&amp;amp;list=PL2Arun8D--P_5LB_S08og6aqgM8KZO1Wn"&gt;Video&lt;/a&gt; and
+&lt;a class="reference external" href="https://docs.google.com/presentation/d/1eUtcQR3x1jjDBbJM9nVa7UJH2rEo-JqMDG03YLkiwEk/present"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:00&lt;/th&gt;
@@ -26,8 +28,11 @@ language chosen.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
 &lt;td&gt;&lt;p class="first"&gt;To C or not to C? Let nim anwser the question! (&lt;a class="reference external" href="https://github.com/BontaVlad"&gt;Vlad Bonta&lt;/a&gt;)&lt;/p&gt;
-&lt;p class="last"&gt;Python is slow, we all know it! Let's talk about some quick
+&lt;p&gt;Python is slow, we all know it! Let's talk about some quick
 workarounds and how can a cool thing as &lt;a class="reference external" href="http://nim-lang.org/"&gt;Nim&lt;/a&gt; help us speed things out.&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=EYy8ECaA9gU&amp;amp;index=2&amp;amp;list=PL2Arun8D--P_5LB_S08og6aqgM8KZO1Wn"&gt;Video&lt;/a&gt;,
+&lt;a class="reference external" href="https://github.com/BontaVlad/nimtga"&gt;Code&lt;/a&gt; and
+&lt;a class="reference external" href="https://cdn.rawgit.com/BontaVlad/nimtga/efce7393/presentation/to_c_or_not_to_c_presentation.html"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;8:00&lt;/th&gt;
