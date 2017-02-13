@@ -1,5 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/echipa-ropython.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2017-01-18T00:00:00+02:00</updated><entry><title>What is OpenStack and Python extensions in Nim</title><link href="http://ropython.ro/2017/01/18/what-is-openstack-and-python-extensions-in-nim/" rel="alternate"></link><updated>2017-01-18T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-01-18:2017/01/18/what-is-openstack-and-python-extensions-in-nim/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/echipa-ropython.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2017-02-21T00:00:00+02:00</updated><entry><title>Building transaction monitoring systems and Machine learning</title><link href="http://ropython.ro/2017/02/21/building-transaction-monitoring-systems-and-machine-learning/" rel="alternate"></link><updated>2017-02-21T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-02-21:2017/02/21/building-transaction-monitoring-systems-and-machine-learning/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
+&lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="90%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6PM&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Entry&lt;/p&gt;
+&lt;p class="last"&gt;There will be pizza, courtesy of &lt;a class="reference external" href="https://complyadvantage.com/"&gt;ComplyAdvantage&lt;/a&gt;.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Transaction Monitoring and Money Laundering (Cristi Persic, Oana Ratiu, Ariel Pontes)&lt;/p&gt;
+&lt;p&gt;Every day, millions of transactions between people or organizations
+take place, amongst which there might, just might, be some that are
+suspicious. Our job is to identify these transactions and why they do
+not fit a normal pattern. Hence, why we built our transaction
+monitoring platform. We will be talking about the reasons why this
+platform needed to be both generic and flexible and how we achieved
+this. We will go on to discuss:&lt;/p&gt;
+&lt;ul class="last simple"&gt;
+&lt;li&gt;Why different clients have different needs depending on the
+information they choose to store on their transactions. Why
+traditional SQL tables are not entirely suited to this application and
+why NoSQL is a natural alternative, as we still need all the
+traditional layers of validation and normalization of external input.&lt;/li&gt;
+&lt;li&gt;The challenge of building an engine that is optimised to process
+large numbers of transactions, whilst at the same time being flexible
+enough to support all the different styles of analysis that are
+required to detect money laundering and terrorist financing.&lt;/li&gt;
+&lt;li&gt;And in terms of performance how far you can take ORM and when it is
+acceptable to take matters into your own hands. Finally, we will
+discuss splitting business logic between python code and database
+queries.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Machine Learning Supermarket Paralysis (Cristi Lungu)&lt;/p&gt;
+&lt;p class="last"&gt;Over the last three years deep learning has exploded in popularity and
+the quality of the results has greatly improved. Big tech companies
+have increased their research budgets in order to benefit from this
+revolution. As a direct consequence several of these (Microsoft,
+Google, Facebook, Amazon) have released open frameworks for training
+and developing deep architectures such as: TensorFlow, CNTK,
+FBLearner, MxNET and Caffe. Beside these, other popular existing
+frameworks and wrappers coming mainly from academia, have gathered a
+great deal of support (Theano, Torch7, Scikit-learn, Keras). With such
+a broad choice, it's no surprise that choosing the &amp;quot;right&amp;quot; Machine
+Learning (ML) framework can lead to a paradox of choice (especially
+for beginner ML students). This talk will give an overview of what ML
+frameworks are and what they do. We will discuss in more detail
+TensorFlow, Scikit-learn, Theano and Keras, highlighting the pros and
+cons for each of these frameworks. Finally, we will demonstrate them
+by applying them to a simple linear regression task.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;8:15&lt;/th&gt;
+&lt;td&gt;Closing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;&lt;strong&gt;Persic Alexandru Cristian (Backend Lead)&lt;/strong&gt; studied computer science at
+&amp;quot;Stefan cel Mare&amp;quot; University, followed by a masters degree in software
+engineering (apparently 5 years of study was not good enough). At
+university he started working at an outsource company using Microsoft
+technologies and enjoyed each step from helping with JavaScript to
+implementing custom workflows in SharePoint. After 5 years he saw the
+light and moved to Python/Django, building a mobile advertising
+platform from the ground up. In 4 years he managed to gain plenty of
+experience in managing the implementation, deployment and maintenance
+of a large scale web application. In 2016 Cristi made a daring move
+and joined ComplyAdvantage in the quest of finding once more the
+excitement of building a new and successful product, all the while
+fighting crime like any other regular superhero.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ariel Pontes (Python Engineer)&lt;/strong&gt; studied Computer Engineering at
+the Catholic University of Rio de Janeiro. After learning
+Python/Django in his first internship in a fintech startup he fell in
+love with MVC frameworks, and re-wrote his final year project in Ruby
+on Rails. In 2014 he moved to Cluj and started working as a full-stack
+Django developer in a big outsourcing company. Ariel joined
+ComplyAdvantage in 2016 where he works on the transaction monitoring
+and screening platforms. Outside of work you can find him
+participating in activism for local NGOs and preaching about secular
+ethics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Oana Ratiu (Python Engineer)&lt;/strong&gt; graduated from Babes-Bolyai
+University, Cluj-Napoca, studying computer science, and is currently
+completing her Master's Degree in Databases. She has worked as a
+programmer for three years, mostly with Python. Excited to fight
+terrorism through her work, Oana joined ComplyAdvantage in early 2016,
+working on a transaction monitoring platform and, more recently, on a
+screening platform.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cristian Lungu (Senior Python/ML Engineer)&lt;/strong&gt; wrote (anti)viruses for fun
+and profit for 5 years until he realised how much money flows through
+the stock market. He then spent his next 5 years coding derivatives,
+futures and options. Somehow, he was kidnapped and dropped on this
+startup ship called ComplyAdvantage where fighting terrorists and
+money laundering with machine learning is the only way to get a meal.
+As a result of this event, he challenged himself to actually finish
+his lifelong hobby, a PhD in machine learning, this century. When he
+doesn't code he's probably teaching bubble sort at the UTCN or
+conducting practical studies of gradient descent on some mountains.&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="meetup"></category></entry><entry><title>What is OpenStack and Python extensions in Nim</title><link href="http://ropython.ro/2017/01/18/what-is-openstack-and-python-extensions-in-nim/" rel="alternate"></link><updated>2017-01-18T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-01-18:2017/01/18/what-is-openstack-and-python-extensions-in-nim/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
