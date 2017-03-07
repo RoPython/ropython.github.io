@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/echipa-ropython.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 14 Mar 2017 00:00:00 +0200</lastBuildDate><item><title>Winter retrospective</title><link>http://ropython.ro/2017/03/14/winter-retrospective/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
 Python and anything interesting, like what's going to happen at the
 EuroPython2017 conference!&lt;/p&gt;
-&lt;p&gt;We'll also have one guests from Iași: Claudiu Popa. Does he still
+&lt;p&gt;We'll also have one guest from Iași: Claudiu Popa. Does he still
 maintain Pylint? Lets find out :D&lt;/p&gt;
 &lt;p&gt;Feel free to suggest location, if you have preferences.&amp;lt; p&amp;gt;&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Tue, 14 Mar 2017 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2017-03-14:2017/03/14/winter-retrospective/</guid><category>intalniri</category></item><item><title>Building transaction monitoring systems and Machine learning</title><link>http://ropython.ro/2017/02/21/building-transaction-monitoring-systems-and-machine-learning/</link><description>&lt;div class="section" id="schedule"&gt;
