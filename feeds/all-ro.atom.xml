@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/all-ro.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2017-02-21T00:00:00+02:00</updated><entry><title>Building transaction monitoring systems and Machine learning</title><link href="http://ropython.ro/2017/02/21/building-transaction-monitoring-systems-and-machine-learning/" rel="alternate"></link><updated>2017-02-21T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-02-21:2017/02/21/building-transaction-monitoring-systems-and-machine-learning/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/all-ro.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2017-03-14T00:00:00+02:00</updated><entry><title>Winter retrospective</title><link href="http://ropython.ro/2017/03/14/winter-retrospective/" rel="alternate"></link><updated>2017-03-14T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-03-14:2017/03/14/winter-retrospective/</id><summary type="html">&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+Python and anything interesting, like what's going to happen at the
+EuroPython2017 conference!&lt;/p&gt;
+&lt;p&gt;We'll also have one guests from Iași: Claudiu Popa. Does he still
+maintain Pylint? Lets find out :D&lt;/p&gt;
+&lt;p&gt;Feel free to suggest location, if you have preferences.&amp;lt; p&amp;gt;&lt;/p&gt;
+</summary><category term="intalniri"></category></entry><entry><title>Building transaction monitoring systems and Machine learning</title><link href="http://ropython.ro/2017/02/21/building-transaction-monitoring-systems-and-machine-learning/" rel="alternate"></link><updated>2017-02-21T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-02-21:2017/02/21/building-transaction-monitoring-systems-and-machine-learning/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
