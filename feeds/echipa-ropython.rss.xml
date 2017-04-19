@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/echipa-ropython.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 14 Mar 2017 00:00:00 +0200</lastBuildDate><item><title>Winter retrospective</title><link>http://ropython.ro/2017/03/14/winter-retrospective/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/echipa-ropython.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 25 Apr 2017 00:00:00 +0300</lastBuildDate><item><title>Django presentation and why to use it for single page or hybrid applications too</title><link>http://ropython.ro/2017/04/25/django-presentation-and-why-to-use-it-for-single-page-or-hybrid-applications-too/</link><description>&lt;div class="section" id="schedule"&gt;
+&lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="90%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6PM&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Entry&lt;/p&gt;
+&lt;p class="last"&gt;There will be pizza, snacks and beer, courtesy of &lt;a class="reference external" href="https://www.pentalog.ro/iasi"&gt;Pentalog Iasi&lt;/a&gt;.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Django presentation (Dan Tudorache)&lt;/p&gt;
+&lt;p&gt;Django is a high-level Python Web framework that encourages rapid development and clean,
+pragmatic design. Built by experienced developers, it takes care of much of the hassle of
+Web development, so you can focus on writing your app without needing to reinvent the wheel.
+We will go on to discuss:&lt;/p&gt;
+&lt;ul class="last simple"&gt;
+&lt;li&gt;What is Django&lt;/li&gt;
+&lt;li&gt;Django structure&lt;/li&gt;
+&lt;li&gt;Where is Django used&lt;/li&gt;
+&lt;li&gt;What Django is not&lt;/li&gt;
+&lt;li&gt;Typical workflow in Django&lt;/li&gt;
+&lt;li&gt;Django Admin&lt;/li&gt;
+&lt;li&gt;Who is behind Django framework&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Why to use Django for single page or hybrid applications too (Dan Tudorache)&lt;/p&gt;
+&lt;p class="last"&gt;With the advent of new amazing front-end frameworks and the ever-increasing
+power of browsers and mobile processors, webapp users expect a dynamic, seamless
+user experience where page refresh is out of the question.
+Therefore server template rendering is not cool anymore. What to do?
+Use Django as a pure back-end. In this talk, technologies, strategies and
+third-party packages will be discussed, we will analyze and debate
+the advantages and disadvantages of Django opposed to other technologies.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;8:15&lt;/th&gt;
+&lt;td&gt;Closing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;&lt;strong&gt;Dan Tudorache (Python Lead)&lt;/strong&gt; studied computer engineering at
+&amp;quot;Gh. Asachi&amp;quot; Technical University, followed by two masters degree, one
+in distributed software engineering and one in project management.
+He worked 10 years as a web developer for various companies and clients,
+and since 3 years ago he has found the beauty of Python and Django.
+In 2016 Dan joined Pentalog Group as a Python
+Technical Lead, and since then is building projects, improve processes, manage development teams
+and helping big companies to build the most efficient, robust and dynamic software they need.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Tue, 25 Apr 2017 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2017-04-25:2017/04/25/django-presentation-and-why-to-use-it-for-single-page-or-hybrid-applications-too/</guid><category>meetup</category></item><item><title>Winter retrospective</title><link>http://ropython.ro/2017/03/14/winter-retrospective/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
 Python and anything interesting, like what's going to happen at the
 EuroPython2017 conference!&lt;/p&gt;
 &lt;p&gt;We'll also have one guest from Iași: Claudiu Popa. Does he still
