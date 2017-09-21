@@ -1,5 +1,3 @@
-from __future__ import unicode_literals
-
 import io
 import os
 import subprocess
@@ -7,7 +5,7 @@ import tempfile
 from cStringIO import StringIO
 from glob import glob
 from datetime import datetime
-from pprint import pformat
+from pprint import pformat, pprint
 
 import click
 from cachecontrol import CacheControl
@@ -30,7 +28,8 @@ from requests import Session
               type=click.Choice(['past', 'suggested', 'proposed', 'draft', 'cancelled', 'upcoming']),
               help='Event type to import. Default: past.')
 @click.option('--pandoc', '-p', is_flag=True, help='Use `pandoc` to convert the event description.')
-def main(group_id, location, time_boundary, event_status, pandoc):
+@click.option('--force', '-f', is_flag=True, help='Override existing files.')
+def main(group_id, location, time_boundary, event_status, pandoc, force):
     key_path = os.path.normpath(os.path.expanduser('~/.meetup.com-key'))
     if os.path.exists(key_path):
         with io.open(key_path, encoding='utf8') as fh:
@@ -64,10 +63,12 @@ def main(group_id, location, time_boundary, event_status, pandoc):
         fh.write(key)
 
     while not location:
-        location = location or get_input('Location: ', completer=WordCompleter(['cluj', 'iasi', 'timisoara'], ignore_case=True))
+        location = location or get_input(u'Location: ', completer=WordCompleter([
+            u'cluj', u'iasi', u'timisoara', u'bucuresti'], ignore_case=True))
 
     while True:
-        group_id = group_id or get_input('Group ID: ', completer=WordCompleter(['Cluj-py', 'RoPython-Timisoara'], ignore_case=True))
+        group_id = group_id or get_input(u'Group ID: ', completer=WordCompleter([
+            u'RoPython-Bucuresti', u'RoPython-Cluj', u'RoPython-iasi', u'RoPython-Timisoara'], ignore_case=True))
 
         resp = requests.get('https://api.meetup.com/2/events', params=dict(
             key=key,
@@ -91,12 +92,12 @@ def main(group_id, location, time_boundary, event_status, pandoc):
 
     for event in json['results']:
         dt = datetime.fromtimestamp(event['time']/1000)
-        click.echo("{}: {}".format(
-            dt.strftime('%Y-%m-%d %H:%M:%S'),
-            event['name']
-        ))
+        event['duration'] = event.get('duration', 7200000) / 1000
+        event['time'] = dt.strftime('%Y-%m-%d %H:%M')
+        pprint(event)
+        click.echo("{time}: {name}".format(**event))
         existing_path = glob(os.path.join('content', '*', dt.strftime('%Y-%m-%d*'), 'index.rst'))
-        if existing_path:
+        if existing_path and not force:
             if len(existing_path) > 1:
                 click.secho('\tERROR: multiple paths matched: {}'.format(existing_path))
             else:
@@ -118,15 +119,19 @@ def main(group_id, location, time_boundary, event_status, pandoc):
                 html2rest(event['description'].encode('utf-8'), writer=stream)
                 rst = stream.getvalue().decode('utf-8')
 
-            with io.open(target_path, 'w', encoding='utf-8') as fh:
-                fh.write('''{name}
+            doc = u'''{name}
 ###############################################################
 
-:tags: unknown
+:tags: prezentari
 :registration:
     meetup.com: {event_url}
+:event-start: {time}
+:event-duration: {duration}s
+:event-location: {venue[address_1]}, {venue[city]}, {venue[localized_country_name]}  
 
-{rst}'''.format(rst=rst, **event))
+{rst}'''.format(rst=rst, **event)
+            with io.open(target_path, 'w', encoding='utf-8') as fh:
+                fh.write(doc)
             click.secho('\tWrote `{}`.'.format(target_path), fg='green')
 
 if __name__ == "__main__":

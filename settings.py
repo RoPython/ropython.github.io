@@ -71,6 +71,7 @@ PLUGINS = (
     'gist',
     'ghrepo',
     'categories',
+    'events',
 )
 SITEMAP = {
     'format': 'xml',
@@ -150,4 +151,7 @@ READERS = {'html': None}  # Nu procesa fisierele .html ca si articole
 
 EXTRA_PATH_METADATA = {
     'CNAME': {'path': 'CNAME'}
+}
+PLUGIN_EVENTS = {
+    'ics_fname': 'calendar.ics',
 }
