@@ -76,7 +76,7 @@ field in the '%s' event.""" % (c, ev['title']))
     return timedelta(**tdargs)
 
 
-def generate_ical_file(generator):
+def generate_ical_file(generator, **_):
     """Generate an iCalendar file
     """
     ics_fname = generator.settings['PLUGIN_EVENTS']['ics_fname']
@@ -119,6 +119,6 @@ def generate_ical_file(generator):
 
 
 def register():
-    signals.article_generator_finalized.connect(generate_ical_file)
+    signals.article_writer_finalized.connect(generate_ical_file)
 
 
