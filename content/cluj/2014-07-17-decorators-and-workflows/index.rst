@@ -1,7 +1,7 @@
 ﻿Decorators and Workflows
 ########################
 
-:tags: Meetup
+:tags: prezentari
 :registration:
     meetup.com: http://www.meetup.com/Cluj-py/events/193508842/
 

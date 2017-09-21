@@ -1,7 +1,7 @@
 Machine Learning in Python
 ##########################
 
-:tags: Meetup
+:tags: prezentari
 :registration:
     meetup.com: http://www.meetup.com/Cluj-py/events/165522292/
 

@@ -1,7 +1,7 @@
 ﻿Building transaction monitoring systems and Machine learning
 ###############################################################
 
-:tags: meetup
+:tags: prezentari
 :registration:
     meetup.com: https://www.meetup.com/RoPython-Cluj/events/237665198/
 

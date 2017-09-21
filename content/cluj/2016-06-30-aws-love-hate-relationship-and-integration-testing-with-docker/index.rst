@@ -1,7 +1,7 @@
 AWS love-hate relationship and Integration testing with Docker
 ###############################################################
 
-:tags: meetup
+:tags: prezentari
 :registration:
     meetup.com: http://www.meetup.com/RoPython-Cluj/events/232106560/
 

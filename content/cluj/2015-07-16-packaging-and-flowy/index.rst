@@ -1,7 +1,7 @@
 ﻿Packaging and Flowy
 ###################
 
-:tags: meetup
+:tags: prezentari
 :registration:
     meetup.com: http://www.meetup.com/RoPython-Cluj/events/223878919/
 :location:

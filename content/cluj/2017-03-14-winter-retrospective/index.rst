@@ -1,7 +1,7 @@
 ﻿Winter retrospective
 ###############################################################
 
-:tags: intalniri
+:tags: social
 :registration:
     meetup.com: https://www.meetup.com/RoPython-Cluj/events/238247508/
 

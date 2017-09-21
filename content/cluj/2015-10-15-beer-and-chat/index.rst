@@ -1,7 +1,7 @@
 Beer and chat
 #############
 
-:tags: intalniri
+:tags: social
 :registration:
     meetup.com: http://www.meetup.com/RoPython-Cluj/events/225841912/
 :location:

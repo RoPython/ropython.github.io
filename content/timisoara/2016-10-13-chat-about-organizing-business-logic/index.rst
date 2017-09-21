@@ -1,7 +1,7 @@
 Chat about organizing business logic
 ###############################################################
 
-:tags: meetup
+:tags: prezentari
 :registration:
     meetup.com: http://www.meetup.com/RoPython-Timisoara/events/234752016/
 

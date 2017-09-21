@@ -1,7 +1,7 @@
 Fighting Terrorism with Django, Big Data and NLP
 ################################################
 
-:tags: meetup
+:tags: prezentari
 :registration:
     meetup.com: http://www.meetup.com/RoPython-Cluj/events/228917042/
 

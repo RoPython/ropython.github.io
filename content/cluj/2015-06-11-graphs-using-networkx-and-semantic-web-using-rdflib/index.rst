@@ -1,7 +1,7 @@
 ﻿Graphs using Networkx and Semantic web using RDFlib
 ###############################################################
 
-:tags: meetup
+:tags: prezentari
 :registration:
     meetup.com: http://www.meetup.com/RoPython-Cluj/events/222839321/
 

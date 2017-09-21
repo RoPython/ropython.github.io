@@ -1,7 +1,7 @@
 ﻿Interpretoare în RPython și testare cu pytest
 ###############################################################
 
-:tags: meetup
+:tags: prezentari
 :registration:
     meetup.com: http://www.meetup.com/Cluj-py/events/222506306/
 

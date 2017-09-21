@@ -1,7 +1,7 @@
 ﻿Mid-summer retrospective
 ###############################################################
 
-:tags: intalniri
+:tags: social
 :registration:
     meetup.com: http://www.meetup.com/RoPython-Cluj/events/232913818/
 

@@ -1,7 +1,7 @@
 What is OpenStack and Python extensions in Nim
 ###############################################################
 
-:tags: meetup
+:tags: prezentari
 :registration:
     meetup.com: https://www.meetup.com/RoPython-Cluj/events/236771431/
 

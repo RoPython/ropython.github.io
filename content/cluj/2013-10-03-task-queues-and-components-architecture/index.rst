@@ -1,7 +1,7 @@
 ﻿Task queues and components architecture
 #######################################
 
-:tags: Meetup
+:tags: prezentari
 :registration:
     meetup.com: http://www.meetup.com/Cluj-py/events/141261402/
 

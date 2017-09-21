@@ -1,7 +1,7 @@
 OCR in Python and Running Django apps on Docker
 ###############################################################
 
-:tags: meetup
+:tags: prezentari
 :registration:
     meetup.com: http://www.meetup.com/RoPython-Cluj/events/234798970/
 

@@ -1,7 +1,7 @@
 Learn and Share Interesting Projects
 ###############################################################
 
-:tags: meetup
+:tags: prezentari
 :registration:
     meetup.com: http://www.meetup.com/RoPython-Cluj/events/228093218/
 

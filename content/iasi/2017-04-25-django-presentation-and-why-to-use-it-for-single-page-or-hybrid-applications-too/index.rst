@@ -1,7 +1,7 @@
 ﻿Django presentation and why to use it for single page or hybrid applications too
 ################################################################################
 
-:tags: meetup
+:tags: prezentari
 :registration:
     meetup.com: https://www.meetup.com/RoPython_Iasi/events/238794695/
 

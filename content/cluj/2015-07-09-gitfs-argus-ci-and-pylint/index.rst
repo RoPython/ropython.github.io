@@ -1,7 +1,7 @@
 ﻿Gitfs, Argus CI and Pylint
 ##########################
 
-:tags: meetup
+:tags: prezentari
 :registration:
     meetup.com: http://www.meetup.com/RoPython-Cluj/events/223470515/
 

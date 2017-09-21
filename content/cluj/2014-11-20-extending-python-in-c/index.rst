@@ -1,7 +1,7 @@
 Extending Python in C
 #####################
 
-:tags: Meetup
+:tags: prezentari
 :registration:
     meetup.com: http://www.meetup.com/Cluj-py/events/218034932/
 

@@ -1,7 +1,7 @@
 Managing technical debt
 ###############################################################
 
-:tags: meetup
+:tags: prezentari
 :registration:
     meetup.com: http://www.meetup.com/RoPython-Cluj/events/232386148/
 

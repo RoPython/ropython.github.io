@@ -1,7 +1,7 @@
 Ask.py #2 - Elemente introductive
 #################################
 
-:tags: Întâlniri
+:tags: social
 :registration:
     EventBrite: https://ask-py-2-iasi.eventbrite.com/
     Facebook: https://www.facebook.com/events/1527369810816859/

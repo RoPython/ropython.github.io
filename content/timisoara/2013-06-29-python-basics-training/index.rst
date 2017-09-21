@@ -1,7 +1,7 @@
 Python Basics Training
 ######################
 
-:tags: Meetup
+:tags: prezentari
 :registration:
     meetup.com: http://www.meetup.com/RoPython-Timisoara/events/125401262/
 

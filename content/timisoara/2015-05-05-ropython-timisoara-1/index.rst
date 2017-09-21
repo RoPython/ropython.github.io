@@ -1,7 +1,7 @@
 ﻿RoPython Timisoara #1
 #####################
 
-:tags: Meetup
+:tags: prezentari
 :registration:
     meetup.com: http://www.meetup.com/RoPython-Timisoara/events/222019832/
 

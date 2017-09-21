@@ -1,7 +1,7 @@
 PyTim #6
 ########
 
-:tags: Meetup
+:tags: prezentari
 :registration:
     meetup.com: http://www.meetup.com/RoPython-Timisoara/events/189761622/
 
