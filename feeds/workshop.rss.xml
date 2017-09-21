@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/workshop.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 19 Oct 2014 00:00:00 +0300</lastBuildDate><item><title>Workshop #2 - Expediție în cloud computing, programare funcțională și altele</title><link>http://ropython.ro/2014/10/19/workshop-py-2/</link><description>&lt;img alt="Workshop #2" class="align-center" src="http://ropython.ro/2014/10/19/workshop-py-2/workshop.png" /&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/workshop.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 21 Oct 2017 00:00:00 +0300</lastBuildDate><item><title>Pytest workshop</title><link>http://ropython.ro/2017/10/21/pytest-workshop/</link><description>&lt;p&gt;Hello everyone,&lt;/p&gt;
+&lt;p&gt;We're back in action with a Pytest workshop. It's going to take about
+2-3 hours and there will be pizza &amp;amp; drinks provided by Yonder.&lt;/p&gt;
+&lt;p&gt;The only requirement is to bring a laptop with Python installed.&lt;/p&gt;
+&lt;p&gt;Workshop's content:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;preparation &amp;amp; setting up tox/virtualenv/django/pytest&lt;/li&gt;
+&lt;li&gt;writing tests for the Django tutorial polls app (just the test part,
+the app code will be provided)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aim is to cover these pytest topics:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;test discovery&lt;/li&gt;
+&lt;li&gt;classes vs function tests&lt;/li&gt;
+&lt;li&gt;assertion helpers&lt;/li&gt;
+&lt;li&gt;marks, skipping &amp;amp; xfailing&lt;/li&gt;
+&lt;li&gt;parametrization&lt;/li&gt;
+&lt;li&gt;fixtures, scoping, finalization&lt;/li&gt;
+&lt;li&gt;builtin fixtures overview&lt;/li&gt;
+&lt;li&gt;pytest-django plugin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tutors will be Ionel and highschool-teacher-turned-programmer Gabriel Muj.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sat, 21 Oct 2017 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2017-10-21:2017/10/21/pytest-workshop/</guid><category>workshop</category></item><item><title>RoPython September Meetup</title><link>http://ropython.ro/2017/09/19/ropython-september-meetup/</link><description>&lt;p&gt;Re-lansăm întâlnirile comunității Python din Timișoara!&lt;/p&gt;
+&lt;p&gt;Vom începe din 19 Septembrie, după ce ne-am mai întors din concedii,
+cu o întâlnire într-un format ușor diferit față de ce am făcut până
+acuma, pe lângă prezentarea clasică vom face și un Python Open Space.&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Să facem un joc cu PyGame Zero&lt;/li&gt;
+&lt;li&gt;Python Open Space&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ce presupune un Open Space:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Ne întâlnim&lt;/li&gt;
+&lt;li&gt;Propunem subiecte de discuție (trebuie să fie măcar tangențial
+legate de Python)&lt;/li&gt;
+&lt;li&gt;Votăm pentru subiectele propuse&amp;lt; p&amp;gt;&lt;/li&gt;
+&lt;li&gt;Alegem top FIXNUM subiecte (poate sparte în 2 trackuri dacă suntem
+destui)&lt;/li&gt;
+&lt;li&gt;Și discutăm 15 minute fiecare topic propus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ce e PyGame Zero? E o unealtă educațională, menită să ajute învățatul
+programării prin crearea de jocuri. Necesită cunoștiințe minime de
+programare, un fișier text gol înseamnă un joc valid cu o fereastră
+goală, și acum poți să clădești de aici :)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Tue, 19 Sep 2017 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2017-09-19:2017/09/19/ropython-september-meetup/</guid><category>social</category><category>workshop</category></item><item><title>Workshop #2 - Expediție în cloud computing, programare funcțională și altele</title><link>http://ropython.ro/2014/10/19/workshop-py-2/</link><description>&lt;img alt="Workshop #2" class="align-center" src="http://ropython.ro/2014/10/19/workshop-py-2/workshop.png" /&gt;
 &lt;p&gt;Dacă sunteți începător în Python și zilele trecute ați avut “bucuria” primului vostru traceback
 sau aveți experiență în alte limbaje, trecând prin inevitabilul Javascript, îndreptându-vă apoi
 către limbajele funcționale și vreți acum să aflați ce este acel Python de care toată lumea
@@ -21,7 +66,61 @@ ce stau la baza lui. Totodată, ei vor mai învăța să facă primii pași, aju
 la primul algoritm funcțional în Python.&lt;/p&gt;
 &lt;p&gt;Programul complet al workshop-urilor, precum și locația lor vor fi anunțate în curând.&lt;/p&gt;
 &lt;p&gt;Vă așteptăm!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sun, 19 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2014-10-19:2014/10/19/workshop-py-2/</guid><category>Workshop</category></item><item><title>Workshop #1 - Python pentru dezvoltarea aplicațiilor web</title><link>http://ropython.ro/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</link><description>&lt;pre class="literal-block"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sun, 19 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2014-10-19:2014/10/19/workshop-py-2/</guid><category>workshop</category></item><item><title>Training.py - La tine în liceu</title><link>http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/</link><description>&lt;img alt="Training.py #1 - La tine în liceu" class="align-center" src="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/training-py-1-in-liceu.png" /&gt;
+&lt;p&gt;Deoarece conferințele și workshop-urile pot avea un caracter tehnic ceva mai avansat,
+ne-am propus să creăm un eveniment destinat pasionaților de Python, destinat începătorilor
+și nu numai. Acest training are ca public țintă elevii de liceu și ca scop
+introducerea acestora în limbajul de scripting de nivel înalt, Python.&lt;/p&gt;
+&lt;p&gt;Evenimentul va face parte din programul european CodeWeek și se va desfășura cu
+sprijinul inspectoratului în mai multe licee de profil din țară, de data aceasta
+pornind cu nume ca “Colegiul Național”, “Costache Negruzzi”, “Grigore Moisil” și
+“Emil Racoviță” din Iași. Acesta va veni în continuarea workshop-ului de duminică
+și se va întinde pe patru zile de marți până vineri, câte un laborator de trei ore
+în fiecare liceu. Elevii vor desluși din mers, intr-o atmosferă cât mai distractivă,
+tainele acestui limbaj, fără a se lovi de aceleași clișee și obstacole veșnice.&lt;/p&gt;
+&lt;p&gt;Această sesiune de training va fi prima din categoria ei și va întări
+cunoștințele dobândite în cadrul conferinței și a workshop-ului. Experiența ne-a
+arătat că de multe ori nu toți participanții de la aceste evenimente se descurcă
+la fel de bine ca restul și din acest motiv, vrem să anticipăm și să depășim împreună
+eventualele dificultăți și totodată, să învățăm lucruri noi sau lucruri vechi dar
+facute într-o altă manieră, mult mai simplu și mult mai rapid. Ideea acestui training
+este de a expune în fața micilor viitori programatori și dezvoltatori, un limbaj de
+programare ușor de înțeles, rapid, robust și stabil, un limbaj cu un impact enorm asupra
+tehnologiei și cu o varietate nemaiîntâlnită în domeniu și toate acestea datorită
+simplității sintaxei, dar mai ales comunității din spate și multitudinii de biblioteci.&lt;/p&gt;
+&lt;p&gt;RoPython dorește să introducă încetul cu încetul, dar într-un mod sigur prin
+cantitatea imensă de beneficii imediate și viitoare, acest limbaj de scripting în
+programa studiilor (pre)universitare. Indiferent dacă intenția noastră de viitor
+va avea succes sau nu, suntem siguri că elevii ce vor lua parte la evenimentele de
+acest gen vor avea multe de învățat, lucruri ce vor fi de folos pe mai multe planuri,
+ce vor contribui la îmbunătățirea “gimnasticii minții” și care îi vor ajuta pe participanți
+să-și materializeze ideile într-un timp record, să vadă imediat în practică utilitatea unui
+algoritm și poate chiar să realizeze aplicația mult visată. În prezent, scopul nostru
+principal este să educăm potențialul nostru public din cadrul conferințelor, workshop-urilor
+și chiar adunărilor ce poartă denumirea de Ask.py, învățându-i de la zero și dirijându-i
+pas cu pas prin misteriosul drum către dezvoltarea de software. Ne dorim să-i facem
+să-și răspundă singuri la întrebări ca “La ce mă ajută programarea în viața reală?”,
+iar acest lucru va avea un mare beneficiu pentru ambele părți: noi ca organizatori vom
+putea crește rapid o comunitate în adevăratul sens al cuvântului ce se va remarca prin
+calitatea membrilor și nu prin cantitate, iar cei ce vor învața de la noi și de la colegii
+lor vor avea parte de niște cunoștințe, idei și indicații de care puțin probabil
+se vor lovi de unii singuri.&lt;/p&gt;
+&lt;p&gt;Liceele înscrise în acest proiect sunt:&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="50%" /&gt;
+&lt;col width="50%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img alt="Colegiul Național" src="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/colegiu-national.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt="Liceul Teoretic &amp;quot;Grigore Moisil&amp;quot;" src="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/grigore-moisil.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img alt="Colegiul &amp;quot;Costache Negruzzi&amp;quot;" src="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/costache-negruzzi.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt="Colegiul Național &amp;quot;Emil Racoviță&amp;quot;" src="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/emil-racovita.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Tue, 07 Oct 2014 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2014-10-07:2014/10/07/training-py-la-tine-in-liceu/</guid><category>workshop</category></item><item><title>Workshop #1 - Python pentru dezvoltarea aplicațiilor web</title><link>http://ropython.ro/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</link><description>&lt;pre class="literal-block"&gt;
 HTTP/1.1 201 Workshop created
 Date: SAT, 31 May 2014 10:00:00 GMT
 Location: Facultatea de informatică

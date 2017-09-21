@@ -9,86 +9,14 @@
     {
       "uid": "de5f0a564ccf8816325330e292e11533",
       "css": "rss-squared",
-      "code": 59404,
+      "code": 61763,
       "src": "fontawesome"
     },
     {
-      "uid": "7e4164950ffa4990961958b2d6318658",
-      "css": "info-circled",
-      "code": 59393,
-      "src": "entypo"
-    },
-    {
-      "uid": "ce1d525f3f31024c6a6b38f5e9a88953",
-      "css": "facebook-circled",
-      "code": 59398,
-      "src": "entypo"
-    },
-    {
-      "uid": "21adad41ffebf469b2370d26bcb8a3c4",
-      "css": "linkedin-circled",
+      "uid": "531bc468eecbb8867d822f1c11f1e039",
+      "css": "calendar",
       "code": 59392,
-      "src": "entypo"
-    },
-    {
-      "uid": "aa7d4f131e866180ed30e6fbb504328c",
-      "css": "rss-outline",
-      "code": 59399,
-      "src": "typicons"
-    },
-    {
-      "uid": "3o0pu4qbmgvcv8zqb5o3qh8vttzvhpy7",
-      "css": "rss",
-      "code": 59405,
-      "src": "typicons"
-    },
-    {
-      "uid": "a8ed7903f8f548da5a8084e1773f0bbb",
-      "css": "chat",
-      "code": 59395,
-      "src": "mfglabs"
-    },
-    {
-      "uid": "ccf7ed45e7f05a89376f38abaa9d7d13",
-      "css": "twitter-circled-1",
-      "code": 59403,
-      "src": "mfglabs"
-    },
-    {
-      "uid": "fef29532e2318a0c604f34947024b990",
-      "css": "gplus-circled",
-      "code": 59400,
-      "src": "mfglabs"
-    },
-    {
-      "uid": "3da502d7bf60ce54298aafe7b6dca55f",
-      "css": "meetup",
-      "code": 59396,
-      "src": "zocial"
-    },
-    {
-      "uid": "1884ff7f89cc02840606d28f9bcf930a",
-      "css": "skype",
-      "code": 59401,
-      "src": "zocial"
-    },
-    {
-      "uid": "d99bb6de425328eea70522711d17596d",
-      "css": "eventbrite",
-      "code": 59397,
-      "src": "zocial"
-    },
-    {
-      "uid": "d80ef118949b097868584a3b80d55ce4",
-      "css": "home-circled",
-      "code": 59394,
-      "src": "elusive"
-    },
-    {
-      "uid": "2d3ce9463ed5525c6faa01f84c957843",
-      "css": "youtube",
-      "code": 59402,
-      "src": "websymbols"
+      "src": "fontawesome"
     }
   ]
 }

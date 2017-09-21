@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/bucuresti.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2017-06-28T00:00:00+03:00</updated><entry><title>Asynchronous tasks using Django, Celery and RabbitMQ</title><link href="http://ropython.ro/2017/06/28/asynchronous-tasks-using-django-celery-and-rabbitmq/" rel="alternate"></link><updated>2017-06-28T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-06-28:2017/06/28/asynchronous-tasks-using-django-celery-and-rabbitmq/</id><summary type="html">&lt;p&gt;Celery is an asynchronous task queue based on distributed message
+passing. It is focused on real-time operations, but supports
+scheduling as well. RabbitMQ, is a message broker which is used by
+Celery to distribute messages.&lt;/p&gt;
+&lt;p&gt;Celery is perfectly suited for tasks which will take some time to
+execute but we don’t want our requests to be blocked while these tasks
+are processed.
+Example use cases: sending emails, heavy background processing (eg:
+multimedia encoding), sending bulk messages, periodic tasks, complex
+concurrent workflows.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Schedule:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;06:00 - Entry. There will be pizza, snacks and beer, courtesy of &lt;a class="reference external" href="https://www.pentalog.ro/bucuresti"&gt;Pentalog Bucharest&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;06:20 - Introduction to asynchronous tasks, Celery (with Django) and RabbitMQ.&lt;/li&gt;
+&lt;li&gt;06:40 - The Architecture of a typical setup.&lt;/li&gt;
+&lt;li&gt;07:00 - short break&lt;/li&gt;
+&lt;li&gt;07:10 - How to implement and consume asynchronous tasks.&lt;/li&gt;
+&lt;li&gt;07:50 - Advanced Tips &amp;amp; Best practices with Celery&lt;/li&gt;
+&lt;li&gt;08:00 - Closing&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="prezentari"></category></entry></feed>

@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/all.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2017-04-25T00:00:00+03:00</updated><entry><title>Django presentation and why to use it for single page or hybrid applications too</title><link href="http://ropython.ro/2017/04/25/django-presentation-and-why-to-use-it-for-single-page-or-hybrid-applications-too/" rel="alternate"></link><updated>2017-04-25T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-04-25:2017/04/25/django-presentation-and-why-to-use-it-for-single-page-or-hybrid-applications-too/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/all.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2017-10-21T00:00:00+03:00</updated><entry><title>Pytest workshop</title><link href="http://ropython.ro/2017/10/21/pytest-workshop/" rel="alternate"></link><updated>2017-10-21T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-10-21:2017/10/21/pytest-workshop/</id><summary type="html">&lt;p&gt;Hello everyone,&lt;/p&gt;
+&lt;p&gt;We're back in action with a Pytest workshop. It's going to take about
+2-3 hours and there will be pizza &amp;amp; drinks provided by Yonder.&lt;/p&gt;
+&lt;p&gt;The only requirement is to bring a laptop with Python installed.&lt;/p&gt;
+&lt;p&gt;Workshop's content:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;preparation &amp;amp; setting up tox/virtualenv/django/pytest&lt;/li&gt;
+&lt;li&gt;writing tests for the Django tutorial polls app (just the test part,
+the app code will be provided)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aim is to cover these pytest topics:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;test discovery&lt;/li&gt;
+&lt;li&gt;classes vs function tests&lt;/li&gt;
+&lt;li&gt;assertion helpers&lt;/li&gt;
+&lt;li&gt;marks, skipping &amp;amp; xfailing&lt;/li&gt;
+&lt;li&gt;parametrization&lt;/li&gt;
+&lt;li&gt;fixtures, scoping, finalization&lt;/li&gt;
+&lt;li&gt;builtin fixtures overview&lt;/li&gt;
+&lt;li&gt;pytest-django plugin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tutors will be Ionel and highschool-teacher-turned-programmer Gabriel Muj.&lt;/p&gt;
+</summary><category term="workshop"></category></entry><entry><title>A beer retrospective</title><link href="http://ropython.ro/2017/09/26/a-beer-retrospective/" rel="alternate"></link><updated>2017-09-26T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-09-26:2017/09/26/a-beer-retrospective/</id><summary type="html">&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+Python and anything interesting.&lt;/p&gt;
+&lt;p&gt;We'll have one special guest: Gabriel Muj. Will he get drunk enough to
+tell us the sad story of leaving highschool teaching career for Python
+programming? Lets find out!&lt;/p&gt;
+</summary><category term="social"></category></entry><entry><title>RoPython September Meetup</title><link href="http://ropython.ro/2017/09/19/ropython-september-meetup/" rel="alternate"></link><updated>2017-09-19T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-09-19:2017/09/19/ropython-september-meetup/</id><summary type="html">&lt;p&gt;Re-lansăm întâlnirile comunității Python din Timișoara!&lt;/p&gt;
+&lt;p&gt;Vom începe din 19 Septembrie, după ce ne-am mai întors din concedii,
+cu o întâlnire într-un format ușor diferit față de ce am făcut până
+acuma, pe lângă prezentarea clasică vom face și un Python Open Space.&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Să facem un joc cu PyGame Zero&lt;/li&gt;
+&lt;li&gt;Python Open Space&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ce presupune un Open Space:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Ne întâlnim&lt;/li&gt;
+&lt;li&gt;Propunem subiecte de discuție (trebuie să fie măcar tangențial
+legate de Python)&lt;/li&gt;
+&lt;li&gt;Votăm pentru subiectele propuse&amp;lt; p&amp;gt;&lt;/li&gt;
+&lt;li&gt;Alegem top FIXNUM subiecte (poate sparte în 2 trackuri dacă suntem
+destui)&lt;/li&gt;
+&lt;li&gt;Și discutăm 15 minute fiecare topic propus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ce e PyGame Zero? E o unealtă educațională, menită să ajute învățatul
+programării prin crearea de jocuri. Necesită cunoștiințe minime de
+programare, un fișier text gol înseamnă un joc valid cu o fereastră
+goală, și acum poți să clădești de aici :)&lt;/p&gt;
+</summary><category term="social"></category><category term="workshop"></category></entry><entry><title>Asynchronous tasks using Django, Celery and RabbitMQ</title><link href="http://ropython.ro/2017/06/28/asynchronous-tasks-using-django-celery-and-rabbitmq/" rel="alternate"></link><updated>2017-06-28T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-06-28:2017/06/28/asynchronous-tasks-using-django-celery-and-rabbitmq/</id><summary type="html">&lt;p&gt;Celery is an asynchronous task queue based on distributed message
+passing. It is focused on real-time operations, but supports
+scheduling as well. RabbitMQ, is a message broker which is used by
+Celery to distribute messages.&lt;/p&gt;
+&lt;p&gt;Celery is perfectly suited for tasks which will take some time to
+execute but we don’t want our requests to be blocked while these tasks
+are processed.
+Example use cases: sending emails, heavy background processing (eg:
+multimedia encoding), sending bulk messages, periodic tasks, complex
+concurrent workflows.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Schedule:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;06:00 - Entry. There will be pizza, snacks and beer, courtesy of &lt;a class="reference external" href="https://www.pentalog.ro/bucuresti"&gt;Pentalog Bucharest&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;06:20 - Introduction to asynchronous tasks, Celery (with Django) and RabbitMQ.&lt;/li&gt;
+&lt;li&gt;06:40 - The Architecture of a typical setup.&lt;/li&gt;
+&lt;li&gt;07:00 - short break&lt;/li&gt;
+&lt;li&gt;07:10 - How to implement and consume asynchronous tasks.&lt;/li&gt;
+&lt;li&gt;07:50 - Advanced Tips &amp;amp; Best practices with Celery&lt;/li&gt;
+&lt;li&gt;08:00 - Closing&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Django presentation and why to use it for single page or hybrid applications too</title><link href="http://ropython.ro/2017/04/25/django-presentation-and-why-to-use-it-for-single-page-or-hybrid-applications-too/" rel="alternate"></link><updated>2017-04-25T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-04-25:2017/04/25/django-presentation-and-why-to-use-it-for-single-page-or-hybrid-applications-too/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
@@ -58,13 +128,16 @@ In 2016 Dan joined Pentalog Group as a Python
 Technical Lead, and since then is building projects, improve processes, manage development teams
 and helping big companies to build the most efficient, robust and dynamic software they need.&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="meetup"></category></entry><entry><title>Winter retrospective</title><link href="http://ropython.ro/2017/03/14/winter-retrospective/" rel="alternate"></link><updated>2017-03-14T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-03-14:2017/03/14/winter-retrospective/</id><summary type="html">&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+</summary><category term="prezentari"></category></entry><entry><title>Winter retrospective</title><link href="http://ropython.ro/2017/03/14/winter-retrospective/" rel="alternate"></link><updated>2017-03-14T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-03-14:2017/03/14/winter-retrospective/</id><summary type="html">&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
 Python and anything interesting, like what's going to happen at the
 EuroPython2017 conference!&lt;/p&gt;
 &lt;p&gt;We'll also have one guest from Iași: Claudiu Popa. Does he still
 maintain Pylint? Lets find out :D&lt;/p&gt;
 &lt;p&gt;Feel free to suggest location, if you have preferences.&amp;lt; p&amp;gt;&lt;/p&gt;
-</summary><category term="intalniri"></category></entry><entry><title>Building transaction monitoring systems and Machine learning</title><link href="http://ropython.ro/2017/02/21/building-transaction-monitoring-systems-and-machine-learning/" rel="alternate"></link><updated>2017-02-21T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-02-21:2017/02/21/building-transaction-monitoring-systems-and-machine-learning/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
+</summary><category term="social"></category></entry><entry><title>Python Development - Tools, Frameworks and Trends - 2017 (Open discussion)</title><link href="http://ropython.ro/2017/03/02/python-development-tools-frameworks-and-trends-2017-open-discussion/" rel="alternate"></link><updated>2017-03-02T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-03-02:2017/03/02/python-development-tools-frameworks-and-trends-2017-open-discussion/</id><summary type="html">&lt;p&gt;Intalnirea va avea loc la sediul Pentalog, cladirea Tudor Center de pe
+strada Ciurchi, etaj 5, usa din stanga.&lt;/p&gt;
+&lt;p&gt;Va asteptam!!!&lt;/p&gt;
+</summary><category term="social"></category></entry><entry><title>Building transaction monitoring systems and Machine learning</title><link href="http://ropython.ro/2017/02/21/building-transaction-monitoring-systems-and-machine-learning/" rel="alternate"></link><updated>2017-02-21T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-02-21:2017/02/21/building-transaction-monitoring-systems-and-machine-learning/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
@@ -173,7 +246,7 @@ his lifelong hobby, a PhD in machine learning, this century. When he
 doesn't code he's probably teaching bubble sort at the UTCN or
 conducting practical studies of gradient descent on some mountains.&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="meetup"></category></entry><entry><title>What is OpenStack and Python extensions in Nim</title><link href="http://ropython.ro/2017/01/18/what-is-openstack-and-python-extensions-in-nim/" rel="alternate"></link><updated>2017-01-18T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-01-18:2017/01/18/what-is-openstack-and-python-extensions-in-nim/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
+</summary><category term="prezentari"></category></entry><entry><title>What is OpenStack and Python extensions in Nim</title><link href="http://ropython.ro/2017/01/18/what-is-openstack-and-python-extensions-in-nim/" rel="alternate"></link><updated>2017-01-18T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-01-18:2017/01/18/what-is-openstack-and-python-extensions-in-nim/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
@@ -215,7 +288,7 @@ workarounds and how can a cool thing as &lt;a class="reference external" href="h
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="meetup"></category></entry><entry><title>OCR in Python and Running Django apps on Docker</title><link href="http://ropython.ro/2016/10/19/ocr-in-python-and-running-django-apps-on-docker/" rel="alternate"></link><updated>2016-10-19T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-10-19:2016/10/19/ocr-in-python-and-running-django-apps-on-docker/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
+</summary><category term="prezentari"></category></entry><entry><title>OCR in Python and Running Django apps on Docker</title><link href="http://ropython.ro/2016/10/19/ocr-in-python-and-running-django-apps-on-docker/" rel="alternate"></link><updated>2016-10-19T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-10-19:2016/10/19/ocr-in-python-and-running-django-apps-on-docker/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
@@ -262,19 +335,19 @@ in v1.12.&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="meetup"></category></entry><entry><title>Chat about organizing business logic</title><link href="http://ropython.ro/2016/10/13/chat-about-organizing-business-logic/" rel="alternate"></link><updated>2016-10-13T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-10-13:2016/10/13/chat-about-organizing-business-logic/</id><summary type="html">&lt;p&gt;Fat models? Service module? Clean architecture?&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Chat about organizing business logic</title><link href="http://ropython.ro/2016/10/13/chat-about-organizing-business-logic/" rel="alternate"></link><updated>2016-10-13T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-10-13:2016/10/13/chat-about-organizing-business-logic/</id><summary type="html">&lt;p&gt;Fat models? Service module? Clean architecture?&lt;/p&gt;
 &lt;p&gt;Let's get together and talk about strategies for organizing business
 logic in Django applications. What have we each used, what we liked
 about the chosen strategies, what were the downsides, what we'd like
 to try next.&lt;/p&gt;
 &lt;p&gt;I would like this to be a discussion and not a presentation, so please
 don't be shy :)&lt;/p&gt;
-</summary><category term="meetup"></category></entry><entry><title>Mid-summer retrospective</title><link href="http://ropython.ro/2016/08/09/mid-summer-retrospective/" rel="alternate"></link><updated>2016-08-09T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-08-09:2016/08/09/mid-summer-retrospective/</id><summary type="html">&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+</summary><category term="prezentari"></category></entry><entry><title>Mid-summer retrospective</title><link href="http://ropython.ro/2016/08/09/mid-summer-retrospective/" rel="alternate"></link><updated>2016-08-09T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-08-09:2016/08/09/mid-summer-retrospective/</id><summary type="html">&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
 Python and anything interesting, like the just finished EuroPython2016
 conference!&lt;/p&gt;
 &lt;p&gt;We'll also have two guests from Iași: Claudiu Popa and Cosmin Poieană.&lt;/p&gt;
 &lt;p&gt;Feel free to suggest location, if you have preferences.&lt;/p&gt;
-</summary><category term="intalniri"></category></entry><entry><title>Managing technical debt</title><link href="http://ropython.ro/2016/07/14/managing-technical-debt/" rel="alternate"></link><updated>2016-07-14T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-07-14:2016/07/14/managing-technical-debt/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
+</summary><category term="social"></category></entry><entry><title>Managing technical debt</title><link href="http://ropython.ro/2016/07/14/managing-technical-debt/" rel="alternate"></link><updated>2016-07-14T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-07-14:2016/07/14/managing-technical-debt/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
@@ -313,7 +386,7 @@ see the debt and the interest? Is it really unavoidable?&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="meetup"></category></entry><entry><title>AWS love-hate relationship and Integration testing with Docker</title><link href="http://ropython.ro/2016/06/30/aws-love-hate-relationship-and-integration-testing-with-docker/" rel="alternate"></link><updated>2016-06-30T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-06-30:2016/06/30/aws-love-hate-relationship-and-integration-testing-with-docker/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
+</summary><category term="prezentari"></category></entry><entry><title>AWS love-hate relationship and Integration testing with Docker</title><link href="http://ropython.ro/2016/06/30/aws-love-hate-relationship-and-integration-testing-with-docker/" rel="alternate"></link><updated>2016-06-30T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-06-30:2016/06/30/aws-love-hate-relationship-and-integration-testing-with-docker/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
@@ -360,7 +433,7 @@ cluster membership.&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="meetup"></category></entry><entry><title>Moderate TDD and Docker</title><link href="http://ropython.ro/2016/05/16/moderate-tdd-and-docker/" rel="alternate"></link><updated>2016-05-16T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-05-16:2016/05/16/moderate-tdd-and-docker/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Moderate TDD and Docker</title><link href="http://ropython.ro/2016/05/16/moderate-tdd-and-docker/" rel="alternate"></link><updated>2016-05-16T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-05-16:2016/05/16/moderate-tdd-and-docker/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
@@ -406,7 +479,7 @@ images quickly, few recommendations about moving Python apps in
 containers and many complaints about Docker :-)&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</summary><category term="meetup"></category></entry><entry><title>Fighting Terrorism with Django, Big Data and NLP</title><link href="http://ropython.ro/2016/02/24/fighting-terrorism-with-django-big-data-and-nlp/" rel="alternate"></link><updated>2016-02-24T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-02-24:2016/02/24/fighting-terrorism-with-django-big-data-and-nlp/</id><summary type="html">&lt;p&gt;For this meet-up, the first one this year, we bring you special guests
+</summary><category term="prezentari"></category></entry><entry><title>Fighting Terrorism with Django, Big Data and NLP</title><link href="http://ropython.ro/2016/02/24/fighting-terrorism-with-django-big-data-and-nlp/" rel="alternate"></link><updated>2016-02-24T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-02-24:2016/02/24/fighting-terrorism-with-django-big-data-and-nlp/</id><summary type="html">&lt;p&gt;For this meet-up, the first one this year, we bring you special guests
 from ComplyAdvantage (London, UK)&lt;/p&gt;
 &lt;p&gt;ComplyAdvantage provides anti-money laundering exposure data and
 compliance technology solutions to help companies control risk and
@@ -544,7 +617,7 @@ and refreshments!&lt;/td&gt;
 &lt;/table&gt;
 &lt;hr class="docutils" /&gt;
 &lt;p&gt;This event is organized with: &lt;a class="reference external" href="http://www.meetup.com/Front-WEB-Cluj/"&gt;http://www.meetup.com/Front-WEB-Cluj/&lt;/a&gt;&lt;/p&gt;
-</summary><category term="meetup"></category></entry><entry><title>Sprint #19</title><link href="http://ropython.ro/2016/01/30/sprint-19/" rel="alternate"></link><updated>2016-01-30T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-01-30:2016/01/30/sprint-19/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Sprint #19</title><link href="http://ropython.ro/2016/01/30/sprint-19/" rel="alternate"></link><updated>2016-01-30T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-01-30:2016/01/30/sprint-19/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -563,7 +636,7 @@ and refreshments!&lt;/td&gt;
 you've been working on the side, come share and learn from other devs,
 engineers, and startup people.&lt;/p&gt;
 &lt;p&gt;Nothing to share? Come for the FREE PIZZA AND BEER!&lt;/p&gt;
-</summary><category term="meetup"></category></entry><entry><title>Sprint #18</title><link href="http://ropython.ro/2016/01/02/sprint-18/" rel="alternate"></link><updated>2016-01-02T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-01-02:2016/01/02/sprint-18/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Sprint #18</title><link href="http://ropython.ro/2016/01/02/sprint-18/" rel="alternate"></link><updated>2016-01-02T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-01-02:2016/01/02/sprint-18/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -610,7 +683,7 @@ engineers, and startup people.&lt;/p&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
 </summary><category term="sprint"></category></entry><entry><title>Beer and chat</title><link href="http://ropython.ro/2015/10/15/beer-and-chat/" rel="alternate"></link><updated>2015-10-15T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-10-15:2015/10/15/beer-and-chat/</id><summary type="html">&lt;p&gt;Just drinking beer in a bar, talking about the summer and other
 Python things.&lt;/p&gt;
-</summary><category term="intalniri"></category></entry><entry><title>Sprint #15</title><link href="http://ropython.ro/2015/10/10/sprint-15/" rel="alternate"></link><updated>2015-10-10T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-10-10:2015/10/10/sprint-15/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</summary><category term="social"></category></entry><entry><title>Sprint #15</title><link href="http://ropython.ro/2015/10/10/sprint-15/" rel="alternate"></link><updated>2015-10-10T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-10-10:2015/10/10/sprint-15/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -705,7 +778,7 @@ Python things.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</summary><category term="meetup"></category></entry><entry><title>Gitfs, Argus CI and Pylint</title><link href="http://ropython.ro/2015/07/09/gitfs-argus-ci-and-pylint/" rel="alternate"></link><updated>2015-07-09T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-07-09:2015/07/09/gitfs-argus-ci-and-pylint/</id><summary type="html">&lt;p&gt;For the next meetup we're going to do something different - an all-English show.&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Gitfs, Argus CI and Pylint</title><link href="http://ropython.ro/2015/07/09/gitfs-argus-ci-and-pylint/" rel="alternate"></link><updated>2015-07-09T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-07-09:2015/07/09/gitfs-argus-ci-and-pylint/</id><summary type="html">&lt;p&gt;For the next meetup we're going to do something different - an all-English show.&lt;/p&gt;
 &lt;p&gt;Hint: these presentations will be shown at EuroPython 2015 (don't tell anyone, it's a secret!)&lt;/p&gt;
 &lt;p&gt;Agenda:&lt;/p&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
@@ -763,7 +836,7 @@ data from the in-test application.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</summary><category term="meetup"></category></entry><entry><title>Sprint #11</title><link href="http://ropython.ro/2015/07/04/sprint-11/" rel="alternate"></link><updated>2015-07-04T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-07-04:2015/07/04/sprint-11/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Sprint #11</title><link href="http://ropython.ro/2015/07/04/sprint-11/" rel="alternate"></link><updated>2015-07-04T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-07-04:2015/07/04/sprint-11/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -822,7 +895,7 @@ contribui la realizarea viziunii Web-ului semantic.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</summary><category term="meetup"></category></entry><entry><title>Sprint #9</title><link href="http://ropython.ro/2015/06/06/sprint-9/" rel="alternate"></link><updated>2015-06-06T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-06-06:2015/06/06/sprint-9/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Sprint #9</title><link href="http://ropython.ro/2015/06/06/sprint-9/" rel="alternate"></link><updated>2015-06-06T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-06-06:2015/06/06/sprint-9/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -886,7 +959,7 @@ implementezi un interpretor în RPython.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</summary><category term="meetup"></category></entry><entry><title>Sprint #7</title><link href="http://ropython.ro/2015/05/09/sprint-7/" rel="alternate"></link><updated>2015-05-09T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-05-09:2015/05/09/sprint-7/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Sprint #7</title><link href="http://ropython.ro/2015/05/09/sprint-7/" rel="alternate"></link><updated>2015-05-09T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-05-09:2015/05/09/sprint-7/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -937,7 +1010,7 @@ un membru foarte activ al comunității de Python.&lt;/p&gt;
 noi la o bere / suc, să povestim mai multe despre experiențele noastre
 cu limbajul si despre proiectele în Python la care am lucrat.&lt;/p&gt;
 &lt;p&gt;Ne vedem marți la &lt;a class="reference external" href="https://www.facebook.com/uvtromania"&gt;Universitatea de Vest din Timisoara&lt;/a&gt;, Amfiteatrul A02!&lt;/p&gt;
-</summary><category term="Meetup"></category></entry><entry><title>Sprint #6</title><link href="http://ropython.ro/2015/04/25/sprint-6/" rel="alternate"></link><updated>2015-04-25T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-04-25:2015/04/25/sprint-6/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Sprint #6</title><link href="http://ropython.ro/2015/04/25/sprint-6/" rel="alternate"></link><updated>2015-04-25T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-04-25:2015/04/25/sprint-6/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -971,7 +1044,7 @@ great open source contributor.&lt;/p&gt;
 &lt;p&gt;You can follow Michael on Twitter at
 &lt;a class="reference external" href="https://twitter.com/voidspace"&gt;https://twitter.com/voidspace&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-</summary><category term="Întâlniri"></category></entry><entry><title>Sprint #5</title><link href="http://ropython.ro/2015/04/11/sprint-5/" rel="alternate"></link><updated>2015-04-11T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-04-11:2015/04/11/sprint-5/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
+</summary><category term="social"></category></entry><entry><title>Sprint #5</title><link href="http://ropython.ro/2015/04/11/sprint-5/" rel="alternate"></link><updated>2015-04-11T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-04-11:2015/04/11/sprint-5/</id><summary type="html">&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau ce vrem :-)&lt;/p&gt;
 &lt;p&gt;Prin acest eveniment vrem să încurajăm interesul pentru Python sau Open-Source prin ajutor reciproc pe diferite zone de interes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Implementare de features sau bug fixing.&lt;/li&gt;
@@ -1037,7 +1110,7 @@ RoPython national conference at the meetup).&lt;/p&gt;
 Session descriptions coming soon.&lt;/blockquote&gt;
 &lt;p&gt;The new venue is Timisoara Startup Hub and the date is February 25!&lt;/p&gt;
 &lt;p&gt;See you there.&lt;/p&gt;
-</summary><category term="Meetup"></category></entry><entry><title>Sprint #1 (Pylint)</title><link href="http://ropython.ro/2015/02/14/sprint-pylint/" rel="alternate"></link><updated>2015-02-14T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-02-14:2015/02/14/sprint-pylint/</id><summary type="html">&lt;p&gt;Pentru că e foarte frig la început de 2015 facem un Sprint de Pylint.
+</summary><category term="prezentari"></category></entry><entry><title>Sprint #1 (Pylint)</title><link href="http://ropython.ro/2015/02/14/sprint-pylint/" rel="alternate"></link><updated>2015-02-14T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-02-14:2015/02/14/sprint-pylint/</id><summary type="html">&lt;p&gt;Pentru că e foarte frig la început de 2015 facem un Sprint de Pylint.
 Pylint este cel mai cuprinzător verificator de cod disponibil pentru
 Python, este extensibil, configurabil și este folosit în foarte multe
 locuri. El ne ajută să scriem cod mai corect sau mai frumos.&lt;/p&gt;
@@ -1084,7 +1157,7 @@ Pyspark to bring Python to the big data era. Steffen has been with
 TrustYou since 2008. His master thesis laid the foundation for
 TrustYou's scalable semantic analysis, which today understands 20
 languages natively.&lt;/blockquote&gt;
-</summary><category term="Meetup"></category></entry><entry><title>Workshop #2 - Expediție în cloud computing, programare funcțională și altele</title><link href="http://ropython.ro/2014/10/19/workshop-py-2/" rel="alternate"></link><updated>2014-10-19T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-19:2014/10/19/workshop-py-2/</id><summary type="html">&lt;img alt="Workshop #2" class="align-center" src="http://ropython.ro/2014/10/19/workshop-py-2/workshop.png" /&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Workshop #2 - Expediție în cloud computing, programare funcțională și altele</title><link href="http://ropython.ro/2014/10/19/workshop-py-2/" rel="alternate"></link><updated>2014-10-19T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-19:2014/10/19/workshop-py-2/</id><summary type="html">&lt;img alt="Workshop #2" class="align-center" src="http://ropython.ro/2014/10/19/workshop-py-2/workshop.png" /&gt;
 &lt;p&gt;Dacă sunteți începător în Python și zilele trecute ați avut “bucuria” primului vostru traceback
 sau aveți experiență în alte limbaje, trecând prin inevitabilul Javascript, îndreptându-vă apoi
 către limbajele funcționale și vreți acum să aflați ce este acel Python de care toată lumea
@@ -1106,7 +1179,7 @@ ce stau la baza lui. Totodată, ei vor mai învăța să facă primii pași, aju
 la primul algoritm funcțional în Python.&lt;/p&gt;
 &lt;p&gt;Programul complet al workshop-urilor, precum și locația lor vor fi anunțate în curând.&lt;/p&gt;
 &lt;p&gt;Vă așteptăm!&lt;/p&gt;
-</summary><category term="Workshop"></category></entry><entry><title>Python Week</title><link href="http://ropython.ro/2014/10/18/Python-Week/" rel="alternate"></link><updated>2014-10-18T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-18:2014/10/18/Python-Week/</id><summary type="html">&lt;div class="line-block"&gt;
+</summary><category term="workshop"></category></entry><entry><title>Python Week</title><link href="http://ropython.ro/2014/10/18/Python-Week/" rel="alternate"></link><updated>2014-10-18T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-18:2014/10/18/Python-Week/</id><summary type="html">&lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;em&gt;And on the pedestal these words appear:&lt;/em&gt;&lt;/div&gt;
 &lt;div class="line"&gt;&lt;em&gt;&amp;quot;My name is Python, king of languages:&lt;/em&gt;&lt;/div&gt;
 &lt;div class="line"&gt;&lt;em&gt;Look on my works, ye Mighty, and rejoice!”&lt;/em&gt;&lt;/div&gt;
@@ -1181,7 +1254,7 @@ chiar să realizeze aplicația mult visată.&lt;/div&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</summary><category term="Diverse"></category></entry><entry><title>CloudTim Panel discussion: Dynamic Programming Languages in the Cloud</title><link href="http://ropython.ro/2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/" rel="alternate"></link><updated>2014-10-14T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-14:2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://www.unifiedpost.ro"&gt;UnifiedPost&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a class="reference external" href="http://www.cloudbase.it"&gt;Cloudbase&amp;nbsp;Solutions&lt;/a&gt;&amp;nbsp;have
+</summary><category term="diverse"></category></entry><entry><title>CloudTim Panel discussion: Dynamic Programming Languages in the Cloud</title><link href="http://ropython.ro/2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/" rel="alternate"></link><updated>2014-10-14T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-14:2014/10/14/cloudtim-panel-discussion-dynamic-programming-languages-in-the-cloud/</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://www.unifiedpost.ro"&gt;UnifiedPost&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a class="reference external" href="http://www.cloudbase.it"&gt;Cloudbase&amp;nbsp;Solutions&lt;/a&gt;&amp;nbsp;have
 teamed up for a cross-community meetup that will take the form of a
 panel discussion on a very hot topic:&amp;nbsp;dynamic programming languages in
 the cloud.&lt;/p&gt;
@@ -1207,7 +1280,7 @@ well done.&lt;/li&gt;
 &lt;p&gt;More panelists are in the process of confirming their attendance to our
 event, so keep an eye on this space for regular updates on our speakers
 and the questions they will be debating.&lt;/p&gt;
-</summary><category term="Meetup"></category></entry><entry><title>Training.py - La tine în liceu</title><link href="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/" rel="alternate"></link><updated>2014-10-07T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-07:2014/10/07/training-py-la-tine-in-liceu/</id><summary type="html">&lt;img alt="Training.py #1 - La tine în liceu" class="align-center" src="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/training-py-1-in-liceu.png" /&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Training.py - La tine în liceu</title><link href="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/" rel="alternate"></link><updated>2014-10-07T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-07:2014/10/07/training-py-la-tine-in-liceu/</id><summary type="html">&lt;img alt="Training.py #1 - La tine în liceu" class="align-center" src="http://ropython.ro/2014/10/07/training-py-la-tine-in-liceu/training-py-1-in-liceu.png" /&gt;
 &lt;p&gt;Deoarece conferințele și workshop-urile pot avea un caracter tehnic ceva mai avansat,
 ne-am propus să creăm un eveniment destinat pasionaților de Python, destinat începătorilor
 și nu numai. Acest training are ca public țintă elevii de liceu și ca scop
@@ -1261,10 +1334,10 @@ se vor lovi de unii singuri.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</summary><category term="Training"></category></entry><entry><title>Ask.py #3 - În expediție</title><link href="http://ropython.ro/2014/10/01/ask-py-in-expeditie/" rel="alternate"></link><updated>2014-10-01T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-01:2014/10/01/ask-py-in-expeditie/</id><summary type="html">&lt;img alt="Ask.py #3 - În expediție" class="align-center" src="http://ropython.ro/2014/10/01/ask-py-in-expeditie/ask-py-in-expeditie.png" /&gt;
+</summary><category term="workshop"></category></entry><entry><title>Ask.py #3 - În expediție</title><link href="http://ropython.ro/2014/10/01/ask-py-in-expeditie/" rel="alternate"></link><updated>2014-10-01T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-01:2014/10/01/ask-py-in-expeditie/</id><summary type="html">&lt;img alt="Ask.py #3 - În expediție" class="align-center" src="http://ropython.ro/2014/10/01/ask-py-in-expeditie/ask-py-in-expeditie.png" /&gt;
 &lt;p&gt;Cu ocazia dojo-ului CentOS, ce se va desfășura în Timișoara pe 27 septembrie, echipa RoPython va face o vizită în orașul de pe Bega. O călătorie într-un oraș nou reprezintă totodată și oportunitatea cunoașterii comunității Python din orașul respectiv, ocazie numai bună pentru o nouă întâlnire Ask.py, alături de oameni noi și entuziasmați. Echipa RoPython vă invită la primul Ask.py în partea vestică a țării pe data de 1 octombrie, în Timișoara.&lt;/p&gt;
 &lt;p&gt;Vă așteptăm!&lt;/p&gt;
-</summary><category term="Întâlniri"></category></entry><entry><title>Conference.py #1 @Iași</title><link href="http://ropython.ro/2014/10/01/conference-py-1/" rel="alternate"></link><updated>2014-10-01T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-01:2014/10/01/conference-py-1/</id><summary type="html">&lt;p&gt;Toamna este un anotimp al începutului, fiind vremea unui nou an școlar, unui
+</summary><category term="social"></category></entry><entry><title>Conference.py #1 @Iași</title><link href="http://ropython.ro/2014/10/01/conference-py-1/" rel="alternate"></link><updated>2014-10-01T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-01:2014/10/01/conference-py-1/</id><summary type="html">&lt;p&gt;Toamna este un anotimp al începutului, fiind vremea unui nou an școlar, unui
 nou început de an universitar, precum și sezonul în care vacanțele lungi sau
 scurte, plănuite sau inopinate, lasă locul altor activități.
 Este anotimpul în care începe stagiunea la operă și în care studenții revin
@@ -1366,11 +1439,11 @@ de inițiativa grupului RoPython, nu ezita să ne contactezi pe &lt;a class="ref
 &lt;p&gt;Mulțumim sponsorilor și partenerilor noștri!&lt;/p&gt;
 &lt;img alt="PSF" src="http://ropython.ro/2014/10/01/conference-py-1/python-software-foundation.png" style="width: 35.0%;" /&gt;
 &lt;img alt="Cloudbase Solutions" src="http://ropython.ro/2014/10/01/conference-py-1/cloudbase.png" style="width: 35.0%;" /&gt;
-</summary><category term="Conferință"></category></entry><entry><title>Ask.py #2 - Elemente introductive</title><link href="http://ropython.ro/2014/07/23/ask-py-elemente-introductive/" rel="alternate"></link><updated>2014-07-23T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-07-23:2014/07/23/ask-py-elemente-introductive/</id><summary type="html">&lt;img alt="Ask.py #2 - Elemente introductive" class="align-center" src="http://ropython.ro/2014/07/23/ask-py-elemente-introductive/ask-py-2-elemente-introductive.png" /&gt;
+</summary><category term="conferinta"></category></entry><entry><title>Ask.py #2 - Elemente introductive</title><link href="http://ropython.ro/2014/07/23/ask-py-elemente-introductive/" rel="alternate"></link><updated>2014-07-23T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-07-23:2014/07/23/ask-py-elemente-introductive/</id><summary type="html">&lt;img alt="Ask.py #2 - Elemente introductive" class="align-center" src="http://ropython.ro/2014/07/23/ask-py-elemente-introductive/ask-py-2-elemente-introductive.png" /&gt;
 &lt;p&gt;Săptămâna aceasta în cadrul evenimentului Ask.py vom face primii pași în dezvoltarea unei aplicații folosind limbajul Python.
 Dacă săptămâna trecută vorbeam despre lucrurile interesante ce pot fi realizate folosind Python, în cadrul acestei sesiuni vom implementa o parte dintre ele.&lt;/p&gt;
 &lt;p&gt;Vă așteptăm cu drag!&lt;/p&gt;
-</summary><category term="Întâlniri"></category></entry><entry><title>Decorators and Workflows</title><link href="http://ropython.ro/2014/07/17/decorators-and-workflows/" rel="alternate"></link><updated>2014-07-17T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-07-17:2014/07/17/decorators-and-workflows/</id><summary type="html">&lt;p&gt;La a 2-a ediție de vară vor prezenta:&lt;/p&gt;
+</summary><category term="social"></category></entry><entry><title>Decorators and Workflows</title><link href="http://ropython.ro/2014/07/17/decorators-and-workflows/" rel="alternate"></link><updated>2014-07-17T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-07-17:2014/07/17/decorators-and-workflows/</id><summary type="html">&lt;p&gt;La a 2-a ediție de vară vor prezenta:&lt;/p&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="30%" /&gt;
@@ -1386,13 +1459,13 @@ Dacă săptămâna trecută vorbeam despre lucrurile interesante ce pot fi reali
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Evenimentul este găzduit de Cluj Hub. Va fi o taxa de protocol de 20RON. 15RON pentru primii 5.&lt;/p&gt;
-</summary><category term="Meetup"></category></entry><entry><title>Ask.py #1 Curiozități</title><link href="http://ropython.ro/2014/07/16/ask-py-curiozitati/" rel="alternate"></link><updated>2014-07-16T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-07-16:2014/07/16/ask-py-curiozitati/</id><summary type="html">&lt;img alt="Ask.py #1 - Curiozități" class="align-center" src="http://ropython.ro/2014/07/16/ask-py-curiozitati/ask-py-1-curiozitati.png" /&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Ask.py #1 Curiozități</title><link href="http://ropython.ro/2014/07/16/ask-py-curiozitati/" rel="alternate"></link><updated>2014-07-16T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-07-16:2014/07/16/ask-py-curiozitati/</id><summary type="html">&lt;img alt="Ask.py #1 - Curiozități" class="align-center" src="http://ropython.ro/2014/07/16/ask-py-curiozitati/ask-py-1-curiozitati.png" /&gt;
 &lt;p&gt;ask.py este destinat interacțiunii prin viu grai cu echipa RoPython, scopul fiind nu doar dobândirea de noi cunoștințe
 prin intermediul întrebărilor, cât și o închegare cât mai bună e relației dintre membrii comunității Python din România,
 în fața unui pahar de vin, înconjurați de oameni cu aceeași pasiune extraordinară pentru acest limbaj.&lt;/p&gt;
 &lt;p&gt;Vom încerca în primul eveniment ask.py să prezentăm proiectul RoPython celor care vor să afle mai multe despre
 inițiativă, cât și să fim la dispoziția voastră pentru întrebări din universul Python.&lt;/p&gt;
-</summary><category term="Întâlniri"></category></entry><entry><title>PyTim #6</title><link href="http://ropython.ro/2014/07/01/pytim-6/" rel="alternate"></link><updated>2014-07-01T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-07-01:2014/07/01/pytim-6/</id><summary type="html">&lt;p&gt;Welcome to the 6th edition of #PyTim, the Python meetup in Timisoara.&lt;/p&gt;
+</summary><category term="social"></category></entry><entry><title>PyTim #6</title><link href="http://ropython.ro/2014/07/01/pytim-6/" rel="alternate"></link><updated>2014-07-01T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-07-01:2014/07/01/pytim-6/</id><summary type="html">&lt;p&gt;Welcome to the 6th edition of #PyTim, the Python meetup in Timisoara.&lt;/p&gt;
 &lt;p&gt;In this edition we will have 2 sessions talking about open source
 projects developed using Python and Go.&lt;/p&gt;
 &lt;p&gt;Here is the Agenda:&lt;/p&gt;
@@ -1427,13 +1500,13 @@ projects developed using Python and Go.&lt;/p&gt;
 spread the word and let people know about #PyTim.&lt;/p&gt;
 &lt;p&gt;See you on July 1!&lt;/p&gt;
 &lt;p&gt;#Juju #Go #MAAS #Docker #HyperV #Python #opensource #meetup #Timisoara&lt;/p&gt;
-</summary><category term="Meetup"></category></entry><entry><title>Python and Ember.js</title><link href="http://ropython.ro/2014/06/12/python-and-emberjs/" rel="alternate"></link><updated>2014-06-12T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-06-12:2014/06/12/python-and-emberjs/</id><summary type="html">&lt;p&gt;Python and Ember.js - Super Fast (and Testable!) Frontend&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Python and Ember.js</title><link href="http://ropython.ro/2014/06/12/python-and-emberjs/" rel="alternate"></link><updated>2014-06-12T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-06-12:2014/06/12/python-and-emberjs/</id><summary type="html">&lt;p&gt;Python and Ember.js - Super Fast (and Testable!) Frontend&lt;/p&gt;
 &lt;p&gt;FREE BEER and PIZZA while showcasing the testable, Embjer.js on top of
 a Python backend.&lt;/p&gt;
 &lt;p&gt;Create super fast and testable front end on top of your Python.&lt;/p&gt;
 &lt;p&gt;by Stas Suscov and Flaviu Simihaian&lt;/p&gt;
 &lt;p&gt;&lt;img alt="image0" src="http://photos2.meetupstatic.com/photos/event/5/4/e/e/global_199941742.jpeg" /&gt;&lt;/p&gt;
-</summary><category term="Meetup"></category></entry><entry><title>Workshop #1 - Python pentru dezvoltarea aplicațiilor web</title><link href="http://ropython.ro/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/" rel="alternate"></link><updated>2014-05-31T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-05-31:2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</id><summary type="html">&lt;pre class="literal-block"&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Workshop #1 - Python pentru dezvoltarea aplicațiilor web</title><link href="http://ropython.ro/2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/" rel="alternate"></link><updated>2014-05-31T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-05-31:2014/05/31/workshop-py-python-pentru-dezvoltarea-aplicatiilor-web/</id><summary type="html">&lt;pre class="literal-block"&gt;
 HTTP/1.1 201 Workshop created
 Date: SAT, 31 May 2014 10:00:00 GMT
 Location: Facultatea de informatică
@@ -1555,7 +1628,7 @@ learning, one of Python's favorite use cases. Radu Marius Florin and
 Roland Szabo will tell us more about it. After the meetup we'll go for a
 drinkup to get to know each other better ...&lt;/p&gt;
 &lt;p&gt;The event will be hosted by Cluj Hub, where freelancers usually meet.&lt;/p&gt;
-</summary><category term="Meetup"></category></entry><entry><title>PyTim #5</title><link href="http://ropython.ro/2014/02/11/pytim-5/" rel="alternate"></link><updated>2014-02-11T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-02-11:2014/02/11/pytim-5/</id><summary type="html">&lt;p&gt;Happy New Year from behalf of PyTim!&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>PyTim #5</title><link href="http://ropython.ro/2014/02/11/pytim-5/" rel="alternate"></link><updated>2014-02-11T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-02-11:2014/02/11/pytim-5/</id><summary type="html">&lt;p&gt;Happy New Year from behalf of PyTim!&lt;/p&gt;
 &lt;p&gt;The first #Python meetup of 2014 will take place on February 11. The
 format is the same as in the previous meet ups.&lt;/p&gt;
 &lt;p&gt;Here is the Agenda:&lt;/p&gt;
@@ -1584,7 +1657,7 @@ format is the same as in the previous meet ups.&lt;/p&gt;
 short, 10 minute coffee breaks in between sessions.&lt;/p&gt;
 &lt;p&gt;Thanks,&lt;/p&gt;
 &lt;p&gt;See you on February 11!&lt;/p&gt;
-</summary><category term="Meetup"></category></entry><entry><title>PyTim #4</title><link href="http://ropython.ro/2013/11/12/pytim-4/" rel="alternate"></link><updated>2013-11-12T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2013-11-12:2013/11/12/pytim-4/</id><summary type="html">&lt;p&gt;Welcome to the 4th #Python community #meetup in #Timisoara.&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>PyTim #4</title><link href="http://ropython.ro/2013/11/12/pytim-4/" rel="alternate"></link><updated>2013-11-12T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2013-11-12:2013/11/12/pytim-4/</id><summary type="html">&lt;p&gt;Welcome to the 4th #Python community #meetup in #Timisoara.&lt;/p&gt;
 &lt;p&gt;At PyTim #4 we will have 3 talks held by local developers, covering the
 following topics:&lt;/p&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
@@ -1619,7 +1692,7 @@ following topics:&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;See you on November 12!&lt;/p&gt;
-</summary><category term="Meetup"></category></entry><entry><title>PyTim #3</title><link href="http://ropython.ro/2013/10/09/pytim-3/" rel="alternate"></link><updated>2013-10-09T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2013-10-09:2013/10/09/pytim-3/</id><summary type="html">&lt;p&gt;Now that developers have come back from holiday and the University has
+</summary><category term="prezentari"></category></entry><entry><title>PyTim #3</title><link href="http://ropython.ro/2013/10/09/pytim-3/" rel="alternate"></link><updated>2013-10-09T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2013-10-09:2013/10/09/pytim-3/</id><summary type="html">&lt;p&gt;Now that developers have come back from holiday and the University has
 started we will continue our regular meetup schedule with PyTim #3.&lt;/p&gt;
 &lt;p&gt;We will have 3 technical talks held by local developers who will share
 from their experience working on large scale Python projects.&lt;/p&gt;
@@ -1654,7 +1727,7 @@ from their experience working on large scale Python projects.&lt;/p&gt;
 &lt;/table&gt;
 &lt;p&gt;See you on October 9!&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="Meetup"></category></entry><entry><title>Task queues and components architecture</title><link href="http://ropython.ro/2013/10/03/task-queues-and-components-architecture/" rel="alternate"></link><updated>2013-10-03T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2013-10-03:2013/10/03/task-queues-and-components-architecture/</id><summary type="html">&lt;p&gt;I invite you to the 2nd Cluj Pythonistas meetup where two of the best
+</summary><category term="prezentari"></category></entry><entry><title>Task queues and components architecture</title><link href="http://ropython.ro/2013/10/03/task-queues-and-components-architecture/" rel="alternate"></link><updated>2013-10-03T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2013-10-03:2013/10/03/task-queues-and-components-architecture/</id><summary type="html">&lt;p&gt;I invite you to the 2nd Cluj Pythonistas meetup where two of the best
 Python developers I know will tell you about subjects that they love:&lt;/p&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
@@ -1673,9 +1746,9 @@ Python developers I know will tell you about subjects that they love:&lt;/p&gt;
 &lt;p&gt;The event's host is Cluj Cowork and the recommended contribution for
 that is 10 lei. See you there ...&lt;/p&gt;
 &lt;p&gt;P.S. Ring at &amp;quot;Ruby tribe&amp;quot; when you arrive.&lt;/p&gt;
-</summary><category term="Meetup"></category></entry><entry><title>Python Cluj first meetup</title><link href="http://ropython.ro/2013/08/01/python-cluj-first-meetup/" rel="alternate"></link><updated>2013-08-01T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2013-08-01:2013/08/01/python-cluj-first-meetup/</id><summary type="html">&lt;p&gt;Just an informal meeting in a bar so we can get to know other Python
+</summary><category term="prezentari"></category></entry><entry><title>Python Cluj first meetup</title><link href="http://ropython.ro/2013/08/01/python-cluj-first-meetup/" rel="alternate"></link><updated>2013-08-01T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2013-08-01:2013/08/01/python-cluj-first-meetup/</id><summary type="html">&lt;p&gt;Just an informal meeting in a bar so we can get to know other Python
 fans in Cluj and what they have to share&lt;/p&gt;
-</summary><category term="Întâlniri"></category></entry><entry><title>PyTim #2</title><link href="http://ropython.ro/2013/07/09/pytim-2/" rel="alternate"></link><updated>2013-07-09T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2013-07-09:2013/07/09/pytim-2/</id><summary type="html">&lt;p&gt;After an extremely interesting first meetup we would like to continue in
+</summary><category term="social"></category></entry><entry><title>PyTim #2</title><link href="http://ropython.ro/2013/07/09/pytim-2/" rel="alternate"></link><updated>2013-07-09T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2013-07-09:2013/07/09/pytim-2/</id><summary type="html">&lt;p&gt;After an extremely interesting first meetup we would like to continue in
 the same direction with PyTim #2.&lt;/p&gt;
 &lt;p&gt;We will have some technical talks and provide an insight to the
 Europython 2013 conference happening now in Florence - &lt;a class="reference external" href="https://ep2013.europython.eu/"&gt;https://ep2013.europython.eu/&lt;/a&gt; &lt;a class="reference external" href="https://ep2013.europython.eu/p3/live/"&gt;https://ep2013.europython.eu/p3/live/&lt;/a&gt;&lt;/p&gt;
@@ -1710,7 +1783,7 @@ Europython 2013 conference happening now in Florence - &lt;a class="reference ex
 &lt;/table&gt;
 &lt;p&gt;See you at the event!&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="Meetup"></category></entry><entry><title>Python Basics Training</title><link href="http://ropython.ro/2013/06/29/python-basics-training/" rel="alternate"></link><updated>2013-06-29T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2013-06-29:2013/06/29/python-basics-training/</id><summary type="html">&lt;p&gt;PyTim is organizing a Python training for beginners.&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Python Basics Training</title><link href="http://ropython.ro/2013/06/29/python-basics-training/" rel="alternate"></link><updated>2013-06-29T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2013-06-29:2013/06/29/python-basics-training/</id><summary type="html">&lt;p&gt;PyTim is organizing a Python training for beginners.&lt;/p&gt;
 &lt;p&gt;We invite you to learn the basics of Python from some of the most
 experienced developers in Timisoara.&lt;/p&gt;
 &lt;p&gt;The event will take place on June 29, at the Startup Hub, starting from
@@ -1725,7 +1798,7 @@ experienced developers in Timisoara.&lt;/p&gt;
 &lt;p&gt;You can find the Agenda here - &lt;a class="reference external" href="http://bit.ly/122dDfJ"&gt;http://bit.ly/122dDfJ&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Bring your laptops, you will need them. Please install Python 2.7 (&lt;a class="reference external" href="http://www.python.org/download/"&gt;http://www.python.org/download/&lt;/a&gt;) and an editor with Syntax Highlightling (eg: Notepad++, Vim, Sublime,
 etc).&lt;/p&gt;
-</summary><category term="Meetup"></category></entry><entry><title>PyTim #1</title><link href="http://ropython.ro/2013/06/04/pytim-1/" rel="alternate"></link><updated>2013-06-04T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2013-06-04:2013/06/04/pytim-1/</id><summary type="html">&lt;p&gt;First PyTim meetup.&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>PyTim #1</title><link href="http://ropython.ro/2013/06/04/pytim-1/" rel="alternate"></link><updated>2013-06-04T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2013-06-04:2013/06/04/pytim-1/</id><summary type="html">&lt;p&gt;First PyTim meetup.&lt;/p&gt;
 &lt;p&gt;We will talk about local products developed in Python and why local
 developers / companies have chosen Python. Also, what is the most
 interesting facet of using Python on each of these products.&lt;/p&gt;
@@ -1751,4 +1824,4 @@ interesting facet of using Python on each of these products.&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;See you on June 4!&lt;/p&gt;
-</summary><category term="Meetup"></category></entry></feed>
+</summary><category term="prezentari"></category></entry></feed>

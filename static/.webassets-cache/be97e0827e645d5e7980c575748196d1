@@ -1,0 +1,3 @@
+V@media print {\u000a    * {\u000a        box-shadow: none !important;\u000a    }\u000a    html {\u000a        -webkit-print-color-adjust: exact;\u000a    }\u000a    table {\u000a        border-collapse: collapse !important;\u000a        border-radius: 0 !important;\u000a        border: 1px solid #ddd !important;\u000a    }\u000a    img {\u000a        page-break-before: auto; /* 'always,' 'avoid,' 'left,' 'inherit,' or 'right' */\u000a        page-break-after: auto; /* 'always,' 'avoid,' 'left,' 'inherit,' or 'right' */\u000a        page-break-inside: avoid; /* or 'auto' */\u000a    }\u000a    h2 {\u000a        page-break-before: always;\u000a    }\u000a}\u000a
+p1
+.

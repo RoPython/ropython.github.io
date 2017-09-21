@@ -1,15 +1,3 @@
 
-.icon-linkedin-circled:before { content: '\e800'; } /* '' */
-.icon-info-circled:before { content: '\e801'; } /* '' */
-.icon-home-circled:before { content: '\e802'; } /* '' */
-.icon-chat:before { content: '\e803'; } /* '' */
-.icon-meetup:before { content: '\e804'; } /* '' */
-.icon-eventbrite:before { content: '\e805'; } /* '' */
-.icon-facebook-circled:before { content: '\e806'; } /* '' */
-.icon-rss-outline:before { content: '\e807'; } /* '' */
-.icon-gplus-circled:before { content: '\e808'; } /* '' */
-.icon-skype:before { content: '\e809'; } /* '' */
-.icon-youtube:before { content: '\e80a'; } /* '' */
-.icon-twitter-circled-1:before { content: '\e80b'; } /* '' */
-.icon-rss-squared:before { content: '\e80c'; } /* '' */
-.icon-rss:before { content: '\e80d'; } /* '' */
+.icon-calendar:before { content: '\e800'; } /* '' */
+.icon-rss-squared:before { content: '\f143'; } /* '' */

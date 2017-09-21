@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/social.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2017-09-26T00:00:00+03:00</updated><entry><title>A beer retrospective</title><link href="http://ropython.ro/2017/09/26/a-beer-retrospective/" rel="alternate"></link><updated>2017-09-26T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-09-26:2017/09/26/a-beer-retrospective/</id><summary type="html">&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+Python and anything interesting.&lt;/p&gt;
+&lt;p&gt;We'll have one special guest: Gabriel Muj. Will he get drunk enough to
+tell us the sad story of leaving highschool teaching career for Python
+programming? Lets find out!&lt;/p&gt;
+</summary><category term="social"></category></entry><entry><title>RoPython September Meetup</title><link href="http://ropython.ro/2017/09/19/ropython-september-meetup/" rel="alternate"></link><updated>2017-09-19T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-09-19:2017/09/19/ropython-september-meetup/</id><summary type="html">&lt;p&gt;Re-lansăm întâlnirile comunității Python din Timișoara!&lt;/p&gt;
+&lt;p&gt;Vom începe din 19 Septembrie, după ce ne-am mai întors din concedii,
+cu o întâlnire într-un format ușor diferit față de ce am făcut până
+acuma, pe lângă prezentarea clasică vom face și un Python Open Space.&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Să facem un joc cu PyGame Zero&lt;/li&gt;
+&lt;li&gt;Python Open Space&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ce presupune un Open Space:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Ne întâlnim&lt;/li&gt;
+&lt;li&gt;Propunem subiecte de discuție (trebuie să fie măcar tangențial
+legate de Python)&lt;/li&gt;
+&lt;li&gt;Votăm pentru subiectele propuse&amp;lt; p&amp;gt;&lt;/li&gt;
+&lt;li&gt;Alegem top FIXNUM subiecte (poate sparte în 2 trackuri dacă suntem
+destui)&lt;/li&gt;
+&lt;li&gt;Și discutăm 15 minute fiecare topic propus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ce e PyGame Zero? E o unealtă educațională, menită să ajute învățatul
+programării prin crearea de jocuri. Necesită cunoștiințe minime de
+programare, un fișier text gol înseamnă un joc valid cu o fereastră
+goală, și acum poți să clădești de aici :)&lt;/p&gt;
+</summary><category term="social"></category><category term="workshop"></category></entry><entry><title>Winter retrospective</title><link href="http://ropython.ro/2017/03/14/winter-retrospective/" rel="alternate"></link><updated>2017-03-14T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-03-14:2017/03/14/winter-retrospective/</id><summary type="html">&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+Python and anything interesting, like what's going to happen at the
+EuroPython2017 conference!&lt;/p&gt;
+&lt;p&gt;We'll also have one guest from Iași: Claudiu Popa. Does he still
+maintain Pylint? Lets find out :D&lt;/p&gt;
+&lt;p&gt;Feel free to suggest location, if you have preferences.&amp;lt; p&amp;gt;&lt;/p&gt;
+</summary><category term="social"></category></entry><entry><title>Python Development - Tools, Frameworks and Trends - 2017 (Open discussion)</title><link href="http://ropython.ro/2017/03/02/python-development-tools-frameworks-and-trends-2017-open-discussion/" rel="alternate"></link><updated>2017-03-02T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-03-02:2017/03/02/python-development-tools-frameworks-and-trends-2017-open-discussion/</id><summary type="html">&lt;p&gt;Intalnirea va avea loc la sediul Pentalog, cladirea Tudor Center de pe
+strada Ciurchi, etaj 5, usa din stanga.&lt;/p&gt;
+&lt;p&gt;Va asteptam!!!&lt;/p&gt;
+</summary><category term="social"></category></entry><entry><title>Mid-summer retrospective</title><link href="http://ropython.ro/2016/08/09/mid-summer-retrospective/" rel="alternate"></link><updated>2016-08-09T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-08-09:2016/08/09/mid-summer-retrospective/</id><summary type="html">&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+Python and anything interesting, like the just finished EuroPython2016
+conference!&lt;/p&gt;
+&lt;p&gt;We'll also have two guests from Iași: Claudiu Popa and Cosmin Poieană.&lt;/p&gt;
+&lt;p&gt;Feel free to suggest location, if you have preferences.&lt;/p&gt;
+</summary><category term="social"></category></entry><entry><title>Beer and chat</title><link href="http://ropython.ro/2015/10/15/beer-and-chat/" rel="alternate"></link><updated>2015-10-15T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-10-15:2015/10/15/beer-and-chat/</id><summary type="html">&lt;p&gt;Just drinking beer in a bar, talking about the summer and other
+Python things.&lt;/p&gt;
+</summary><category term="social"></category></entry><entry><title>Fireside chat with Michael Foord</title><link href="http://ropython.ro/2015/04/23/fireside-chat-with-michael-foord/" rel="alternate"></link><updated>2015-04-23T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2015-04-23:2015/04/23/fireside-chat-with-michael-foord/</id><summary type="html">&lt;p&gt;Michael Foord is a Python and Go programmer. He is working for Canonical
+and he is visiting Cluj-Napoca from Northampton UK.&lt;/p&gt;
+&lt;p&gt;We invited Michael for a friendly chat. Cluj Python community is invited
+to join and talk with Michael. If you have specific questions for
+Michael please leave comments, or email them to us (so they don't get
+forgotten).&lt;/p&gt;
+&lt;p&gt;If you don't have any specific questions we will be happy just seeing
+you come and saying hi.&lt;/p&gt;
+&lt;p&gt;We will have beers and pizzas. The number of spots is limited. Fireplace
+might be missing :)&lt;/p&gt;
+&lt;p&gt;We believe this is a great opportunity for local software development
+communities to meet with a Python core developer, book author and just a
+great open source contributor.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You can find out more about Michael at
+&lt;a class="reference external" href="http://www.voidspace.org.uk/"&gt;http://www.voidspace.org.uk/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can follow Michael on Twitter at
+&lt;a class="reference external" href="https://twitter.com/voidspace"&gt;https://twitter.com/voidspace&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</summary><category term="social"></category></entry><entry><title>Ask.py #3 - În expediție</title><link href="http://ropython.ro/2014/10/01/ask-py-in-expeditie/" rel="alternate"></link><updated>2014-10-01T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-10-01:2014/10/01/ask-py-in-expeditie/</id><summary type="html">&lt;img alt="Ask.py #3 - În expediție" class="align-center" src="http://ropython.ro/2014/10/01/ask-py-in-expeditie/ask-py-in-expeditie.png" /&gt;
+&lt;p&gt;Cu ocazia dojo-ului CentOS, ce se va desfășura în Timișoara pe 27 septembrie, echipa RoPython va face o vizită în orașul de pe Bega. O călătorie într-un oraș nou reprezintă totodată și oportunitatea cunoașterii comunității Python din orașul respectiv, ocazie numai bună pentru o nouă întâlnire Ask.py, alături de oameni noi și entuziasmați. Echipa RoPython vă invită la primul Ask.py în partea vestică a țării pe data de 1 octombrie, în Timișoara.&lt;/p&gt;
+&lt;p&gt;Vă așteptăm!&lt;/p&gt;
+</summary><category term="social"></category></entry><entry><title>Ask.py #2 - Elemente introductive</title><link href="http://ropython.ro/2014/07/23/ask-py-elemente-introductive/" rel="alternate"></link><updated>2014-07-23T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-07-23:2014/07/23/ask-py-elemente-introductive/</id><summary type="html">&lt;img alt="Ask.py #2 - Elemente introductive" class="align-center" src="http://ropython.ro/2014/07/23/ask-py-elemente-introductive/ask-py-2-elemente-introductive.png" /&gt;
+&lt;p&gt;Săptămâna aceasta în cadrul evenimentului Ask.py vom face primii pași în dezvoltarea unei aplicații folosind limbajul Python.
+Dacă săptămâna trecută vorbeam despre lucrurile interesante ce pot fi realizate folosind Python, în cadrul acestei sesiuni vom implementa o parte dintre ele.&lt;/p&gt;
+&lt;p&gt;Vă așteptăm cu drag!&lt;/p&gt;
+</summary><category term="social"></category></entry><entry><title>Ask.py #1 Curiozități</title><link href="http://ropython.ro/2014/07/16/ask-py-curiozitati/" rel="alternate"></link><updated>2014-07-16T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2014-07-16:2014/07/16/ask-py-curiozitati/</id><summary type="html">&lt;img alt="Ask.py #1 - Curiozități" class="align-center" src="http://ropython.ro/2014/07/16/ask-py-curiozitati/ask-py-1-curiozitati.png" /&gt;
+&lt;p&gt;ask.py este destinat interacțiunii prin viu grai cu echipa RoPython, scopul fiind nu doar dobândirea de noi cunoștințe
+prin intermediul întrebărilor, cât și o închegare cât mai bună e relației dintre membrii comunității Python din România,
+în fața unui pahar de vin, înconjurați de oameni cu aceeași pasiune extraordinară pentru acest limbaj.&lt;/p&gt;
+&lt;p&gt;Vom încerca în primul eveniment ask.py să prezentăm proiectul RoPython celor care vor să afle mai multe despre
+inițiativă, cât și să fim la dispoziția voastră pentru întrebări din universul Python.&lt;/p&gt;
+</summary><category term="social"></category></entry><entry><title>Python Cluj first meetup</title><link href="http://ropython.ro/2013/08/01/python-cluj-first-meetup/" rel="alternate"></link><updated>2013-08-01T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2013-08-01:2013/08/01/python-cluj-first-meetup/</id><summary type="html">&lt;p&gt;Just an informal meeting in a bar so we can get to know other Python
+fans in Cluj and what they have to share&lt;/p&gt;
+</summary><category term="social"></category></entry></feed>

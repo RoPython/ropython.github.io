@@ -44,9 +44,10 @@ h1 + p.date {
 
 .sitename {
     text-indent: -100em;
-    background: url(ropython-logo2.png);
+    background: url(ropython-logo-new-wt.svg) no-repeat center center;
     width: 170px;
-    height: 66px;
+    height: 36px;
+    background-size: 170px 36px;
     display: inline-block;
 }
 
