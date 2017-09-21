@@ -14,6 +14,8 @@ Released under AGPLv3+ license, see LICENSE
 """
 
 from datetime import datetime, timedelta
+
+from icalendar import vDatetime
 from pelican import signals, utils
 from collections import namedtuple, defaultdict
 import icalendar
@@ -86,6 +88,7 @@ def generate_ical_file(generator):
 
     tz = generator.settings.get('TIMEZONE', 'UTC')
     tz = pytz.timezone(tz)
+    siteurl = "%s/{}" % generator.settings['SITEURL']
 
     ical = icalendar.Calendar()
     ical.add('prodid', generator.settings['SITENAME'])
@@ -95,20 +98,20 @@ def generate_ical_file(generator):
         if 'event-start' not in article.metadata:
             continue
 
-        dtstart = tz.localize(parse_tstamp(article.metadata, 'event-start'))
+        dtstart = tz.localize(parse_tstamp(article.metadata, 'event-start')).astimezone(pytz.UTC)
         dtdelta = parse_timedelta(article.metadata)
         dtend = dtstart + dtdelta
-
         ie = icalendar.Event(
             summary=article.title,
-            dtstart=dtstart,
-            dtend=dtend,
-            dtstamp=article.date,
+            dtstart=vDatetime(dtstart),
+            dtend=vDatetime(dtend),
             priority=5,
             uid=article.url,
-            url=article.url,
-            location=article.metadata['event-location']
+            url=siteurl.format(article.url),
+            location=article.metadata['event-location'],
         )
+        ie.add('description', article.content, {'altrep': siteurl.format(article.url)})
+        ie.add('x-alt-desc', article.content, {'fmttype': 'text/html'})
         ical.add_component(ie)
 
     with open(ics_fname, 'wb') as f:
