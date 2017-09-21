@@ -1,7 +1,7 @@
 ﻿Conference.py #1 @Iași
 ######################
 
-:tags: Conferință
+:tags: conferinta
 :location:
     Liceul Costache Negruzzi: http://colegiulnegruzzi.ro/
 

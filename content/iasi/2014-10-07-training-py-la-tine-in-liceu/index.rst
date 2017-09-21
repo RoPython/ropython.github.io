@@ -1,7 +1,7 @@
 ﻿Training.py - La tine în liceu
 ##############################
 
-:tags: Training
+:tags: workshop
 :location: Iași
 
 .. image:: {attach}training-py-1-in-liceu.png

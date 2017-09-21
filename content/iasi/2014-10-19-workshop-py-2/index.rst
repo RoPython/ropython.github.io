@@ -1,14 +1,14 @@
 ﻿Workshop #2 - Expediție în cloud computing, programare funcțională și altele
 ############################################################################
 
-:tags: Workshop
+:tags: workshop
 :location:
     `Facultatea de informatică <http://www.infoiasi.ro/bin/Main/>`_
-	
+
 .. image:: {attach}workshop.png
    :alt: Workshop #2
-   :align: center	
-	
+   :align: center
+
 
 
 Dacă sunteți începător în Python și zilele trecute ați avut “bucuria” primului vostru traceback

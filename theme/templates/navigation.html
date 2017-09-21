@@ -13,9 +13,9 @@
   <ul>
   {% for t, _ in tags|sort(attribute='0.slug') %}
     {% if t == tag %}
-      <li class="active"><span itemprop="keyword">{{ t.name.capitalize() }}</span></li>
+      <li class="active"><span itemprop="keyword">{{ tag_names.get(t.name, t.name.capitalize()) }}</span></li>
     {% else %}
-      <li><a href="{{ SITEURL }}/{{ t.url }}">{{ t.name.capitalize() }}</a></li>
+      <li><a href="{{ SITEURL }}/{{ t.url }}">{{ tag_names.get(t.name, t.name.capitalize()) }}</a></li>
     {% endif %}
   {% endfor %}
   </ul>

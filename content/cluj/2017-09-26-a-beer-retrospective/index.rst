@@ -1,7 +1,7 @@
 A beer retrospective
 ###############################################################
 
-:tags: prezentari
+:tags: social
 :registration:
     meetup.com: https://www.meetup.com/RoPython-Cluj/events/243544132/
 :event-start: 2017-09-26 19:00

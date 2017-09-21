@@ -68,9 +68,7 @@ PLUGINS = (
     'sitemap',
     'headerid',
     'assets',
-    'gist',
-    'ghrepo',
-    'categories',
+    'vars',
     'events',
 )
 SITEMAP = {
@@ -131,6 +129,11 @@ CATEGORY_SLUGS = {  # this is custom setting, not a Pelican setting
     'baia-mare': 'Baia Mare',
     'bucuresti': 'București',
     'national': 'Național',
+}
+TAG_NAMES = {  # this is custom setting, not a Pelican setting
+    'intalniri': 'Întâlniri',
+    'conferinta': 'Conferință',
+    'workshop': 'Atelier',
 }
 
 DIRECT_TEMPLATES = (

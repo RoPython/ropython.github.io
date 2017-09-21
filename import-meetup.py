@@ -3,9 +3,8 @@ import os
 import subprocess
 import tempfile
 from cStringIO import StringIO
-from glob import glob
 from datetime import datetime
-from pprint import pformat, pprint
+from glob import glob
 
 import click
 from cachecontrol import CacheControl
@@ -48,7 +47,8 @@ def main(group_id, location, time_boundary, event_status, pandoc, force):
         if resp.status_code == 200:
             break
         elif resp.status_code == 401:
-            click.echo('Your meetup.com key is required. You can get it from https://secure.meetup.com/meetup_api/key/\n')
+            click.echo(
+                'Your meetup.com key is required. You can get it from https://secure.meetup.com/meetup_api/key/\n')
 
             if click.confirm('Open https://secure.meetup.com/meetup_api/key/ in your web browser?'):
                 click.launch('https://secure.meetup.com/meetup_api/key/')
@@ -68,7 +68,7 @@ def main(group_id, location, time_boundary, event_status, pandoc, force):
 
     while True:
         group_id = group_id or get_input(u'Group ID: ', completer=WordCompleter([
-            u'RoPython-Bucuresti', u'RoPython-Cluj', u'RoPython-iasi', u'RoPython-Timisoara'], ignore_case=True))
+            u'RoPython-Bucuresti', u'RoPython-Cluj', u'RoPython_Iasi', u'RoPython-Timisoara'], ignore_case=True))
 
         resp = requests.get('https://api.meetup.com/2/events', params=dict(
             key=key,
@@ -86,15 +86,15 @@ def main(group_id, location, time_boundary, event_status, pandoc, force):
         if resp.status_code == '400':
             click.fail('Failed to get make correct request. Response was {!r}'.format(resp.text))
         else:
-            click.secho('Invalid group `{}`. Response was [{}] {!r}'.format(group_id, resp.status_code, resp.text), fg='red')
+            click.secho('Invalid group `{}`. Response was [{}] {!r}'.format(group_id, resp.status_code, resp.text),
+                        fg='red')
 
     # click.echo(pformat(dict(resp.headers)))
 
     for event in json['results']:
-        dt = datetime.fromtimestamp(event['time']/1000)
+        dt = datetime.fromtimestamp(event['time'] / 1000)
         event['duration'] = event.get('duration', 7200000) / 1000
         event['time'] = dt.strftime('%Y-%m-%d %H:%M')
-        pprint(event)
         click.echo("{time}: {name}".format(**event))
         existing_path = glob(os.path.join('content', '*', dt.strftime('%Y-%m-%d*'), 'index.rst'))
         if existing_path and not force:
@@ -103,7 +103,8 @@ def main(group_id, location, time_boundary, event_status, pandoc, force):
             else:
                 click.secho('\t`{}` already exists. Not importing.'.format(*existing_path), fg='yellow')
         else:
-            target_dir = os.path.join('content', location, '{}-{}'.format(dt.strftime('%Y-%m-%d'), slugify(event['name'])))
+            target_dir = os.path.join('content', location,
+                                      '{}-{}'.format(dt.strftime('%Y-%m-%d'), slugify(event['name'])))
             target_path = os.path.join(target_dir, 'index.rst')
             if not os.path.exists(target_dir):
                 os.makedirs(target_dir)
@@ -112,7 +113,6 @@ def main(group_id, location, time_boundary, event_status, pandoc, force):
                 with tempfile.NamedTemporaryFile(delete=False) as fh:
                     fh.write(event['description'].encode('utf-8'))
                 rst = subprocess.check_output(['pandoc', '--from=html', '--to=rst', fh.name]).decode('utf-8')
-                print fh.name
                 os.unlink(fh.name)
             else:
                 stream = StringIO()
@@ -134,7 +134,9 @@ def main(group_id, location, time_boundary, event_status, pandoc, force):
                 fh.write(doc)
             click.secho('\tWrote `{}`.'.format(target_path), fg='green')
 
+
 if __name__ == "__main__":
     import logging
+
     logging.basicConfig(level=logging.DEBUG)
     main()

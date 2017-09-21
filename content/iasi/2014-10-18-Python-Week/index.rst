@@ -1,8 +1,8 @@
 Python Week
 ###########
 
-:tags: Diverse
-:location: Iași    
+:tags: diverse
+:location: Iași
 
 
 | *And on the pedestal these words appear:*
@@ -32,7 +32,7 @@ Următoarele evenimente vor avea loc în cadrul săptămânii Python:
    ce alegerea acestui limbaj de programare îți poate schimba viața și viziunea
    asupra ei, prin ușurința cu care îți permite să pui în practică idei și prin
    filosofiile ce stau la baza lui.
-   
+
 .. |conference| replace:: Conference.py propune o zi întreagă de prezentări tehnice,
    venite din partea unor speakeri implicați în proiecte open source de anvergură,
    cu subiecte ce vor purta participanții prin cloud computing folosind Python,

@@ -1,7 +1,7 @@
 Pytest workshop
 ###############################################################
 
-:tags: prezentari
+:tags: workshop
 :registration:
     meetup.com: https://www.meetup.com/RoPython-Cluj/events/243519383/
 :event-start: 2017-10-21 12:30
