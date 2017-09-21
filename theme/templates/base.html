@@ -18,7 +18,21 @@
   <style media="print">{{ asset('print') }}</style>
 {% endblock %}
 {% block js %}
-  <script type="text/javascript">{{ asset('js') }}</script>
+  <script type="text/javascript">{{ asset('js') }}{% filter jsmin %}
+  (function(){
+    // https://www.paulirish.com/2009/fighting-the-font-face-fout/
+    // if firefox 3.5+, hide content till load (or 3 seconds) to prevent FOUT
+    var d = document, e = d.documentElement, s = d.createElement('style');
+    if (e.style.MozTransform === ''){ // gecko 1.9.1 inference
+      s.textContent = 'body{visibility:hidden}';
+      var r = document.getElementsByTagName('script')[0];
+      r.parentNode.insertBefore(s, r);
+      function f(){ s.parentNode && s.parentNode.removeChild(s); }
+      addEventListener('load',f,false);
+      setTimeout(f,3000);
+    }
+  })();
+{% endfilter %}</script>
 {% endblock %}
 {% if article %}
   <meta property="og:title" content="{{ article.title }}{% if article.excerpt %} - {{ article.excerpt }}{% endif %}"/>

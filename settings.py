@@ -51,7 +51,7 @@ THEME_STATIC_PATHS = ['static']
 ASSET_SOURCE_PATHS = [join(dirname(__file__), 'theme', 'static')]
 ASSET_BUNDLES = [
     ('screen',
-     ("style.css", "layout.css", "pygments.css", "print.css", "fonts.css", "fontello.css"),
+     ("style.css", "layout.css", "pygments.css", "print.css", "fonts.css", "fontello-embedded.css"),
      dict(filters=[CSSDataUri(max_size=10240), "cssrewrite", "rcssmin"], output="all-min.css")),
     ('print', ("print.css",), dict(filters="rcssmin", output="print-min.css")),
     ('js', ("modernizr.js",), dict(filters="rjsmin", output="min.js")),
