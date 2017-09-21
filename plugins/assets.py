@@ -1,50 +1,58 @@
-# -*- coding: utf-8 -*-
-"""
-Asset management plugin for Pelican
-===================================
-
-This plugin allows you to use the `webassets`_ module to manage assets such as
-CSS and JS files.
-
-The ASSET_URL is set to a relative url to honor Pelican's RELATIVE_URLS
-setting. This requires the use of SITEURL in the templates::
-
-    <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
-
-.. _webassets: https://webassets.readthedocs.org/
-
-"""
 from __future__ import unicode_literals
 
 import logging
 import os
+import posixpath
+from os.path import join
 
+import jinja2
+import webassets
+from jinja2 import ext
 from pelican import signals
+from rcssmin import cssmin
+from webassets import Environment
+from webassets.ext.jinja2 import AssetsExtension
+from webassets.filter import Filter, register_filter
+from webassets.filter.rjsmin.rjsmin import jsmin
 
 logger = logging.getLogger(__name__)
 
-try:
-    import webassets
-    from webassets import Environment
-    from webassets.ext.jinja2 import AssetsExtension
-    from webassets.filter import Filter, register_filter
-    from rcssmin import cssmin
-except ImportError:
-    webassets = None
+
+@jinja2.contextfunction
+def asset(ctx, name):
+    env = ctx.environment.assets_environment
+    bundle = env[name]
+    bundle.build()
+    return jinja2.Markup(open(os.path.join(env.directory, bundle.output)).read())
+
+
+class Extension(ext.Extension):
+    def __init__(self, environment):
+        environment.globals.update(
+            asset=asset,
+        )
+        environment.filters['cssmin'] = cssmin
+        environment.filters['jsmin'] = jsmin
+
 
 def add_jinja2_ext(pelican):
     """Add Webassets to Jinja2 extensions in Pelican settings."""
 
-    pelican.settings['JINJA_EXTENSIONS'].append(AssetsExtension)
+    if 'JINJA_ENVIRONMENT' in pelican.settings:  # pelican 3.7+
+        pelican.settings['JINJA_ENVIRONMENT']['extensions'].append(Extension)
+        pelican.settings['JINJA_ENVIRONMENT']['extensions'].append(AssetsExtension)
+    else:
+        pelican.settings['JINJA_EXTENSIONS'].append(Extension)
+        pelican.settings['JINJA_EXTENSIONS'].append(AssetsExtension)
 
 
 def create_assets_env(generator):
     """Define the assets environment and pass it to the generator."""
 
     theme_static_dir = generator.settings['THEME_STATIC_DIR']
+    static_url = posixpath.join(generator.settings['SITEURL'], theme_static_dir)
     assets_destination = os.path.join(generator.output_path, theme_static_dir)
-    generator.env.assets_environment = Environment(
-        assets_destination, theme_static_dir)
+    generator.env.assets_environment = Environment(assets_destination, static_url)
 
     if 'ASSET_CONFIG' in generator.settings:
         for item in generator.settings['ASSET_CONFIG']:
@@ -59,10 +67,9 @@ def create_assets_env(generator):
     elif logging.getLevelName(logger.getEffectiveLevel()) == "DEBUG":
         generator.env.assets_environment.debug = True
 
-    for path in (generator.settings['THEME_STATIC_PATHS'] +
-                 generator.settings.get('ASSET_SOURCE_PATHS', [])):
+    for path in (generator.settings['THEME_STATIC_PATHS'] + generator.settings.get('ASSET_SOURCE_PATHS', [])):
         full_path = os.path.join(generator.theme, path)
-        generator.env.assets_environment.append_path(full_path)
+        generator.env.assets_environment.append_path(full_path, static_url)
 
 
 def register():

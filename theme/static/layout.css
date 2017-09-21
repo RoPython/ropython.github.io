@@ -25,6 +25,7 @@ body > .container {
 }
 .menu ul {
     float: right;
+    margin: 15px 0;
 }
 .menu i span {
     display: none;

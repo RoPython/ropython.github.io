@@ -1,10 +1,13 @@
 # -*- encoding: utf-8 -*-
 from __future__ import unicode_literals
 
-from glob import glob
-from os.path import basename
 from os.path import dirname
 from os.path import join
+
+from rcssmin import cssmin
+from webassets.filter import register_filter, Filter
+from webassets.filter.cssrewrite import CSSRewrite
+from webassets.filter.datauri import CSSDataUri
 
 AUTHOR = 'Echipa RoPython'
 SITENAME = 'RoPython'
@@ -45,7 +48,18 @@ SECTIONS = [
 ]
 THEME_STATIC_DIR = 'static'
 THEME_STATIC_PATHS = ['static']
-ASSET_SOURCE_PATHS = ['static']
+ASSET_SOURCE_PATHS = [join(dirname(__file__), 'theme', 'static')]
+ASSET_BUNDLES = [
+    ('screen',
+     ("style.css", "layout.css", "pygments.css", "print.css", "fonts.css", "fontello.css"),
+     dict(filters=[CSSDataUri(max_size=10240), "cssrewrite", "rcssmin"], output="all-min.css")),
+    ('print', ("print.css",), dict(filters="rcssmin", output="print-min.css")),
+    ('js', ("modernizr.js",), dict(filters="rjsmin", output="min.js")),
+]
+ASSET_CONFIG = {
+    'auto_build': True
+}
+
 TAG_CLOUD_STEPS = 6
 # TYPOGRIFY = True
 
