@@ -133,6 +133,7 @@ CATEGORY_SLUGS = {  # this is custom setting, not a Pelican setting
 TAG_NAMES = {  # this is custom setting, not a Pelican setting
     'intalniri': 'Întâlniri',
     'conferinta': 'Conferință',
+    'prezentari': 'Prezentări',
     'workshop': 'Atelier',
 }
 

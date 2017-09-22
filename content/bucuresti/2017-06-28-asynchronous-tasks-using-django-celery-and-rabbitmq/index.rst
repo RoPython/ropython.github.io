@@ -4,9 +4,9 @@ Asynchronous tasks using Django, Celery and RabbitMQ
 :tags: prezentari
 :registration:
     meetup.com: https://www.meetup.com/RoPython-Bucuresti/events/240190073/
-:event-start: 2017-06-28 18:00
-:event-duration: 8100s
-:event-location: Str. Sevastopol 13-17, Bucharest, Romania
+:start: 2017-06-28 18:00
+:duration: 2h 15m
+:location: Str. Sevastopol 13-17, Bucharest, Romania
 
 
 Celery is an asynchronous task queue based on distributed message

@@ -4,9 +4,9 @@ RoPython September Meetup
 :tags: social, workshop
 :registration:
     meetup.com: https://www.meetup.com/RoPython-Timisoara/events/242792454/
-:event-start: 2017-09-19 19:00
-:event-duration: 7200s
-:event-location: Strada Coriolan Brediceanu, Nr 10, Timisoara, Romania
+:start: 2017-09-19 19:00
+:duration: 2h
+:location: Strada Coriolan Brediceanu, Nr 10, Timisoara, Romania
 
 
 Re-lansăm întâlnirile comunității Python din Timișoara!

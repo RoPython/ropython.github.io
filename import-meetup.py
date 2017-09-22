@@ -3,7 +3,7 @@ import os
 import subprocess
 import tempfile
 from cStringIO import StringIO
-from datetime import datetime
+from datetime import datetime, timedelta
 from glob import glob
 
 import click
@@ -15,6 +15,20 @@ from pelican.utils import slugify
 from prompt_toolkit.contrib.completers import WordCompleter
 from prompt_toolkit.shortcuts import get_input
 from requests import Session
+
+
+def format_duration(duration):
+    minutes, seconds = divmod(duration, 60)
+    hours, minutes = divmod(minutes, 60)
+    out = []
+    for val, unit in [
+        (hours, 'h'),
+        (minutes, 'm'),
+        (seconds, 's'),
+    ]:
+        if val:
+            out.append('%s%s' % (val, unit))
+    return ' '.join(out)
 
 
 @click.command()
@@ -93,7 +107,7 @@ def main(group_id, location, time_boundary, event_status, pandoc, force):
 
     for event in json['results']:
         dt = datetime.fromtimestamp(event['time'] / 1000)
-        event['duration'] = event.get('duration', 7200000) / 1000
+        event['duration'] = format_duration(event.get('duration', 3600000) / 1000)
         event['time'] = dt.strftime('%Y-%m-%d %H:%M')
         click.echo("{time}: {name}".format(**event))
         existing_path = glob(os.path.join('content', '*', dt.strftime('%Y-%m-%d*'), 'index.rst'))
@@ -125,9 +139,9 @@ def main(group_id, location, time_boundary, event_status, pandoc, force):
 :tags: prezentari
 :registration:
     meetup.com: {event_url}
-:event-start: {time}
-:event-duration: {duration}s
-:event-location: {venue[address_1]}, {venue[city]}, {venue[localized_country_name]}  
+:start: {time}
+:duration: {duration}
+:location: {venue[address_1]}, {venue[city]}, {venue[localized_country_name]}  
 
 {rst}'''.format(rst=rst, **event)
             with io.open(target_path, 'w', encoding='utf-8') as fh:

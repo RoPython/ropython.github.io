@@ -29,22 +29,15 @@
     </p>
     <blockquote class="attributes">
       {% if article.category %}
-        <p class="location">Locație:
+        <p class="location">Oraș:
           <a href="{{ SITEURL }}/{{ article.category.url }}"><span itemprop="location">
             {{ category_slugs.get(article.category.slug, article.category.slug.capitalize()) }}</span></a>
         </p>
       {% endif %}
-      {% if article.tags %}
-        <p class="tags">Tip:
-        {% for tag in article.tags %}
-          <a href="{{ SITEURL }}/{{ tag.url }}"><span itemprop="keywords">{{ tag.name.capitalize() }}</span></a>
-        {% endfor %}
-        </p>
-      {% endif %}
 
-      {% if article.metadata.registration %}
-        <p class="registration">Înscrieri:
-        {% for line in article.metadata.registration.splitlines() %}
+      {% if article.location %}
+        <p class="venue">Locație:
+        {% for line in article.location.splitlines() %}
           {% if ":" in line %}
             {% for name, url in [line.split(':', 1)] %}
             <a href="{{ url }}">{{ name }}</a>
@@ -55,9 +48,25 @@
         {% endfor %}
       {% endif %}
 
-      {% if article.metadata.location %}
-        <p class="venue">Locație:
-        {% for line in article.metadata.location.splitlines() %}
+      {% if article.start %}
+        <p class="time">Oră: {{ article.start.split()[1] }}</p>
+      {% endif %}
+
+      {% if article.duration %}
+        <p class="duration">Durată: {{ article.duration }}</p>
+      {% endif %}
+
+      {% if article.tags %}
+        <p class="tags">Tip:
+        {% for tag in article.tags %}
+          <a href="{{ SITEURL }}/{{ tag.url }}"><span itemprop="keywords">{{ tag_names.get(tag.name, tag.name.capitalize()) }}</span></a>
+        {% endfor %}
+        </p>
+      {% endif %}
+
+      {% if article.registration %}
+        <p class="registration">Înscrieri:
+        {% for line in article.registration.splitlines() %}
           {% if ":" in line %}
             {% for name, url in [line.split(':', 1)] %}
             <a href="{{ url }}">{{ name }}</a>

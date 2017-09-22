@@ -4,9 +4,9 @@ Pytest workshop
 :tags: workshop
 :registration:
     meetup.com: https://www.meetup.com/RoPython-Cluj/events/243519383/
-:event-start: 2017-10-21 12:30
-:event-duration: 10800s
-:event-location: 77, 21 Decembrie 1989, The office, Cluj-Napoca, Romania
+:start: 2017-10-21 12:30
+:duration: 3h
+:location: 77, 21 Decembrie 1989, The office, Cluj-Napoca, Romania
 
 Hello everyone,
 
