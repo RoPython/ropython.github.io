@@ -41,13 +41,17 @@ h1 + p.date {
     color: #555;
     font-style: italic;
 }
-
 .sitename {
-    text-indent: -100em;
-    background: url(ropython-logo-new-wt.svg) no-repeat center center;
-    width: 170px;
+    font-size: 32px;
+}
+.sitename a {
+    text-indent: 45px;
+    background: url(ropython-logo-new.svg) no-repeat left;
+    background-size: contain;
+}
+.sitename, .sitename a {
     height: 36px;
-    background-size: 170px 36px;
+    margin: 0;
     display: inline-block;
 }
 
