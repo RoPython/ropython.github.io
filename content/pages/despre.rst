@@ -9,6 +9,7 @@ ghidând începătorii în primele lor contribuții la proiectele lor Python pre
 Ne găsiți și pe:
 
 * `Facebook <https://www.facebook.com/ropython/>`_
+* `GitHub <https://github.com/RoPython/>`_
 * meetup.com:
   `București <https://www.meetup.com/RoPython-Bucuresti/>`_,
   `Cluj <https://www.meetup.com/RoPython-Cluj/>`_,
@@ -16,5 +17,4 @@ Ne găsiți și pe:
   `Timișoara <https://www.meetup.com/RoPython-Timisoara/>`_.
 
 * Lista de mail `python-ro@python.org <https://mail.python.org/mailman/listinfo/python-ro>`_.
-* IRC:  http://webchat.freenode.net/?randomnick=1&channels=%23python-ro sau irc://irc.freenode.net/python-ro
-
+* `IRC <irc://irc.freenode.net/python-ro>`_ (`webchat <http://webchat.freenode.net/?randomnick=1&channels=%23python-ro>`_)
