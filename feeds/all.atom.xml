@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/all.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2017-10-21T00:00:00+03:00</updated><entry><title>Pytest workshop</title><link href="http://ropython.ro/2017/10/21/pytest-workshop/" rel="alternate"></link><updated>2017-10-21T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-10-21:2017/10/21/pytest-workshop/</id><summary type="html">&lt;p&gt;Hello everyone,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/all.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2017-12-07T00:00:00+02:00</updated><entry><title>Async tasks with Dramatiq and Tracing in Python</title><link href="http://ropython.ro/2017/12/07/async-tasks-with-dramatiq-and-tracing-in-python/" rel="alternate"></link><updated>2017-12-07T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-12-07:2017/12/07/async-tasks-with-dramatiq-and-tracing-in-python/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
+&lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="90%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6PM&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Entry&lt;/p&gt;
+&lt;p class="last"&gt;A bit of socializing.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Async tasks with Dramatiq (&lt;a class="reference external" href="https://github.com/Bogdanp"&gt;Bogdan Popa&lt;/a&gt;)&lt;/p&gt;
+&lt;p class="last"&gt;How to leverage distributed task processing to improve the performance
+and reliability of web services using Dramatiq (an alternative to
+Celery) and RabbitMQ.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Tracing in Python (&lt;a class="reference external" href="https://github.com/ionelmc"&gt;Ionel Cristian Mărieș&lt;/a&gt;)&lt;/p&gt;
+&lt;p class="last"&gt;This talk will explore Python's tracing API (sys.settrace) and give a
+sneak peek into Hunter the tracing framework.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;8:15&lt;/th&gt;
+&lt;td&gt;Closing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</summary><category term="prezentari"></category></entry><entry><title>A beer retrospective</title><link href="http://ropython.ro/2017/11/02/a-beer-retrospective/" rel="alternate"></link><updated>2017-11-02T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-11-02:2017/11/02/a-beer-retrospective/</id><summary type="html">&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+Python and anything interesting.&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>A beer retrospective</title><link href="http://ropython.ro/2017/11/02/a-beer-retrospective/" rel="alternate"></link><updated>2017-11-02T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-11-02:2017/11/02/a-beer-retrospective/</id><summary type="html">&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+Python and anything interesting.&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Pytest workshop</title><link href="http://ropython.ro/2017/10/21/pytest-workshop/" rel="alternate"></link><updated>2017-10-21T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-10-21:2017/10/21/pytest-workshop/</id><summary type="html">&lt;p&gt;Hello everyone,&lt;/p&gt;
 &lt;p&gt;We're back in action with a Pytest workshop. It's going to take about
 2-3 hours and there will be pizza &amp;amp; drinks provided by Yonder.&lt;/p&gt;
 &lt;p&gt;The only requirement is to bring a laptop with Python installed.&lt;/p&gt;
@@ -22,6 +61,11 @@ the app code will be provided)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Tutors will be Ionel and highschool-teacher-turned-programmer Gabriel Muj.&lt;/p&gt;
 </summary><category term="workshop"></category></entry><entry><title>A beer retrospective</title><link href="http://ropython.ro/2017/09/26/a-beer-retrospective/" rel="alternate"></link><updated>2017-09-26T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-09-26:2017/09/26/a-beer-retrospective/</id><summary type="html">&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+Python and anything interesting.&lt;/p&gt;
+&lt;p&gt;We'll have one special guest: Gabriel Muj. Will he get drunk enough to
+tell us the sad story of leaving highschool teaching career for Python
+programming? Lets find out!&lt;/p&gt;
+</summary><category term="social"></category></entry><entry><title>A beer retrospective</title><link href="http://ropython.ro/2017/09/26/a-beer-retrospective/" rel="alternate"></link><updated>2017-09-26T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-09-26:2017/09/26/a-beer-retrospective/</id><summary type="html">&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
 Python and anything interesting.&lt;/p&gt;
 &lt;p&gt;We'll have one special guest: Gabriel Muj. Will he get drunk enough to
 tell us the sad story of leaving highschool teaching career for Python

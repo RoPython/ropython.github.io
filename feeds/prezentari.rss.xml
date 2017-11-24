@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/prezentari.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 28 Jun 2017 00:00:00 +0300</lastBuildDate><item><title>Asynchronous tasks using Django, Celery and RabbitMQ</title><link>http://ropython.ro/2017/06/28/asynchronous-tasks-using-django-celery-and-rabbitmq/</link><description>&lt;p&gt;Celery is an asynchronous task queue based on distributed message
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/prezentari.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 07 Dec 2017 00:00:00 +0200</lastBuildDate><item><title>Async tasks with Dramatiq and Tracing in Python</title><link>http://ropython.ro/2017/12/07/async-tasks-with-dramatiq-and-tracing-in-python/</link><description>&lt;div class="section" id="schedule"&gt;
+&lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="90%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6PM&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Entry&lt;/p&gt;
+&lt;p class="last"&gt;A bit of socializing.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Async tasks with Dramatiq (&lt;a class="reference external" href="https://github.com/Bogdanp"&gt;Bogdan Popa&lt;/a&gt;)&lt;/p&gt;
+&lt;p class="last"&gt;How to leverage distributed task processing to improve the performance
+and reliability of web services using Dramatiq (an alternative to
+Celery) and RabbitMQ.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Tracing in Python (&lt;a class="reference external" href="https://github.com/ionelmc"&gt;Ionel Cristian Mărieș&lt;/a&gt;)&lt;/p&gt;
+&lt;p class="last"&gt;This talk will explore Python's tracing API (sys.settrace) and give a
+sneak peek into Hunter the tracing framework.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;8:15&lt;/th&gt;
+&lt;td&gt;Closing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 07 Dec 2017 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2017-12-07:2017/12/07/async-tasks-with-dramatiq-and-tracing-in-python/</guid><category>prezentari</category></item><item><title>A beer retrospective</title><link>http://ropython.ro/2017/11/02/a-beer-retrospective/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+Python and anything interesting.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 02 Nov 2017 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2017-11-02:2017/11/02/a-beer-retrospective/</guid><category>prezentari</category></item><item><title>Asynchronous tasks using Django, Celery and RabbitMQ</title><link>http://ropython.ro/2017/06/28/asynchronous-tasks-using-django-celery-and-rabbitmq/</link><description>&lt;p&gt;Celery is an asynchronous task queue based on distributed message
 passing. It is focused on real-time operations, but supports
 scheduling as well. RabbitMQ, is a message broker which is used by
 Celery to distribute messages.&lt;/p&gt;
