@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/timisoara.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2017-09-19T00:00:00+03:00</updated><entry><title>RoPython September Meetup</title><link href="http://ropython.ro/2017/09/19/ropython-september-meetup/" rel="alternate"></link><updated>2017-09-19T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-09-19:2017/09/19/ropython-september-meetup/</id><summary type="html">&lt;p&gt;Re-lansăm întâlnirile comunității Python din Timișoara!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/timisoara.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2017-10-31T00:00:00+02:00</updated><entry><title>RoPython Meetup #2</title><link href="http://ropython.ro/2017/10/31/ropython-meetup-2/" rel="alternate"></link><updated>2017-10-31T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-10-31:2017/10/31/ropython-meetup-2/</id><summary type="html">&lt;p&gt;The next meetup will take place on the 31st of October.&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;Gabriel Trautmann presenting techniques for optimizing Python code in
+the context of &amp;quot;Form Recognition Clustering with Locality Sensitive
+Hashing&amp;quot;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Mihai Balint - Python' async web framework performance gauntlet - 2017 edition&lt;/p&gt;
+&lt;p&gt;In this presentation we compare the performance of modern async web
+frameworks running on python 3.6. The contenders are tested in four
+scenarios designed to emphasize common tasks undertaken by web
+frameworks: serializing objects to json, building html from a
+template, fetching data from a database and querying third-party http
+endpoints. We match the popular against the obscure and the pure
+against the compiled in an effort to discover the king of requests per
+second.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Stay tuned for more details!&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>RoPython September Meetup</title><link href="http://ropython.ro/2017/09/19/ropython-september-meetup/" rel="alternate"></link><updated>2017-09-19T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-09-19:2017/09/19/ropython-september-meetup/</id><summary type="html">&lt;p&gt;Re-lansăm întâlnirile comunității Python din Timișoara!&lt;/p&gt;
 &lt;p&gt;Vom începe din 19 Septembrie, după ce ne-am mai întors din concedii,
 cu o întâlnire într-un format ușor diferit față de ce am făcut până
 acuma, pe lângă prezentarea clasică vom face și un Python Open Space.&lt;/p&gt;
