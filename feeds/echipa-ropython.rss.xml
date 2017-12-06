@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/echipa-ropython.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 07 Dec 2017 00:00:00 +0200</lastBuildDate><item><title>Async tasks with Dramatiq and Tracing in Python</title><link>http://ropython.ro/2017/12/07/async-tasks-with-dramatiq-and-tracing-in-python/</link><description>&lt;div class="section" id="schedule"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/echipa-ropython.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 12 Dec 2017 00:00:00 +0200</lastBuildDate><item><title>RoPython Meetup #3</title><link>http://ropython.ro/2017/12/12/ropython-meetup-3/</link><description>&lt;p&gt;Join us at the next Python Meetup on the 12th of December, at the
+Startup Hub, from 18:30.&lt;/p&gt;
+&lt;p&gt;Because many of you expressed an interest in data science, Kienka Kio
+will present a &amp;quot;Holistic View of Data Science&amp;quot;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Tue, 12 Dec 2017 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2017-12-12:2017/12/12/ropython-meetup-3/</guid><category>prezentari</category></item><item><title>Async tasks with Dramatiq and Tracing in Python</title><link>http://ropython.ro/2017/12/07/async-tasks-with-dramatiq-and-tracing-in-python/</link><description>&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;

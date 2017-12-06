@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/timisoara.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2017-10-31T00:00:00+02:00</updated><entry><title>RoPython Meetup #2</title><link href="http://ropython.ro/2017/10/31/ropython-meetup-2/" rel="alternate"></link><updated>2017-10-31T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-10-31:2017/10/31/ropython-meetup-2/</id><summary type="html">&lt;p&gt;The next meetup will take place on the 31st of October.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/timisoara.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2017-12-12T00:00:00+02:00</updated><entry><title>RoPython Meetup #3</title><link href="http://ropython.ro/2017/12/12/ropython-meetup-3/" rel="alternate"></link><updated>2017-12-12T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-12-12:2017/12/12/ropython-meetup-3/</id><summary type="html">&lt;p&gt;Join us at the next Python Meetup on the 12th of December, at the
+Startup Hub, from 18:30.&lt;/p&gt;
+&lt;p&gt;Because many of you expressed an interest in data science, Kienka Kio
+will present a &amp;quot;Holistic View of Data Science&amp;quot;.&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>RoPython Meetup #2</title><link href="http://ropython.ro/2017/10/31/ropython-meetup-2/" rel="alternate"></link><updated>2017-10-31T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-10-31:2017/10/31/ropython-meetup-2/</id><summary type="html">&lt;p&gt;The next meetup will take place on the 31st of October.&lt;/p&gt;
 &lt;p&gt;Agenda:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p class="first"&gt;Gabriel Trautmann presenting techniques for optimizing Python code in
