@@ -5,14 +5,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ropython.ro/</loc>
-<lastmod>2017-12-06T15:33:53-00:00</lastmod>
+<lastmod>2017-12-24T14:30:11-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ropython.ro/despre/</loc>
-<lastmod>2017-12-06T15:33:53-00:00</lastmod>
+<lastmod>2017-12-24T14:30:11-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -543,8 +543,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.ro/forma/diverse/</loc>
-<lastmod>2014-10-18T00:00:00+01:44</lastmod>
+<loc>http://ropython.ro/forma/workshop/</loc>
+<lastmod>2017-10-21T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -557,8 +557,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.ro/forma/sprint/</loc>
-<lastmod>2016-01-30T00:00:00+01:44</lastmod>
+<loc>http://ropython.ro/forma/conferinta/</loc>
+<lastmod>2014-10-01T00:00:00+01:44</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.ro/forma/diverse/</loc>
+<lastmod>2014-10-18T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -571,15 +578,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ropython.ro/forma/conferinta/</loc>
-<lastmod>2014-10-01T00:00:00+01:44</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://ropython.ro/forma/workshop/</loc>
-<lastmod>2017-10-21T00:00:00+01:44</lastmod>
+<loc>http://ropython.ro/forma/sprint/</loc>
+<lastmod>2016-01-30T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

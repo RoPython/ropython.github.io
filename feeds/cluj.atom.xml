@@ -13,19 +13,21 @@
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
-&lt;td&gt;&lt;p class="first"&gt;Async tasks with Dramatiq (&lt;a class="reference external" href="https://github.com/Bogdanp"&gt;Bogdan Popa&lt;/a&gt;)&lt;/p&gt;
-&lt;p class="last"&gt;How to leverage distributed task processing to improve the performance
+&lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Async tasks with Dramatiq&lt;/strong&gt; (&lt;a class="reference external" href="https://github.com/Bogdanp"&gt;Bogdan Popa&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;How to leverage distributed task processing to improve the performance
 and reliability of web services using Dramatiq (an alternative to
 Celery) and RabbitMQ.&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=mrG9ZwLxb0g&amp;amp;t=129s&amp;amp;list=PL2Arun8D--P_rDD6m5vQF18JKCPmYbXd6&amp;amp;index=2"&gt;Video&lt;/a&gt; and &lt;a class="reference external" href="https://blog.ionelmc.ro/presentations/tracing-in-python/"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
 &lt;td&gt;Break&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
-&lt;td&gt;&lt;p class="first"&gt;Tracing in Python (&lt;a class="reference external" href="https://github.com/ionelmc"&gt;Ionel Cristian Mărieș&lt;/a&gt;)&lt;/p&gt;
-&lt;p class="last"&gt;This talk will explore Python's tracing API (sys.settrace) and give a
+&lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Tracing in Python&lt;/strong&gt; (&lt;a class="reference external" href="https://github.com/ionelmc"&gt;Ionel Cristian Mărieș&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;This talk will explore Python's tracing API (sys.settrace) and give a
 sneak peek into Hunter the tracing framework.&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=d-qbVkdzUlM&amp;amp;list=PL2Arun8D--P_rDD6m5vQF18JKCPmYbXd6&amp;amp;index=1"&gt;Video&lt;/a&gt; and &lt;a class="reference external" href="https://blog.ionelmc.ro/presentations/tracing-in-python/"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;8:15&lt;/th&gt;
@@ -370,24 +372,7 @@ cluster membership.&lt;/p&gt;
 &lt;td&gt;Entry&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;6:15&lt;/th&gt;
-&lt;td&gt;Moderate TDD (&lt;a class="reference external" href="https://github.com/adiroiban"&gt;Adi Roiban&lt;/a&gt;)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;th class="stub"&gt;7:00&lt;/th&gt;
-&lt;td&gt;Break&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
-&lt;td&gt;Docker for Python app (&lt;a class="reference external" href="https://github.com/ionelmc"&gt;Ionel Cristian Mărieș&lt;/a&gt;)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;th class="stub"&gt;7:45&lt;/th&gt;
-&lt;td&gt;Closing&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;div class="section" id="talks"&gt;
-&lt;h2&gt;Talks&lt;a class="headerlink" href="#talks" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
-&lt;div class="section" id="moderate-tdd"&gt;
-&lt;h3&gt;Moderate TDD&lt;a class="headerlink" href="#moderate-tdd" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h3&gt;
+&lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Moderate TDD&lt;/strong&gt; (&lt;a class="reference external" href="https://github.com/adiroiban"&gt;Adi Roiban&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;This talk is aimed at programmers who already have experience with
 unit testing and they either did not try Extreme Programming/TDD or
 they simply consider those too extreme :-) The content is about Python
@@ -396,13 +381,25 @@ HTML/CSS/JS.&lt;/p&gt;
 &lt;p&gt;There is going to be a discussion about line vs feature coverage,
 continuous and pre-merge testing, debugging based on tests and
 practices for maintaining test code.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="docker-for-python-apps"&gt;
-&lt;h3&gt;Docker for Python apps&lt;a class="headerlink" href="#docker-for-python-apps" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h3&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="http://slides.com/adiroiban/moderate-tdd"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:00&lt;/th&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Docker for Python apps&lt;/strong&gt; (&lt;a class="reference external" href="https://github.com/ionelmc"&gt;Ionel Cristian Mărieș&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;This talk is going to give an intro to Docker, how can you build
 images quickly, few recommendations about moving Python apps in
 containers and many complaints about Docker :-)&lt;/p&gt;
-&lt;/div&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="https://blog.ionelmc.ro/presentations/docker/"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:45&lt;/th&gt;
+&lt;td&gt;Closing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;/div&gt;
 </summary><category term="prezentari"></category></entry><entry><title>Fighting Terrorism with Django, Big Data and NLP</title><link href="http://ropython.ro/2016/02/24/fighting-terrorism-with-django-big-data-and-nlp/" rel="alternate"></link><updated>2016-02-24T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2016-02-24:2016/02/24/fighting-terrorism-with-django-big-data-and-nlp/</id><summary type="html">&lt;p&gt;For this meet-up, the first one this year, we bring you special guests
 from ComplyAdvantage (London, UK)&lt;/p&gt;
@@ -685,7 +682,7 @@ contribui la realizarea viziunii Web-ului semantic.&lt;/p&gt;
 &lt;td&gt;&lt;p class="first"&gt;Ionel Cristian Mărieș - &amp;quot;Testare cu pytest&amp;quot;&lt;/p&gt;
 &lt;p&gt;Ionel va face o introducere în pytest și va explica de ce este mai bun
 decât nose sau unittest.&lt;/p&gt;
-&lt;p class="last"&gt;&lt;a class="reference external" href="http://blog.ionelmc.ro/presentations/pytest/"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="https://blog.ionelmc.ro/presentations/pytest/"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
@@ -781,7 +778,7 @@ languages natively.&lt;/blockquote&gt;
 &lt;col width="70%" /&gt;
 &lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;th class="stub"&gt;&lt;a class="reference external" href="http://blog.ionelmc.ro/"&gt;Ionel Cristian Mărieș&lt;/a&gt;&lt;/th&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;&lt;a class="reference external" href="https://blog.ionelmc.ro/"&gt;Ionel Cristian Mărieș&lt;/a&gt;&lt;/th&gt;
 &lt;td&gt;Tot ce nu vroiai să știi despre decoratori&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;&lt;a class="reference external" href="https://github.com/severb"&gt;Sever Băneșiu&lt;/a&gt;&lt;/th&gt;
@@ -810,7 +807,7 @@ Python developers I know will tell you about subjects that they love:&lt;/p&gt;
 &lt;col width="70%" /&gt;
 &lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;th class="stub"&gt;&lt;a class="reference external" href="http://blog.ionelmc.ro/"&gt;Ionel Cristian Mărieș&lt;/a&gt;&lt;/th&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;&lt;a class="reference external" href="https://blog.ionelmc.ro/"&gt;Ionel Cristian Mărieș&lt;/a&gt;&lt;/th&gt;
 &lt;td&gt;Celery introduction&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;&lt;a class="reference external" href="https://github.com/severb"&gt;Sever Băneșiu&lt;/a&gt;&lt;/th&gt;
