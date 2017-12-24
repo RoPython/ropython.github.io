@@ -13,7 +13,7 @@ Python developers I know will tell you about subjects that they love:
     :stub-columns: 1
     :widths: 30 70
 
-    - - `Ionel Cristian Mărieș <http://blog.ionelmc.ro/>`_
+    - - `Ionel Cristian Mărieș <https://blog.ionelmc.ro/>`_
       - Celery introduction
     - - `Sever Băneșiu <https://github.com/severb>`_
       - Zope Component Architecture

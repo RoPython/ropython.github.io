@@ -22,7 +22,7 @@ Agendă:
         Ionel va face o introducere în pytest și va explica de ce este mai bun
         decât nose sau unittest.
 
-        `Slides <http://blog.ionelmc.ro/presentations/pytest/>`__.
+        `Slides <https://blog.ionelmc.ro/presentations/pytest/>`__.
     - - 7:30
       - Pauză
     - - 7:45

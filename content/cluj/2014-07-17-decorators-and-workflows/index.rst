@@ -11,7 +11,7 @@ La a 2-a ediție de vară vor prezenta:
     :stub-columns: 1
     :widths: 30 70
 
-    - - `Ionel Cristian Mărieș <http://blog.ionelmc.ro/>`_
+    - - `Ionel Cristian Mărieș <https://blog.ionelmc.ro/>`_
       - Tot ce nu vroiai să știi despre decoratori
     - - `Sever Băneșiu <https://github.com/severb>`_
       - Flowy, easy SWF workflows (swf: http://aws.amazon.com/swf/)
