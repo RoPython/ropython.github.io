@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/all.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2017-12-12T00:00:00+02:00</updated><entry><title>RoPython Meetup #3</title><link href="http://ropython.ro/2017/12/12/ropython-meetup-3/" rel="alternate"></link><updated>2017-12-12T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-12-12:2017/12/12/ropython-meetup-3/</id><summary type="html">&lt;p&gt;Join us at the next Python Meetup on the 12th of December, at the
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/all.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2018-02-15T00:00:00+02:00</updated><entry><title>Ansible - test driven infrastructure and Nemutam.com - script to search engine</title><link href="http://ropython.ro/2018/02/15/ansible-test-driven-infrastructure-and-nemutamcom-script-to-search-engine/" rel="alternate"></link><updated>2018-02-15T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2018-02-15:2018/02/15/ansible-test-driven-infrastructure-and-nemutamcom-script-to-search-engine/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
+&lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="90%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6PM&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Entry&lt;/p&gt;
+&lt;p class="last"&gt;A bit of socializing.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Ansible - test driven infrastructure (Alexandru Hapliuc)&lt;/p&gt;
+&lt;p class="last"&gt;Everything becomes code defined and test driven. Lately even
+Infrastructure has become an adept of that. The presentation will
+briefly how Ansible, Molecule and Docker help us achieve that.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Nemutam.com - script to search engine (Gabi Nagy)&lt;/p&gt;
+&lt;p class="last"&gt;The talk goes through the project's 4 year history, starting from a
+70-line bash script to a scalable, distributed system, along with the
+problems and lessons we've learned along the way. Topics include
+Python, Selenium, running on top of Linux, distributed systems and
+performance.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;8:15&lt;/th&gt;
+&lt;td&gt;Closing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</summary><category term="prezentari"></category></entry><entry><title>RoPython Meetup #3</title><link href="http://ropython.ro/2017/12/12/ropython-meetup-3/" rel="alternate"></link><updated>2017-12-12T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-12-12:2017/12/12/ropython-meetup-3/</id><summary type="html">&lt;p&gt;Join us at the next Python Meetup on the 12th of December, at the
 Startup Hub, from 18:30.&lt;/p&gt;
 &lt;p&gt;Because many of you expressed an interest in data science, Kienka Kio
 will present a &amp;quot;Holistic View of Data Science&amp;quot;.&lt;/p&gt;
