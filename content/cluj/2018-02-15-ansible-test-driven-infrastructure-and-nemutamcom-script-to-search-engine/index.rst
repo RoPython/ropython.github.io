@@ -1,5 +1,5 @@
 Ansible - test driven infrastructure and Nemutam.com - script to search engine
-###############################################################
+##############################################################################
 
 :tags: prezentari
 :registration:
