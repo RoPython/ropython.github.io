@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/all-ro.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2018-02-15T00:00:00+02:00</updated><entry><title>Ansible - test driven infrastructure and Nemutam.com - script to search engine</title><link href="http://ropython.ro/2018/02/15/ansible-test-driven-infrastructure-and-nemutamcom-script-to-search-engine/" rel="alternate"></link><updated>2018-02-15T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2018-02-15:2018/02/15/ansible-test-driven-infrastructure-and-nemutamcom-script-to-search-engine/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/all-ro.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2018-03-06T00:00:00+02:00</updated><entry><title>Numerical computing in Python and Python Balkan</title><link href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/" rel="alternate"></link><updated>2018-03-06T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2018-03-06:2018/03/06/numerical-computing-in-python-and-python-balkan/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
+&lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="90%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6PM&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Entry&lt;/p&gt;
+&lt;p class="last"&gt;A bit of socializing. There will be snacks and beverages, courtesy of
+Evozon.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Numerical computing in Python&lt;/strong&gt; (Mihai Andrei)&lt;/p&gt;
+&lt;p&gt;Numerical computing is the processing of large amounts of floating
+point data. It is the foundation for analyzing measurements and of scientific
+computing.&lt;/p&gt;
+&lt;p&gt;Once arcane subjects of scientific computing are entering the
+mainstream. Machine learning and big data analytics are popular examples.&lt;/p&gt;
+&lt;p&gt;Python is widely used in this domain, threatening established tools
+like matlab.&lt;/p&gt;
+&lt;p&gt;Python's scientific ecosystem is based on a common data type: the
+mighty numpy array.&lt;/p&gt;
+&lt;p class="last"&gt;We will introduce you to the numpy library, and along the way show off
+some other common used tools for numerical data.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Python Balkan&lt;/strong&gt; (Bojan Jovanovic)&lt;/p&gt;
+&lt;p class="last"&gt;A draft of the protocol of communication for python communities in
+Balkan. Bojan (Python Developer and founder of Kortechs) from Belgrade
+has a reputation for creating interesting python meetups in Belgrade.
+This time he would like to scale this up a bit by giving every
+community in the Balkan region the tools needed to upgrade their game
+a bit by giving the community organizers a way of acquiring quality
+content trough sharing.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;8:15&lt;/th&gt;
+&lt;td&gt;Closing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Ansible - test driven infrastructure and Nemutam.com - script to search engine</title><link href="http://ropython.ro/2018/02/15/ansible-test-driven-infrastructure-and-nemutamcom-script-to-search-engine/" rel="alternate"></link><updated>2018-02-15T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2018-02-15:2018/02/15/ansible-test-driven-infrastructure-and-nemutamcom-script-to-search-engine/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
@@ -13,7 +62,7 @@
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
-&lt;td&gt;&lt;p class="first"&gt;Ansible - test driven infrastructure (Alexandru Hapliuc)&lt;/p&gt;
+&lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Ansible - test driven infrastructure&lt;/strong&gt; (Alexandru Hapliuc)&lt;/p&gt;
 &lt;p class="last"&gt;Everything becomes code defined and test driven. Lately even
 Infrastructure has become an adept of that. The presentation will
 briefly how Ansible, Molecule and Docker help us achieve that.&lt;/p&gt;
@@ -23,7 +72,7 @@ briefly how Ansible, Molecule and Docker help us achieve that.&lt;/p&gt;
 &lt;td&gt;Break&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
-&lt;td&gt;&lt;p class="first"&gt;Nemutam.com - script to search engine (Gabi Nagy)&lt;/p&gt;
+&lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Nemutam.com - script to search engine&lt;/strong&gt; (Gabi Nagy)&lt;/p&gt;
 &lt;p class="last"&gt;The talk goes through the project's 4 year history, starting from a
 70-line bash script to a scalable, distributed system, along with the
 problems and lessons we've learned along the way. Topics include
