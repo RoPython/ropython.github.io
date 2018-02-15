@@ -21,7 +21,7 @@ Schedule
         A bit of socializing.
 
     * - 6:30
-      - Ansible - test driven infrastructure (Alexandru Hapliuc)
+      - **Ansible - test driven infrastructure** (Alexandru Hapliuc)
 
         Everything becomes code defined and test driven. Lately even
         Infrastructure has become an adept of that. The presentation will
@@ -31,7 +31,7 @@ Schedule
       - Break
 
     * - 7:30
-      - Nemutam.com - script to search engine (Gabi Nagy)
+      - **Nemutam.com - script to search engine** (Gabi Nagy)
 
         The talk goes through the project's 4 year history, starting from a
         70-line bash script to a scalable, distributed system, along with the
