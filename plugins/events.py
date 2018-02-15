@@ -57,7 +57,7 @@ def parse_timedelta(ev):
     :returns: timedelta
     """
 
-    chunks = ev['event-duration'].split()
+    chunks = ev['duration'].split()
     tdargs = {}
     for c in chunks:
         try:
@@ -66,11 +66,11 @@ def parse_timedelta(ev):
             tdargs[m] = val
         except KeyError:
             log.error("""Unknown time multiplier '%s' value in the \
-'event-duration' field in the '%s' event. Supported multipliers \
+'duration' field in the '%s' event. Supported multipliers \
 are: '%s'.""" % (c, ev['title'], ' '.join(TIME_MULTIPLIERS)))
             raise RuntimeError("Unknown time multiplier '%s'" % c)
         except ValueError:
-            log.error("""Unable to parse '%s' value in the 'event-duration' \
+            log.error("""Unable to parse '%s' value in the 'duration' \
 field in the '%s' event.""" % (c, ev['title']))
             raise ValueError("Unable to parse '%s'" % c)
     return timedelta(**tdargs)
@@ -95,10 +95,10 @@ def generate_ical_file(generator, **_):
     ical.add('version', '2.0')
 
     for article in generator.articles:
-        if 'event-start' not in article.metadata:
+        if 'start' not in article.metadata:
             continue
 
-        dtstart = tz.localize(parse_tstamp(article.metadata, 'event-start')).astimezone(pytz.UTC)
+        dtstart = tz.localize(parse_tstamp(article.metadata, 'start')).astimezone(pytz.UTC)
         dtdelta = parse_timedelta(article.metadata)
         dtend = dtstart + dtdelta
         ie = icalendar.Event(
@@ -108,7 +108,7 @@ def generate_ical_file(generator, **_):
             priority=5,
             uid=article.url,
             url=siteurl.format(article.url),
-            location=article.metadata['event-location'],
+            location=article.metadata['location'],
         )
         ie.add('description', article.content, {'altrep': siteurl.format(article.url)})
         ie.add('x-alt-desc', article.content, {'fmttype': 'text/html'})
