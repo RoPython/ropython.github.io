@@ -39,6 +39,9 @@ Schedule
 
         We will introduce you to the numpy library, and along the way show off
         some other common used tools for numerical data.
+
+        `Slides <{attach}numpy-slides.html>`__.
+
     * - 7:15
       - Break
 
@@ -53,5 +56,6 @@ Schedule
         a bit by giving the community organizers a way of acquiring quality
         content trough sharing.
 
+        `Slides <https://docs.google.com/presentation/d/15y01HRcjBJP_1SZoGg-0ikxgoCG463qdJtmj0gfcSLI/present>`__.
     * - 8:15
       - Closing
