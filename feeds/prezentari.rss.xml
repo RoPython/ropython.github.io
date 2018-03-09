@@ -24,8 +24,9 @@ mainstream. Machine learning and big data analytics are popular examples.&lt;/p&
 like matlab.&lt;/p&gt;
 &lt;p&gt;Python's scientific ecosystem is based on a common data type: the
 mighty numpy array.&lt;/p&gt;
-&lt;p class="last"&gt;We will introduce you to the numpy library, and along the way show off
+&lt;p&gt;We will introduce you to the numpy library, and along the way show off
 some other common used tools for numerical data.&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/numpy-slides.html"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
@@ -33,13 +34,14 @@ some other common used tools for numerical data.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
 &lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Python Balkan&lt;/strong&gt; (Bojan Jovanovic)&lt;/p&gt;
-&lt;p class="last"&gt;A draft of the protocol of communication for python communities in
+&lt;p&gt;A draft of the protocol of communication for python communities in
 Balkan. Bojan (Python Developer and founder of Kortechs) from Belgrade
 has a reputation for creating interesting python meetups in Belgrade.
 This time he would like to scale this up a bit by giving every
 community in the Balkan region the tools needed to upgrade their game
 a bit by giving the community organizers a way of acquiring quality
 content trough sharing.&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="https://docs.google.com/presentation/d/15y01HRcjBJP_1SZoGg-0ikxgoCG463qdJtmj0gfcSLI/present"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;8:15&lt;/th&gt;
@@ -62,22 +64,24 @@ content trough sharing.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
-&lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Ansible - test driven infrastructure&lt;/strong&gt; (Alexandru Hapliuc)&lt;/p&gt;
-&lt;p class="last"&gt;Everything becomes code defined and test driven. Lately even
+&lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Ansible - test driven infrastructure&lt;/strong&gt; (&lt;a class="reference external" href="https://www.linkedin.com/in/alexandru-hapliuc-2b360729/"&gt;Alexandru Hapliuc&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Everything becomes code defined and test driven. Lately even
 Infrastructure has become an adept of that. The presentation will
 briefly how Ansible, Molecule and Docker help us achieve that.&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=HW45vPLJfgo"&gt;Video&lt;/a&gt;.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
 &lt;td&gt;Break&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
-&lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Nemutam.com - script to search engine&lt;/strong&gt; (Gabi Nagy)&lt;/p&gt;
-&lt;p class="last"&gt;The talk goes through the project's 4 year history, starting from a
+&lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Nemutam.com - script to search engine&lt;/strong&gt; (&lt;a class="reference external" href="https://nemutam.com/"&gt;Gabi Nagy&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;The talk goes through the project's 4 year history, starting from a
 70-line bash script to a scalable, distributed system, along with the
 problems and lessons we've learned along the way. Topics include
 Python, Selenium, running on top of Linux, distributed systems and
 performance.&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="#"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;8:15&lt;/th&gt;

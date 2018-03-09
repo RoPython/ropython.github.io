@@ -21,19 +21,23 @@ DESCRIPTION;ALTREP="http://ropython.ro/2018/03/06/numerical-computing-in-p
   are entering the\nmainstream. Machine learning and big data analytics are
   popular examples.</p>\n<p>Python is widely used in this domain\, threaten
  ing established tools\nlike matlab.</p>\n<p>Python's scientific ecosystem 
- is based on a common data type: the\nmighty numpy array.</p>\n<p class="la
- st">We will introduce you to the numpy library\, and along the way show of
- f\nsome other common used tools for numerical data.</p>\n</td>\n</tr>\n<tr
- ><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="stub">7
- :30</th>\n<td><p class="first"><strong>Python Balkan</strong> (Bojan Jovan
- ovic)</p>\n<p class="last">A draft of the protocol of communication for py
- thon communities in\nBalkan. Bojan (Python Developer and founder of Kortec
- hs) from Belgrade\nhas a reputation for creating interesting python meetup
- s in Belgrade.\nThis time he would like to scale this up a bit by giving e
- very\ncommunity in the Balkan region the tools needed to upgrade their gam
- e\na bit by giving the community organizers a way of acquiring quality\nco
- ntent trough sharing.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<
- td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
+ is based on a common data type: the\nmighty numpy array.</p>\n<p>We will i
+ ntroduce you to the numpy library\, and along the way show off\nsome other
+  common used tools for numerical data.</p>\n<p class="last"><a class="refe
+ rence external" href="http://ropython.ro/2018/03/06/numerical-computing-in
+ -python-and-python-balkan/numpy-slides.html">Slides</a>.</p>\n</td>\n</tr>
+ \n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="st
+ ub">7:30</th>\n<td><p class="first"><strong>Python Balkan</strong> (Bojan 
+ Jovanovic)</p>\n<p>A draft of the protocol of communication for python com
+ munities in\nBalkan. Bojan (Python Developer and founder of Kortechs) from
+  Belgrade\nhas a reputation for creating interesting python meetups in Bel
+ grade.\nThis time he would like to scale this up a bit by giving every\nco
+ mmunity in the Balkan region the tools needed to upgrade their game\na bit
+  by giving the community organizers a way of acquiring quality\ncontent tr
+ ough sharing.</p>\n<p class="last"><a class="reference external" href="htt
+ ps://docs.google.com/presentation/d/15y01HRcjBJP_1SZoGg-0ikxgoCG463qdJtmj0
+ gfcSLI/present">Slides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</
+ th>\n<td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
 LOCATION:Calea Motilor 62 - 1st floor\, Cluj-Napoca\, Romania
 PRIORITY:5
 URL:http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python
@@ -52,19 +56,23 @@ X-ALT-DESC;FMTTYPE=text/html:<div class="section" id="schedule">\n<h2>Sche
  ing are entering the\nmainstream. Machine learning and big data analytics 
  are popular examples.</p>\n<p>Python is widely used in this domain\, threa
  tening established tools\nlike matlab.</p>\n<p>Python's scientific ecosyst
- em is based on a common data type: the\nmighty numpy array.</p>\n<p class=
- "last">We will introduce you to the numpy library\, and along the way show
-  off\nsome other common used tools for numerical data.</p>\n</td>\n</tr>\n
- <tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="stub
- ">7:30</th>\n<td><p class="first"><strong>Python Balkan</strong> (Bojan Jo
- vanovic)</p>\n<p class="last">A draft of the protocol of communication for
-  python communities in\nBalkan. Bojan (Python Developer and founder of Kor
- techs) from Belgrade\nhas a reputation for creating interesting python mee
- tups in Belgrade.\nThis time he would like to scale this up a bit by givin
- g every\ncommunity in the Balkan region the tools needed to upgrade their 
- game\na bit by giving the community organizers a way of acquiring quality\
- ncontent trough sharing.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>
- \n<td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
+ em is based on a common data type: the\nmighty numpy array.</p>\n<p>We wil
+ l introduce you to the numpy library\, and along the way show off\nsome ot
+ her common used tools for numerical data.</p>\n<p class="last"><a class="r
+ eference external" href="http://ropython.ro/2018/03/06/numerical-computing
+ -in-python-and-python-balkan/numpy-slides.html">Slides</a>.</p>\n</td>\n</
+ tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class=
+ "stub">7:30</th>\n<td><p class="first"><strong>Python Balkan</strong> (Boj
+ an Jovanovic)</p>\n<p>A draft of the protocol of communication for python 
+ communities in\nBalkan. Bojan (Python Developer and founder of Kortechs) f
+ rom Belgrade\nhas a reputation for creating interesting python meetups in 
+ Belgrade.\nThis time he would like to scale this up a bit by giving every\
+ ncommunity in the Balkan region the tools needed to upgrade their game\na 
+ bit by giving the community organizers a way of acquiring quality\ncontent
+  trough sharing.</p>\n<p class="last"><a class="reference external" href="
+ https://docs.google.com/presentation/d/15y01HRcjBJP_1SZoGg-0ikxgoCG463qdJt
+ mj0gfcSLI/present">Slides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:1
+ 5</th>\n<td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ansible - test driven infrastructure and Nemutam.com - script to s
@@ -81,18 +89,23 @@ DESCRIPTION;ALTREP="http://ropython.ro/2018/02/15/ansible-test-driven-infr
  colgroup>\n<tbody valign="top">\n<tr><th class="stub">6PM</th>\n<td><p cla
  ss="first">Entry</p>\n<p class="last">A bit of socializing.</p>\n</td>\n</
  tr>\n<tr><th class="stub">6:30</th>\n<td><p class="first"><strong>Ansible 
- - test driven infrastructure</strong> (Alexandru Hapliuc)</p>\n<p class="l
- ast">Everything becomes code defined and test driven. Lately even\nInfrast
- ructure has become an adept of that. The presentation will\nbriefly how An
- sible\, Molecule and Docker help us achieve that.</p>\n</td>\n</tr>\n<tr><
- th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="stub">7:3
- 0</th>\n<td><p class="first"><strong>Nemutam.com - script to search engine
- </strong> (Gabi Nagy)</p>\n<p class="last">The talk goes through the proje
- ct's 4 year history\, starting from a\n70-line bash script to a scalable\,
-  distributed system\, along with the\nproblems and lessons we've learned a
- long the way. Topics include\nPython\, Selenium\, running on top of Linux\
- , distributed systems and\nperformance.</p>\n</td>\n</tr>\n<tr><th class="
- stub">8:15</th>\n<td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
+ - test driven infrastructure</strong> (<a class="reference external" href=
+ "https://www.linkedin.com/in/alexandru-hapliuc-2b360729/">Alexandru Hapliu
+ c</a>)</p>\n<p>Everything becomes code defined and test driven. Lately eve
+ n\nInfrastructure has become an adept of that. The presentation will\nbrie
+ fly how Ansible\, Molecule and Docker help us achieve that.</p>\n<p class=
+ "last"><a class="reference external" href="https://www.youtube.com/watch?v
+ =HW45vPLJfgo">Video</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">7:15</th>
+ \n<td>Break</td>\n</tr>\n<tr><th class="stub">7:30</th>\n<td><p class="fir
+ st"><strong>Nemutam.com - script to search engine</strong> (<a class="refe
+ rence external" href="https://nemutam.com/">Gabi Nagy</a>)</p>\n<p>The tal
+ k goes through the project's 4 year history\, starting from a\n70-line bas
+ h script to a scalable\, distributed system\, along with the\nproblems and
+  lessons we've learned along the way. Topics include\nPython\, Selenium\, 
+ running on top of Linux\, distributed systems and\nperformance.</p>\n<p cl
+ ass="last"><a class="reference external" href="#">Slides</a>.</p>\n</td>\n
+ </tr>\n<tr><th class="stub">8:15</th>\n<td>Closing</td>\n</tr>\n</tbody>\n
+ </table>\n</div>\n
 LOCATION:Nr. 77\, 21 Decembrie 1989\, The office\, Cluj-Napoca\, Romania (
  Corp. A\, floor 1\, Yonder)
 PRIORITY:5
@@ -105,18 +118,22 @@ X-ALT-DESC;FMTTYPE=text/html:<div class="section" id="schedule">\n<h2>Sche
  n="top">\n<tr><th class="stub">6PM</th>\n<td><p class="first">Entry</p>\n<
  p class="last">A bit of socializing.</p>\n</td>\n</tr>\n<tr><th class="stu
  b">6:30</th>\n<td><p class="first"><strong>Ansible - test driven infrastru
- cture</strong> (Alexandru Hapliuc)</p>\n<p class="last">Everything becomes
-  code defined and test driven. Lately even\nInfrastructure has become an a
- dept of that. The presentation will\nbriefly how Ansible\, Molecule and Do
- cker help us achieve that.</p>\n</td>\n</tr>\n<tr><th class="stub">7:15</t
- h>\n<td>Break</td>\n</tr>\n<tr><th class="stub">7:30</th>\n<td><p class="f
- irst"><strong>Nemutam.com - script to search engine</strong> (Gabi Nagy)</
- p>\n<p class="last">The talk goes through the project's 4 year history\, s
- tarting from a\n70-line bash script to a scalable\, distributed system\, a
- long with the\nproblems and lessons we've learned along the way. Topics in
- clude\nPython\, Selenium\, running on top of Linux\, distributed systems a
- nd\nperformance.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<td>Cl
- osing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
+ cture</strong> (<a class="reference external" href="https://www.linkedin.c
+ om/in/alexandru-hapliuc-2b360729/">Alexandru Hapliuc</a>)</p>\n<p>Everythi
+ ng becomes code defined and test driven. Lately even\nInfrastructure has b
+ ecome an adept of that. The presentation will\nbriefly how Ansible\, Molec
+ ule and Docker help us achieve that.</p>\n<p class="last"><a class="refere
+ nce external" href="https://www.youtube.com/watch?v=HW45vPLJfgo">Video</a>
+ .</p>\n</td>\n</tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>
+ \n<tr><th class="stub">7:30</th>\n<td><p class="first"><strong>Nemutam.com
+  - script to search engine</strong> (<a class="reference external" href="h
+ ttps://nemutam.com/">Gabi Nagy</a>)</p>\n<p>The talk goes through the proj
+ ect's 4 year history\, starting from a\n70-line bash script to a scalable\
+ , distributed system\, along with the\nproblems and lessons we've learned 
+ along the way. Topics include\nPython\, Selenium\, running on top of Linux
+ \, distributed systems and\nperformance.</p>\n<p class="last"><a class="re
+ ference external" href="#">Slides</a>.</p>\n</td>\n</tr>\n<tr><th class="s
+ tub">8:15</th>\n<td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RoPython Meetup #3
