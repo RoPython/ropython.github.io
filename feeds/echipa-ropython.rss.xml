@@ -26,8 +26,12 @@ like matlab.&lt;/p&gt;
 mighty numpy array.&lt;/p&gt;
 &lt;p&gt;We will introduce you to the numpy library, and along the way show off
 some other common used tools for numerical data.&lt;/p&gt;
-&lt;p class="last"&gt;&lt;a class="reference external" href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/numpy-slides.html"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
-&lt;/td&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/numpy-slides.html"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+&lt;!--&lt;p&gt;&lt;a class="reference external" href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/Digraph.png"&gt;blah&lt;/a&gt;
+&lt;a class="reference external" href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/heat_field.png"&gt;blah&lt;/a&gt;
+&lt;a class="reference external" href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/matrix.png"&gt;blah&lt;/a&gt;
+&lt;a class="reference external" href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/numpy_broadcasting.png"&gt;blah&lt;/a&gt;&lt;/p&gt;
+&lt;div class="last"&gt;--&gt;&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
 &lt;td&gt;Break&lt;/td&gt;

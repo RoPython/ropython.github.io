@@ -23,21 +23,29 @@ DESCRIPTION;ALTREP="http://ropython.ro/2018/03/06/numerical-computing-in-p
  ing established tools\nlike matlab.</p>\n<p>Python's scientific ecosystem 
  is based on a common data type: the\nmighty numpy array.</p>\n<p>We will i
  ntroduce you to the numpy library\, and along the way show off\nsome other
-  common used tools for numerical data.</p>\n<p class="last"><a class="refe
- rence external" href="http://ropython.ro/2018/03/06/numerical-computing-in
- -python-and-python-balkan/numpy-slides.html">Slides</a>.</p>\n</td>\n</tr>
- \n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="st
- ub">7:30</th>\n<td><p class="first"><strong>Python Balkan</strong> (Bojan 
- Jovanovic)</p>\n<p>A draft of the protocol of communication for python com
- munities in\nBalkan. Bojan (Python Developer and founder of Kortechs) from
-  Belgrade\nhas a reputation for creating interesting python meetups in Bel
- grade.\nThis time he would like to scale this up a bit by giving every\nco
- mmunity in the Balkan region the tools needed to upgrade their game\na bit
-  by giving the community organizers a way of acquiring quality\ncontent tr
- ough sharing.</p>\n<p class="last"><a class="reference external" href="htt
- ps://docs.google.com/presentation/d/15y01HRcjBJP_1SZoGg-0ikxgoCG463qdJtmj0
- gfcSLI/present">Slides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</
- th>\n<td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
+  common used tools for numerical data.</p>\n<p><a class="reference externa
+ l" href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-p
+ ython-balkan/numpy-slides.html">Slides</a>.</p>\n<!--<p><a class="referenc
+ e external" href="http://ropython.ro/2018/03/06/numerical-computing-in-pyt
+ hon-and-python-balkan/Digraph.png">blah</a>\n<a class="reference external"
+  href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-pyt
+ hon-balkan/heat_field.png">blah</a>\n<a class="reference external" href="h
+ ttp://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balk
+ an/matrix.png">blah</a>\n<a class="reference external" href="http://ropyth
+ on.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/numpy_bro
+ adcasting.png">blah</a></p>\n<div class="last">--></div></td>\n</tr>\n<tr>
+ <th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="stub">7:
+ 30</th>\n<td><p class="first"><strong>Python Balkan</strong> (Bojan Jovano
+ vic)</p>\n<p>A draft of the protocol of communication for python communiti
+ es in\nBalkan. Bojan (Python Developer and founder of Kortechs) from Belgr
+ ade\nhas a reputation for creating interesting python meetups in Belgrade.
+ \nThis time he would like to scale this up a bit by giving every\ncommunit
+ y in the Balkan region the tools needed to upgrade their game\na bit by gi
+ ving the community organizers a way of acquiring quality\ncontent trough s
+ haring.</p>\n<p class="last"><a class="reference external" href="https://d
+ ocs.google.com/presentation/d/15y01HRcjBJP_1SZoGg-0ikxgoCG463qdJtmj0gfcSLI
+ /present">Slides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<
+ td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
 LOCATION:Calea Motilor 62 - 1st floor\, Cluj-Napoca\, Romania
 PRIORITY:5
 URL:http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python
@@ -58,21 +66,29 @@ X-ALT-DESC;FMTTYPE=text/html:<div class="section" id="schedule">\n<h2>Sche
  tening established tools\nlike matlab.</p>\n<p>Python's scientific ecosyst
  em is based on a common data type: the\nmighty numpy array.</p>\n<p>We wil
  l introduce you to the numpy library\, and along the way show off\nsome ot
- her common used tools for numerical data.</p>\n<p class="last"><a class="r
- eference external" href="http://ropython.ro/2018/03/06/numerical-computing
- -in-python-and-python-balkan/numpy-slides.html">Slides</a>.</p>\n</td>\n</
- tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class=
- "stub">7:30</th>\n<td><p class="first"><strong>Python Balkan</strong> (Boj
- an Jovanovic)</p>\n<p>A draft of the protocol of communication for python 
- communities in\nBalkan. Bojan (Python Developer and founder of Kortechs) f
- rom Belgrade\nhas a reputation for creating interesting python meetups in 
- Belgrade.\nThis time he would like to scale this up a bit by giving every\
- ncommunity in the Balkan region the tools needed to upgrade their game\na 
- bit by giving the community organizers a way of acquiring quality\ncontent
-  trough sharing.</p>\n<p class="last"><a class="reference external" href="
- https://docs.google.com/presentation/d/15y01HRcjBJP_1SZoGg-0ikxgoCG463qdJt
- mj0gfcSLI/present">Slides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:1
- 5</th>\n<td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
+ her common used tools for numerical data.</p>\n<p><a class="reference exte
+ rnal" href="http://ropython.ro/2018/03/06/numerical-computing-in-python-an
+ d-python-balkan/numpy-slides.html">Slides</a>.</p>\n<!--<p><a class="refer
+ ence external" href="http://ropython.ro/2018/03/06/numerical-computing-in-
+ python-and-python-balkan/Digraph.png">blah</a>\n<a class="reference extern
+ al" href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-
+ python-balkan/heat_field.png">blah</a>\n<a class="reference external" href
+ ="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-b
+ alkan/matrix.png">blah</a>\n<a class="reference external" href="http://rop
+ ython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/numpy_
+ broadcasting.png">blah</a></p>\n<div class="last">--></div></td>\n</tr>\n<
+ tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="stub"
+ >7:30</th>\n<td><p class="first"><strong>Python Balkan</strong> (Bojan Jov
+ anovic)</p>\n<p>A draft of the protocol of communication for python commun
+ ities in\nBalkan. Bojan (Python Developer and founder of Kortechs) from Be
+ lgrade\nhas a reputation for creating interesting python meetups in Belgra
+ de.\nThis time he would like to scale this up a bit by giving every\ncommu
+ nity in the Balkan region the tools needed to upgrade their game\na bit by
+  giving the community organizers a way of acquiring quality\ncontent troug
+ h sharing.</p>\n<p class="last"><a class="reference external" href="https:
+ //docs.google.com/presentation/d/15y01HRcjBJP_1SZoGg-0ikxgoCG463qdJtmj0gfc
+ SLI/present">Slides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>
+ \n<td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ansible - test driven infrastructure and Nemutam.com - script to s
