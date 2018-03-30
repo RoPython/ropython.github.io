@@ -42,6 +42,19 @@ Schedule
 
         `Slides <{attach}numpy-slides.html>`__.
 
+        .. raw:: html
+
+            <!--
+
+        `blah <{attach}Digraph.png>`__
+        `blah <{attach}heat_field.png>`__
+        `blah <{attach}matrix.png>`__
+        `blah <{attach}numpy_broadcasting.png>`__
+
+        .. raw:: html
+
+            -->
+
     * - 7:15
       - Break
 
