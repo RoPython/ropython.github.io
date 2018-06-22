@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/timisoara.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2017-12-12T00:00:00+02:00</updated><entry><title>RoPython Meetup #3</title><link href="http://ropython.ro/2017/12/12/ropython-meetup-3/" rel="alternate"></link><updated>2017-12-12T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-12-12:2017/12/12/ropython-meetup-3/</id><summary type="html">&lt;p&gt;Join us at the next Python Meetup on the 12th of December, at the
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/timisoara.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2018-06-20T00:00:00+03:00</updated><entry><title>RoPython #4 - Async Python</title><link href="http://ropython.ro/2018/06/20/ropython-4-async-python/" rel="alternate"></link><updated>2018-06-20T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2018-06-20:2018/06/20/ropython-4-async-python/</id><summary type="html">&lt;p&gt;Join us at the next Python Meetup on the 20th of June, from 19:00. The
+location will be announced.&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;What the heck is this &lt;cite&gt;async def&lt;/cite&gt; and why is it awesome? - Radu Ciorba&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="prezentari"></category></entry><entry><title>RoPython Meetup #3</title><link href="http://ropython.ro/2017/12/12/ropython-meetup-3/" rel="alternate"></link><updated>2017-12-12T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-12-12:2017/12/12/ropython-meetup-3/</id><summary type="html">&lt;p&gt;Join us at the next Python Meetup on the 12th of December, at the
 Startup Hub, from 18:30.&lt;/p&gt;
 &lt;p&gt;Because many of you expressed an interest in data science, Kienka Kio
 will present a &amp;quot;Holistic View of Data Science&amp;quot;.&lt;/p&gt;

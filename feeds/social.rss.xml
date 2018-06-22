@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/social.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 26 Sep 2017 00:00:00 +0300</lastBuildDate><item><title>A beer retrospective</title><link>http://ropython.ro/2017/09/26/a-beer-retrospective/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/social.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 05 Jul 2018 00:00:00 +0300</lastBuildDate><item><title>A beer gathering</title><link>http://ropython.ro/2018/07/05/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+Python and anything interesting like those discounted tickets at PyCon
+Balkan and plans for the next meetup.&lt;/p&gt;
+&lt;p&gt;Reserved table is in the interior. Preordering food is possible (leave
+a message).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 05 Jul 2018 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2018-07-05:2018/07/05/a-beer-gathering/</guid><category>social</category></item><item><title>A beer retrospective</title><link>http://ropython.ro/2017/11/02/a-beer-retrospective/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+Python and anything interesting.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 02 Nov 2017 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2017-11-02:2017/11/02/a-beer-retrospective/</guid><category>social</category></item><item><title>A beer retrospective</title><link>http://ropython.ro/2017/09/26/a-beer-retrospective/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
 Python and anything interesting.&lt;/p&gt;
 &lt;p&gt;We'll have one special guest: Gabriel Muj. Will he get drunk enough to
 tell us the sad story of leaving highschool teaching career for Python

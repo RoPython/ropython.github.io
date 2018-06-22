@@ -2,6 +2,44 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:RoPython
 BEGIN:VEVENT
+SUMMARY:A beer gathering
+DTSTART:20180705T160000Z
+DTEND:20180705T200000Z
+UID:2018/07/05/a-beer-gathering/
+DESCRIPTION;ALTREP="http://ropython.ro/2018/07/05/a-beer-gathering/":<p>Ju
+ st a gathering over beers and/or other tasty stuff to talk about\nPython a
+ nd anything interesting like those discounted tickets at PyCon\nBalkan and
+  plans for the next meetup.</p>\n<p>Reserved table is in the interior. Pre
+ ordering food is possible (leave\na message).</p>\n
+LOCATION:Cardinal Iuliu Hossu 30-32\, Cluj-Napoca\, Romania
+PRIORITY:5
+URL:http://ropython.ro/2018/07/05/a-beer-gathering/
+X-ALT-DESC;FMTTYPE=text/html:<p>Just a gathering over beers and/or other t
+ asty stuff to talk about\nPython and anything interesting like those disco
+ unted tickets at PyCon\nBalkan and plans for the next meetup.</p>\n<p>Rese
+ rved table is in the interior. Preordering food is possible (leave\na mess
+ age).</p>\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RoPython #4 - Async Python
+DTSTART:20180620T160000Z
+DTEND:20180620T180000Z
+UID:2018/06/20/ropython-4-async-python/
+DESCRIPTION;ALTREP="http://ropython.ro/2018/06/20/ropython-4-async-python/
+ ":<p>Join us at the next Python Meetup on the 20th of June\, from 19:00. T
+ he\nlocation will be announced.</p>\n<p>Agenda:</p>\n<ul class="simple">\n
+ <li>What the heck is this <cite>async def</cite> and why is it awesome? - 
+ Radu Ciorba</li>\n</ul>\n
+LOCATION:10th\, C. Brediceanu St.\, E Building\, Timisoara\, Timisoara\, R
+ omania
+PRIORITY:5
+URL:http://ropython.ro/2018/06/20/ropython-4-async-python/
+X-ALT-DESC;FMTTYPE=text/html:<p>Join us at the next Python Meetup on the 2
+ 0th of June\, from 19:00. The\nlocation will be announced.</p>\n<p>Agenda:
+ </p>\n<ul class="simple">\n<li>What the heck is this <cite>async def</cite
+ > and why is it awesome? - Radu Ciorba</li>\n</ul>\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Numerical computing in Python and Python Balkan
 DTSTART:20180306T160000Z
 DTEND:20180306T183000Z

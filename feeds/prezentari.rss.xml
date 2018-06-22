@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/prezentari.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 06 Mar 2018 00:00:00 +0200</lastBuildDate><item><title>Numerical computing in Python and Python Balkan</title><link>http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/</link><description>&lt;div class="section" id="schedule"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/prezentari.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 20 Jun 2018 00:00:00 +0300</lastBuildDate><item><title>RoPython #4 - Async Python</title><link>http://ropython.ro/2018/06/20/ropython-4-async-python/</link><description>&lt;p&gt;Join us at the next Python Meetup on the 20th of June, from 19:00. The
+location will be announced.&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;What the heck is this &lt;cite&gt;async def&lt;/cite&gt; and why is it awesome? - Radu Ciorba&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Wed, 20 Jun 2018 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2018-06-20:2018/06/20/ropython-4-async-python/</guid><category>prezentari</category></item><item><title>Numerical computing in Python and Python Balkan</title><link>http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/</link><description>&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
@@ -135,9 +141,7 @@ sneak peek into Hunter the tracing framework.&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 07 Dec 2017 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2017-12-07:2017/12/07/async-tasks-with-dramatiq-and-tracing-in-python/</guid><category>prezentari</category></item><item><title>A beer retrospective</title><link>http://ropython.ro/2017/11/02/a-beer-retrospective/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
-Python and anything interesting.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 02 Nov 2017 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2017-11-02:2017/11/02/a-beer-retrospective/</guid><category>prezentari</category></item><item><title>RoPython Meetup #2</title><link>http://ropython.ro/2017/10/31/ropython-meetup-2/</link><description>&lt;p&gt;The next meetup will take place on the 31st of October.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 07 Dec 2017 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2017-12-07:2017/12/07/async-tasks-with-dramatiq-and-tracing-in-python/</guid><category>prezentari</category></item><item><title>RoPython Meetup #2</title><link>http://ropython.ro/2017/10/31/ropython-meetup-2/</link><description>&lt;p&gt;The next meetup will take place on the 31st of October.&lt;/p&gt;
 &lt;p&gt;Agenda:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p class="first"&gt;Gabriel Trautmann presenting techniques for optimizing Python code in

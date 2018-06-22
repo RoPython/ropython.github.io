@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/cluj.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2018-03-06T00:00:00+02:00</updated><entry><title>Numerical computing in Python and Python Balkan</title><link href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/" rel="alternate"></link><updated>2018-03-06T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2018-03-06:2018/03/06/numerical-computing-in-python-and-python-balkan/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/cluj.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2018-07-05T00:00:00+03:00</updated><entry><title>A beer gathering</title><link href="http://ropython.ro/2018/07/05/a-beer-gathering/" rel="alternate"></link><updated>2018-07-05T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2018-07-05:2018/07/05/a-beer-gathering/</id><summary type="html">&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+Python and anything interesting like those discounted tickets at PyCon
+Balkan and plans for the next meetup.&lt;/p&gt;
+&lt;p&gt;Reserved table is in the interior. Preordering food is possible (leave
+a message).&lt;/p&gt;
+</summary><category term="social"></category></entry><entry><title>Numerical computing in Python and Python Balkan</title><link href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/" rel="alternate"></link><updated>2018-03-06T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2018-03-06:2018/03/06/numerical-computing-in-python-and-python-balkan/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
@@ -133,7 +138,7 @@ sneak peek into Hunter the tracing framework.&lt;/p&gt;
 &lt;/div&gt;
 </summary><category term="prezentari"></category></entry><entry><title>A beer retrospective</title><link href="http://ropython.ro/2017/11/02/a-beer-retrospective/" rel="alternate"></link><updated>2017-11-02T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-11-02:2017/11/02/a-beer-retrospective/</id><summary type="html">&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
 Python and anything interesting.&lt;/p&gt;
-</summary><category term="prezentari"></category></entry><entry><title>Pytest workshop</title><link href="http://ropython.ro/2017/10/21/pytest-workshop/" rel="alternate"></link><updated>2017-10-21T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-10-21:2017/10/21/pytest-workshop/</id><summary type="html">&lt;p&gt;Hello everyone,&lt;/p&gt;
+</summary><category term="social"></category></entry><entry><title>Pytest workshop</title><link href="http://ropython.ro/2017/10/21/pytest-workshop/" rel="alternate"></link><updated>2017-10-21T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-10-21:2017/10/21/pytest-workshop/</id><summary type="html">&lt;p&gt;Hello everyone,&lt;/p&gt;
 &lt;p&gt;We're back in action with a Pytest workshop. It's going to take about
 2-3 hours and there will be pizza &amp;amp; drinks provided by Yonder.&lt;/p&gt;
 &lt;p&gt;The only requirement is to bring a laptop with Python installed.&lt;/p&gt;

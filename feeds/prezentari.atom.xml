@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/prezentari.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2018-03-06T00:00:00+02:00</updated><entry><title>Numerical computing in Python and Python Balkan</title><link href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/" rel="alternate"></link><updated>2018-03-06T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2018-03-06:2018/03/06/numerical-computing-in-python-and-python-balkan/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/prezentari.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2018-06-20T00:00:00+03:00</updated><entry><title>RoPython #4 - Async Python</title><link href="http://ropython.ro/2018/06/20/ropython-4-async-python/" rel="alternate"></link><updated>2018-06-20T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2018-06-20:2018/06/20/ropython-4-async-python/</id><summary type="html">&lt;p&gt;Join us at the next Python Meetup on the 20th of June, from 19:00. The
+location will be announced.&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;What the heck is this &lt;cite&gt;async def&lt;/cite&gt; and why is it awesome? - Radu Ciorba&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="prezentari"></category></entry><entry><title>Numerical computing in Python and Python Balkan</title><link href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/" rel="alternate"></link><updated>2018-03-06T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2018-03-06:2018/03/06/numerical-computing-in-python-and-python-balkan/</id><summary type="html">&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
@@ -135,8 +141,6 @@ sneak peek into Hunter the tracing framework.&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="prezentari"></category></entry><entry><title>A beer retrospective</title><link href="http://ropython.ro/2017/11/02/a-beer-retrospective/" rel="alternate"></link><updated>2017-11-02T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-11-02:2017/11/02/a-beer-retrospective/</id><summary type="html">&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
-Python and anything interesting.&lt;/p&gt;
 </summary><category term="prezentari"></category></entry><entry><title>RoPython Meetup #2</title><link href="http://ropython.ro/2017/10/31/ropython-meetup-2/" rel="alternate"></link><updated>2017-10-31T00:00:00+02:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2017-10-31:2017/10/31/ropython-meetup-2/</id><summary type="html">&lt;p&gt;The next meetup will take place on the 31st of October.&lt;/p&gt;
 &lt;p&gt;Agenda:&lt;/p&gt;
 &lt;ul&gt;
