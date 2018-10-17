@@ -27,7 +27,7 @@ Schedule
         and reliability of web services using Dramatiq (an alternative to
         Celery) and RabbitMQ.
 
-        `Video <https://www.youtube.com/watch?v=mrG9ZwLxb0g&t=129s&list=PL2Arun8D--P_rDD6m5vQF18JKCPmYbXd6&index=2>`__ and `Slides <https://blog.ionelmc.ro/presentations/tracing-in-python/>`__.
+        `Video <https://www.youtube.com/watch?v=mrG9ZwLxb0g&t=129s&list=PL2Arun8D--P_rDD6m5vQF18JKCPmYbXd6&index=2>`__ and `Slides <http://slides.com/bogdanpopa/dramatiq/>`__.
     * - 7:15
       - Break
     * - 7:30
