@@ -227,18 +227,18 @@ DESCRIPTION;ALTREP="http://ropython.ro/2017/12/07/async-tasks-with-dramati
  ive to\nCelery) and RabbitMQ.</p>\n<p class="last"><a class="reference ext
  ernal" href="https://www.youtube.com/watch?v=mrG9ZwLxb0g&amp\;t=129s&amp\;
  list=PL2Arun8D--P_rDD6m5vQF18JKCPmYbXd6&amp\;index=2">Video</a> and <a cla
- ss="reference external" href="https://blog.ionelmc.ro/presentations/tracin
- g-in-python/">Slides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">7:15</th
- >\n<td>Break</td>\n</tr>\n<tr><th class="stub">7:30</th>\n<td><p class="fi
- rst"><strong>Tracing in Python</strong> (<a class="reference external" hre
- f="https://github.com/ionelmc">Ionel Cristian Mărieș</a>)</p>\n<p>This t
- alk will explore Python's tracing API (sys.settrace) and give a\nsneak pee
- k into Hunter the tracing framework.</p>\n<p class="last"><a class="refere
- nce external" href="https://www.youtube.com/watch?v=d-qbVkdzUlM&amp\;list=
- PL2Arun8D--P_rDD6m5vQF18JKCPmYbXd6&amp\;index=1">Video</a> and <a class="r
- eference external" href="https://blog.ionelmc.ro/presentations/tracing-in-
- python/">Slides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<t
- d>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
+ ss="reference external" href="http://slides.com/bogdanpopa/dramatiq/">Slid
+ es</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\
+ n</tr>\n<tr><th class="stub">7:30</th>\n<td><p class="first"><strong>Traci
+ ng in Python</strong> (<a class="reference external" href="https://github.
+ com/ionelmc">Ionel Cristian Mărieș</a>)</p>\n<p>This talk will explore P
+ ython's tracing API (sys.settrace) and give a\nsneak peek into Hunter the 
+ tracing framework.</p>\n<p class="last"><a class="reference external" href
+ ="https://www.youtube.com/watch?v=d-qbVkdzUlM&amp\;list=PL2Arun8D--P_rDD6m
+ 5vQF18JKCPmYbXd6&amp\;index=1">Video</a> and <a class="reference external"
+  href="https://blog.ionelmc.ro/presentations/tracing-in-python/">Slides</a
+ >.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<td>Closing</td>\n</
+ tr>\n</tbody>\n</table>\n</div>\n
 LOCATION:Nr. 77\, 21 Decembrie 1989\, The office\, Cluj-Napoca\, Romania (
  Corp. A\, floor 1\, Yonder)
 PRIORITY:5
@@ -257,18 +257,18 @@ X-ALT-DESC;FMTTYPE=text/html:<div class="section" id="schedule">\n<h2>Sche
  native to\nCelery) and RabbitMQ.</p>\n<p class="last"><a class="reference 
  external" href="https://www.youtube.com/watch?v=mrG9ZwLxb0g&amp\;t=129s&am
  p\;list=PL2Arun8D--P_rDD6m5vQF18JKCPmYbXd6&amp\;index=2">Video</a> and <a 
- class="reference external" href="https://blog.ionelmc.ro/presentations/tra
- cing-in-python/">Slides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">7:15<
- /th>\n<td>Break</td>\n</tr>\n<tr><th class="stub">7:30</th>\n<td><p class=
- "first"><strong>Tracing in Python</strong> (<a class="reference external" 
- href="https://github.com/ionelmc">Ionel Cristian Mărieș</a>)</p>\n<p>Thi
- s talk will explore Python's tracing API (sys.settrace) and give a\nsneak 
- peek into Hunter the tracing framework.</p>\n<p class="last"><a class="ref
- erence external" href="https://www.youtube.com/watch?v=d-qbVkdzUlM&amp\;li
- st=PL2Arun8D--P_rDD6m5vQF18JKCPmYbXd6&amp\;index=1">Video</a> and <a class
- ="reference external" href="https://blog.ionelmc.ro/presentations/tracing-
- in-python/">Slides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\
- n<td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
+ class="reference external" href="http://slides.com/bogdanpopa/dramatiq/">S
+ lides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">7:15</th>\n<td>Break</t
+ d>\n</tr>\n<tr><th class="stub">7:30</th>\n<td><p class="first"><strong>Tr
+ acing in Python</strong> (<a class="reference external" href="https://gith
+ ub.com/ionelmc">Ionel Cristian Mărieș</a>)</p>\n<p>This talk will explor
+ e Python's tracing API (sys.settrace) and give a\nsneak peek into Hunter t
+ he tracing framework.</p>\n<p class="last"><a class="reference external" h
+ ref="https://www.youtube.com/watch?v=d-qbVkdzUlM&amp\;list=PL2Arun8D--P_rD
+ D6m5vQF18JKCPmYbXd6&amp\;index=1">Video</a> and <a class="reference extern
+ al" href="https://blog.ionelmc.ro/presentations/tracing-in-python/">Slides
+ </a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<td>Closing</td>\
+ n</tr>\n</tbody>\n</table>\n</div>\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A beer retrospective

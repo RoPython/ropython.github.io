@@ -127,7 +127,7 @@ will present a &amp;quot;Holistic View of Data Science&amp;quot;.&lt;/p&gt;
 &lt;p&gt;How to leverage distributed task processing to improve the performance
 and reliability of web services using Dramatiq (an alternative to
 Celery) and RabbitMQ.&lt;/p&gt;
-&lt;p class="last"&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=mrG9ZwLxb0g&amp;amp;t=129s&amp;amp;list=PL2Arun8D--P_rDD6m5vQF18JKCPmYbXd6&amp;amp;index=2"&gt;Video&lt;/a&gt; and &lt;a class="reference external" href="https://blog.ionelmc.ro/presentations/tracing-in-python/"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=mrG9ZwLxb0g&amp;amp;t=129s&amp;amp;list=PL2Arun8D--P_rDD6m5vQF18JKCPmYbXd6&amp;amp;index=2"&gt;Video&lt;/a&gt; and &lt;a class="reference external" href="http://slides.com/bogdanpopa/dramatiq/"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
