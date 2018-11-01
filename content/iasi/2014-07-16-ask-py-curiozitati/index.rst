@@ -1,4 +1,4 @@
-﻿Ask.py #1 Curiozități
+Ask.py #1 Curiozități
 #####################
 
 :tags: social

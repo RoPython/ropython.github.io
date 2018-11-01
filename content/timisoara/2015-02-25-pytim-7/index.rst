@@ -1,4 +1,4 @@
-﻿PyTim #7
+PyTim #7
 ########
 
 :tags: prezentari
@@ -35,12 +35,8 @@ Here is the Agenda:
       - Coffee Break
       -
     - - 19:50 - 20:15
-      - Vlad Temian (`PressLabs <http://www.presslabs.com>`__﻿)
+      - Vlad Temian (`PressLabs <http://www.presslabs.com>`__)
       - GitFS
-
-..
-
-    Session descriptions coming soon.
 
 The new venue is Timisoara Startup Hub and the date is February 25!
 

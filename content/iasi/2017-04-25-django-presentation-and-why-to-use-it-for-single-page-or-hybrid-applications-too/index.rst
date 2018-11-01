@@ -1,4 +1,4 @@
-﻿Django presentation and why to use it for single page or hybrid applications too
+Django presentation and why to use it for single page or hybrid applications too
 ################################################################################
 
 :tags: prezentari

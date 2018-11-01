@@ -1,4 +1,4 @@
-﻿Sprint #15
+Sprint #15
 ##########
 
 :tags: sprint

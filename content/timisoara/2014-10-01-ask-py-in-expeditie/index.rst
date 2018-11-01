@@ -1,4 +1,4 @@
-﻿Ask.py #3 - În expediție
+Ask.py #3 - În expediție
 ########################
 
 :tags: social

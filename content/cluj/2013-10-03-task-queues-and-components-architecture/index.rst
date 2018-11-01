@@ -1,4 +1,4 @@
-﻿Task queues and components architecture
+Task queues and components architecture
 #######################################
 
 :tags: prezentari

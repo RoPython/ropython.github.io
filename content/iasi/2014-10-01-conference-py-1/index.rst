@@ -1,4 +1,4 @@
-﻿Conference.py #1 @Iași
+Conference.py #1 @Iași
 ######################
 
 :tags: conferinta

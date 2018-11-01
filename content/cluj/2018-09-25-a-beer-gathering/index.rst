@@ -5,7 +5,7 @@ A beer gathering
 :registration:
     meetup.com: https://www.meetup.com/RoPython-Cluj/events/254578725/
 :start: 2018-09-25 19:00
-:duration: 4.0h
+:duration: 4h
 :location: Cardinal Iuliu Hossu 30-32, Cluj-Napoca, Romania
 
 Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.

@@ -1,4 +1,4 @@
-﻿Training.py - La tine în liceu
+Training.py - La tine în liceu
 ##############################
 
 :tags: workshop

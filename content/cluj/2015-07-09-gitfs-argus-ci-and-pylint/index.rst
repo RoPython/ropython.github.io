@@ -1,4 +1,4 @@
-﻿Gitfs, Argus CI and Pylint
+Gitfs, Argus CI and Pylint
 ##########################
 
 :tags: prezentari

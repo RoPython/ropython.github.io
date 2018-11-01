@@ -1,4 +1,4 @@
-﻿Packaging and Flowy
+Packaging and Flowy
 ###################
 
 :tags: prezentari

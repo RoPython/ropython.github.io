@@ -1,4 +1,4 @@
-﻿Python Cluj first meetup
+Python Cluj first meetup
 ########################
 
 :tags: social

@@ -1,4 +1,4 @@
-﻿Sprint #17
+Sprint #17
 ##########
 
 :tags: sprint

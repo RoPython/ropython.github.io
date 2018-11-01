@@ -1,4 +1,4 @@
-﻿Decorators and Workflows
+Decorators and Workflows
 ########################
 
 :tags: prezentari

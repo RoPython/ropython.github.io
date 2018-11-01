@@ -1,4 +1,4 @@
-﻿PyTim #1
+PyTim #1
 ########
 
 :tags: prezentari

@@ -1,4 +1,4 @@
-﻿Workshop #2 - Expediție în cloud computing, programare funcțională și altele
+Workshop #2 - Expediție în cloud computing, programare funcțională și altele
 ############################################################################
 
 :tags: workshop

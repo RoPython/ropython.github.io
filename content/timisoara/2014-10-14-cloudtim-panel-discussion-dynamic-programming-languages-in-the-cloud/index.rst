@@ -1,4 +1,4 @@
-﻿CloudTim Panel discussion: Dynamic Programming Languages in the Cloud
+CloudTim Panel discussion: Dynamic Programming Languages in the Cloud
 #####################################################################
 
 :tags: prezentari

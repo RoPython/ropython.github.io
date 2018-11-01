@@ -1,4 +1,4 @@
-﻿Workshop #1 - Python pentru dezvoltarea aplicațiilor web
+Workshop #1 - Python pentru dezvoltarea aplicațiilor web
 ########################################################
 
 :tags: Workshop

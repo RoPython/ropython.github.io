@@ -1,4 +1,4 @@
-﻿Despre
+Despre
 ######
 
 Suntem o comunitate dedicată limbajului Python și promovării lui pe plan local și național.

@@ -1,4 +1,4 @@
-﻿RoPython Timisoara #1
+RoPython Timisoara #1
 #####################
 
 :tags: prezentari
