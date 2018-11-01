@@ -2,7 +2,10 @@ import io
 import os
 import subprocess
 import tempfile
-from cStringIO import StringIO
+try:
+    from cStringIO import StringIO
+except ImportError:
+    from io import StringIO
 from datetime import datetime, timedelta
 from glob import glob
 
@@ -10,7 +13,7 @@ import click
 from cachecontrol import CacheControl
 from cachecontrol.caches import FileCache
 from cachecontrol.heuristics import ExpiresAfter
-from html2rest import html2rest
+from creole import html2rest
 from pelican.utils import slugify
 from prompt_toolkit.contrib.completers import WordCompleter
 from prompt_toolkit.shortcuts import get_input
@@ -58,9 +61,9 @@ def main(group_id, location, time_boundary, event_status, pandoc, force):
 
     while True:
         resp = requests.get('https://api.meetup.com/status', params=dict(key=key))
-        if resp.status_code == 200:
+        if resp.status_code == 200 and resp.json().get('status') == 'ok':
             break
-        elif resp.status_code == 401:
+        elif resp.status_code == 200 and any('auth_fail' == e.code for e in resp.json().get('errors', [])):
             click.echo(
                 'Your meetup.com key is required. You can get it from https://secure.meetup.com/meetup_api/key/\n')
 
@@ -70,7 +73,7 @@ def main(group_id, location, time_boundary, event_status, pandoc, force):
             click.echo('')
             key = click.prompt('Key', hide_input=True)
         else:
-            click.fail('Failed to get meetup.com status. Response was {!r}'.format(resp.text))
+            raise click.ClickException('Failed to get meetup.com status. Response was {!r} {!r}'.format(resp.status_code, resp.text))
 
     click.secho('For convenience your key is saved in `{}`.\n'.format(key_path), fg='magenta')
     with open(key_path, 'w') as fh:
@@ -129,9 +132,7 @@ def main(group_id, location, time_boundary, event_status, pandoc, force):
                 rst = subprocess.check_output(['pandoc', '--from=html', '--to=rst', fh.name]).decode('utf-8')
                 os.unlink(fh.name)
             else:
-                stream = StringIO()
-                html2rest(event['description'].encode('utf-8'), writer=stream)
-                rst = stream.getvalue().decode('utf-8')
+                rst = html2rest(event['description'])
 
             doc = u'''{name}
 ###############################################################
@@ -141,7 +142,7 @@ def main(group_id, location, time_boundary, event_status, pandoc, force):
     meetup.com: {event_url}
 :start: {time}
 :duration: {duration}
-:location: {venue[address_1]}, {venue[city]}, {venue[localized_country_name]}  
+:location: {venue[address_1]}, {venue[city]}, {venue[localized_country_name]}
 
 {rst}'''.format(rst=rst, **event)
             with io.open(target_path, 'w', encoding='utf-8') as fh:
