@@ -2,6 +2,78 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:RoPython
 BEGIN:VEVENT
+SUMMARY:Going serverless with AWS &amp\; Deploying your Python apps using 
+ Dokku
+DTSTART:20190226T160000Z
+DTEND:20190226T180000Z
+UID:2019/02/26/going-serverless-with-aws-deploying-your-python-apps-using-
+ dokku/
+DESCRIPTION;ALTREP="http://ropython.ro/2019/02/26/going-serverless-with-aw
+ s-deploying-your-python-apps-using-dokku/":<div class="section" id="schedu
+ le">\n<h2>Schedule<a class="headerlink" href="#schedule" title="Permalink 
+ to this headline">*</a></h2>\n<table border="1" class="colwidths-given doc
+ utils">\n<colgroup>\n<col width="10%" />\n<col width="90%" />\n</colgroup>
+ \n<tbody valign="top">\n<tr><th class="stub">6PM</th>\n<td><p class="first
+ ">Entry</p>\n<p class="last">A bit of socializing. There will be snacks an
+ d beverages\, courtesy of QCatalyst.</p>\n</td>\n</tr>\n<tr><th class="stu
+ b">6:30</th>\n<td><p class="first"><strong>Going serverless with AWS</stro
+ ng> (Cristian Robert)</p>\n<p class="last">A developer jumps on the ‘ser
+ verless’ bandwagon. We’ll take a look at the process and tools availab
+ le to develop applications that run on AWS serverless computing technology
+ .</p>\n</td>\n</tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>
+ \n<tr><th class="stub">7:30</th>\n<td><p class="first"><strong>Deploying y
+ our Python apps using Dokku and Digital Ocean</strong> (Angel Ramboi)</p>\
+ n<p class="last">How to deploy your very own PaaS on a Digital Ocean dropl
+ et using Dokku (<a class="reference external" href="https://github.com/dok
+ ku/dokku/">https://github.com/dokku/dokku/</a>) a Docker powered &quot\;po
+ or mans&quot\; mini Heroku bash script. +Demo: setup a simple Python app a
+ nd deploy it using git (and if we have time automate this using Gitlab CI/
+ CD).</p>\n</td>\n</tr>\n<tr><th class="stub">8:00</th>\n<td>Closing</td>\n
+ </tr>\n</tbody>\n</table>\n</div>\n
+LOCATION:The Office\, corp C\, sala C\, Cluj-Napoca\, Romania
+PRIORITY:5
+URL:http://ropython.ro/2019/02/26/going-serverless-with-aws-deploying-your
+ -python-apps-using-dokku/
+X-ALT-DESC;FMTTYPE=text/html:<div class="section" id="schedule">\n<h2>Sche
+ dule<a class="headerlink" href="#schedule" title="Permalink to this headli
+ ne">*</a></h2>\n<table border="1" class="colwidths-given docutils">\n<colg
+ roup>\n<col width="10%" />\n<col width="90%" />\n</colgroup>\n<tbody valig
+ n="top">\n<tr><th class="stub">6PM</th>\n<td><p class="first">Entry</p>\n<
+ p class="last">A bit of socializing. There will be snacks and beverages\, 
+ courtesy of QCatalyst.</p>\n</td>\n</tr>\n<tr><th class="stub">6:30</th>\n
+ <td><p class="first"><strong>Going serverless with AWS</strong> (Cristian 
+ Robert)</p>\n<p class="last">A developer jumps on the ‘serverless’ ban
+ dwagon. We’ll take a look at the process and tools available to develop 
+ applications that run on AWS serverless computing technology.</p>\n</td>\n
+ </tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th clas
+ s="stub">7:30</th>\n<td><p class="first"><strong>Deploying your Python app
+ s using Dokku and Digital Ocean</strong> (Angel Ramboi)</p>\n<p class="las
+ t">How to deploy your very own PaaS on a Digital Ocean droplet using Dokku
+  (<a class="reference external" href="https://github.com/dokku/dokku/">htt
+ ps://github.com/dokku/dokku/</a>) a Docker powered &quot\;poor mans&quot\;
+  mini Heroku bash script. +Demo: setup a simple Python app and deploy it u
+ sing git (and if we have time automate this using Gitlab CI/CD).</p>\n</td
+ >\n</tr>\n<tr><th class="stub">8:00</th>\n<td>Closing</td>\n</tr>\n</tbody
+ >\n</table>\n</div>\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A beer gathering
+DTSTART:20181213T170000Z
+DTEND:20181213T190000Z
+UID:2018/12/13/a-beer-gathering/
+DESCRIPTION;ALTREP="http://ropython.ro/2018/12/13/a-beer-gathering/":<p>Ju
+ st a gathering over beers and/or other tasty stuff to talk about Python an
+ d anything interesting.</p>\n<p>Reserved table is in the interior. Pre-ord
+ ering food is possible (leave a message).</p>\n
+LOCATION:Cardinal Iuliu Hossu 30-32\, Cluj-Napoca\, Romania
+PRIORITY:5
+URL:http://ropython.ro/2018/12/13/a-beer-gathering/
+X-ALT-DESC;FMTTYPE=text/html:<p>Just a gathering over beers and/or other t
+ asty stuff to talk about Python and anything interesting.</p>\n<p>Reserved
+  table is in the interior. Pre-ordering food is possible (leave a message)
+ .</p>\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A beer gathering
 DTSTART:20181108T170000Z
 DTEND:20181108T190000Z

@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 08 Nov 2018 00:00:00 +0200</lastBuildDate><item><title>A beer gathering</title><link>http://ropython.ro/2018/11/08/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0200</lastBuildDate><item><title>Going serverless with AWS &amp; Deploying your Python apps using Dokku</title><link>http://ropython.ro/2019/02/26/going-serverless-with-aws-deploying-your-python-apps-using-dokku/</link><description>&lt;div class="section" id="schedule"&gt;
+&lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="90%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6PM&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Entry&lt;/p&gt;
+&lt;p class="last"&gt;A bit of socializing. There will be snacks and beverages, courtesy of QCatalyst.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Going serverless with AWS&lt;/strong&gt; (Cristian Robert)&lt;/p&gt;
+&lt;p class="last"&gt;A developer jumps on the ‘serverless’ bandwagon. We’ll take a look at the process and tools available to develop applications that run on AWS serverless computing technology.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Deploying your Python apps using Dokku and Digital Ocean&lt;/strong&gt; (Angel Ramboi)&lt;/p&gt;
+&lt;p class="last"&gt;How to deploy your very own PaaS on a Digital Ocean droplet using Dokku (&lt;a class="reference external" href="https://github.com/dokku/dokku/"&gt;https://github.com/dokku/dokku/&lt;/a&gt;) a Docker powered &amp;quot;poor mans&amp;quot; mini Heroku bash script. +Demo: setup a simple Python app and deploy it using git (and if we have time automate this using Gitlab CI/CD).&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;8:00&lt;/th&gt;
+&lt;td&gt;Closing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Tue, 26 Feb 2019 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2019-02-26:2019/02/26/going-serverless-with-aws-deploying-your-python-apps-using-dokku/</guid><category>prezentari</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2018/12/13/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.&lt;/p&gt;
+&lt;p&gt;Reserved table is in the interior. Pre-ordering food is possible (leave a message).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 13 Dec 2018 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2018-12-13:2018/12/13/a-beer-gathering/</guid><category>prezentari</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2018/12/13/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.&lt;/p&gt;
+&lt;p&gt;Reserved table is in the interior. Pre-ordering food is possible (leave a message).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 13 Dec 2018 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2018-12-13:2018/12/13/a-beer-gathering/</guid><category>prezentari</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2018/12/13/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.&lt;/p&gt;
+&lt;p&gt;Reserved table is in the interior. Pre-ordering food is possible (leave a message).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 13 Dec 2018 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2018-12-13:2018/12/13/a-beer-gathering/</guid><category>prezentari</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2018/12/13/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.&lt;/p&gt;
+&lt;p&gt;Reserved table is in the interior. Pre-ordering food is possible (leave a message).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 13 Dec 2018 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2018-12-13:2018/12/13/a-beer-gathering/</guid><category>prezentari</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2018/12/13/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.&lt;/p&gt;
+&lt;p&gt;Reserved table is in the interior. Pre-ordering food is possible (leave a message).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 13 Dec 2018 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2018-12-13:2018/12/13/a-beer-gathering/</guid><category>prezentari</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2018/11/08/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.&lt;/p&gt;
+&lt;p&gt;Reserved table is in the interior. Pre-ordering food is possible (leave a message).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 08 Nov 2018 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2018-11-08:2018/11/08/a-beer-gathering/</guid><category>social</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2018/11/08/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.&lt;/p&gt;
 &lt;p&gt;Reserved table is in the interior. Pre-ordering food is possible (leave a message).&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 08 Nov 2018 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2018-11-08:2018/11/08/a-beer-gathering/</guid><category>social</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2018/11/08/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.&lt;/p&gt;
 &lt;p&gt;Reserved table is in the interior. Pre-ordering food is possible (leave a message).&lt;/p&gt;
@@ -18,7 +62,14 @@
 &lt;p&gt;Reserved table is in the interior. Pre-ordering food is possible (leave a message).&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Tue, 25 Sep 2018 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2018-09-25:2018/09/25/a-beer-gathering/</guid><category>social</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2018/09/25/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.&lt;/p&gt;
 &lt;p&gt;Reserved table is in the interior. Pre-ordering food is possible (leave a message).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Tue, 25 Sep 2018 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2018-09-25:2018/09/25/a-beer-gathering/</guid><category>social</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2018/09/25/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.&lt;/p&gt;
+&lt;p&gt;Reserved table is in the interior. Pre-ordering food is possible (leave a message).&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Tue, 25 Sep 2018 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2018-09-25:2018/09/25/a-beer-gathering/</guid><category>social</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2018/07/05/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+Python and anything interesting like those discounted tickets at PyCon
+Balkan and plans for the next meetup.&lt;/p&gt;
+&lt;p&gt;Reserved table is in the interior. Preordering food is possible (leave
+a message).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 05 Jul 2018 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2018-07-05:2018/07/05/a-beer-gathering/</guid><category>social</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2018/07/05/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
 Python and anything interesting like those discounted tickets at PyCon
 Balkan and plans for the next meetup.&lt;/p&gt;
 &lt;p&gt;Reserved table is in the interior. Preordering food is possible (leave
@@ -140,6 +191,8 @@ performance.&lt;/p&gt;
 &lt;/table&gt;
 &lt;/div&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 15 Feb 2018 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2018-02-15:2018/02/15/ansible-test-driven-infrastructure-and-nemutamcom-script-to-search-engine/</guid><category>prezentari</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2017/12/19/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.&lt;/p&gt;
+&lt;p&gt;Will we find any mulled wine?&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Tue, 19 Dec 2017 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2017-12-19:2017/12/19/a-beer-gathering/</guid><category>social</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2017/12/19/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.&lt;/p&gt;
 &lt;p&gt;Will we find any mulled wine?&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Tue, 19 Dec 2017 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2017-12-19:2017/12/19/a-beer-gathering/</guid><category>social</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2017/12/19/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.&lt;/p&gt;
 &lt;p&gt;Will we find any mulled wine?&lt;/p&gt;
