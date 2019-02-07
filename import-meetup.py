@@ -8,6 +8,7 @@ except ImportError:
     from io import StringIO
 from datetime import datetime, timedelta
 from glob import glob
+from pprint import pformat
 
 import click
 from cachecontrol import CacheControl
@@ -30,7 +31,7 @@ def format_duration(duration):
         (seconds, 's'),
     ]:
         if val:
-            out.append('%s%s' % (val, unit))
+            out.append('%d%s' % (val, unit))
     return ' '.join(out)
 
 
@@ -112,7 +113,14 @@ def main(group_id, location, time_boundary, event_status, pandoc, force):
         dt = datetime.fromtimestamp(event['time'] / 1000)
         event['duration'] = format_duration(event.get('duration', 3600000) / 1000)
         event['time'] = dt.strftime('%Y-%m-%d %H:%M')
+        if 'how_to_find_us' in event:
+            address = event['how_to_find_us'],
+            address_1 = event['venue'].get('address_1')
+            if address_1:
+                address += address_1,
+            event['venue']['address_1'] = ', '.join(address)
         click.echo("{time}: {name}".format(**event))
+        click.echo("\t{}".format(pformat(event)))
         existing_path = glob(os.path.join('content', '*', dt.strftime('%Y-%m-%d*'), 'index.rst'))
         if existing_path and not force:
             if len(existing_path) > 1:
