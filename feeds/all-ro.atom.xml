@@ -14,7 +14,10 @@
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
 &lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Going serverless with AWS&lt;/strong&gt; (Cristian Robert)&lt;/p&gt;
-&lt;p class="last"&gt;A developer jumps on the ‘serverless’ bandwagon. We’ll take a look at the process and tools available to develop applications that run on AWS serverless computing technology.&lt;/p&gt;
+&lt;p&gt;A developer jumps on the ‘serverless’ bandwagon. We’ll take a look at the process and tools available to develop applications that run on AWS serverless computing technology.&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="https://github.com/QCatalyst/ro-python-serverless"&gt;Code&lt;/a&gt;,
+&lt;a class="reference external" href="https://www.youtube.com/watch?v=NPEsqxMeGJA&amp;amp;list=PL2Arun8D--P9nBRF83st6SOtFkCmfIc2K&amp;amp;index=1"&gt;Video&lt;/a&gt; and
+&lt;a class="reference external" href="http://ropython.ro/2019/02/26/going-serverless-with-aws-deploying-your-python-apps-using-dokku/Going-serverless-with-AWS.pdf"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;

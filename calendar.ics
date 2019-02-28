@@ -17,19 +17,25 @@ DESCRIPTION;ALTREP="http://ropython.ro/2019/02/26/going-serverless-with-aw
  ">Entry</p>\n<p class="last">A bit of socializing. There will be snacks an
  d beverages\, courtesy of QCatalyst.</p>\n</td>\n</tr>\n<tr><th class="stu
  b">6:30</th>\n<td><p class="first"><strong>Going serverless with AWS</stro
- ng> (Cristian Robert)</p>\n<p class="last">A developer jumps on the ‘ser
- verless’ bandwagon. We’ll take a look at the process and tools availab
- le to develop applications that run on AWS serverless computing technology
- .</p>\n</td>\n</tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>
- \n<tr><th class="stub">7:30</th>\n<td><p class="first"><strong>Deploying y
- our Python apps using Dokku and Digital Ocean</strong> (Angel Ramboi)</p>\
- n<p class="last">How to deploy your very own PaaS on a Digital Ocean dropl
- et using Dokku (<a class="reference external" href="https://github.com/dok
- ku/dokku/">https://github.com/dokku/dokku/</a>) a Docker powered &quot\;po
- or mans&quot\; mini Heroku bash script. +Demo: setup a simple Python app a
- nd deploy it using git (and if we have time automate this using Gitlab CI/
- CD).</p>\n</td>\n</tr>\n<tr><th class="stub">8:00</th>\n<td>Closing</td>\n
- </tr>\n</tbody>\n</table>\n</div>\n
+ ng> (Cristian Robert)</p>\n<p>A developer jumps on the ‘serverless’ ba
+ ndwagon. We’ll take a look at the process and tools available to develop
+  applications that run on AWS serverless computing technology.</p>\n<p cla
+ ss="last"><a class="reference external" href="https://github.com/QCatalyst
+ /ro-python-serverless">Code</a>\,\n<a class="reference external" href="htt
+ ps://www.youtube.com/watch?v=NPEsqxMeGJA&amp\;list=PL2Arun8D--P9nBRF83st6S
+ OtFkCmfIc2K&amp\;index=1">Video</a> and\n<a class="reference external" hre
+ f="http://ropython.ro/2019/02/26/going-serverless-with-aws-deploying-your-
+ python-apps-using-dokku/Going-serverless-with-AWS.pdf">Slides</a>.</p>\n</
+ td>\n</tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th
+  class="stub">7:30</th>\n<td><p class="first"><strong>Deploying your Pytho
+ n apps using Dokku and Digital Ocean</strong> (Angel Ramboi)</p>\n<p class
+ ="last">How to deploy your very own PaaS on a Digital Ocean droplet using 
+ Dokku (<a class="reference external" href="https://github.com/dokku/dokku/
+ ">https://github.com/dokku/dokku/</a>) a Docker powered &quot\;poor mans&q
+ uot\; mini Heroku bash script. +Demo: setup a simple Python app and deploy
+  it using git (and if we have time automate this using Gitlab CI/CD).</p>\
+ n</td>\n</tr>\n<tr><th class="stub">8:00</th>\n<td>Closing</td>\n</tr>\n</
+ tbody>\n</table>\n</div>\n
 LOCATION:The Office\, corp C\, sala C\, Cluj-Napoca\, Romania
 PRIORITY:5
 URL:http://ropython.ro/2019/02/26/going-serverless-with-aws-deploying-your
@@ -42,19 +48,25 @@ X-ALT-DESC;FMTTYPE=text/html:<div class="section" id="schedule">\n<h2>Sche
  p class="last">A bit of socializing. There will be snacks and beverages\, 
  courtesy of QCatalyst.</p>\n</td>\n</tr>\n<tr><th class="stub">6:30</th>\n
  <td><p class="first"><strong>Going serverless with AWS</strong> (Cristian 
- Robert)</p>\n<p class="last">A developer jumps on the ‘serverless’ ban
- dwagon. We’ll take a look at the process and tools available to develop 
- applications that run on AWS serverless computing technology.</p>\n</td>\n
- </tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th clas
- s="stub">7:30</th>\n<td><p class="first"><strong>Deploying your Python app
- s using Dokku and Digital Ocean</strong> (Angel Ramboi)</p>\n<p class="las
- t">How to deploy your very own PaaS on a Digital Ocean droplet using Dokku
-  (<a class="reference external" href="https://github.com/dokku/dokku/">htt
- ps://github.com/dokku/dokku/</a>) a Docker powered &quot\;poor mans&quot\;
-  mini Heroku bash script. +Demo: setup a simple Python app and deploy it u
- sing git (and if we have time automate this using Gitlab CI/CD).</p>\n</td
- >\n</tr>\n<tr><th class="stub">8:00</th>\n<td>Closing</td>\n</tr>\n</tbody
- >\n</table>\n</div>\n
+ Robert)</p>\n<p>A developer jumps on the ‘serverless’ bandwagon. We’
+ ll take a look at the process and tools available to develop applications 
+ that run on AWS serverless computing technology.</p>\n<p class="last"><a c
+ lass="reference external" href="https://github.com/QCatalyst/ro-python-ser
+ verless">Code</a>\,\n<a class="reference external" href="https://www.youtu
+ be.com/watch?v=NPEsqxMeGJA&amp\;list=PL2Arun8D--P9nBRF83st6SOtFkCmfIc2K&am
+ p\;index=1">Video</a> and\n<a class="reference external" href="http://ropy
+ thon.ro/2019/02/26/going-serverless-with-aws-deploying-your-python-apps-us
+ ing-dokku/Going-serverless-with-AWS.pdf">Slides</a>.</p>\n</td>\n</tr>\n<t
+ r><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="stub">
+ 7:30</th>\n<td><p class="first"><strong>Deploying your Python apps using D
+ okku and Digital Ocean</strong> (Angel Ramboi)</p>\n<p class="last">How to
+  deploy your very own PaaS on a Digital Ocean droplet using Dokku (<a clas
+ s="reference external" href="https://github.com/dokku/dokku/">https://gith
+ ub.com/dokku/dokku/</a>) a Docker powered &quot\;poor mans&quot\; mini Her
+ oku bash script. +Demo: setup a simple Python app and deploy it using git 
+ (and if we have time automate this using Gitlab CI/CD).</p>\n</td>\n</tr>\
+ n<tr><th class="stub">8:00</th>\n<td>Closing</td>\n</tr>\n</tbody>\n</tabl
+ e>\n</div>\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A beer gathering
