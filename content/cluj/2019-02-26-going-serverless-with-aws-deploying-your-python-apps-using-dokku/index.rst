@@ -25,7 +25,7 @@ Schedule
 
         A developer jumps on the ‘serverless’ bandwagon. We’ll take a look at the process and tools available to develop applications that run on AWS serverless computing technology.
 
-        `Code <https://github.com/QCatalyst/ro-python-serverless>`_,
+        `Code <https://github.com/QCatalyst/ro-python-serverless>`__,
         `Video <https://www.youtube.com/watch?v=NPEsqxMeGJA&list=PL2Arun8D--P9nBRF83st6SOtFkCmfIc2K&index=1>`__ and
         `Slides <{attach}Going-serverless-with-AWS.pdf>`__.
 
@@ -36,6 +36,8 @@ Schedule
       - **Deploying your Python apps using Dokku and Digital Ocean** (Angel Ramboi)
 
         How to deploy your very own PaaS on a Digital Ocean droplet using Dokku (`https://github.com/dokku/dokku/ <https://github.com/dokku/dokku/>`_) a Docker powered "poor mans" mini Heroku bash script. +Demo: setup a simple Python app and deploy it using git (and if we have time automate this using Gitlab CI/CD).
+
+        `Code <https://github.com/aramboi/ropython-meetup-26-feb-2019>`__,
 
     * - 8:00
       - Closing
