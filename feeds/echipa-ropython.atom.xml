@@ -25,7 +25,8 @@
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
 &lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Deploying your Python apps using Dokku and Digital Ocean&lt;/strong&gt; (Angel Ramboi)&lt;/p&gt;
-&lt;p class="last"&gt;How to deploy your very own PaaS on a Digital Ocean droplet using Dokku (&lt;a class="reference external" href="https://github.com/dokku/dokku/"&gt;https://github.com/dokku/dokku/&lt;/a&gt;) a Docker powered &amp;quot;poor mans&amp;quot; mini Heroku bash script. +Demo: setup a simple Python app and deploy it using git (and if we have time automate this using Gitlab CI/CD).&lt;/p&gt;
+&lt;p&gt;How to deploy your very own PaaS on a Digital Ocean droplet using Dokku (&lt;a class="reference external" href="https://github.com/dokku/dokku/"&gt;https://github.com/dokku/dokku/&lt;/a&gt;) a Docker powered &amp;quot;poor mans&amp;quot; mini Heroku bash script. +Demo: setup a simple Python app and deploy it using git (and if we have time automate this using Gitlab CI/CD).&lt;/p&gt;
+&lt;p class="last"&gt;&lt;a class="reference external" href="https://github.com/aramboi/ropython-meetup-26-feb-2019"&gt;Code&lt;/a&gt;,&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;th class="stub"&gt;8:00&lt;/th&gt;

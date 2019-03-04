@@ -28,14 +28,15 @@ DESCRIPTION;ALTREP="http://ropython.ro/2019/02/26/going-serverless-with-aw
  python-apps-using-dokku/Going-serverless-with-AWS.pdf">Slides</a>.</p>\n</
  td>\n</tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th
   class="stub">7:30</th>\n<td><p class="first"><strong>Deploying your Pytho
- n apps using Dokku and Digital Ocean</strong> (Angel Ramboi)</p>\n<p class
- ="last">How to deploy your very own PaaS on a Digital Ocean droplet using 
- Dokku (<a class="reference external" href="https://github.com/dokku/dokku/
- ">https://github.com/dokku/dokku/</a>) a Docker powered &quot\;poor mans&q
- uot\; mini Heroku bash script. +Demo: setup a simple Python app and deploy
-  it using git (and if we have time automate this using Gitlab CI/CD).</p>\
- n</td>\n</tr>\n<tr><th class="stub">8:00</th>\n<td>Closing</td>\n</tr>\n</
- tbody>\n</table>\n</div>\n
+ n apps using Dokku and Digital Ocean</strong> (Angel Ramboi)</p>\n<p>How t
+ o deploy your very own PaaS on a Digital Ocean droplet using Dokku (<a cla
+ ss="reference external" href="https://github.com/dokku/dokku/">https://git
+ hub.com/dokku/dokku/</a>) a Docker powered &quot\;poor mans&quot\; mini He
+ roku bash script. +Demo: setup a simple Python app and deploy it using git
+  (and if we have time automate this using Gitlab CI/CD).</p>\n<p class="la
+ st"><a class="reference external" href="https://github.com/aramboi/ropytho
+ n-meetup-26-feb-2019">Code</a>\,</p>\n</td>\n</tr>\n<tr><th class="stub">8
+ :00</th>\n<td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
 LOCATION:The Office\, corp C\, sala C\, Cluj-Napoca\, Romania
 PRIORITY:5
 URL:http://ropython.ro/2019/02/26/going-serverless-with-aws-deploying-your
@@ -59,14 +60,15 @@ X-ALT-DESC;FMTTYPE=text/html:<div class="section" id="schedule">\n<h2>Sche
  ing-dokku/Going-serverless-with-AWS.pdf">Slides</a>.</p>\n</td>\n</tr>\n<t
  r><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="stub">
  7:30</th>\n<td><p class="first"><strong>Deploying your Python apps using D
- okku and Digital Ocean</strong> (Angel Ramboi)</p>\n<p class="last">How to
-  deploy your very own PaaS on a Digital Ocean droplet using Dokku (<a clas
- s="reference external" href="https://github.com/dokku/dokku/">https://gith
- ub.com/dokku/dokku/</a>) a Docker powered &quot\;poor mans&quot\; mini Her
- oku bash script. +Demo: setup a simple Python app and deploy it using git 
- (and if we have time automate this using Gitlab CI/CD).</p>\n</td>\n</tr>\
- n<tr><th class="stub">8:00</th>\n<td>Closing</td>\n</tr>\n</tbody>\n</tabl
- e>\n</div>\n
+ okku and Digital Ocean</strong> (Angel Ramboi)</p>\n<p>How to deploy your 
+ very own PaaS on a Digital Ocean droplet using Dokku (<a class="reference 
+ external" href="https://github.com/dokku/dokku/">https://github.com/dokku/
+ dokku/</a>) a Docker powered &quot\;poor mans&quot\; mini Heroku bash scri
+ pt. +Demo: setup a simple Python app and deploy it using git (and if we ha
+ ve time automate this using Gitlab CI/CD).</p>\n<p class="last"><a class="
+ reference external" href="https://github.com/aramboi/ropython-meetup-26-fe
+ b-2019">Code</a>\,</p>\n</td>\n</tr>\n<tr><th class="stub">8:00</th>\n<td>
+ Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A beer gathering
