@@ -37,7 +37,7 @@ Schedule
 
         How to deploy your very own PaaS on a Digital Ocean droplet using Dokku (`https://github.com/dokku/dokku/ <https://github.com/dokku/dokku/>`_) a Docker powered "poor mans" mini Heroku bash script. +Demo: setup a simple Python app and deploy it using git (and if we have time automate this using Gitlab CI/CD).
 
-        `Code <https://github.com/aramboi/ropython-meetup-26-feb-2019>`__,
+        `Code <https://github.com/aramboi/ropython-meetup-26-feb-2019>`__, `Video <https://www.youtube.com/watch?v=ABS8uCEOUlE&list=PL2Arun8D--P9nBRF83st6SOtFkCmfIc2K&index=2>`__.
 
     * - 8:00
       - Closing
