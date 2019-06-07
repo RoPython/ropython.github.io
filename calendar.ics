@@ -2,6 +2,76 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:RoPython
 BEGIN:VEVENT
+SUMMARY:Things to try with a tracer &amp\; Do you trust your data?
+DTSTART:20190620T150000Z
+DTEND:20190620T173000Z
+UID:2019/06/20/things-to-try-with-a-tracer-do-you-trust-your-data/
+DESCRIPTION;ALTREP="http://ropython.ro/2019/06/20/things-to-try-with-a-tra
+ cer-do-you-trust-your-data/":<p>For this meetup we'll have a raffle (tombo
+ lă) for 2 ticket discounts at PyconBalkan (Oct 3-5).</p>\n<div class="sec
+ tion" id="schedule">\n<h2>Schedule<a class="headerlink" href="#schedule" t
+ itle="Permalink to this headline">*</a></h2>\n<table border="1" class="col
+ widths-given docutils">\n<colgroup>\n<col width="10%" />\n<col width="90%"
+  />\n</colgroup>\n<tbody valign="top">\n<tr><th class="stub">6PM</th>\n<td
+ ><p class="first">Entry</p>\n<p class="last">A bit of socializing. There w
+ ill be snacks and beverages\, courtesy of ComplyAdvantage.</p>\n</td>\n</t
+ r>\n<tr><th class="stub">6:30</th>\n<td><p class="first"><strong>Things to
+  try with a tracer</strong> (Ionel Cristian Mărieș)</p>\n<p class="last"
+ >This presentation will go over a bunch of examples with Hunter and\nteach
+  you how to stop worrying and love the tracer. Will include examples\nof h
+ ow to attach to processes and a bunch of contraptions with variables.</p>\
+ n</td>\n</tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr>
+ <th class="stub">7:30</th>\n<td><p class="first"><strong>Do you trust your
+  data?</strong> (Adrian Buturca)</p>\n<p class="last">This presentation wi
+ ll try to walk us through challenges that we\, in ComplyAdvantage\, had an
+ d have around this topic and tries to present what we learn from them and 
+ the directions that we are taking for having better answers to this questi
+ on.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<td>Closing and the
+  raffle for the two tickets. The discounted price will be 35€ while the 
+ full price would be 150€.</td>\n</tr>\n</tbody>\n</table>\n</div>\n
+LOCATION:Strada George Coșbuc 6\, Cluj-Napoca\, Romania
+PRIORITY:5
+URL:http://ropython.ro/2019/06/20/things-to-try-with-a-tracer-do-you-trust
+ -your-data/
+X-ALT-DESC;FMTTYPE=text/html:<p>For this meetup we'll have a raffle (tombo
+ lă) for 2 ticket discounts at PyconBalkan (Oct 3-5).</p>\n<div class="sec
+ tion" id="schedule">\n<h2>Schedule<a class="headerlink" href="#schedule" t
+ itle="Permalink to this headline">*</a></h2>\n<table border="1" class="col
+ widths-given docutils">\n<colgroup>\n<col width="10%" />\n<col width="90%"
+  />\n</colgroup>\n<tbody valign="top">\n<tr><th class="stub">6PM</th>\n<td
+ ><p class="first">Entry</p>\n<p class="last">A bit of socializing. There w
+ ill be snacks and beverages\, courtesy of ComplyAdvantage.</p>\n</td>\n</t
+ r>\n<tr><th class="stub">6:30</th>\n<td><p class="first"><strong>Things to
+  try with a tracer</strong> (Ionel Cristian Mărieș)</p>\n<p class="last"
+ >This presentation will go over a bunch of examples with Hunter and\nteach
+  you how to stop worrying and love the tracer. Will include examples\nof h
+ ow to attach to processes and a bunch of contraptions with variables.</p>\
+ n</td>\n</tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr>
+ <th class="stub">7:30</th>\n<td><p class="first"><strong>Do you trust your
+  data?</strong> (Adrian Buturca)</p>\n<p class="last">This presentation wi
+ ll try to walk us through challenges that we\, in ComplyAdvantage\, had an
+ d have around this topic and tries to present what we learn from them and 
+ the directions that we are taking for having better answers to this questi
+ on.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<td>Closing and the
+  raffle for the two tickets. The discounted price will be 35€ while the 
+ full price would be 150€.</td>\n</tr>\n</tbody>\n</table>\n</div>\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A beer gathering
+DTSTART:20190418T160000Z
+DTEND:20190418T180000Z
+UID:2019/04/18/a-beer-gathering/
+DESCRIPTION;ALTREP="http://ropython.ro/2019/04/18/a-beer-gathering/":<p>Ju
+ st a gathering over beers and/or other tasty stuff to talk about Python an
+ d anything interesting.</p>\n
+LOCATION:Ionel's phone number: 0724345878\, Strada Dávid Ferenc 13\, Cluj
+ -Napoca\, Romania
+PRIORITY:5
+URL:http://ropython.ro/2019/04/18/a-beer-gathering/
+X-ALT-DESC;FMTTYPE=text/html:<p>Just a gathering over beers and/or other t
+ asty stuff to talk about Python and anything interesting.</p>\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Going serverless with AWS &amp\; Deploying your Python apps using 
  Dokku
 DTSTART:20190226T160000Z

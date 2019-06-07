@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/echipa-ropython.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0200</lastBuildDate><item><title>Going serverless with AWS &amp; Deploying your Python apps using Dokku</title><link>http://ropython.ro/2019/02/26/going-serverless-with-aws-deploying-your-python-apps-using-dokku/</link><description>&lt;div class="section" id="schedule"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RoPython</title><link>http://ropython.ro/</link><description></description><atom:link href="http://ropython.ro/feeds/echipa-ropython.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0300</lastBuildDate><item><title>Things to try with a tracer &amp; Do you trust your data?</title><link>http://ropython.ro/2019/06/20/things-to-try-with-a-tracer-do-you-trust-your-data/</link><description>&lt;p&gt;For this meetup we'll have a raffle (tombolă) for 2 ticket discounts at PyconBalkan (Oct 3-5).&lt;/p&gt;
+&lt;div class="section" id="schedule"&gt;
+&lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
+&lt;table border="1" class="colwidths-given docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="90%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6PM&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;Entry&lt;/p&gt;
+&lt;p class="last"&gt;A bit of socializing. There will be snacks and beverages, courtesy of ComplyAdvantage.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;6:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Things to try with a tracer&lt;/strong&gt; (Ionel Cristian Mărieș)&lt;/p&gt;
+&lt;p class="last"&gt;This presentation will go over a bunch of examples with Hunter and
+teach you how to stop worrying and love the tracer. Will include examples
+of how to attach to processes and a bunch of contraptions with variables.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:15&lt;/th&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;7:30&lt;/th&gt;
+&lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;Do you trust your data?&lt;/strong&gt; (Adrian Buturca)&lt;/p&gt;
+&lt;p class="last"&gt;This presentation will try to walk us through challenges that we, in ComplyAdvantage, had and have around this topic and tries to present what we learn from them and the directions that we are taking for having better answers to this question.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th class="stub"&gt;8:15&lt;/th&gt;
+&lt;td&gt;Closing and the raffle for the two tickets. The discounted price will be 35€ while the full price would be 150€.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 20 Jun 2019 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2019-06-20:2019/06/20/things-to-try-with-a-tracer-do-you-trust-your-data/</guid><category>prezentari</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2019/04/18/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 18 Apr 2019 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2019-04-18:2019/04/18/a-beer-gathering/</guid><category>prezentari</category></item><item><title>Going serverless with AWS &amp; Deploying your Python apps using Dokku</title><link>http://ropython.ro/2019/02/26/going-serverless-with-aws-deploying-your-python-apps-using-dokku/</link><description>&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
@@ -343,7 +379,7 @@ In 2016 Dan joined Pentalog Group as a Python
 Technical Lead, and since then is building projects, improve processes, manage development teams
 and helping big companies to build the most efficient, robust and dynamic software they need.&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Tue, 25 Apr 2017 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2017-04-25:2017/04/25/django-presentation-and-why-to-use-it-for-single-page-or-hybrid-applications-too/</guid><category>prezentari</category></item><item><title>Winter retrospective</title><link>http://ropython.ro/2017/03/14/winter-retrospective/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Tue, 25 Apr 2017 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2017-04-25:2017/04/25/django-presentation-and-why-to-use-it-for-single-page-or-hybrid-applications-too/</guid><category>prezentari</category></item><item><title>﻿Winter retrospective</title><link>http://ropython.ro/2017/03/14/winter-retrospective/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
 Python and anything interesting, like what's going to happen at the
 EuroPython2017 conference!&lt;/p&gt;
 &lt;p&gt;We'll also have one guest from Iași: Claudiu Popa. Does he still
@@ -352,7 +388,7 @@ maintain Pylint? Lets find out :D&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Tue, 14 Mar 2017 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2017-03-14:2017/03/14/winter-retrospective/</guid><category>social</category></item><item><title>Python Development - Tools, Frameworks and Trends - 2017 (Open discussion)</title><link>http://ropython.ro/2017/03/02/python-development-tools-frameworks-and-trends-2017-open-discussion/</link><description>&lt;p&gt;Intalnirea va avea loc la sediul Pentalog, cladirea Tudor Center de pe
 strada Ciurchi, etaj 5, usa din stanga.&lt;/p&gt;
 &lt;p&gt;Va asteptam!!!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 02 Mar 2017 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2017-03-02:2017/03/02/python-development-tools-frameworks-and-trends-2017-open-discussion/</guid><category>social</category></item><item><title>Building transaction monitoring systems and Machine learning</title><link>http://ropython.ro/2017/02/21/building-transaction-monitoring-systems-and-machine-learning/</link><description>&lt;div class="section" id="schedule"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 02 Mar 2017 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2017-03-02:2017/03/02/python-development-tools-frameworks-and-trends-2017-open-discussion/</guid><category>social</category></item><item><title>﻿Building transaction monitoring systems and Machine learning</title><link>http://ropython.ro/2017/02/21/building-transaction-monitoring-systems-and-machine-learning/</link><description>&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
@@ -557,7 +593,7 @@ about the chosen strategies, what were the downsides, what we'd like
 to try next.&lt;/p&gt;
 &lt;p&gt;I would like this to be a discussion and not a presentation, so please
 don't be shy :)&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 13 Oct 2016 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2016-10-13:2016/10/13/chat-about-organizing-business-logic/</guid><category>prezentari</category></item><item><title>Mid-summer retrospective</title><link>http://ropython.ro/2016/08/09/mid-summer-retrospective/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 13 Oct 2016 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2016-10-13:2016/10/13/chat-about-organizing-business-logic/</guid><category>prezentari</category></item><item><title>﻿Mid-summer retrospective</title><link>http://ropython.ro/2016/08/09/mid-summer-retrospective/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about
 Python and anything interesting, like the just finished EuroPython2016
 conference!&lt;/p&gt;
 &lt;p&gt;We'll also have two guests from Iași: Claudiu Popa and Cosmin Poieană.&lt;/p&gt;
@@ -1076,7 +1112,7 @@ data from the in-test application.&lt;/p&gt;
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sat, 20 Jun 2015 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2015-06-20:2015/06/20/sprint-10/</guid><category>sprint</category></item><item><title>Graphs using Networkx and Semantic web using RDFlib</title><link>http://ropython.ro/2015/06/11/graphs-using-networkx-and-semantic-web-using-rdflib/</link><description>&lt;p&gt;La această ediție vom avea două prezentări.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sat, 20 Jun 2015 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2015-06-20:2015/06/20/sprint-10/</guid><category>sprint</category></item><item><title>﻿Graphs using Networkx and Semantic web using RDFlib</title><link>http://ropython.ro/2015/06/11/graphs-using-networkx-and-semantic-web-using-rdflib/</link><description>&lt;p&gt;La această ediție vom avea două prezentări.&lt;/p&gt;
 &lt;p&gt;Agendă:&lt;/p&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
@@ -1135,7 +1171,7 @@ contribui la realizarea viziunii Web-ului semantic.&lt;/p&gt;
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sat, 23 May 2015 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2015-05-23:2015/05/23/sprint-8/</guid><category>sprint</category></item><item><title>Interpretoare în RPython și testare cu pytest</title><link>http://ropython.ro/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/</link><description>&lt;p&gt;La această ediție vom avea două prezentări și un anunț surpriză ;-)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sat, 23 May 2015 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2015-05-23:2015/05/23/sprint-8/</guid><category>sprint</category></item><item><title>﻿Interpretoare în RPython și testare cu pytest</title><link>http://ropython.ro/2015/05/21/interpretoare-in-rpython-si-testare-cu-pytest/</link><description>&lt;p&gt;La această ediție vom avea două prezentări și un anunț surpriză ;-)&lt;/p&gt;
 &lt;p&gt;Agendă:&lt;/p&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;
 &lt;colgroup&gt;
@@ -1269,9 +1305,9 @@ great open source contributor.&lt;/p&gt;
 &lt;li&gt;Incurajari în general :-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Notițe de la sprinturile anterioare: &lt;a class="reference external" href="https://github.com/RoPython/sprints"&gt;https://github.com/RoPython/sprints&lt;/a&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2015-04-11:2015/04/11/sprint-5/</guid><category>sprint</category></item><item><title>Sprint #4</title><link>http://ropython.ro/2015/03/28/sprint-4/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sat, 28 Mar 2015 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2015-03-28:2015/03/28/sprint-4/</guid><category>sprint</category></item><item><title>Sprint #3</title><link>http://ropython.ro/2015/03/14/sprint-3/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sat, 14 Mar 2015 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2015-03-14:2015/03/14/sprint-3/</guid><category>sprint</category></item><item><title>Sprint #2</title><link>http://ropython.ro/2015/02/28/sprint-2/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2015-04-11:2015/04/11/sprint-5/</guid><category>sprint</category></item><item><title>Sprint #4</title><link>http://ropython.ro/2015/03/28/sprint-4/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)﻿&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sat, 28 Mar 2015 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2015-03-28:2015/03/28/sprint-4/</guid><category>sprint</category></item><item><title>Sprint #3</title><link>http://ropython.ro/2015/03/14/sprint-3/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)﻿&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sat, 14 Mar 2015 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2015-03-14:2015/03/14/sprint-3/</guid><category>sprint</category></item><item><title>Sprint #2</title><link>http://ropython.ro/2015/02/28/sprint-2/</link><description>&lt;p&gt;Sprint virtual de dezvoltare Python, Pylint sau orice vrem :-)﻿&lt;/p&gt;
 &lt;p&gt;Cu scaun avem doar ~12 locuri asigurate :)&lt;/p&gt;
 &lt;p&gt;Pizza și băuturile sunt asigurate.&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Sat, 28 Feb 2015 00:00:00 +0200</pubDate><guid>tag:ropython.ro,2015-02-28:2015/02/28/sprint-2/</guid><category>sprint</category></item><item><title>PyTim #7</title><link>http://ropython.ro/2015/02/25/pytim-7/</link><description>&lt;p&gt;Welcome to PyTim #7. This meetup marks our affiliation to the
@@ -1690,7 +1726,7 @@ projects developed using Python and Go.&lt;/p&gt;
 &lt;/thead&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td&gt;18:30 - 19:10&lt;/td&gt;
-&lt;td&gt;Gabriel Adrian Samfira (Cloudbase Solutions)&lt;/td&gt;
+&lt;td&gt;Gabriel Adrian Samfira (Cloudbase Solutions﻿)&lt;/td&gt;
 &lt;td&gt;Automating Windows workloads with Juju and MAAS&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;19:10 - 19:30&lt;/td&gt;
