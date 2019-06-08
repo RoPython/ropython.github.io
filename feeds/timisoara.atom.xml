@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/timisoara.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2018-06-20T00:00:00+03:00</updated><entry><title>RoPython #4 - Async Python</title><link href="http://ropython.ro/2018/06/20/ropython-4-async-python/" rel="alternate"></link><updated>2018-06-20T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2018-06-20:2018/06/20/ropython-4-async-python/</id><summary type="html">&lt;p&gt;Join us at the next Python Meetup on the 20th of June, from 19:00. The
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoPython</title><link href="http://ropython.ro/" rel="alternate"></link><link href="http://ropython.ro/feeds/timisoara.atom.xml" rel="self"></link><id>http://ropython.ro/</id><updated>2019-06-12T00:00:00+03:00</updated><entry><title>The one about gevent, asyncio and decorators</title><link href="http://ropython.ro/2019/06/12/the-one-about-gevent-asyncio-and-decorators/" rel="alternate"></link><updated>2019-06-12T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2019-06-12:2019/06/12/the-one-about-gevent-asyncio-and-decorators/</id><summary type="html">&lt;p&gt;Hello Pythonistas!&lt;/p&gt;
+&lt;p&gt;It's been a while since our last meetup. Let's get together again!&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Radu Ciorba and colleagues from Bitdefender will share our experience after using asyncio for over a year.
+Zoli Szeredi will challenge your knowledge of decorators.&lt;/li&gt;
+&lt;li&gt;Aleksandar Kordic will talk about Coroutines with greenlet and gevent.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Stay tuned for updates and an exact schedule.&lt;/p&gt;
+</summary><category term="prezentari"></category></entry><entry><title>RoPython #4 - Async Python</title><link href="http://ropython.ro/2018/06/20/ropython-4-async-python/" rel="alternate"></link><updated>2018-06-20T00:00:00+03:00</updated><author><name>Echipa RoPython</name></author><id>tag:ropython.ro,2018-06-20:2018/06/20/ropython-4-async-python/</id><summary type="html">&lt;p&gt;Join us at the next Python Meetup on the 20th of June, from 19:00. The
 location will be announced.&lt;/p&gt;
 &lt;p&gt;Agenda:&lt;/p&gt;
 &lt;ul class="simple"&gt;

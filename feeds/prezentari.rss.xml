@@ -34,7 +34,16 @@ of how to attach to processes and a bunch of contraptions with variables.&lt;/p&
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 20 Jun 2019 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2019-06-20:2019/06/20/things-to-try-with-a-tracer-do-you-trust-your-data/</guid><category>prezentari</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2019/04/18/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 20 Jun 2019 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2019-06-20:2019/06/20/things-to-try-with-a-tracer-do-you-trust-your-data/</guid><category>prezentari</category></item><item><title>The one about gevent, asyncio and decorators</title><link>http://ropython.ro/2019/06/12/the-one-about-gevent-asyncio-and-decorators/</link><description>&lt;p&gt;Hello Pythonistas!&lt;/p&gt;
+&lt;p&gt;It's been a while since our last meetup. Let's get together again!&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Radu Ciorba and colleagues from Bitdefender will share our experience after using asyncio for over a year.
+Zoli Szeredi will challenge your knowledge of decorators.&lt;/li&gt;
+&lt;li&gt;Aleksandar Kordic will talk about Coroutines with greenlet and gevent.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Stay tuned for updates and an exact schedule.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Wed, 12 Jun 2019 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2019-06-12:2019/06/12/the-one-about-gevent-asyncio-and-decorators/</guid><category>prezentari</category></item><item><title>A beer gathering</title><link>http://ropython.ro/2019/04/18/a-beer-gathering/</link><description>&lt;p&gt;Just a gathering over beers and/or other tasty stuff to talk about Python and anything interesting.&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Echipa RoPython</dc:creator><pubDate>Thu, 18 Apr 2019 00:00:00 +0300</pubDate><guid>tag:ropython.ro,2019-04-18:2019/04/18/a-beer-gathering/</guid><category>prezentari</category></item><item><title>Going serverless with AWS &amp; Deploying your Python apps using Dokku</title><link>http://ropython.ro/2019/02/26/going-serverless-with-aws-deploying-your-python-apps-using-dokku/</link><description>&lt;div class="section" id="schedule"&gt;
 &lt;h2&gt;Schedule&lt;a class="headerlink" href="#schedule" title="Permalink to this headline"&gt;*&lt;/a&gt;&lt;/h2&gt;
 &lt;table border="1" class="colwidths-given docutils"&gt;

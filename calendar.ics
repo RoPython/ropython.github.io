@@ -57,6 +57,31 @@ X-ALT-DESC;FMTTYPE=text/html:<p>For this meetup we'll have a raffle (tombo
  full price would be 150€.</td>\n</tr>\n</tbody>\n</table>\n</div>\n
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The one about gevent\, asyncio and decorators
+DTSTART:20190612T160000Z
+DTEND:20190612T180000Z
+UID:2019/06/12/the-one-about-gevent-asyncio-and-decorators/
+DESCRIPTION;ALTREP="http://ropython.ro/2019/06/12/the-one-about-gevent-asy
+ ncio-and-decorators/":<p>Hello Pythonistas!</p>\n<p>It's been a while sinc
+ e our last meetup. Let's get together again!</p>\n<p>Agenda:</p>\n<ul clas
+ s="simple">\n<li>Radu Ciorba and colleagues from Bitdefender will share ou
+ r experience after using asyncio for over a year.\nZoli Szeredi will chall
+ enge your knowledge of decorators.</li>\n<li>Aleksandar Kordic will talk a
+ bout Coroutines with greenlet and gevent.</li>\n</ul>\n<p>Stay tuned for u
+ pdates and an exact schedule.</p>\n
+LOCATION:Timi?oara\, Romania
+PRIORITY:5
+URL:http://ropython.ro/2019/06/12/the-one-about-gevent-asyncio-and-decorat
+ ors/
+X-ALT-DESC;FMTTYPE=text/html:<p>Hello Pythonistas!</p>\n<p>It's been a whi
+ le since our last meetup. Let's get together again!</p>\n<p>Agenda:</p>\n<
+ ul class="simple">\n<li>Radu Ciorba and colleagues from Bitdefender will s
+ hare our experience after using asyncio for over a year.\nZoli Szeredi wil
+ l challenge your knowledge of decorators.</li>\n<li>Aleksandar Kordic will
+  talk about Coroutines with greenlet and gevent.</li>\n</ul>\n<p>Stay tune
+ d for updates and an exact schedule.</p>\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A beer gathering
 DTSTART:20190418T160000Z
 DTEND:20190418T180000Z

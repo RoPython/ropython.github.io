@@ -5,14 +5,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ropython.ro/</loc>
-<lastmod>2019-06-07T11:39:00-00:00</lastmod>
+<lastmod>2019-06-08T18:50:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ropython.ro/despre/</loc>
-<lastmod>2019-06-07T11:39:00-00:00</lastmod>
+<lastmod>2019-06-08T18:50:49-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -20,6 +20,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://ropython.ro/2019/06/20/things-to-try-with-a-tracer-do-you-trust-your-data/</loc>
 <lastmod>2019-06-20T00:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ropython.ro/2019/06/12/the-one-about-gevent-asyncio-and-decorators/</loc>
+<lastmod>2019-06-12T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -621,7 +628,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ropython.ro/timisoara/</loc>
-<lastmod>2018-06-20T00:00:00+01:44</lastmod>
+<lastmod>2019-06-12T00:00:00+01:44</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
