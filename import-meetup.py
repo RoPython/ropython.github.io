@@ -115,13 +115,15 @@ def main(group_id, location, time_boundary, event_status, pandoc, force):
         event['time'] = dt.strftime('%Y-%m-%d %H:%M')
         if 'how_to_find_us' in event:
             address = event['how_to_find_us'],
-            if 'venue' in event:
-                address_1 = event['venue'].get('address_1')
-                if address_1:
-                    address += address_1,
-                event['venue']['address_1'] = ', '.join(address)
-            else:
-                event['venue'] = {'address_1': address}
+        else:
+            address = ()
+        if 'venue' in event:
+            address_1 = event['venue'].get('address_1')
+            if address_1:
+                address += address_1,
+            event['venue']['address_1'] = ', '.join(address)
+        else:
+            event['venue'] = {'address_1': address}
         click.echo("{time}: {name}".format(**event))
         click.echo("\t{}".format(pformat(event)))
         existing_path = glob(os.path.join('content', '*', dt.strftime('%Y-%m-%d*'), 'index.rst'))
