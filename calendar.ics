@@ -82,6 +82,36 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Hello Pythonistas!</p>\n<p>It's been a whi
  d for updates and an exact schedule.</p>\n
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RoPython Bucharest Meetup
+DTSTART:20190423T160000Z
+DTEND:20190423T180000Z
+UID:2019/04/23/ropython-bucharest-meetup/
+DESCRIPTION;ALTREP="http://ropython.ro/2019/04/23/ropython-bucharest-meetu
+ p/":<p>We will have our first monthly Python meetup on April 23th in the c
+ enter at the charming COWORK CAFE (<a class="reference external" href="htt
+ p://theatelier.ro/">http://theatelier.ro/</a>). If you have a topic you wa
+ nt to talk about let us know in the comments. I could give an introduction
+  into Plone the Python Web CMS including a nice and lean Restful-API. But 
+ I'm open for more topics. The plan is to have the meetup once month.</p>\n
+ <p>The space there is limited\, so please RSVP and update if you can not m
+ ake it\, so that other people can come instead.</p>\n<p>After the meetup\,
+  we can have some conversations on a beer or two in the old town \;)</p>\n
+LOCATION:Just ask at the Desk\, we are upstairs.\, Strada Gabroveni 9\, Bu
+ curești\, Romania
+PRIORITY:5
+URL:http://ropython.ro/2019/04/23/ropython-bucharest-meetup/
+X-ALT-DESC;FMTTYPE=text/html:<p>We will have our first monthly Python meet
+ up on April 23th in the center at the charming COWORK CAFE (<a class="refe
+ rence external" href="http://theatelier.ro/">http://theatelier.ro/</a>). I
+ f you have a topic you want to talk about let us know in the comments. I c
+ ould give an introduction into Plone the Python Web CMS including a nice a
+ nd lean Restful-API. But I'm open for more topics. The plan is to have the
+  meetup once month.</p>\n<p>The space there is limited\, so please RSVP an
+ d update if you can not make it\, so that other people can come instead.</
+ p>\n<p>After the meetup\, we can have some conversations on a beer or two 
+ in the old town \;)</p>\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A beer gathering
 DTSTART:20190418T160000Z
 DTEND:20190418T180000Z
