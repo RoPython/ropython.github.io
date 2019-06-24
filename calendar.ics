@@ -16,19 +16,30 @@ DESCRIPTION;ALTREP="http://ropython.ro/2019/06/20/things-to-try-with-a-tra
  ><p class="first">Entry</p>\n<p class="last">A bit of socializing. There w
  ill be snacks and beverages\, courtesy of ComplyAdvantage.</p>\n</td>\n</t
  r>\n<tr><th class="stub">6:30</th>\n<td><p class="first"><strong>Things to
-  try with a tracer</strong> (Ionel Cristian Mărieș)</p>\n<p class="last"
- >This presentation will go over a bunch of examples with Hunter and\nteach
-  you how to stop worrying and love the tracer. Will include examples\nof h
- ow to attach to processes and a bunch of contraptions with variables.</p>\
- n</td>\n</tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr>
- <th class="stub">7:30</th>\n<td><p class="first"><strong>Do you trust your
-  data?</strong> (Adrian Buturca)</p>\n<p class="last">This presentation wi
- ll try to walk us through challenges that we\, in ComplyAdvantage\, had an
- d have around this topic and tries to present what we learn from them and 
- the directions that we are taking for having better answers to this questi
- on.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<td>Closing and the
-  raffle for the two tickets. The discounted price will be 35€ while the 
- full price would be 150€.</td>\n</tr>\n</tbody>\n</table>\n</div>\n
+  try with a tracer</strong> (Ionel Cristian Mărieș)</p>\n<p>This present
+ ation will go over a bunch of examples with <a class="reference external" 
+ href="https://python-hunter.readthedocs.io/">Hunter</a> and\nteach you how
+  to stop worrying and love the tracer. Will include examples\nof how to at
+ tach to processes and a bunch of contraptions with variables.</p>\n<p clas
+ s="last"><a class="reference external" href="https://www.youtube.com/watch
+ ?v=Z897n8Kwk8M&amp\;list=PL2Arun8D--P9YqshRO2eGSfPtSEmwVdaW&amp\;index=1">
+ Video</a> and\n<a class="reference external" href="https://blog.ionelmc.ro
+ /presentations/things-to-try-with-a-tracer/">Slides</a>.</p>\n</td>\n</tr>
+ \n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="st
+ ub">7:30</th>\n<td><p class="first"><strong>Do you trust your Data?</stron
+ g> (Adrian Buturca)</p>\n<p>This presentation will try to walk us through 
+ challenges that we\, in <a class="reference external" href="https://comply
+ advantage.com/">ComplyAdvantage</a>\, had and have around this topic and t
+ ries to present what we learn from them and the directions that we are tak
+ ing for having better answers to this question.</p>\n<p class="last"><a cl
+ ass="reference external" href="https://www.youtube.com/watch?v=v6-JZ8degdQ
+ &amp\;list=PL2Arun8D--P9YqshRO2eGSfPtSEmwVdaW&amp\;index=2">Video</a> and\
+ n<a class="reference external" href="http://ropython.ro/2019/06/20/things-
+ to-try-with-a-tracer-do-you-trust-your-data/Do-you-trust-your-Data.pdf">Sl
+ ides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<td>Closing a
+ nd the raffle for the two tickets. The discounted price will be 35€ whil
+ e the full price would be 150€.</td>\n</tr>\n</tbody>\n</table>\n</div>\
+ n
 LOCATION:Strada George Coșbuc 6\, Cluj-Napoca\, Romania
 PRIORITY:5
 URL:http://ropython.ro/2019/06/20/things-to-try-with-a-tracer-do-you-trust
@@ -42,19 +53,30 @@ X-ALT-DESC;FMTTYPE=text/html:<p>For this meetup we'll have a raffle (tombo
  ><p class="first">Entry</p>\n<p class="last">A bit of socializing. There w
  ill be snacks and beverages\, courtesy of ComplyAdvantage.</p>\n</td>\n</t
  r>\n<tr><th class="stub">6:30</th>\n<td><p class="first"><strong>Things to
-  try with a tracer</strong> (Ionel Cristian Mărieș)</p>\n<p class="last"
- >This presentation will go over a bunch of examples with Hunter and\nteach
-  you how to stop worrying and love the tracer. Will include examples\nof h
- ow to attach to processes and a bunch of contraptions with variables.</p>\
- n</td>\n</tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr>
- <th class="stub">7:30</th>\n<td><p class="first"><strong>Do you trust your
-  data?</strong> (Adrian Buturca)</p>\n<p class="last">This presentation wi
- ll try to walk us through challenges that we\, in ComplyAdvantage\, had an
- d have around this topic and tries to present what we learn from them and 
- the directions that we are taking for having better answers to this questi
- on.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<td>Closing and the
-  raffle for the two tickets. The discounted price will be 35€ while the 
- full price would be 150€.</td>\n</tr>\n</tbody>\n</table>\n</div>\n
+  try with a tracer</strong> (Ionel Cristian Mărieș)</p>\n<p>This present
+ ation will go over a bunch of examples with <a class="reference external" 
+ href="https://python-hunter.readthedocs.io/">Hunter</a> and\nteach you how
+  to stop worrying and love the tracer. Will include examples\nof how to at
+ tach to processes and a bunch of contraptions with variables.</p>\n<p clas
+ s="last"><a class="reference external" href="https://www.youtube.com/watch
+ ?v=Z897n8Kwk8M&amp\;list=PL2Arun8D--P9YqshRO2eGSfPtSEmwVdaW&amp\;index=1">
+ Video</a> and\n<a class="reference external" href="https://blog.ionelmc.ro
+ /presentations/things-to-try-with-a-tracer/">Slides</a>.</p>\n</td>\n</tr>
+ \n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="st
+ ub">7:30</th>\n<td><p class="first"><strong>Do you trust your Data?</stron
+ g> (Adrian Buturca)</p>\n<p>This presentation will try to walk us through 
+ challenges that we\, in <a class="reference external" href="https://comply
+ advantage.com/">ComplyAdvantage</a>\, had and have around this topic and t
+ ries to present what we learn from them and the directions that we are tak
+ ing for having better answers to this question.</p>\n<p class="last"><a cl
+ ass="reference external" href="https://www.youtube.com/watch?v=v6-JZ8degdQ
+ &amp\;list=PL2Arun8D--P9YqshRO2eGSfPtSEmwVdaW&amp\;index=2">Video</a> and\
+ n<a class="reference external" href="http://ropython.ro/2019/06/20/things-
+ to-try-with-a-tracer-do-you-trust-your-data/Do-you-trust-your-Data.pdf">Sl
+ ides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<td>Closing a
+ nd the raffle for the two tickets. The discounted price will be 35€ whil
+ e the full price would be 150€.</td>\n</tr>\n</tbody>\n</table>\n</div>\
+ n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The one about gevent\, asyncio and decorators
