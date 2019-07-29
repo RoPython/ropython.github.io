@@ -2,6 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:RoPython
 BEGIN:VEVENT
+SUMMARY:A beer gathering
+DTSTART:20190801T160000Z
+DTEND:20190801T180000Z
+UID:2019/08/01/a-beer-gathering/
+DESCRIPTION;ALTREP="http://ropython.ro/2019/08/01/a-beer-gathering/":<p>Ju
+ st a gathering over beers and/or other tasty stuff to talk about Python an
+ d anything interesting.</p>\n
+LOCATION:Ionel's phone number: 0724345878\, Strada Inocențiu Micu Klein n
+ r. 17\, Cluj-Napoca\, Romania
+PRIORITY:5
+URL:http://ropython.ro/2019/08/01/a-beer-gathering/
+X-ALT-DESC;FMTTYPE=text/html:<p>Just a gathering over beers and/or other t
+ asty stuff to talk about Python and anything interesting.</p>\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Things to try with a tracer &amp\; Do you trust your data?
 DTSTART:20190620T150000Z
 DTEND:20190620T173000Z
