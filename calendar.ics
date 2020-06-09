@@ -6,13 +6,13 @@ SUMMARY:A beer gathering
 DTSTART:20190801T160000Z
 DTEND:20190801T180000Z
 UID:2019/08/01/a-beer-gathering/
-DESCRIPTION;ALTREP="http://ropython.ro/2019/08/01/a-beer-gathering/":<p>Ju
- st a gathering over beers and/or other tasty stuff to talk about Python an
- d anything interesting.</p>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2019/08/01/a-beer-gathering/":<p>J
+ ust a gathering over beers and/or other tasty stuff to talk about Python a
+ nd anything interesting.</p>\n
 LOCATION:Ionel's phone number: 0724345878\, Strada Inocențiu Micu Klein n
  r. 17\, Cluj-Napoca\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2019/08/01/a-beer-gathering/
+URL:https://ropython.ro/2019/08/01/a-beer-gathering/
 X-ALT-DESC;FMTTYPE=text/html:<p>Just a gathering over beers and/or other t
  asty stuff to talk about Python and anything interesting.</p>\n
 END:VEVENT
@@ -21,44 +21,44 @@ SUMMARY:Things to try with a tracer &amp\; Do you trust your data?
 DTSTART:20190620T150000Z
 DTEND:20190620T173000Z
 UID:2019/06/20/things-to-try-with-a-tracer-do-you-trust-your-data/
-DESCRIPTION;ALTREP="http://ropython.ro/2019/06/20/things-to-try-with-a-tra
- cer-do-you-trust-your-data/":<p>For this meetup we'll have a raffle (tombo
- lă) for 2 ticket discounts at PyconBalkan (Oct 3-5).</p>\n<div class="sec
- tion" id="schedule">\n<h2>Schedule<a class="headerlink" href="#schedule" t
- itle="Permalink to this headline">*</a></h2>\n<table border="1" class="col
- widths-given docutils">\n<colgroup>\n<col width="10%" />\n<col width="90%"
-  />\n</colgroup>\n<tbody valign="top">\n<tr><th class="stub">6PM</th>\n<td
- ><p class="first">Entry</p>\n<p class="last">A bit of socializing. There w
- ill be snacks and beverages\, courtesy of ComplyAdvantage.</p>\n</td>\n</t
- r>\n<tr><th class="stub">6:30</th>\n<td><p class="first"><strong>Things to
-  try with a tracer</strong> (Ionel Cristian Mărieș)</p>\n<p>This present
- ation will go over a bunch of examples with <a class="reference external" 
- href="https://python-hunter.readthedocs.io/">Hunter</a> and\nteach you how
-  to stop worrying and love the tracer. Will include examples\nof how to at
- tach to processes and a bunch of contraptions with variables.</p>\n<p clas
- s="last"><a class="reference external" href="https://www.youtube.com/watch
- ?v=Z897n8Kwk8M&amp\;list=PL2Arun8D--P9YqshRO2eGSfPtSEmwVdaW&amp\;index=1">
- Video</a> and\n<a class="reference external" href="https://blog.ionelmc.ro
- /presentations/things-to-try-with-a-tracer/">Slides</a>.</p>\n</td>\n</tr>
- \n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="st
- ub">7:30</th>\n<td><p class="first"><strong>Do you trust your Data?</stron
- g> (Adrian Buturca)</p>\n<p>This presentation will try to walk us through 
- challenges that we\, in <a class="reference external" href="https://comply
- advantage.com/">ComplyAdvantage</a>\, had and have around this topic and t
- ries to present what we learn from them and the directions that we are tak
- ing for having better answers to this question.</p>\n<p class="last"><a cl
- ass="reference external" href="https://www.youtube.com/watch?v=v6-JZ8degdQ
- &amp\;list=PL2Arun8D--P9YqshRO2eGSfPtSEmwVdaW&amp\;index=2">Video</a> and\
- n<a class="reference external" href="http://ropython.ro/2019/06/20/things-
- to-try-with-a-tracer-do-you-trust-your-data/Do-you-trust-your-Data.pdf">Sl
- ides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<td>Closing a
- nd the raffle for the two tickets. The discounted price will be 35€ whil
- e the full price would be 150€.</td>\n</tr>\n</tbody>\n</table>\n</div>\
- n
+DESCRIPTION;ALTREP="https://ropython.ro/2019/06/20/things-to-try-with-a-tr
+ acer-do-you-trust-your-data/":<p>For this meetup we'll have a raffle (tomb
+ olă) for 2 ticket discounts at PyconBalkan (Oct 3-5).</p>\n<div class="se
+ ction" id="schedule">\n<h2>Schedule<a class="headerlink" href="#schedule" 
+ title="Permalink to this headline">*</a></h2>\n<table border="1" class="co
+ lwidths-given docutils">\n<colgroup>\n<col width="10%" />\n<col width="90%
+ " />\n</colgroup>\n<tbody valign="top">\n<tr><th class="stub">6PM</th>\n<t
+ d><p class="first">Entry</p>\n<p class="last">A bit of socializing. There 
+ will be snacks and beverages\, courtesy of ComplyAdvantage.</p>\n</td>\n</
+ tr>\n<tr><th class="stub">6:30</th>\n<td><p class="first"><strong>Things t
+ o try with a tracer</strong> (Ionel Cristian Mărieș)</p>\n<p>This presen
+ tation will go over a bunch of examples with <a class="reference external"
+  href="https://python-hunter.readthedocs.io/">Hunter</a> and\nteach you ho
+ w to stop worrying and love the tracer. Will include examples\nof how to a
+ ttach to processes and a bunch of contraptions with variables.</p>\n<p cla
+ ss="last"><a class="reference external" href="https://www.youtube.com/watc
+ h?v=Z897n8Kwk8M&amp\;list=PL2Arun8D--P9YqshRO2eGSfPtSEmwVdaW&amp\;index=1"
+ >Video</a> and\n<a class="reference external" href="https://blog.ionelmc.r
+ o/presentations/things-to-try-with-a-tracer/">Slides</a>.</p>\n</td>\n</tr
+ >\n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="s
+ tub">7:30</th>\n<td><p class="first"><strong>Do you trust your Data?</stro
+ ng> (Adrian Buturca)</p>\n<p>This presentation will try to walk us through
+  challenges that we\, in <a class="reference external" href="https://compl
+ yadvantage.com/">ComplyAdvantage</a>\, had and have around this topic and 
+ tries to present what we learn from them and the directions that we are ta
+ king for having better answers to this question.</p>\n<p class="last"><a c
+ lass="reference external" href="https://www.youtube.com/watch?v=v6-JZ8degd
+ Q&amp\;list=PL2Arun8D--P9YqshRO2eGSfPtSEmwVdaW&amp\;index=2">Video</a> and
+ \n<a class="reference external" href="https://ropython.ro/2019/06/20/thing
+ s-to-try-with-a-tracer-do-you-trust-your-data/Do-you-trust-your-Data.pdf">
+ Slides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<td>Closing
+  and the raffle for the two tickets. The discounted price will be 35€ wh
+ ile the full price would be 150€.</td>\n</tr>\n</tbody>\n</table>\n</div
+ >\n
 LOCATION:Strada George Coșbuc 6\, Cluj-Napoca\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2019/06/20/things-to-try-with-a-tracer-do-you-trust
- -your-data/
+URL:https://ropython.ro/2019/06/20/things-to-try-with-a-tracer-do-you-trus
+ t-your-data/
 X-ALT-DESC;FMTTYPE=text/html:<p>For this meetup we'll have a raffle (tombo
  lă) for 2 ticket discounts at PyconBalkan (Oct 3-5).</p>\n<div class="sec
  tion" id="schedule">\n<h2>Schedule<a class="headerlink" href="#schedule" t
@@ -86,30 +86,30 @@ X-ALT-DESC;FMTTYPE=text/html:<p>For this meetup we'll have a raffle (tombo
  ing for having better answers to this question.</p>\n<p class="last"><a cl
  ass="reference external" href="https://www.youtube.com/watch?v=v6-JZ8degdQ
  &amp\;list=PL2Arun8D--P9YqshRO2eGSfPtSEmwVdaW&amp\;index=2">Video</a> and\
- n<a class="reference external" href="http://ropython.ro/2019/06/20/things-
- to-try-with-a-tracer-do-you-trust-your-data/Do-you-trust-your-Data.pdf">Sl
- ides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<td>Closing a
- nd the raffle for the two tickets. The discounted price will be 35€ whil
- e the full price would be 150€.</td>\n</tr>\n</tbody>\n</table>\n</div>\
- n
+ n<a class="reference external" href="https://ropython.ro/2019/06/20/things
+ -to-try-with-a-tracer-do-you-trust-your-data/Do-you-trust-your-Data.pdf">S
+ lides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<td>Closing 
+ and the raffle for the two tickets. The discounted price will be 35€ whi
+ le the full price would be 150€.</td>\n</tr>\n</tbody>\n</table>\n</div>
+ \n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The one about gevent\, asyncio and decorators
 DTSTART:20190612T160000Z
 DTEND:20190612T180000Z
 UID:2019/06/12/the-one-about-gevent-asyncio-and-decorators/
-DESCRIPTION;ALTREP="http://ropython.ro/2019/06/12/the-one-about-gevent-asy
- ncio-and-decorators/":<p>Hello Pythonistas!</p>\n<p>It's been a while sinc
- e our last meetup. Let's get together again!</p>\n<p>Agenda:</p>\n<ul clas
- s="simple">\n<li>Radu Ciorba and colleagues from Bitdefender will share ou
- r experience after using asyncio for over a year.\nZoli Szeredi will chall
- enge your knowledge of decorators.</li>\n<li>Aleksandar Kordic will talk a
- bout Coroutines with greenlet and gevent.</li>\n</ul>\n<p>Stay tuned for u
- pdates and an exact schedule.</p>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2019/06/12/the-one-about-gevent-as
+ yncio-and-decorators/":<p>Hello Pythonistas!</p>\n<p>It's been a while sin
+ ce our last meetup. Let's get together again!</p>\n<p>Agenda:</p>\n<ul cla
+ ss="simple">\n<li>Radu Ciorba and colleagues from Bitdefender will share o
+ ur experience after using asyncio for over a year.\nZoli Szeredi will chal
+ lenge your knowledge of decorators.</li>\n<li>Aleksandar Kordic will talk 
+ about Coroutines with greenlet and gevent.</li>\n</ul>\n<p>Stay tuned for 
+ updates and an exact schedule.</p>\n
 LOCATION:Timi?oara\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2019/06/12/the-one-about-gevent-asyncio-and-decorat
- ors/
+URL:https://ropython.ro/2019/06/12/the-one-about-gevent-asyncio-and-decora
+ tors/
 X-ALT-DESC;FMTTYPE=text/html:<p>Hello Pythonistas!</p>\n<p>It's been a whi
  le since our last meetup. Let's get together again!</p>\n<p>Agenda:</p>\n<
  ul class="simple">\n<li>Radu Ciorba and colleagues from Bitdefender will s
@@ -123,20 +123,21 @@ SUMMARY:RoPython Bucharest Meetup
 DTSTART:20190423T160000Z
 DTEND:20190423T180000Z
 UID:2019/04/23/ropython-bucharest-meetup/
-DESCRIPTION;ALTREP="http://ropython.ro/2019/04/23/ropython-bucharest-meetu
- p/":<p>We will have our first monthly Python meetup on April 23th in the c
- enter at the charming COWORK CAFE (<a class="reference external" href="htt
- p://theatelier.ro/">http://theatelier.ro/</a>). If you have a topic you wa
- nt to talk about let us know in the comments. I could give an introduction
-  into Plone the Python Web CMS including a nice and lean Restful-API. But 
- I'm open for more topics. The plan is to have the meetup once month.</p>\n
- <p>The space there is limited\, so please RSVP and update if you can not m
- ake it\, so that other people can come instead.</p>\n<p>After the meetup\,
-  we can have some conversations on a beer or two in the old town \;)</p>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2019/04/23/ropython-bucharest-meet
+ up/":<p>We will have our first monthly Python meetup on April 23th in the 
+ center at the charming COWORK CAFE (<a class="reference external" href="ht
+ tp://theatelier.ro/">http://theatelier.ro/</a>). If you have a topic you w
+ ant to talk about let us know in the comments. I could give an introductio
+ n into Plone the Python Web CMS including a nice and lean Restful-API. But
+  I'm open for more topics. The plan is to have the meetup once month.</p>\
+ n<p>The space there is limited\, so please RSVP and update if you can not 
+ make it\, so that other people can come instead.</p>\n<p>After the meetup\
+ , we can have some conversations on a beer or two in the old town \;)</p>\
+ n
 LOCATION:Just ask at the Desk\, we are upstairs.\, Strada Gabroveni 9\, Bu
  curești\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2019/04/23/ropython-bucharest-meetup/
+URL:https://ropython.ro/2019/04/23/ropython-bucharest-meetup/
 X-ALT-DESC;FMTTYPE=text/html:<p>We will have our first monthly Python meet
  up on April 23th in the center at the charming COWORK CAFE (<a class="refe
  rence external" href="http://theatelier.ro/">http://theatelier.ro/</a>). I
@@ -153,13 +154,13 @@ SUMMARY:A beer gathering
 DTSTART:20190418T160000Z
 DTEND:20190418T180000Z
 UID:2019/04/18/a-beer-gathering/
-DESCRIPTION;ALTREP="http://ropython.ro/2019/04/18/a-beer-gathering/":<p>Ju
- st a gathering over beers and/or other tasty stuff to talk about Python an
- d anything interesting.</p>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2019/04/18/a-beer-gathering/":<p>J
+ ust a gathering over beers and/or other tasty stuff to talk about Python a
+ nd anything interesting.</p>\n
 LOCATION:Ionel's phone number: 0724345878\, Strada Dávid Ferenc 13\, Cluj
  -Napoca\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2019/04/18/a-beer-gathering/
+URL:https://ropython.ro/2019/04/18/a-beer-gathering/
 X-ALT-DESC;FMTTYPE=text/html:<p>Just a gathering over beers and/or other t
  asty stuff to talk about Python and anything interesting.</p>\n
 END:VEVENT
@@ -170,41 +171,41 @@ DTSTART:20190226T160000Z
 DTEND:20190226T180000Z
 UID:2019/02/26/going-serverless-with-aws-deploying-your-python-apps-using-
  dokku/
-DESCRIPTION;ALTREP="http://ropython.ro/2019/02/26/going-serverless-with-aw
- s-deploying-your-python-apps-using-dokku/":<div class="section" id="schedu
- le">\n<h2>Schedule<a class="headerlink" href="#schedule" title="Permalink 
- to this headline">*</a></h2>\n<table border="1" class="colwidths-given doc
- utils">\n<colgroup>\n<col width="10%" />\n<col width="90%" />\n</colgroup>
- \n<tbody valign="top">\n<tr><th class="stub">6PM</th>\n<td><p class="first
- ">Entry</p>\n<p class="last">A bit of socializing. There will be snacks an
- d beverages\, courtesy of QCatalyst.</p>\n</td>\n</tr>\n<tr><th class="stu
- b">6:30</th>\n<td><p class="first"><strong>Going serverless with AWS</stro
- ng> (Cristian Robert)</p>\n<p>A developer jumps on the ‘serverless’ ba
- ndwagon. We’ll take a look at the process and tools available to develop
-  applications that run on AWS serverless computing technology.</p>\n<p cla
- ss="last"><a class="reference external" href="https://github.com/QCatalyst
- /ro-python-serverless">Code</a>\,\n<a class="reference external" href="htt
- ps://www.youtube.com/watch?v=NPEsqxMeGJA&amp\;list=PL2Arun8D--P9nBRF83st6S
- OtFkCmfIc2K&amp\;index=1">Video</a> and\n<a class="reference external" hre
- f="http://ropython.ro/2019/02/26/going-serverless-with-aws-deploying-your-
- python-apps-using-dokku/Going-serverless-with-AWS.pdf">Slides</a>.</p>\n</
- td>\n</tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th
-  class="stub">7:30</th>\n<td><p class="first"><strong>Deploying your Pytho
- n apps using Dokku and Digital Ocean</strong> (Angel Ramboi)</p>\n<p>How t
- o deploy your very own PaaS on a Digital Ocean droplet using Dokku (<a cla
- ss="reference external" href="https://github.com/dokku/dokku/">https://git
- hub.com/dokku/dokku/</a>) a Docker powered &quot\;poor mans&quot\; mini He
- roku bash script. +Demo: setup a simple Python app and deploy it using git
-  (and if we have time automate this using Gitlab CI/CD).</p>\n<p class="la
- st"><a class="reference external" href="https://github.com/aramboi/ropytho
- n-meetup-26-feb-2019">Code</a>\, <a class="reference external" href="https
- ://www.youtube.com/watch?v=ABS8uCEOUlE&amp\;list=PL2Arun8D--P9nBRF83st6SOt
- FkCmfIc2K&amp\;index=2">Video</a>.</p>\n</td>\n</tr>\n<tr><th class="stub"
- >8:00</th>\n<td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2019/02/26/going-serverless-with-a
+ ws-deploying-your-python-apps-using-dokku/":<div class="section" id="sched
+ ule">\n<h2>Schedule<a class="headerlink" href="#schedule" title="Permalink
+  to this headline">*</a></h2>\n<table border="1" class="colwidths-given do
+ cutils">\n<colgroup>\n<col width="10%" />\n<col width="90%" />\n</colgroup
+ >\n<tbody valign="top">\n<tr><th class="stub">6PM</th>\n<td><p class="firs
+ t">Entry</p>\n<p class="last">A bit of socializing. There will be snacks a
+ nd beverages\, courtesy of QCatalyst.</p>\n</td>\n</tr>\n<tr><th class="st
+ ub">6:30</th>\n<td><p class="first"><strong>Going serverless with AWS</str
+ ong> (Cristian Robert)</p>\n<p>A developer jumps on the ‘serverless’ b
+ andwagon. We’ll take a look at the process and tools available to develo
+ p applications that run on AWS serverless computing technology.</p>\n<p cl
+ ass="last"><a class="reference external" href="https://github.com/QCatalys
+ t/ro-python-serverless">Code</a>\,\n<a class="reference external" href="ht
+ tps://www.youtube.com/watch?v=NPEsqxMeGJA&amp\;list=PL2Arun8D--P9nBRF83st6
+ SOtFkCmfIc2K&amp\;index=1">Video</a> and\n<a class="reference external" hr
+ ef="https://ropython.ro/2019/02/26/going-serverless-with-aws-deploying-you
+ r-python-apps-using-dokku/Going-serverless-with-AWS.pdf">Slides</a>.</p>\n
+ </td>\n</tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><
+ th class="stub">7:30</th>\n<td><p class="first"><strong>Deploying your Pyt
+ hon apps using Dokku and Digital Ocean</strong> (Angel Ramboi)</p>\n<p>How
+  to deploy your very own PaaS on a Digital Ocean droplet using Dokku (<a c
+ lass="reference external" href="https://github.com/dokku/dokku/">https://g
+ ithub.com/dokku/dokku/</a>) a Docker powered &quot\;poor mans&quot\; mini 
+ Heroku bash script. +Demo: setup a simple Python app and deploy it using g
+ it (and if we have time automate this using Gitlab CI/CD).</p>\n<p class="
+ last"><a class="reference external" href="https://github.com/aramboi/ropyt
+ hon-meetup-26-feb-2019">Code</a>\, <a class="reference external" href="htt
+ ps://www.youtube.com/watch?v=ABS8uCEOUlE&amp\;list=PL2Arun8D--P9nBRF83st6S
+ OtFkCmfIc2K&amp\;index=2">Video</a>.</p>\n</td>\n</tr>\n<tr><th class="stu
+ b">8:00</th>\n<td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
 LOCATION:The Office\, corp C\, sala C\, Cluj-Napoca\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2019/02/26/going-serverless-with-aws-deploying-your
- -python-apps-using-dokku/
+URL:https://ropython.ro/2019/02/26/going-serverless-with-aws-deploying-you
+ r-python-apps-using-dokku/
 X-ALT-DESC;FMTTYPE=text/html:<div class="section" id="schedule">\n<h2>Sche
  dule<a class="headerlink" href="#schedule" title="Permalink to this headli
  ne">*</a></h2>\n<table border="1" class="colwidths-given docutils">\n<colg
@@ -219,35 +220,35 @@ X-ALT-DESC;FMTTYPE=text/html:<div class="section" id="schedule">\n<h2>Sche
  lass="reference external" href="https://github.com/QCatalyst/ro-python-ser
  verless">Code</a>\,\n<a class="reference external" href="https://www.youtu
  be.com/watch?v=NPEsqxMeGJA&amp\;list=PL2Arun8D--P9nBRF83st6SOtFkCmfIc2K&am
- p\;index=1">Video</a> and\n<a class="reference external" href="http://ropy
- thon.ro/2019/02/26/going-serverless-with-aws-deploying-your-python-apps-us
- ing-dokku/Going-serverless-with-AWS.pdf">Slides</a>.</p>\n</td>\n</tr>\n<t
- r><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="stub">
- 7:30</th>\n<td><p class="first"><strong>Deploying your Python apps using D
- okku and Digital Ocean</strong> (Angel Ramboi)</p>\n<p>How to deploy your 
- very own PaaS on a Digital Ocean droplet using Dokku (<a class="reference 
- external" href="https://github.com/dokku/dokku/">https://github.com/dokku/
- dokku/</a>) a Docker powered &quot\;poor mans&quot\; mini Heroku bash scri
- pt. +Demo: setup a simple Python app and deploy it using git (and if we ha
- ve time automate this using Gitlab CI/CD).</p>\n<p class="last"><a class="
- reference external" href="https://github.com/aramboi/ropython-meetup-26-fe
- b-2019">Code</a>\, <a class="reference external" href="https://www.youtube
- .com/watch?v=ABS8uCEOUlE&amp\;list=PL2Arun8D--P9nBRF83st6SOtFkCmfIc2K&amp\
- ;index=2">Video</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:00</th>\n<t
- d>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
+ p\;index=1">Video</a> and\n<a class="reference external" href="https://rop
+ ython.ro/2019/02/26/going-serverless-with-aws-deploying-your-python-apps-u
+ sing-dokku/Going-serverless-with-AWS.pdf">Slides</a>.</p>\n</td>\n</tr>\n<
+ tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="stub"
+ >7:30</th>\n<td><p class="first"><strong>Deploying your Python apps using 
+ Dokku and Digital Ocean</strong> (Angel Ramboi)</p>\n<p>How to deploy your
+  very own PaaS on a Digital Ocean droplet using Dokku (<a class="reference
+  external" href="https://github.com/dokku/dokku/">https://github.com/dokku
+ /dokku/</a>) a Docker powered &quot\;poor mans&quot\; mini Heroku bash scr
+ ipt. +Demo: setup a simple Python app and deploy it using git (and if we h
+ ave time automate this using Gitlab CI/CD).</p>\n<p class="last"><a class=
+ "reference external" href="https://github.com/aramboi/ropython-meetup-26-f
+ eb-2019">Code</a>\, <a class="reference external" href="https://www.youtub
+ e.com/watch?v=ABS8uCEOUlE&amp\;list=PL2Arun8D--P9nBRF83st6SOtFkCmfIc2K&amp
+ \;index=2">Video</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:00</th>\n<
+ td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A beer gathering
 DTSTART:20181213T170000Z
 DTEND:20181213T190000Z
 UID:2018/12/13/a-beer-gathering/
-DESCRIPTION;ALTREP="http://ropython.ro/2018/12/13/a-beer-gathering/":<p>Ju
- st a gathering over beers and/or other tasty stuff to talk about Python an
- d anything interesting.</p>\n<p>Reserved table is in the interior. Pre-ord
- ering food is possible (leave a message).</p>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2018/12/13/a-beer-gathering/":<p>J
+ ust a gathering over beers and/or other tasty stuff to talk about Python a
+ nd anything interesting.</p>\n<p>Reserved table is in the interior. Pre-or
+ dering food is possible (leave a message).</p>\n
 LOCATION:Cardinal Iuliu Hossu 30-32\, Cluj-Napoca\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2018/12/13/a-beer-gathering/
+URL:https://ropython.ro/2018/12/13/a-beer-gathering/
 X-ALT-DESC;FMTTYPE=text/html:<p>Just a gathering over beers and/or other t
  asty stuff to talk about Python and anything interesting.</p>\n<p>Reserved
   table is in the interior. Pre-ordering food is possible (leave a message)
@@ -258,13 +259,13 @@ SUMMARY:A beer gathering
 DTSTART:20181108T170000Z
 DTEND:20181108T190000Z
 UID:2018/11/08/a-beer-gathering/
-DESCRIPTION;ALTREP="http://ropython.ro/2018/11/08/a-beer-gathering/":<p>Ju
- st a gathering over beers and/or other tasty stuff to talk about Python an
- d anything interesting.</p>\n<p>Reserved table is in the interior. Pre-ord
- ering food is possible (leave a message).</p>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2018/11/08/a-beer-gathering/":<p>J
+ ust a gathering over beers and/or other tasty stuff to talk about Python a
+ nd anything interesting.</p>\n<p>Reserved table is in the interior. Pre-or
+ dering food is possible (leave a message).</p>\n
 LOCATION:Cardinal Iuliu Hossu 30-32\, Cluj-Napoca\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2018/11/08/a-beer-gathering/
+URL:https://ropython.ro/2018/11/08/a-beer-gathering/
 X-ALT-DESC;FMTTYPE=text/html:<p>Just a gathering over beers and/or other t
  asty stuff to talk about Python and anything interesting.</p>\n<p>Reserved
   table is in the interior. Pre-ordering food is possible (leave a message)
@@ -275,18 +276,18 @@ SUMMARY:Beer gathering - group retrospective and future plans
 DTSTART:20180927T160000Z
 DTEND:20180927T180000Z
 UID:2018/09/27/beer-gathering-group-retrospective-and-future-plans/
-DESCRIPTION;ALTREP="http://ropython.ro/2018/09/27/beer-gathering-group-ret
- rospective-and-future-plans/":<p>Ro-Python Iasi meetup group retrospective
- \, future plans\, presentations proposals\, speakers. We aim to re-launch 
- the group activity for 2018-2019 season\, and anyone who wants to be part 
- of this growing community is welcome to join us.</p>\n<p>Location: The Tru
- mpets (Palas Mall - Esplanada Teatrul Luceafărul).</p>\n<p>Note: Due to s
- mall number of participants this event will not be sponsored with location
-  or beer.</p>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2018/09/27/beer-gathering-group-re
+ trospective-and-future-plans/":<p>Ro-Python Iasi meetup group retrospectiv
+ e\, future plans\, presentations proposals\, speakers. We aim to re-launch
+  the group activity for 2018-2019 season\, and anyone who wants to be part
+  of this growing community is welcome to join us.</p>\n<p>Location: The Tr
+ umpets (Palas Mall - Esplanada Teatrul Luceafărul).</p>\n<p>Note: Due to 
+ small number of participants this event will not be sponsored with locatio
+ n or beer.</p>\n
 LOCATION:Strada Palas\, nr. 7 A\, Iasi\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2018/09/27/beer-gathering-group-retrospective-and-f
- uture-plans/
+URL:https://ropython.ro/2018/09/27/beer-gathering-group-retrospective-and-
+ future-plans/
 X-ALT-DESC;FMTTYPE=text/html:<p>Ro-Python Iasi meetup group retrospective\
  , future plans\, presentations proposals\, speakers. We aim to re-launch t
  he group activity for 2018-2019 season\, and anyone who wants to be part o
@@ -300,13 +301,13 @@ SUMMARY:A beer gathering
 DTSTART:20180925T160000Z
 DTEND:20180925T200000Z
 UID:2018/09/25/a-beer-gathering/
-DESCRIPTION;ALTREP="http://ropython.ro/2018/09/25/a-beer-gathering/":<p>Ju
- st a gathering over beers and/or other tasty stuff to talk about Python an
- d anything interesting.</p>\n<p>Reserved table is in the interior. Pre-ord
- ering food is possible (leave a message).</p>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2018/09/25/a-beer-gathering/":<p>J
+ ust a gathering over beers and/or other tasty stuff to talk about Python a
+ nd anything interesting.</p>\n<p>Reserved table is in the interior. Pre-or
+ dering food is possible (leave a message).</p>\n
 LOCATION:Cardinal Iuliu Hossu 30-32\, Cluj-Napoca\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2018/09/25/a-beer-gathering/
+URL:https://ropython.ro/2018/09/25/a-beer-gathering/
 X-ALT-DESC;FMTTYPE=text/html:<p>Just a gathering over beers and/or other t
  asty stuff to talk about Python and anything interesting.</p>\n<p>Reserved
   table is in the interior. Pre-ordering food is possible (leave a message)
@@ -317,14 +318,14 @@ SUMMARY:A beer gathering
 DTSTART:20180705T160000Z
 DTEND:20180705T200000Z
 UID:2018/07/05/a-beer-gathering/
-DESCRIPTION;ALTREP="http://ropython.ro/2018/07/05/a-beer-gathering/":<p>Ju
- st a gathering over beers and/or other tasty stuff to talk about\nPython a
- nd anything interesting like those discounted tickets at PyCon\nBalkan and
-  plans for the next meetup.</p>\n<p>Reserved table is in the interior. Pre
- ordering food is possible (leave\na message).</p>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2018/07/05/a-beer-gathering/":<p>J
+ ust a gathering over beers and/or other tasty stuff to talk about\nPython 
+ and anything interesting like those discounted tickets at PyCon\nBalkan an
+ d plans for the next meetup.</p>\n<p>Reserved table is in the interior. Pr
+ eordering food is possible (leave\na message).</p>\n
 LOCATION:Cardinal Iuliu Hossu 30-32\, Cluj-Napoca\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2018/07/05/a-beer-gathering/
+URL:https://ropython.ro/2018/07/05/a-beer-gathering/
 X-ALT-DESC;FMTTYPE=text/html:<p>Just a gathering over beers and/or other t
  asty stuff to talk about\nPython and anything interesting like those disco
  unted tickets at PyCon\nBalkan and plans for the next meetup.</p>\n<p>Rese
@@ -336,15 +337,15 @@ SUMMARY:RoPython #4 - Async Python
 DTSTART:20180620T160000Z
 DTEND:20180620T180000Z
 UID:2018/06/20/ropython-4-async-python/
-DESCRIPTION;ALTREP="http://ropython.ro/2018/06/20/ropython-4-async-python/
- ":<p>Join us at the next Python Meetup on the 20th of June\, from 19:00. T
- he\nlocation will be announced.</p>\n<p>Agenda:</p>\n<ul class="simple">\n
- <li>What the heck is this <cite>async def</cite> and why is it awesome? - 
- Radu Ciorba</li>\n</ul>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2018/06/20/ropython-4-async-python
+ /":<p>Join us at the next Python Meetup on the 20th of June\, from 19:00. 
+ The\nlocation will be announced.</p>\n<p>Agenda:</p>\n<ul class="simple">\
+ n<li>What the heck is this <cite>async def</cite> and why is it awesome? -
+  Radu Ciorba</li>\n</ul>\n
 LOCATION:10th\, C. Brediceanu St.\, E Building\, Timisoara\, Timisoara\, R
  omania
 PRIORITY:5
-URL:http://ropython.ro/2018/06/20/ropython-4-async-python/
+URL:https://ropython.ro/2018/06/20/ropython-4-async-python/
 X-ALT-DESC;FMTTYPE=text/html:<p>Join us at the next Python Meetup on the 2
  0th of June\, from 19:00. The\nlocation will be announced.</p>\n<p>Agenda:
  </p>\n<ul class="simple">\n<li>What the heck is this <cite>async def</cite
@@ -355,50 +356,50 @@ SUMMARY:Numerical computing in Python and Python Balkan
 DTSTART:20180306T160000Z
 DTEND:20180306T183000Z
 UID:2018/03/06/numerical-computing-in-python-and-python-balkan/
-DESCRIPTION;ALTREP="http://ropython.ro/2018/03/06/numerical-computing-in-p
- ython-and-python-balkan/":<div class="section" id="schedule">\n<h2>Schedul
- e<a class="headerlink" href="#schedule" title="Permalink to this headline"
- >*</a></h2>\n<table border="1" class="colwidths-given docutils">\n<colgrou
- p>\n<col width="10%" />\n<col width="90%" />\n</colgroup>\n<tbody valign="
- top">\n<tr><th class="stub">6PM</th>\n<td><p class="first">Entry</p>\n<p c
- lass="last">A bit of socializing. There will be snacks and beverages\, cou
- rtesy of\nEvozon.</p>\n</td>\n</tr>\n<tr><th class="stub">6:30</th>\n<td><
- p class="first"><strong>Numerical computing in Python</strong> (Mihai Andr
- ei)</p>\n<p>Numerical computing is the processing of large amounts of floa
- ting\npoint data. It is the foundation for analyzing measurements and of s
- cientific\ncomputing.</p>\n<p>Once arcane subjects of scientific computing
-  are entering the\nmainstream. Machine learning and big data analytics are
-  popular examples.</p>\n<p>Python is widely used in this domain\, threaten
- ing established tools\nlike matlab.</p>\n<p>Python's scientific ecosystem 
- is based on a common data type: the\nmighty numpy array.</p>\n<p>We will i
- ntroduce you to the numpy library\, and along the way show off\nsome other
-  common used tools for numerical data.</p>\n<p><a class="reference externa
- l" href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-p
- ython-balkan/numpy-slides.html">Slides</a>.</p>\n<!--<p><a class="referenc
- e external" href="http://ropython.ro/2018/03/06/numerical-computing-in-pyt
- hon-and-python-balkan/Digraph.png">blah</a>\n<a class="reference external"
-  href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-pyt
- hon-balkan/heat_field.png">blah</a>\n<a class="reference external" href="h
- ttp://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balk
- an/matrix.png">blah</a>\n<a class="reference external" href="http://ropyth
- on.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/numpy_bro
- adcasting.png">blah</a></p>\n<div class="last">--></div></td>\n</tr>\n<tr>
- <th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="stub">7:
- 30</th>\n<td><p class="first"><strong>Python Balkan</strong> (Bojan Jovano
- vic)</p>\n<p>A draft of the protocol of communication for python communiti
- es in\nBalkan. Bojan (Python Developer and founder of Kortechs) from Belgr
- ade\nhas a reputation for creating interesting python meetups in Belgrade.
- \nThis time he would like to scale this up a bit by giving every\ncommunit
- y in the Balkan region the tools needed to upgrade their game\na bit by gi
- ving the community organizers a way of acquiring quality\ncontent trough s
- haring.</p>\n<p class="last"><a class="reference external" href="https://d
- ocs.google.com/presentation/d/15y01HRcjBJP_1SZoGg-0ikxgoCG463qdJtmj0gfcSLI
- /present">Slides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<
- td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2018/03/06/numerical-computing-in-
+ python-and-python-balkan/":<div class="section" id="schedule">\n<h2>Schedu
+ le<a class="headerlink" href="#schedule" title="Permalink to this headline
+ ">*</a></h2>\n<table border="1" class="colwidths-given docutils">\n<colgro
+ up>\n<col width="10%" />\n<col width="90%" />\n</colgroup>\n<tbody valign=
+ "top">\n<tr><th class="stub">6PM</th>\n<td><p class="first">Entry</p>\n<p 
+ class="last">A bit of socializing. There will be snacks and beverages\, co
+ urtesy of\nEvozon.</p>\n</td>\n</tr>\n<tr><th class="stub">6:30</th>\n<td>
+ <p class="first"><strong>Numerical computing in Python</strong> (Mihai And
+ rei)</p>\n<p>Numerical computing is the processing of large amounts of flo
+ ating\npoint data. It is the foundation for analyzing measurements and of 
+ scientific\ncomputing.</p>\n<p>Once arcane subjects of scientific computin
+ g are entering the\nmainstream. Machine learning and big data analytics ar
+ e popular examples.</p>\n<p>Python is widely used in this domain\, threate
+ ning established tools\nlike matlab.</p>\n<p>Python's scientific ecosystem
+  is based on a common data type: the\nmighty numpy array.</p>\n<p>We will 
+ introduce you to the numpy library\, and along the way show off\nsome othe
+ r common used tools for numerical data.</p>\n<p><a class="reference extern
+ al" href="https://ropython.ro/2018/03/06/numerical-computing-in-python-and
+ -python-balkan/numpy-slides.html">Slides</a>.</p>\n<!--<p><a class="refere
+ nce external" href="https://ropython.ro/2018/03/06/numerical-computing-in-
+ python-and-python-balkan/Digraph.png">blah</a>\n<a class="reference extern
+ al" href="https://ropython.ro/2018/03/06/numerical-computing-in-python-and
+ -python-balkan/heat_field.png">blah</a>\n<a class="reference external" hre
+ f="https://ropython.ro/2018/03/06/numerical-computing-in-python-and-python
+ -balkan/matrix.png">blah</a>\n<a class="reference external" href="https://
+ ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/num
+ py_broadcasting.png">blah</a></p>\n<div class="last">--></div></td>\n</tr>
+ \n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="st
+ ub">7:30</th>\n<td><p class="first"><strong>Python Balkan</strong> (Bojan 
+ Jovanovic)</p>\n<p>A draft of the protocol of communication for python com
+ munities in\nBalkan. Bojan (Python Developer and founder of Kortechs) from
+  Belgrade\nhas a reputation for creating interesting python meetups in Bel
+ grade.\nThis time he would like to scale this up a bit by giving every\nco
+ mmunity in the Balkan region the tools needed to upgrade their game\na bit
+  by giving the community organizers a way of acquiring quality\ncontent tr
+ ough sharing.</p>\n<p class="last"><a class="reference external" href="htt
+ ps://docs.google.com/presentation/d/15y01HRcjBJP_1SZoGg-0ikxgoCG463qdJtmj0
+ gfcSLI/present">Slides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</
+ th>\n<td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
 LOCATION:Calea Motilor 62 - 1st floor\, Cluj-Napoca\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python
- -balkan/
+URL:https://ropython.ro/2018/03/06/numerical-computing-in-python-and-pytho
+ n-balkan/
 X-ALT-DESC;FMTTYPE=text/html:<div class="section" id="schedule">\n<h2>Sche
  dule<a class="headerlink" href="#schedule" title="Permalink to this headli
  ne">*</a></h2>\n<table border="1" class="colwidths-given docutils">\n<colg
@@ -416,28 +417,28 @@ X-ALT-DESC;FMTTYPE=text/html:<div class="section" id="schedule">\n<h2>Sche
  em is based on a common data type: the\nmighty numpy array.</p>\n<p>We wil
  l introduce you to the numpy library\, and along the way show off\nsome ot
  her common used tools for numerical data.</p>\n<p><a class="reference exte
- rnal" href="http://ropython.ro/2018/03/06/numerical-computing-in-python-an
- d-python-balkan/numpy-slides.html">Slides</a>.</p>\n<!--<p><a class="refer
- ence external" href="http://ropython.ro/2018/03/06/numerical-computing-in-
- python-and-python-balkan/Digraph.png">blah</a>\n<a class="reference extern
- al" href="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-
- python-balkan/heat_field.png">blah</a>\n<a class="reference external" href
- ="http://ropython.ro/2018/03/06/numerical-computing-in-python-and-python-b
- alkan/matrix.png">blah</a>\n<a class="reference external" href="http://rop
- ython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/numpy_
- broadcasting.png">blah</a></p>\n<div class="last">--></div></td>\n</tr>\n<
- tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="stub"
- >7:30</th>\n<td><p class="first"><strong>Python Balkan</strong> (Bojan Jov
- anovic)</p>\n<p>A draft of the protocol of communication for python commun
- ities in\nBalkan. Bojan (Python Developer and founder of Kortechs) from Be
- lgrade\nhas a reputation for creating interesting python meetups in Belgra
- de.\nThis time he would like to scale this up a bit by giving every\ncommu
- nity in the Balkan region the tools needed to upgrade their game\na bit by
-  giving the community organizers a way of acquiring quality\ncontent troug
- h sharing.</p>\n<p class="last"><a class="reference external" href="https:
- //docs.google.com/presentation/d/15y01HRcjBJP_1SZoGg-0ikxgoCG463qdJtmj0gfc
- SLI/present">Slides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>
- \n<td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
+ rnal" href="https://ropython.ro/2018/03/06/numerical-computing-in-python-a
+ nd-python-balkan/numpy-slides.html">Slides</a>.</p>\n<!--<p><a class="refe
+ rence external" href="https://ropython.ro/2018/03/06/numerical-computing-i
+ n-python-and-python-balkan/Digraph.png">blah</a>\n<a class="reference exte
+ rnal" href="https://ropython.ro/2018/03/06/numerical-computing-in-python-a
+ nd-python-balkan/heat_field.png">blah</a>\n<a class="reference external" h
+ ref="https://ropython.ro/2018/03/06/numerical-computing-in-python-and-pyth
+ on-balkan/matrix.png">blah</a>\n<a class="reference external" href="https:
+ //ropython.ro/2018/03/06/numerical-computing-in-python-and-python-balkan/n
+ umpy_broadcasting.png">blah</a></p>\n<div class="last">--></div></td>\n</t
+ r>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\n</tr>\n<tr><th class="
+ stub">7:30</th>\n<td><p class="first"><strong>Python Balkan</strong> (Boja
+ n Jovanovic)</p>\n<p>A draft of the protocol of communication for python c
+ ommunities in\nBalkan. Bojan (Python Developer and founder of Kortechs) fr
+ om Belgrade\nhas a reputation for creating interesting python meetups in B
+ elgrade.\nThis time he would like to scale this up a bit by giving every\n
+ community in the Balkan region the tools needed to upgrade their game\na b
+ it by giving the community organizers a way of acquiring quality\ncontent 
+ trough sharing.</p>\n<p class="last"><a class="reference external" href="h
+ ttps://docs.google.com/presentation/d/15y01HRcjBJP_1SZoGg-0ikxgoCG463qdJtm
+ j0gfcSLI/present">Slides</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15
+ </th>\n<td>Closing</td>\n</tr>\n</tbody>\n</table>\n</div>\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ansible - test driven infrastructure and Nemutam.com - script to s
@@ -446,36 +447,36 @@ DTSTART:20180215T160000Z
 DTEND:20180215T183000Z
 UID:2018/02/15/ansible-test-driven-infrastructure-and-nemutamcom-script-to
  -search-engine/
-DESCRIPTION;ALTREP="http://ropython.ro/2018/02/15/ansible-test-driven-infr
- astructure-and-nemutamcom-script-to-search-engine/":<div class="section" i
- d="schedule">\n<h2>Schedule<a class="headerlink" href="#schedule" title="P
- ermalink to this headline">*</a></h2>\n<table border="1" class="colwidths-
- given docutils">\n<colgroup>\n<col width="10%" />\n<col width="90%" />\n</
- colgroup>\n<tbody valign="top">\n<tr><th class="stub">6PM</th>\n<td><p cla
- ss="first">Entry</p>\n<p class="last">A bit of socializing.</p>\n</td>\n</
- tr>\n<tr><th class="stub">6:30</th>\n<td><p class="first"><strong>Ansible 
- - test driven infrastructure</strong> (<a class="reference external" href=
- "https://www.linkedin.com/in/alexandru-hapliuc-2b360729/">Alexandru Hapliu
- c</a>)</p>\n<p>Everything becomes code defined and test driven. Lately eve
- n\nInfrastructure has become an adept of that. The presentation will\nbrie
- fly how Ansible\, Molecule and Docker help us achieve that.</p>\n<p class=
- "last"><a class="reference external" href="https://www.youtube.com/watch?v
- =HW45vPLJfgo">Video</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">7:15</th>
- \n<td>Break</td>\n</tr>\n<tr><th class="stub">7:30</th>\n<td><p class="fir
- st"><strong>Nemutam.com - script to search engine</strong> (<a class="refe
- rence external" href="https://nemutam.com/">Gabi Nagy</a>)</p>\n<p>The tal
- k goes through the project's 4 year history\, starting from a\n70-line bas
- h script to a scalable\, distributed system\, along with the\nproblems and
-  lessons we've learned along the way. Topics include\nPython\, Selenium\, 
- running on top of Linux\, distributed systems and\nperformance.</p>\n<p cl
- ass="last"><a class="reference external" href="#">Slides</a>.</p>\n</td>\n
- </tr>\n<tr><th class="stub">8:15</th>\n<td>Closing</td>\n</tr>\n</tbody>\n
- </table>\n</div>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2018/02/15/ansible-test-driven-inf
+ rastructure-and-nemutamcom-script-to-search-engine/":<div class="section" 
+ id="schedule">\n<h2>Schedule<a class="headerlink" href="#schedule" title="
+ Permalink to this headline">*</a></h2>\n<table border="1" class="colwidths
+ -given docutils">\n<colgroup>\n<col width="10%" />\n<col width="90%" />\n<
+ /colgroup>\n<tbody valign="top">\n<tr><th class="stub">6PM</th>\n<td><p cl
+ ass="first">Entry</p>\n<p class="last">A bit of socializing.</p>\n</td>\n<
+ /tr>\n<tr><th class="stub">6:30</th>\n<td><p class="first"><strong>Ansible
+  - test driven infrastructure</strong> (<a class="reference external" href
+ ="https://www.linkedin.com/in/alexandru-hapliuc-2b360729/">Alexandru Hapli
+ uc</a>)</p>\n<p>Everything becomes code defined and test driven. Lately ev
+ en\nInfrastructure has become an adept of that. The presentation will\nbri
+ efly how Ansible\, Molecule and Docker help us achieve that.</p>\n<p class
+ ="last"><a class="reference external" href="https://www.youtube.com/watch?
+ v=HW45vPLJfgo">Video</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">7:15</th
+ >\n<td>Break</td>\n</tr>\n<tr><th class="stub">7:30</th>\n<td><p class="fi
+ rst"><strong>Nemutam.com - script to search engine</strong> (<a class="ref
+ erence external" href="https://nemutam.com/">Gabi Nagy</a>)</p>\n<p>The ta
+ lk goes through the project's 4 year history\, starting from a\n70-line ba
+ sh script to a scalable\, distributed system\, along with the\nproblems an
+ d lessons we've learned along the way. Topics include\nPython\, Selenium\,
+  running on top of Linux\, distributed systems and\nperformance.</p>\n<p c
+ lass="last"><a class="reference external" href="#">Slides</a>.</p>\n</td>\
+ n</tr>\n<tr><th class="stub">8:15</th>\n<td>Closing</td>\n</tr>\n</tbody>\
+ n</table>\n</div>\n
 LOCATION:Nr. 77\, 21 Decembrie 1989\, The office\, Cluj-Napoca\, Romania (
  Corp. A\, floor 1\, Yonder)
 PRIORITY:5
-URL:http://ropython.ro/2018/02/15/ansible-test-driven-infrastructure-and-n
- emutamcom-script-to-search-engine/
+URL:https://ropython.ro/2018/02/15/ansible-test-driven-infrastructure-and-
+ nemutamcom-script-to-search-engine/
 X-ALT-DESC;FMTTYPE=text/html:<div class="section" id="schedule">\n<h2>Sche
  dule<a class="headerlink" href="#schedule" title="Permalink to this headli
  ne">*</a></h2>\n<table border="1" class="colwidths-given docutils">\n<colg
@@ -505,12 +506,12 @@ SUMMARY:A beer gathering
 DTSTART:20171219T170000Z
 DTEND:20171219T180000Z
 UID:2017/12/19/a-beer-gathering/
-DESCRIPTION;ALTREP="http://ropython.ro/2017/12/19/a-beer-gathering/":<p>Ju
- st a gathering over beers and/or other tasty stuff to talk about Python an
- d anything interesting.</p>\n<p>Will we find any mulled wine?</p>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2017/12/19/a-beer-gathering/":<p>J
+ ust a gathering over beers and/or other tasty stuff to talk about Python a
+ nd anything interesting.</p>\n<p>Will we find any mulled wine?</p>\n
 LOCATION:Cardinal Iuliu Hossu 30-32\, Cluj-Napoca\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2017/12/19/a-beer-gathering/
+URL:https://ropython.ro/2017/12/19/a-beer-gathering/
 X-ALT-DESC;FMTTYPE=text/html:<p>Just a gathering over beers and/or other t
  asty stuff to talk about Python and anything interesting.</p>\n<p>Will we 
  find any mulled wine?</p>\n
@@ -520,15 +521,15 @@ SUMMARY:RoPython Meetup #3
 DTSTART:20171212T163000Z
 DTEND:20171212T173000Z
 UID:2017/12/12/ropython-meetup-3/
-DESCRIPTION;ALTREP="http://ropython.ro/2017/12/12/ropython-meetup-3/":<p>J
- oin us at the next Python Meetup on the 12th of December\, at the\nStartup
-  Hub\, from 18:30.</p>\n<p>Because many of you expressed an interest in da
- ta science\, Kienka Kio\nwill present a &quot\;Holistic View of Data Scien
- ce&quot\;.</p>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2017/12/12/ropython-meetup-3/":<p>
+ Join us at the next Python Meetup on the 12th of December\, at the\nStartu
+ p Hub\, from 18:30.</p>\n<p>Because many of you expressed an interest in d
+ ata science\, Kienka Kio\nwill present a &quot\;Holistic View of Data Scie
+ nce&quot\;.</p>\n
 LOCATION:10th\, C. Brediceanu St.\, E Building\, Timisoara\, Timisoara\, R
  omania
 PRIORITY:5
-URL:http://ropython.ro/2017/12/12/ropython-meetup-3/
+URL:https://ropython.ro/2017/12/12/ropython-meetup-3/
 X-ALT-DESC;FMTTYPE=text/html:<p>Join us at the next Python Meetup on the 1
  2th of December\, at the\nStartup Hub\, from 18:30.</p>\n<p>Because many o
  f you expressed an interest in data science\, Kienka Kio\nwill present a &
@@ -539,37 +540,37 @@ SUMMARY:Async tasks with Dramatiq and Tracing in Python
 DTSTART:20171207T160000Z
 DTEND:20171207T183000Z
 UID:2017/12/07/async-tasks-with-dramatiq-and-tracing-in-python/
-DESCRIPTION;ALTREP="http://ropython.ro/2017/12/07/async-tasks-with-dramati
- q-and-tracing-in-python/":<div class="section" id="schedule">\n<h2>Schedul
- e<a class="headerlink" href="#schedule" title="Permalink to this headline"
- >*</a></h2>\n<table border="1" class="colwidths-given docutils">\n<colgrou
- p>\n<col width="10%" />\n<col width="90%" />\n</colgroup>\n<tbody valign="
- top">\n<tr><th class="stub">6PM</th>\n<td><p class="first">Entry</p>\n<p c
- lass="last">A bit of socializing.</p>\n</td>\n</tr>\n<tr><th class="stub">
- 6:30</th>\n<td><p class="first"><strong>Async tasks with Dramatiq</strong>
-  (<a class="reference external" href="https://github.com/Bogdanp">Bogdan P
- opa</a>)</p>\n<p>How to leverage distributed task processing to improve th
- e performance\nand reliability of web services using Dramatiq (an alternat
- ive to\nCelery) and RabbitMQ.</p>\n<p class="last"><a class="reference ext
- ernal" href="https://www.youtube.com/watch?v=mrG9ZwLxb0g&amp\;t=129s&amp\;
- list=PL2Arun8D--P_rDD6m5vQF18JKCPmYbXd6&amp\;index=2">Video</a> and <a cla
- ss="reference external" href="http://slides.com/bogdanpopa/dramatiq/">Slid
- es</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>\
- n</tr>\n<tr><th class="stub">7:30</th>\n<td><p class="first"><strong>Traci
- ng in Python</strong> (<a class="reference external" href="https://github.
- com/ionelmc">Ionel Cristian Mărieș</a>)</p>\n<p>This talk will explore P
- ython's tracing API (sys.settrace) and give a\nsneak peek into Hunter the 
- tracing framework.</p>\n<p class="last"><a class="reference external" href
- ="https://www.youtube.com/watch?v=d-qbVkdzUlM&amp\;list=PL2Arun8D--P_rDD6m
- 5vQF18JKCPmYbXd6&amp\;index=1">Video</a> and <a class="reference external"
-  href="https://blog.ionelmc.ro/presentations/tracing-in-python/">Slides</a
- >.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<td>Closing</td>\n</
- tr>\n</tbody>\n</table>\n</div>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2017/12/07/async-tasks-with-dramat
+ iq-and-tracing-in-python/":<div class="section" id="schedule">\n<h2>Schedu
+ le<a class="headerlink" href="#schedule" title="Permalink to this headline
+ ">*</a></h2>\n<table border="1" class="colwidths-given docutils">\n<colgro
+ up>\n<col width="10%" />\n<col width="90%" />\n</colgroup>\n<tbody valign=
+ "top">\n<tr><th class="stub">6PM</th>\n<td><p class="first">Entry</p>\n<p 
+ class="last">A bit of socializing.</p>\n</td>\n</tr>\n<tr><th class="stub"
+ >6:30</th>\n<td><p class="first"><strong>Async tasks with Dramatiq</strong
+ > (<a class="reference external" href="https://github.com/Bogdanp">Bogdan 
+ Popa</a>)</p>\n<p>How to leverage distributed task processing to improve t
+ he performance\nand reliability of web services using Dramatiq (an alterna
+ tive to\nCelery) and RabbitMQ.</p>\n<p class="last"><a class="reference ex
+ ternal" href="https://www.youtube.com/watch?v=mrG9ZwLxb0g&amp\;t=129s&amp\
+ ;list=PL2Arun8D--P_rDD6m5vQF18JKCPmYbXd6&amp\;index=2">Video</a> and <a cl
+ ass="reference external" href="http://slides.com/bogdanpopa/dramatiq/">Sli
+ des</a>.</p>\n</td>\n</tr>\n<tr><th class="stub">7:15</th>\n<td>Break</td>
+ \n</tr>\n<tr><th class="stub">7:30</th>\n<td><p class="first"><strong>Trac
+ ing in Python</strong> (<a class="reference external" href="https://github
+ .com/ionelmc">Ionel Cristian Mărieș</a>)</p>\n<p>This talk will explore 
+ Python's tracing API (sys.settrace) and give a\nsneak peek into Hunter the
+  tracing framework.</p>\n<p class="last"><a class="reference external" hre
+ f="https://www.youtube.com/watch?v=d-qbVkdzUlM&amp\;list=PL2Arun8D--P_rDD6
+ m5vQF18JKCPmYbXd6&amp\;index=1">Video</a> and <a class="reference external
+ " href="https://blog.ionelmc.ro/presentations/tracing-in-python/">Slides</
+ a>.</p>\n</td>\n</tr>\n<tr><th class="stub">8:15</th>\n<td>Closing</td>\n<
+ /tr>\n</tbody>\n</table>\n</div>\n
 LOCATION:Nr. 77\, 21 Decembrie 1989\, The office\, Cluj-Napoca\, Romania (
  Corp. A\, floor 1\, Yonder)
 PRIORITY:5
-URL:http://ropython.ro/2017/12/07/async-tasks-with-dramatiq-and-tracing-in
- -python/
+URL:https://ropython.ro/2017/12/07/async-tasks-with-dramatiq-and-tracing-i
+ n-python/
 X-ALT-DESC;FMTTYPE=text/html:<div class="section" id="schedule">\n<h2>Sche
  dule<a class="headerlink" href="#schedule" title="Permalink to this headli
  ne">*</a></h2>\n<table border="1" class="colwidths-given docutils">\n<colg
@@ -601,12 +602,12 @@ SUMMARY:A beer retrospective
 DTSTART:20171102T170000Z
 DTEND:20171102T180000Z
 UID:2017/11/02/a-beer-retrospective/
-DESCRIPTION;ALTREP="http://ropython.ro/2017/11/02/a-beer-retrospective/":<
- p>Just a gathering over beers and/or other tasty stuff to talk about\nPyth
- on and anything interesting.</p>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2017/11/02/a-beer-retrospective/":
+ <p>Just a gathering over beers and/or other tasty stuff to talk about\nPyt
+ hon and anything interesting.</p>\n
 LOCATION:Cardinal Iuliu Hossu 30-32\, Cluj-Napoca\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2017/11/02/a-beer-retrospective/
+URL:https://ropython.ro/2017/11/02/a-beer-retrospective/
 X-ALT-DESC;FMTTYPE=text/html:<p>Just a gathering over beers and/or other t
  asty stuff to talk about\nPython and anything interesting.</p>\n
 END:VEVENT
@@ -615,24 +616,24 @@ SUMMARY:RoPython Meetup #2
 DTSTART:20171031T170000Z
 DTEND:20171031T180000Z
 UID:2017/10/31/ropython-meetup-2/
-DESCRIPTION;ALTREP="http://ropython.ro/2017/10/31/ropython-meetup-2/":<p>T
- he next meetup will take place on the 31st of October.</p>\n<p>Agenda:</p>
- \n<ul>\n<li><p class="first">Gabriel Trautmann presenting techniques for o
- ptimizing Python code in\nthe context of &quot\;Form Recognition Clusterin
- g with Locality Sensitive\nHashing&quot\;.</p>\n</li>\n<li><p class="first
- ">Mihai Balint - Python' async web framework performance gauntlet - 2017 e
- dition</p>\n<p>In this presentation we compare the performance of modern a
- sync web\nframeworks running on python 3.6. The contenders are tested in f
- our\nscenarios designed to emphasize common tasks undertaken by web\nframe
- works: serializing objects to json\, building html from a\ntemplate\, fetc
- hing data from a database and querying third-party http\nendpoints. We mat
- ch the popular against the obscure and the pure\nagainst the compiled in a
- n effort to discover the king of requests per\nsecond.</p>\n</li>\n</ul>\n
- <p>Stay tuned for more details!</p>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2017/10/31/ropython-meetup-2/":<p>
+ The next meetup will take place on the 31st of October.</p>\n<p>Agenda:</p
+ >\n<ul>\n<li><p class="first">Gabriel Trautmann presenting techniques for 
+ optimizing Python code in\nthe context of &quot\;Form Recognition Clusteri
+ ng with Locality Sensitive\nHashing&quot\;.</p>\n</li>\n<li><p class="firs
+ t">Mihai Balint - Python' async web framework performance gauntlet - 2017 
+ edition</p>\n<p>In this presentation we compare the performance of modern 
+ async web\nframeworks running on python 3.6. The contenders are tested in 
+ four\nscenarios designed to emphasize common tasks undertaken by web\nfram
+ eworks: serializing objects to json\, building html from a\ntemplate\, fet
+ ching data from a database and querying third-party http\nendpoints. We ma
+ tch the popular against the obscure and the pure\nagainst the compiled in 
+ an effort to discover the king of requests per\nsecond.</p>\n</li>\n</ul>\
+ n<p>Stay tuned for more details!</p>\n
 LOCATION:10th\, C. Brediceanu St.\, E Building\, Timisoara\, Timisoara\, R
  omania
 PRIORITY:5
-URL:http://ropython.ro/2017/10/31/ropython-meetup-2/
+URL:https://ropython.ro/2017/10/31/ropython-meetup-2/
 X-ALT-DESC;FMTTYPE=text/html:<p>The next meetup will take place on the 31s
  t of October.</p>\n<p>Agenda:</p>\n<ul>\n<li><p class="first">Gabriel Trau
  tmann presenting techniques for optimizing Python code in\nthe context of 
@@ -652,23 +653,23 @@ SUMMARY:Pytest workshop
 DTSTART:20171021T093000Z
 DTEND:20171021T123000Z
 UID:2017/10/21/pytest-workshop/
-DESCRIPTION;ALTREP="http://ropython.ro/2017/10/21/pytest-workshop/":<p>Hel
- lo everyone\,</p>\n<p>We're back in action with a Pytest workshop. It's go
- ing to take about\n2-3 hours and there will be pizza &amp\; drinks provide
- d by Yonder.</p>\n<p>The only requirement is to bring a laptop with Python
-  installed.</p>\n<p>Workshop's content:</p>\n<ul class="simple">\n<li>prep
- aration &amp\; setting up tox/virtualenv/django/pytest</li>\n<li>writing t
- ests for the Django tutorial polls app (just the test part\,\nthe app code
-  will be provided)</li>\n</ul>\n<p>Aim is to cover these pytest topics:</p
- >\n<ul class="simple">\n<li>test discovery</li>\n<li>classes vs function t
- ests</li>\n<li>assertion helpers</li>\n<li>marks\, skipping &amp\; xfailin
- g</li>\n<li>parametrization</li>\n<li>fixtures\, scoping\, finalization</l
- i>\n<li>builtin fixtures overview</li>\n<li>pytest-django plugin</li>\n</u
- l>\n<p>Tutors will be Ionel and highschool-teacher-turned-programmer Gabri
- el Muj.</p>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2017/10/21/pytest-workshop/":<p>He
+ llo everyone\,</p>\n<p>We're back in action with a Pytest workshop. It's g
+ oing to take about\n2-3 hours and there will be pizza &amp\; drinks provid
+ ed by Yonder.</p>\n<p>The only requirement is to bring a laptop with Pytho
+ n installed.</p>\n<p>Workshop's content:</p>\n<ul class="simple">\n<li>pre
+ paration &amp\; setting up tox/virtualenv/django/pytest</li>\n<li>writing 
+ tests for the Django tutorial polls app (just the test part\,\nthe app cod
+ e will be provided)</li>\n</ul>\n<p>Aim is to cover these pytest topics:</
+ p>\n<ul class="simple">\n<li>test discovery</li>\n<li>classes vs function 
+ tests</li>\n<li>assertion helpers</li>\n<li>marks\, skipping &amp\; xfaili
+ ng</li>\n<li>parametrization</li>\n<li>fixtures\, scoping\, finalization</
+ li>\n<li>builtin fixtures overview</li>\n<li>pytest-django plugin</li>\n</
+ ul>\n<p>Tutors will be Ionel and highschool-teacher-turned-programmer Gabr
+ iel Muj.</p>\n
 LOCATION:77\, 21 Decembrie 1989\, The office\, Cluj-Napoca\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2017/10/21/pytest-workshop/
+URL:https://ropython.ro/2017/10/21/pytest-workshop/
 X-ALT-DESC;FMTTYPE=text/html:<p>Hello everyone\,</p>\n<p>We're back in act
  ion with a Pytest workshop. It's going to take about\n2-3 hours and there 
  will be pizza &amp\; drinks provided by Yonder.</p>\n<p>The only requireme
@@ -688,14 +689,14 @@ SUMMARY:A beer retrospective
 DTSTART:20170926T160000Z
 DTEND:20170926T200000Z
 UID:2017/09/26/a-beer-retrospective/
-DESCRIPTION;ALTREP="http://ropython.ro/2017/09/26/a-beer-retrospective/":<
- p>Just a gathering over beers and/or other tasty stuff to talk about\nPyth
- on and anything interesting.</p>\n<p>We'll have one special guest: Gabriel
-  Muj. Will he get drunk enough to\ntell us the sad story of leaving highsc
- hool teaching career for Python\nprogramming? Lets find out!</p>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2017/09/26/a-beer-retrospective/":
+ <p>Just a gathering over beers and/or other tasty stuff to talk about\nPyt
+ hon and anything interesting.</p>\n<p>We'll have one special guest: Gabrie
+ l Muj. Will he get drunk enough to\ntell us the sad story of leaving highs
+ chool teaching career for Python\nprogramming? Lets find out!</p>\n
 LOCATION:Cardinal Iuliu Hossu 30-32\, Cluj-Napoca\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2017/09/26/a-beer-retrospective/
+URL:https://ropython.ro/2017/09/26/a-beer-retrospective/
 X-ALT-DESC;FMTTYPE=text/html:<p>Just a gathering over beers and/or other t
  asty stuff to talk about\nPython and anything interesting.</p>\n<p>We'll h
  ave one special guest: Gabriel Muj. Will he get drunk enough to\ntell us t
@@ -707,25 +708,25 @@ SUMMARY:RoPython September Meetup
 DTSTART:20170919T160000Z
 DTEND:20170919T180000Z
 UID:2017/09/19/ropython-september-meetup/
-DESCRIPTION;ALTREP="http://ropython.ro/2017/09/19/ropython-september-meetu
- p/":<p>Re-lansăm întâlnirile comunității Python din Timișoara!</p>\n
- <p>Vom începe din 19 Septembrie\, după ce ne-am mai întors din concedii
- \,\ncu o întâlnire într-un format ușor diferit față de ce am făcut 
- până\nacuma\, pe lângă prezentarea clasică vom face și un Python Ope
- n Space.</p>\n<p>Agenda:</p>\n<ul class="simple">\n<li>Să facem un joc cu
-  PyGame Zero</li>\n<li>Python Open Space</li>\n</ul>\n<p>Ce presupune un O
- pen Space:</p>\n<ul class="simple">\n<li>Ne întâlnim</li>\n<li>Propunem 
- subiecte de discuție (trebuie să fie măcar tangențial\nlegate de Pytho
- n)</li>\n<li>Votăm pentru subiectele propuse&lt\; p&gt\;</li>\n<li>Alegem
-  top FIXNUM subiecte (poate sparte în 2 trackuri dacă suntem\ndestui)</l
- i>\n<li>Și discutăm 15 minute fiecare topic propus</li>\n</ul>\n<p>Ce e 
- PyGame Zero? E o unealtă educațională\, menită să ajute învățatul\
- nprogramării prin crearea de jocuri. Necesită cunoștiințe minime de\np
- rogramare\, un fișier text gol înseamnă un joc valid cu o fereastră\ng
- oală\, și acum poți să clădești de aici :)</p>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2017/09/19/ropython-september-meet
+ up/":<p>Re-lansăm întâlnirile comunității Python din Timișoara!</p>\
+ n<p>Vom începe din 19 Septembrie\, după ce ne-am mai întors din concedi
+ i\,\ncu o întâlnire într-un format ușor diferit față de ce am făcut
+  până\nacuma\, pe lângă prezentarea clasică vom face și un Python Op
+ en Space.</p>\n<p>Agenda:</p>\n<ul class="simple">\n<li>Să facem un joc c
+ u PyGame Zero</li>\n<li>Python Open Space</li>\n</ul>\n<p>Ce presupune un 
+ Open Space:</p>\n<ul class="simple">\n<li>Ne întâlnim</li>\n<li>Propunem
+  subiecte de discuție (trebuie să fie măcar tangențial\nlegate de Pyth
+ on)</li>\n<li>Votăm pentru subiectele propuse&lt\; p&gt\;</li>\n<li>Alege
+ m top FIXNUM subiecte (poate sparte în 2 trackuri dacă suntem\ndestui)</
+ li>\n<li>Și discutăm 15 minute fiecare topic propus</li>\n</ul>\n<p>Ce e
+  PyGame Zero? E o unealtă educațională\, menită să ajute învățatul
+ \nprogramării prin crearea de jocuri. Necesită cunoștiințe minime de\n
+ programare\, un fișier text gol înseamnă un joc valid cu o fereastră\n
+ goală\, și acum poți să clădești de aici :)</p>\n
 LOCATION:Strada Coriolan Brediceanu\, Nr 10\, Timisoara\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2017/09/19/ropython-september-meetup/
+URL:https://ropython.ro/2017/09/19/ropython-september-meetup/
 X-ALT-DESC;FMTTYPE=text/html:<p>Re-lansăm întâlnirile comunității Pyt
  hon din Timișoara!</p>\n<p>Vom începe din 19 Septembrie\, după ce ne-am
   mai întors din concedii\,\ncu o întâlnire într-un format ușor diferi
@@ -748,27 +749,27 @@ SUMMARY:Asynchronous tasks using Django\, Celery and RabbitMQ
 DTSTART:20170628T150000Z
 DTEND:20170628T171500Z
 UID:2017/06/28/asynchronous-tasks-using-django-celery-and-rabbitmq/
-DESCRIPTION;ALTREP="http://ropython.ro/2017/06/28/asynchronous-tasks-using
- -django-celery-and-rabbitmq/":<p>Celery is an asynchronous task queue base
- d on distributed message\npassing. It is focused on real-time operations\,
-  but supports\nscheduling as well. RabbitMQ\, is a message broker which is
-  used by\nCelery to distribute messages.</p>\n<p>Celery is perfectly suite
- d for tasks which will take some time to\nexecute but we don’t want our 
- requests to be blocked while these tasks\nare processed.\nExample use case
- s: sending emails\, heavy background processing (eg:\nmultimedia encoding)
- \, sending bulk messages\, periodic tasks\, complex\nconcurrent workflows.
- </p>\n<p><strong>Schedule:</strong></p>\n<ul class="simple">\n<li>06:00 - 
- Entry. There will be pizza\, snacks and beer\, courtesy of <a class="refer
- ence external" href="https://www.pentalog.ro/bucuresti">Pentalog Bucharest
- </a>.</li>\n<li>06:20 - Introduction to asynchronous tasks\, Celery (with 
- Django) and RabbitMQ.</li>\n<li>06:40 - The Architecture of a typical setu
- p.</li>\n<li>07:00 - short break</li>\n<li>07:10 - How to implement and co
- nsume asynchronous tasks.</li>\n<li>07:50 - Advanced Tips &amp\; Best prac
- tices with Celery</li>\n<li>08:00 - Closing</li>\n</ul>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2017/06/28/asynchronous-tasks-usin
+ g-django-celery-and-rabbitmq/":<p>Celery is an asynchronous task queue bas
+ ed on distributed message\npassing. It is focused on real-time operations\
+ , but supports\nscheduling as well. RabbitMQ\, is a message broker which i
+ s used by\nCelery to distribute messages.</p>\n<p>Celery is perfectly suit
+ ed for tasks which will take some time to\nexecute but we don’t want our
+  requests to be blocked while these tasks\nare processed.\nExample use cas
+ es: sending emails\, heavy background processing (eg:\nmultimedia encoding
+ )\, sending bulk messages\, periodic tasks\, complex\nconcurrent workflows
+ .</p>\n<p><strong>Schedule:</strong></p>\n<ul class="simple">\n<li>06:00 -
+  Entry. There will be pizza\, snacks and beer\, courtesy of <a class="refe
+ rence external" href="https://www.pentalog.ro/bucuresti">Pentalog Buchares
+ t</a>.</li>\n<li>06:20 - Introduction to asynchronous tasks\, Celery (with
+  Django) and RabbitMQ.</li>\n<li>06:40 - The Architecture of a typical set
+ up.</li>\n<li>07:00 - short break</li>\n<li>07:10 - How to implement and c
+ onsume asynchronous tasks.</li>\n<li>07:50 - Advanced Tips &amp\; Best pra
+ ctices with Celery</li>\n<li>08:00 - Closing</li>\n</ul>\n
 LOCATION:Str. Sevastopol 13-17\, Bucharest\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2017/06/28/asynchronous-tasks-using-django-celery-a
- nd-rabbitmq/
+URL:https://ropython.ro/2017/06/28/asynchronous-tasks-using-django-celery-
+ and-rabbitmq/
 X-ALT-DESC;FMTTYPE=text/html:<p>Celery is an asynchronous task queue based
   on distributed message\npassing. It is focused on real-time operations\, 
  but supports\nscheduling as well. RabbitMQ\, is a message broker which is 
@@ -793,14 +794,14 @@ DTSTART:20170302T163000Z
 DTEND:20170302T183000Z
 UID:2017/03/02/python-development-tools-frameworks-and-trends-2017-open-di
  scussion/
-DESCRIPTION;ALTREP="http://ropython.ro/2017/03/02/python-development-tools
- -frameworks-and-trends-2017-open-discussion/":<p>Intalnirea va avea loc la
-  sediul Pentalog\, cladirea Tudor Center de pe\nstrada Ciurchi\, etaj 5\, 
- usa din stanga.</p>\n<p>Va asteptam!!!</p>\n
+DESCRIPTION;ALTREP="https://ropython.ro/2017/03/02/python-development-tool
+ s-frameworks-and-trends-2017-open-discussion/":<p>Intalnirea va avea loc l
+ a sediul Pentalog\, cladirea Tudor Center de pe\nstrada Ciurchi\, etaj 5\,
+  usa din stanga.</p>\n<p>Va asteptam!!!</p>\n
 LOCATION:Strada Ciurchi\, 126-128\, Iasi\, Romania
 PRIORITY:5
-URL:http://ropython.ro/2017/03/02/python-development-tools-frameworks-and-
- trends-2017-open-discussion/
+URL:https://ropython.ro/2017/03/02/python-development-tools-frameworks-and
+ -trends-2017-open-discussion/
 X-ALT-DESC;FMTTYPE=text/html:<p>Intalnirea va avea loc la sediul Pentalog\
  , cladirea Tudor Center de pe\nstrada Ciurchi\, etaj 5\, usa din stanga.</
  p>\n<p>Va asteptam!!!</p>\n
