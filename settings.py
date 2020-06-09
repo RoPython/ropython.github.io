@@ -12,7 +12,7 @@ from webassets.filter.datauri import CSSDataUri
 AUTHOR = 'Echipa RoPython'
 SITENAME = 'RoPython'
 
-REAL_SITEURL = SITEURL = 'http://ropython.ro'
+REAL_SITEURL = SITEURL = 'https://ropython.ro'
 RELATIVE_URLS = False
 
 DISQUS_SITENAME = '?'
