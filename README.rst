@@ -7,9 +7,9 @@ Agregator de evenimente - ropython.ro
     * - Build
       - |travis|
     * - GiHub Pages
-      - http://ropython.github.io/ropython-site/
+      - https://ropython.github.io/ropython-site/
     * - Web
-      - http://ropython.ro/
+      - https://ropython.ro/
 
 .. |travis| image:: https://travis-ci.org/RoPython/ropython-site.svg?branch=master
     :alt: Travis-CI Build Status
